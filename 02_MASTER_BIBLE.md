@@ -80,7 +80,7 @@ The film's first decisive act belongs to the living. The brothers choose the jou
 
 ## Movement Four - The father as displaced competence
 
-Travel removes Malik from systems he can dominate and restores Bode's practical authority. Nigeria is not introduced as danger. It is introduced as a place where the brothers' Canadian competence is partial.
+The film elides travel and rejoins the family on descent into Calabar. Arrival removes Malik from systems he can dominate and restores Bode's practical authority. Nigeria is not introduced as danger. It is introduced as a place where the brothers' Canadian competence is partial.
 
 ## Movement Five - The father as contradictory person
 
@@ -315,7 +315,6 @@ Meaning evolves:
 
 - Ade offers hands; Malik refuses
 - Bode puts one hand beneath the urn; Malik allows one side
-- Ade helps close the urn's travel case
 - brothers transfer the urn on the land
 - the resonance includes a hand released
 - Kai closes his hand around proof rather than restoring it
@@ -470,23 +469,21 @@ Paper and decision:
 - envelope
 - letter unfolded
 - refrigerator door
-- front lock checked once
-- luggage zips and case latches
+- the final room tone giving way to a seat-belt chime
 
-No ominous score is needed.
+The chime is a temporal cut, not an omen. No packing or travel montage is needed.
 
 ## Sequence IV
 
 Displacement:
 
-- terminal announcements
-- claim tags
-- aircraft cabin
+- aircraft descent
+- wheels striking runway
 - traffic
 - trolley wheels
-- names called across distance
+- names called across the arrivals forecourt
 
-The sound field grows less controllable while remaining ordinary.
+The sound field expands immediately on arrival while remaining ordinary.
 
 ## Sequence V
 

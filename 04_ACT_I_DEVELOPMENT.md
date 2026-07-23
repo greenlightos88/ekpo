@@ -239,11 +239,13 @@ Slugline: `INT. MOUNTAIN VIEW CEMETERY - RECEPTION ROOM - LATER`
 
 Movement:
 
-1. Contradictory public memories of Solomon fill the room.
+1. Contradictory public memories of Solomon register in one compressed movement.
 2. Kai finds the scratched photograph.
 3. Ade verifies the damage was intentional.
 4. Bode identifies the woman emotionally, not by name.
 5. Bode announces the will meeting.
+
+Pacing rule: Enter on the food and overlapping claims, find the photograph immediately, and leave. The reception is a hinge, not a second funeral.
 
 ### Scene 4 - Transfer to car
 
@@ -319,7 +321,7 @@ The brothers learn:
 
 - Bode knew a version of Solomon that was less controlled
 - the scratched woman was loved and harmed
-- she is connected to the Calabar house
+- the scratched woman and the brass carving are connected to the Calabar house
 - a will meeting is imminent
 
 They do not learn:
@@ -410,23 +412,14 @@ Sluglines:
 Movement:
 
 1. Kai connects house, photograph, carving, and silence through observable evidence.
-2. Bode confirms the woman is dead family but withholds her name.
+2. Bode confirms the woman was his and Solomon's sister and is dead, but stops before explaining her death.
 3. Malik votes no in substance.
 4. Bode refuses to decide.
 5. Ade identifies Solomon's arrangement.
 6. Ade votes yes to preserve the brotherhood.
 7. Kai votes yes.
 8. Malik chooses to go together and stay together.
-
-### Scene 7 - Packing montage
-
-Movement:
-
-1. Malik checks others' documents first.
-2. Ade packs and restarts.
-3. Kai protects photograph and carving as evidence.
-4. Bode declines to carry one of Solomon's old shirts.
-5. Malik lets Ade help secure the urn.
+9. A seat-belt chime carries the decision directly into descent over Calabar.
 
 ## Character matrix
 
@@ -436,7 +429,7 @@ Objective: Prevent Solomon from controlling the family after death.
 
 Avoidance: A journey where his competence may fail and his father's history may worsen.
 
-Behavior: Interrogates legal language, demands Bode decide, converts decision into logistics.
+Behavior: Tests the only legal condition, demands Bode decide, and makes staying together his condition for travel.
 
 Pressure: The gift is voluntary; he cannot frame refusal as protection from legal harm.
 
@@ -464,13 +457,13 @@ Objective: Follow the concealed human pattern to its source.
 
 Avoidance: Accepting Bode's boundaries around information.
 
-Behavior: Compares carving to photograph, names repeated refusal, packs evidence.
+Behavior: Compares carving to photograph and names the family's repeated refusal.
 
 Pressure: Malik dismisses pattern as estate administration.
 
 Turn: States he will not inherit silence as explanation.
 
-Residue: Evidence travels with him and later guides the breach.
+Residue: The screenplay later reveals that the evidence travelled with him; no packing scene is required.
 
 ### Bode
 
@@ -478,7 +471,7 @@ Objective: Preserve the brothers' agency.
 
 Avoidance: Repeating Solomon's controlling form of protection.
 
-Behavior: Clarifies what he knows, refuses a deciding vote, supports Kai bringing objects.
+Behavior: Confirms the sister's relationship, limits what he will say about her death, and refuses a deciding vote.
 
 Pressure: Malik demands certainty.
 
@@ -493,8 +486,8 @@ The brothers learn:
 - the Calabar property belongs to all three jointly if accepted
 - refusal carries no debt or punishment
 - the river boundary is Solomon's requested destination
-- the scratched woman is dead family
-- Bode knows her name
+- the scratched woman was Solomon and Bode's sister
+- she is dead
 
 They do not learn:
 
@@ -511,7 +504,7 @@ Frame the family around the table without making the composition perfectly symme
 
 ### Sound
 
-Paper, a refrigerator opening, the front lock checked once, case latches during packing.
+Paper and a refrigerator opening. On Malik's condition that they stay together, the room gives way to a seat-belt chime and the pilot's landing call.
 
 ### Performance
 
@@ -519,11 +512,11 @@ Maya's humanity comes from what she declines to dramatize. Ade's vote must lose 
 
 ### Unforgettable image
 
-Three brothers' passports aligned beside one letter after a decision the letter could not force.
+Solomon's urn waits on the sideboard while his sons decide whether to carry him to a river none of them knows.
 
 ### Exit pressure
 
-The emotional choice acquires tickets, documents, luggage, and a departure date.
+The emotional choice cuts directly to consequence: Calabar rises beneath the aircraft.
 
 ## Integrity verdict
 
@@ -539,44 +532,33 @@ Could this belong to another film? No. The choice grows from the specific erased
 
 ---
 
-# Sequence IV - Departure and Arrival
+# Sequence IV - Arrival
 
 ## Purpose
 
-Cross geography without inventing jeopardy. Transfer practical authority from Malik to Bode.
+Cross geography without spending pages on logistics. Rejoin the family at the instant Canada gives way to Calabar, then transfer practical authority from Malik to Bode.
 
 ## Chronology and geography
 
-Four days later:
+Several days later, with all intermediate travel elided:
 
-- Vancouver International Airport
-- international flight
-- Lagos arrival and transfer
-- domestic flight
+- domestic flight descending into Calabar
 - Margaret Ekpo International Airport, Calabar
 - road toward Oku family land
 
-Travel is compressed. Intermediate international connection details are not dramatized.
+The cut assumes the ordinary work of passports, packing, international transit, and lawful carriage of the urn. None of it deserves dramatic space unless it changes a relationship.
 
 ## Scene list
 
-### Scene 8 - Vancouver departure
+### Scene 7 - Descent
 
-Malik manages documents and keeps the single urn in a padded cabin case.
+The seat-belt chime begins over the decision in Vancouver. On the cut, green and water gather beneath the wing. The same urn is visible beneath Malik's seat. Wheels strike the Calabar runway.
 
-### Scene 9 - Flight
+### Scene 8 - Calabar arrival
 
-Malik writes "FAMILY" as purpose of visit. Lagos scale enters at dawn.
+A porter begins handling Ade's bag. Malik reacts. Bode resolves the interaction through calm elder authority. No bag is lost and the exchange lasts seconds.
 
-### Scene 10 - Lagos transfer
-
-Bode takes the lead. Malik closes his document case and follows.
-
-### Scene 11 - Calabar arrival
-
-A porter begins handling Ade's bag. Malik reacts. Bode resolves the interaction through calm elder authority. No bag is lost.
-
-### Scene 12 - Road home
+### Scene 9 - Road home
 
 Bode reveals Solomon raced bicycles on the road and had a childhood before Canada. The vehicle leaves asphalt for red earth.
 
@@ -584,11 +566,11 @@ Bode reveals Solomon raced bicycles on the road and had a childhood before Canad
 
 ### Malik
 
-Objective: Move four people, one urn, and all documents without error.
+Objective: Regain control as soon as the family leaves the aircraft.
 
 Avoidance: Reliance on Bode.
 
-Turn: Closes the document case and follows.
+Turn: Bode resolves the bag interaction before Malik can turn uncertainty into conflict; Malik follows.
 
 Residue: His authority is now contextual rather than absolute.
 
@@ -596,19 +578,19 @@ Residue: His authority is now contextual rather than absolute.
 
 Objective: Reduce travel pressure without making Nigeria or grief the joke.
 
-Turn: His humor lands as shared family rhythm with Bode.
+Turn: His humor turns Calabar heat and Solomon's unknown childhood into shared family rhythm.
 
 ### Kai
 
 Objective: Record the new environment without turning it into spectacle.
 
-Turn: Lowers the camera over Lagos and looks directly.
+Turn: Films ordinary life from the road rather than searching for an omen.
 
 ### Bode
 
 Objective: Bring the family through systems he understands.
 
-Turn: His body and cadence loosen in Nigeria; guidance becomes concrete.
+Turn: His guidance becomes concrete the moment the terminal doors open.
 
 ## Cultural behavior
 
@@ -621,11 +603,11 @@ Turn: His body and cadence loosen in Nigeria; guidance becomes concrete.
 
 ### Camera
 
-Compress with decisive transitions rather than a travel montage of postcard imagery. In Nigeria, give frames human density and legible work.
+Use one decisive sound cut instead of a travel montage. The first geographic image is the Calabar approach, followed immediately by human density and legible work.
 
 ### Sound
 
-Announcements give way to names called across physical space. Heat has no sound effect; show its pressure on bodies.
+Seat-belt chime, pilot landing call, wheels striking runway, then names and traffic across physical space. Heat has no sound effect; show its pressure on bodies.
 
 ### Unforgettable image
 
@@ -981,13 +963,13 @@ Could this belong to another film? No. The scene unites Oku bloodline maintenanc
 
 | Motif | I | II | III | IV | V | VI |
 |---|---|---|---|---|---|---|
-| Hands/weight | Ade refused | Bode receives one side | Ade helps secure urn | Bode takes practical lead | Eno's touch/feeding | Brothers transfer urn; Kai closes hand |
-| Brass | urn/carving | urn/photo object | objects connected | urn travels | urn enters family house | carving maps shrine; talisman removed |
+| Hands/weight | Ade refused | Bode receives one side | brotherhood chosen | Bode takes practical lead | Eno's touch/feeding | Brothers transfer urn; Kai closes hand |
+| Brass | urn/carving | urn/photo object | objects connected | urn is already present on descent | urn enters family house | carving maps shrine; talisman removed |
 | Missing space | dust outline | scratched face | withheld name | displaced competence | omitted sister | missing marker interval/empty recess |
-| Camera | evidence tool | unused at ceremony | objects packed | lowered over Lagos | ordinary family observation | marker mapping |
-| Food | mustard | reception | mustard returns | travel hunger implied | family abundance | breakfast fuels walk |
-| Time | faulty clock | lateness memory | no artificial deadline | compressed transit | tomorrow as real promise | before dark |
-| Water | absent destination | rain | river named | coast crossed | river planned | path moves toward river; water in resonance |
+| Camera | evidence tool | unused at ceremony | objects connected | ordinary road observation | ordinary family observation | marker mapping |
+| Food | mustard | compressed reception | mustard returns | none | family abundance | breakfast fuels walk |
+| Time | faulty clock | lateness memory | no artificial deadline; hard sound cut | transit elided | tomorrow as real promise | before dark |
+| Water | absent destination | rain | river named | water beneath wing | river planned | path moves toward river; water in resonance |
 | Red thread | absent | absent | absent | absent | absent | functional seal; breaks |
 | Spider | absent | absent | absent | absent | absent | first emergence after trigger |
 
@@ -1004,7 +986,7 @@ Could this belong to another film? No. The scene unites Oku bloodline maintenanc
 7. One brass urn throughout: YES
 8. No casket/columbarium/retrieval machinery: YES
 9. Will simple and voluntary: YES
-10. Departure compressed: YES
+10. Packing and intermediate travel fully elided: YES
 11. No pre-shrine supernatural event: YES
 12. Kai acts intentionally: YES
 13. First spider and deep beat occur after breach: YES

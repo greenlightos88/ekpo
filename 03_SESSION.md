@@ -13,7 +13,7 @@ The act now contains six sequences:
 1. The Last Morning
 2. The Funeral
 3. The Will and Decision
-4. Departure and Arrival
+4. Arrival
 5. Homecoming
 6. The Land and the Shrine
 
@@ -26,6 +26,25 @@ The screenplay ends at the first active supernatural event:
 - one deep beat moves through the land
 - Kai keeps the talisman as proof
 - the first black spider emerges from the regulator
+
+## Pacing revision
+
+The Vancouver-to-Calabar runway was tightened after the first complete Act I pass.
+
+Changes:
+
+- funeral reception reduced to its essential dramatic turn: scratched photograph, Bode's boundary, will meeting
+- legal explanation reduced to one joint gift, one right of refusal, and one personal request
+- family argument reduced to the positions that change the decision
+- Bode now confirms the scratched woman was his and Solomon's sister without explaining her death
+- packing montage removed
+- Vancouver airport, international cabin, Lagos arrival, and transfer scenes removed
+- Malik's agreement now sound-cuts through a seat-belt chime and pilot call directly to descent into Calabar
+- the urn is confirmed beneath Malik's seat on arrival, preserving continuity without dramatizing logistics
+
+Estimated screenplay length changed from approximately 38 pages to approximately 31 pages, using the same Fountain line-density estimate. The revision removes roughly seven pages without deleting a required character turn, causal fact, or Act I motif.
+
+Integrity result: improvement. The cut makes the decision consequential, trusts the audience with ordinary travel, and reaches the culturally specific Calabar material earlier. It does not alter supernatural causality or weaken the brothers' voluntary choice.
 
 ## Governing correction applied
 
@@ -63,6 +82,10 @@ No impossible object behavior or active Entity event remains before the shrine.
 - child recognition at airport
 - pre-shrine spider, drum, voice, or pursuit
 - Adeyemi surname
+- packing montage
+- Vancouver airport check-in
+- long-haul cabin business
+- Lagos arrival and transfer scenes
 
 ## Strong material retained or rebuilt
 
@@ -105,15 +128,15 @@ No impossible object behavior or active Entity event remains before the shrine.
 - Bode refusing to decide for the sons
 - Ade choosing the journey to prevent a divided brotherhood
 - "He arranged the room before he left it"
-- short packing movement
-- same urn prepared for travel
+- direct seat-belt-chime sound bridge from decision to Calabar descent
+- the same urn already beneath Malik's seat on arrival
 
 ### Sequence IV
 
-- compressed travel
+- all intermediate travel elided
+- direct descent into Calabar
 - Bode's practical authority increasing with geography
 - one short, non-menacing bag interaction
-- Lagos scale
 - Calabar heat and sound
 - "Your father had a childhood"
 - "He had legs too"

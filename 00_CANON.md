@@ -357,24 +357,25 @@ Outcome:
 - Solomon's letter says, "I need you to take me home. All three"
 - Malik resists another posthumous arrangement
 - Kai identifies a human pattern of concealed history
+- Bode confirms the scratched woman was his and Solomon's sister, but does not explain her death
 - Bode refuses to decide for them
 - Ade chooses the journey to prevent the brotherhood splitting
 - Malik agrees to go together and stay together
-- Packing converts the emotional choice into action
+- An aircraft cabin chime cuts directly from the decision to descent into Calabar
 
-Unforgettable image: Four passports and one letter on the table after the living choose the journey.
+Unforgettable image: Solomon's urn waits on the sideboard while his sons choose whether to carry him to a river none of them knows.
 
-Sound: Paper, refrigerator, front-door lock. No score-driven omen.
+Sound: Paper and refrigerator; then a seat-belt chime bridges the decision directly into the flight's descent. No score-driven omen.
 
-## Sequence IV - Departure and Arrival
+## Sequence IV - Arrival
 
-Purpose: Cross the physical threshold and transfer practical authority from Malik to Bode.
+Purpose: Cross the physical threshold without spending pages on logistics, then transfer practical authority from Malik to Bode.
 
 Outcome:
 
 - The single brass urn remains with the family
-- Travel is compressed
-- Lagos scale exceeds the brothers' frames of reference
+- International travel is elided
+- The film rejoins the family on descent into Calabar
 - Bode's competence increases as Malik's control becomes less useful
 - A brief bag interaction is resolved through elder authority, not menace
 - Bode humanizes Solomon through the road where he raced bicycles
@@ -382,7 +383,7 @@ Outcome:
 
 Unforgettable image: Vancouver cut into the brothers' clothing while Calabar heat finds them immediately.
 
-Sound: Terminal overlap, traffic, trolley wheels, names called across distance.
+Sound: Cabin chime, wheels striking runway, traffic, trolley wheels, names called across distance.
 
 ## Sequence V - Homecoming
 
