@@ -13,6 +13,10 @@
 - The brass carving connected to a damaged Calabar photograph dated 1989.
 - The scratched-face mystery and the line "Someone your father loved badly" incorporated.
 - Solomon's lawyer established for the following morning.
+- The scratched woman approved as provisional working canon.
+- Her hidden identity established as Solomon and Bode's younger sister and the former keeper of the balance shrine.
+- Her later Calabar appearance established as a damaged guardian rather than the villain.
+- The rescue of Kai established as the brothers' opportunity to correct Solomon's abandonment of his sister.
 - Canon and Master Bible synchronized with the screenplay.
 
 ## Current Status
@@ -39,4 +43,6 @@ Once approved, begin Sequence IV — The Will.
 - Keep the house's supernatural activity ambiguous and rooted in behavioural or visual disruption.
 - Kai remains the first observer of camera-mediated anomalies.
 - Do not promote the Sequence III continuation from draft to locked canon without user approval.
+- Keep the scratched woman's identity hidden throughout Act I.
+- Treat the scratched-woman solution as provisional canon and revise it if it stops serving character, structure or mythology.
 - Sequence IV must convert Solomon's inheritance from family mystery into the practical obligation that sends the brothers toward Calabar.

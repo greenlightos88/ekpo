@@ -1,5 +1,5 @@
 # EKPO CANON
-Version: 1.2
+Version: 1.3
 
 ## Project Status
 
@@ -112,6 +112,39 @@ She recognizes the meaning of what is missing.
 
 ---
 
+# Scratched Woman
+
+Status:
+Provisional working canon. Approved for development, but reversible if later story work reveals that it does not serve the film.
+
+Audience-facing identity:
+Unknown during the Vancouver sequences.
+
+Working true identity:
+Solomon and Bode's younger sister.
+
+Working mythology:
+- She was the original keeper of the balance shrine.
+- In 1989, a containment crisis forced the family to choose who would remain bound to the land.
+- Solomon abandoned her and later escaped to Canada.
+- She survived, but remained spiritually bound to the shrine and its surrounding land.
+- Bode helped preserve the silence around what happened.
+- Eno witnessed the cost and refuses to let Solomon's sons inherit only the edited version.
+
+Photograph rule:
+Solomon scratched away her face because an image can give the Entity a path to the person represented. The damage also expresses his guilt and his attempt to erase what he abandoned.
+
+Later manifestation:
+She becomes the elderly woman the brothers encounter in Calabar. She is a warning presence and damaged guardian, not the villain.
+
+Thematic payoff:
+Solomon abandoned his sister when love demanded sacrifice. Malik and Ade must later refuse to repeat that choice when Kai is taken.
+
+Name:
+To be chosen after Efik-language and cultural verification.
+
+---
+
 # Entity
 
 The Entity weaponizes attachment.
@@ -183,6 +216,9 @@ Draft continuation awaiting lock:
 - Bode distinguishes Solomon's house from the inheritance awaiting them.
 - The batteryless camcorder records one second before going dark.
 - Kai says "Nothing," but Malik and Bode no longer let the word pass.
+
+Provisional hidden meaning:
+The scratched woman is Solomon and Bode's younger sister, the former keeper of the balance shrine. Her identity must remain unrevealed in Act I.
 
 Current draft writing position:
 Sequence III ends on CUT TO BLACK after the powerless camcorder records one second.

@@ -183,3 +183,43 @@ Sequence III ends on CUT TO BLACK.
 
 Next:
 Review and lock the continuation, then begin Sequence IV — The Will.
+
+---
+
+## Provisional Mythology — The Scratched Woman
+
+Status:
+Approved as working canon. Retain while it strengthens the screenplay; revise without hesitation if later structural work exposes a better solution.
+
+True identity:
+Solomon and Bode's younger sister. Her name remains undecided pending Efik-language and cultural verification.
+
+Family role:
+She was the original keeper of the balance shrine and the person left carrying the family's spiritual obligation after the 1989 containment crisis.
+
+1989 event:
+- Solomon, Bode, Eno and the woman were present at the family house outside Calabar.
+- The containment crisis required one member of the lineage to remain bound to the shrine and the land.
+- Solomon abandoned his sister rather than remain or share the cost.
+- Solomon's departure for Canada became both migration and escape.
+- Bode participated in the silence that followed.
+- Eno remembers the human cost more clearly than the family's preferred mythology.
+
+Meaning of Eno's line:
+"Someone your father loved badly" means Solomon genuinely loved his sister but failed her at the precise moment love required sacrifice.
+
+Photographic rule:
+Images are not neutral within the mythology. A preserved face can become a route through which the Entity locates, imitates or reaches a person. Solomon physically scratched his sister from the photograph to interrupt that route. The violence of the erasure also externalizes his guilt.
+
+Calabar function:
+The scratched woman survives into the present as the elderly woman seen around the market, road and family land. She should initially read as unsettling or possibly hostile, then gradually resolve into a damaged guardian attempting to warn the brothers.
+
+Structural function:
+- Converts Solomon's migration into a morally complicated escape.
+- Gives Bode and Eno different relationships to the same family failure.
+- Connects the scratched photograph, Kai's camera and the Entity's image-based manifestations.
+- Makes the third-act rescue of Kai a direct generational correction.
+- Forces Malik and Ade to choose differently from Solomon by refusing to abandon their sibling.
+
+Disclosure rule:
+Do not identify her during Act I. Allow the audience to misread her presence in early Calabar sequences. Reveal the sibling relationship only when it intensifies the brothers' fear that their father transferred an unpaid obligation to them.
