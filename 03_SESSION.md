@@ -42,6 +42,10 @@
 - Lagos travel pressure establishes Bode's practical competence and the brothers' growing dependence.
 - Kai's pattern recognition receives practical baggage-claim payoffs.
 - Nigerian Pidgin enters through ordinary negotiation rather than menace or exposition.
+- EKPO retained as the working title, with final title lock deferred pending cultural verification.
+- EKPO defined provisionally as the Oku family's ancestral inheritance, not the spider-associated Entity.
+- The Entity established as a distinct force the lineage was responsible for containing.
+- A cultural verification gate added to distinguish Ekpo from Ekpe and validate the title's use in the film's Efik-Calabar setting.
 - The threshold image established as the fogged lens revealing "OKU — FOUR."
 
 ## Current Status
@@ -95,3 +99,9 @@ Once approved, begin the drive from Margaret Ekpo International Airport toward t
 - End Sequence VI on a new threshold image that suggests anticipation without confirming pursuit.
 - Treat the birch travel-urn solution as provisional until Sequence VI is approved.
 - Preserve Cousin Eyo as the keeper of the Calabar house unless later cultural review reveals a stronger name or relationship.
+- Preserve EKPO as the working title, not a locked final title.
+- Do not call the spider-associated Entity "Ekpo."
+- Treat EKPO as the ancestral inheritance framework: the dead, the lineage, memory, authority and inherited obligation.
+- Keep the shrine, Ekpo, Ekpe and the Entity conceptually distinct unless cultural verification supports a more precise relationship.
+- Before final title and mythology lock, obtain Efik-Calabar cultural review and Ibibio-informed review wherever the terminology crosses traditions.
+- If verification contradicts the intended usage, revise the mythology or retitle the film rather than forcing the term.

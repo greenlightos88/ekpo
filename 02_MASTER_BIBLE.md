@@ -6,6 +6,35 @@ EKPO is prestige cinema rooted in Efik spirituality, migration, grief and inheri
 
 ---
 
+## Working Title and Mythology Meaning
+
+Working title:
+EKPO
+
+Development decision:
+Continue under EKPO, but defer final title lock until cultural verification is complete.
+
+Intended dramatic meaning:
+EKPO names the ancestral inheritance of the Oku family: the dead, lineage, inherited authority, memory and obligation. It does not name the spider-associated Entity.
+
+Mythological architecture:
+- The ancestors and the inheritance system form the thematic domain named by EKPO.
+- The spider-associated Entity is a separate contained adversarial force.
+- The Oku lineage inherited responsibility for maintaining the boundary that contains that force.
+- The shrine regulates balance; it is not automatically synonymous with Ekpo, Ekpe or the Entity.
+- The film must dramatize this distinction before the mythology is fully revealed.
+
+Cultural integrity gate:
+Before final title lock, obtain review from an Efik cultural authority from Calabar and an Ibibio-informed authority wherever the terminology crosses traditions. Confirm the meaning and pronunciation of "Ekpo," its distinction from "Ekpe," the accuracy of its ancestral usage in an Efik-Calabar story, and whether any sacred or restricted associations require revision.
+
+Failure condition:
+If the intended usage cannot be supported, either rebuild the mythology around a culturally accurate meaning or retitle the film. A culturally unsupported title cannot remain merely because it is evocative.
+
+Production-language note:
+The official airport name does not determine the film title. Screenplay references may use "Calabar Airport" for immediate clarity.
+
+---
+
 ## Theme
 
 Inheritance.

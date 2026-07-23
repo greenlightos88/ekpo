@@ -1,5 +1,5 @@
 # EKPO CANON
-Version: 1.8
+Version: 1.9
 
 ## Project Status
 
@@ -27,6 +27,39 @@ The supernatural is the language.
 Family is the subject.
 Grief is the doorway.
 Inheritance is the engine.
+
+---
+
+# Title and Mythology Integrity
+
+Working title:
+EKPO
+
+Status:
+Approved for continued development. Not yet locked as the final release title.
+
+Canonical meaning:
+EKPO names the ancestral inheritance surrounding the Oku family: the dead, the lineage, the authority of memory and the obligation passed between generations. It does not name the spider-associated Entity.
+
+Mythological separation:
+- EKPO belongs to the film's ancestral and inheritance framework.
+- The Entity is a distinct adversarial force once contained by the Oku lineage.
+- The screenplay must not casually conflate Ekpo with Ekpe, a masquerade institution, a secret society or a generic word for supernatural evil.
+- The title must be earned through story, behaviour and mythology rather than explained in a single exposition scene.
+
+Cultural verification gate:
+Before the final title or mythology is locked, consult an Efik cultural authority from Calabar and, where the usage crosses traditions, an Ibibio-informed authority. Verify:
+- the intended meaning and pronunciation of "Ekpo";
+- the distinction between Ekpo and Ekpe;
+- whether the proposed ancestral usage is accurate within the film's specific Efik-Calabar setting;
+- whether any sacred, restricted or community-specific associations require changes;
+- the language used for the shrine, its keeper and the Entity.
+
+Revision trigger:
+If cultural verification does not support the intended meaning, revise the mythology or change the title before production lock.
+
+Airport note:
+Margaret Ekpo International Airport does not determine or weaken the film title. In scene description and dialogue, use "Calabar Airport" when clarity matters.
 
 ---
 
@@ -153,6 +186,7 @@ The Entity weaponizes attachment.
 It studies grief.
 It attacks coping mechanisms.
 Its earliest presence is expressed through ambiguous pattern disruption, sound and images visible only through Kai's camera.
+It is not called Ekpo. It is the force the Oku lineage was charged with containing, not the ancestral inheritance named by the title.
 
 ---
 
