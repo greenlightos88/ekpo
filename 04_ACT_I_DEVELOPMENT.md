@@ -1,6 +1,6 @@
 # EKPO ACT I - CHARACTER MATRIX, SCENE BIBLE, AND DIRECTOR'S NOTEBOOK
 
-Version: Precision Draft
+Version: Prestige Draft
 
 ## Function
 
@@ -42,7 +42,7 @@ Kai has:
 - broken the red-thread seal
 - removed the talisman
 - experienced inherited resonance
-- kept the talisman as proof
+- raised the talisman toward restoration, then chosen not to replace it
 
 The regulator is open. The bloodline has been recognized. The first black spider has emerged.
 
@@ -643,7 +643,7 @@ Late afternoon through next morning, Oku family compound outside Calabar.
 
 ## Scene list
 
-### Scene 13 - Compound arrival
+### Scene 10 - Compound arrival
 
 Movement:
 
@@ -655,7 +655,15 @@ Movement:
 6. She recognizes Kai's looking without mystifying it.
 7. She acknowledges Solomon at the urn.
 
-### Scene 14 - Family dinner
+### Scene 11 - Front room
+
+Movement:
+
+1. Solomon's urn enters a contemporary, occupied family house.
+2. Malik tests the table before setting it down.
+3. Eno punctures his control without humiliating him.
+
+### Scene 12 - Family dinner
 
 Movement:
 
@@ -667,7 +675,7 @@ Movement:
 6. Malik asks what happened.
 7. Eno redirects to the land walk without false ominousness.
 
-### Scene 15 - Brothers' room
+### Scene 13 - Brothers' room
 
 Movement:
 
@@ -675,7 +683,7 @@ Movement:
 2. Kai notes the sister's continued omission.
 3. Malik promises "tomorrow" as a real time, not a permanent deferral.
 
-### Scene 16 - Breakfast
+### Scene 14 - Breakfast
 
 Movement:
 
@@ -795,15 +803,15 @@ The urn remains with Malik, Ade, and Bode when Kai leaves the path.
 
 ## Scene list
 
-### Scene 17 - Departure from compound
+### Scene 15 - Departure from compound
 
 Malik and Ade carry the urn together. Eno sends everybody back before dark.
 
-### Scene 18 - Family land
+### Scene 16 - Family land
 
-Bode maps lived boundaries against legal title. Kai finds the carving geometry in the stones. Solomon's planted tree proves a human past.
+Bode maps lived boundaries against legal title. Kai recognizes the carving's imperfect family mark on a boundary stone and asks whether it belonged to the erased sister. Bode tells him to put it away. Solomon's planted tree proves a human past.
 
-### Scene 19 - Old palm track
+### Scene 17 - Old palm track
 
 Bode warns the brothers:
 
@@ -814,20 +822,20 @@ Bode warns the brothers:
 
 The warning is practical and inherited, not occult theater.
 
-### Scene 20 - Boundary inconsistency
+### Scene 18 - Boundary inconsistency
 
-Kai counts markers, identifies the doubled interval, and sees an older line of stones beneath the current boundary.
+A fallen limb has exposed one older marked stone on the wrong side of the path. Kai steps off to photograph the object Bode did not identify.
 
-### Scene 21 - Ravine
+### Scene 19 - Ravine
 
-Kai follows the old line, protects his camera in the fall, and finds the shrine.
+The slope gives way after two steps. Kai protects his camera in the fall and discovers that the exposed stone is the upper corner of the shrine.
 
-### Scene 22 - Shrine breach
+### Scene 20 - Shrine breach
 
 Movement:
 
 1. Stone and tree are revealed as one regulatory structure.
-2. Kai aligns carving geometry with shrine geometry.
+2. Imperfect cuts link the carving and shrine through human workmanship, not an exact geometric key.
 3. He identifies the maintained but neglected red-thread seal.
 4. He finds the intentional opening in the knot.
 5. He works it.
@@ -836,10 +844,12 @@ Movement:
 8. He photographs it.
 9. He removes it intentionally.
 10. Natural sound stops.
-11. Inherited resonance arrives.
+11. Tactile inherited fragments arrive without explaining identities or chronology.
 12. The land produces one deep beat.
-13. Kai keeps the talisman as proof.
-14. The first spider emerges and inspects the break.
+13. Kai raises the talisman toward its recess.
+14. Malik calls again.
+15. Kai closes his hand and keeps the talisman without explaining himself.
+16. The first spider crosses the thread and stops on the broken loop.
 
 ## Character matrix
 
@@ -863,17 +873,17 @@ Residue: He will have to decide how to respond when Kai's mistake becomes danger
 
 ### Kai
 
-Objective: Resolve the incomplete boundary pattern.
+Objective: Find the human source of a family mark and the omitted sister's connection to it.
 
-Avoidance: Leaving an observable connection unexplained.
+Avoidance: Accepting Bode's refusal as the final answer.
 
-Behavior: Counts, photographs, compares, follows, tests, opens, removes, keeps.
+Behavior: Compares, asks, photographs, steps off, opens, removes, nearly restores, keeps.
 
-Pressure: Bode's warning and the visible opportunity to turn back.
+Pressure: Bode's warning, the fall, the visible opportunity to climb away, and Malik calling from above.
 
-Turn: Chooses proof over restoration by keeping the talisman.
+Turn: Holds the talisman within an inch of restoration, then closes his hand.
 
-Residue: Shame, responsibility, resonance, and the Entity's recognition.
+Residue: Responsibility, unexplained sensory memory, and the Entity's recognition. Shame must emerge from what Kai does next, not be supplied in advance.
 
 ### Bode
 
@@ -891,8 +901,8 @@ Residue: Bode must decide whether truth or procedure comes first.
 
 ## Hidden mythology
 
-- boundary-stone geometry describes the regulator
-- the carving is a portable representation of the same system
+- the imperfect three-cut mark belongs to the human maintenance system
+- the carving is a portable representation, not a map or key
 - repeated red-thread repair shows active maintenance across generations
 - neglect, not a single villain, allowed the seal to become brittle
 - bloodline contact makes the breach legible to the Entity
@@ -902,16 +912,12 @@ Residue: Bode must decide whether truth or procedure comes first.
 
 The resonance must remain fragmentary:
 
-- sister's hand and red thread
-- river trauma
-- transferred brass responsibility
-- fire and rain
-- sister's death without full explanation
-- Solomon's fear of what he abandoned
-- generations ceasing maintenance
-- pressure toward restored balance
+- an older palm beneath Kai's
+- red thread cutting across both hands
+- river water at chest height
+- brass striking stone beneath water
 
-Solomon is never shown alive.
+No face, name, death, maintenance history, guilt, or causal chronology is supplied. Solomon is never shown alive. The images acquire meaning only when later dramatic action earns it.
 
 ## Director's notebook
 
@@ -919,7 +925,7 @@ Solomon is never shown alive.
 
 The path should be spatially legible before Kai leaves it. The audience must understand he makes a choice and can turn back.
 
-The old marker line is discovered through real optics. No camera anomaly.
+The off-path stone is exposed by a fallen limb and discovered through real optics. No camera anomaly, rotating-marker map, or supernatural lure.
 
 The shrine reveal should be slow enough to read construction: masonry, roots, repeated repairs, recess, thread.
 
@@ -933,7 +939,7 @@ Brass shifts from warm household material to cold functional component at contac
 
 Build a dense natural field before removing it completely. The silence must be the first undeniable impossibility in the film.
 
-The deep beat is felt in root, teeth, and camera body. It is not score announcing a villain.
+The deep beat is felt in root and teeth. It is not score announcing a villain.
 
 ### Performance
 
@@ -943,7 +949,8 @@ Kai must show the difference between:
 - hesitation
 - choice
 - shock
-- the second choice to keep proof
+- the near-restoration
+- the second choice to keep what he removed
 
 The audience should be able to blame and understand him simultaneously.
 
@@ -967,7 +974,7 @@ Supernatural phase: pass - first impossibility follows removal of talisman
 
 Cultural integrity: working pass; the shrine's final design, maintenance practice, spider-deity terminology, and red-thread usage require specialist review
 
-Could this belong to another film? No. The scene unites Oku bloodline maintenance, Solomon's erased sister, Kai's evidence hunger, boundary geometry, and the balance-correcting Entity.
+Could this belong to another film? No. The scene unites Oku bloodline maintenance, Solomon's erased sister, Kai's refusal of family silence, an imperfect family mark, and the balance-correcting Entity.
 
 ---
 
@@ -976,9 +983,9 @@ Could this belong to another film? No. The scene unites Oku bloodline maintenanc
 | Motif | I | II | III | IV | V | VI |
 |---|---|---|---|---|---|---|
 | Hands/weight | Ade refused | Bode receives one side | brotherhood chosen | Bode takes practical lead | Eno's touch/feeding | Brothers transfer urn; Kai closes hand |
-| Brass | urn/carving | urn/photo object | objects connected | urn is already present on descent | urn enters family house | carving maps shrine; talisman removed |
-| Missing space | dust outline | scratched face | withheld name | displaced competence | omitted sister | missing marker interval/empty recess |
-| Camera | evidence tool | unused at ceremony | objects connected | ordinary road observation | ordinary family observation | marker mapping |
+| Brass | urn/carving | urn/photo object | objects connected | urn is already present on descent | urn enters family house | carving shares human workmanship with shrine; talisman removed |
+| Missing space | dust outline | scratched face | withheld name | displaced competence | omitted sister | off-path stone/empty recess |
+| Camera | evidence tool | unused at ceremony | objects connected | ordinary road observation | ordinary family observation | reason to step off path |
 | Food | mustard | compressed reception | mustard returns | none | family abundance | breakfast fuels walk |
 | Time | faulty clock | lateness memory | no artificial deadline; hard sound cut | transit elided | tomorrow as real promise | before dark |
 | Water | absent destination | rain | river named | water beneath wing | river planned | path moves toward river; water in resonance |
@@ -1006,6 +1013,11 @@ Could this belong to another film? No. The scene unites Oku bloodline maintenanc
 15. Each sequence changes inheritance or relationship: YES
 16. Each sequence has a distinct image and sound strategy: YES
 17. Material could not be transferred intact to another film: YES
+18. Kai discovers the shrine through an observable omission and accident, not a geometric route: YES
+19. Shrine resonance withholds identity, death, guilt, maintenance history, and chronology: YES
+20. Ade carries an independent performance arc through inherited laughter and brotherhood choice: YES
+21. Kai's moral breach is a second choice made after contact, not passive supernatural selection: YES
+22. Action prose leaves emotional and mythological interpretation to performance and direction: YES
 
 Act I passes the precision gate.
 

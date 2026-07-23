@@ -24,7 +24,7 @@ The screenplay ends at the first active supernatural event:
 - inherited resonance recognizes the returned bloodline
 - natural sound disappears
 - one deep beat moves through the land
-- Kai keeps the talisman as proof
+- Kai nearly restores the talisman, then chooses to keep it without explaining himself
 - the first black spider emerges from the regulator
 
 ## Pacing revision
@@ -42,9 +42,28 @@ Changes:
 - Malik's agreement now sound-cuts through a seat-belt chime and pilot call directly to descent into Calabar
 - the urn is confirmed beneath Malik's seat on arrival, preserving continuity without dramatizing logistics
 
-Estimated screenplay length changed from approximately 38 pages to approximately 31 pages, using the same Fountain line-density estimate. The revision removes roughly seven pages without deleting a required character turn, causal fact, or Act I motif.
+Estimated screenplay length changed from approximately 38 pages to approximately 30-31 pages, using Fountain word density and screenplay line density as a working range. The revision removes roughly seven to eight pages without deleting a required character turn, causal fact, or Act I motif.
 
 Integrity result: improvement. The cut makes the decision consequential, trusts the audience with ordinary travel, and reaches the culturally specific Calabar material earlier. It does not alter supernatural causality or weaken the brothers' voluntary choice.
+
+## Prestige revision
+
+A second integrity pass addressed the material that still read as an 8.5 rather than a finished Act I.
+
+Changes:
+
+- removed action prose that interpreted grief, guilt, humor, or symbolism after the image had already made the information playable
+- converted Ade's resemblance to Solomon into an actor-facing laugh arc: the comparison constrains him at the reception; the Calabar family later gives him a laugh he does not monitor
+- removed the geometric marker trail and camera-sequence solution that made the shrine feel designed for Kai
+- replaced it with one older marked stone exposed by a fallen limb on the wrong side of a legible path
+- made Kai leave the path only to photograph an omission, then discover the shrine through a fall rather than a solved route
+- made the carving, boundary mark, and shrine related through imperfect human workmanship rather than an exact key
+- stripped the shrine resonance of faces, names, death explanation, guilt, and causal chronology
+- retained only tactile fragments whose meaning cannot be decoded in Act I
+- gave Kai a visible opportunity to restore the talisman and made his second choice, not his perception, the Act I moral breach
+- removed explanatory language from the spider image so its behavior remains open to direction and performance
+
+Integrity result: improvement. Kai now causes the breach without functioning as a mythology-delivery mechanism. Ade receives a distinct internal performance arc. The shrine contact creates obligation and dread without explaining the film that follows.
 
 ## Governing correction applied
 
@@ -152,7 +171,7 @@ No impossible object behavior or active Entity event remains before the shrine.
 - feeding before explanation
 - Afang soup, fufu, rice, fish, plantain, eggs, bread, tea
 - mango and boiled-water stories
-- Ade laughing without performing
+- funeral/Calabar laugh arc: Ade is told he has Solomon's laugh, then later laughs without checking the room
 - Malik relaxing slightly
 - Kai detecting the sister-shaped gap in family memory
 
@@ -160,12 +179,16 @@ No impossible object behavior or active Entity event remains before the shrine.
 
 - family boundaries and Solomon's planted tree
 - practical warning about path, sound, and distance
-- Kai following a real marker inconsistency
+- imperfect family mark shared by carving and boundary stone
+- Bode closing down Kai's question about the erased sister
+- one older marked stone exposed off the current path by a fallen limb
+- Kai stepping off to photograph the omission; slope giving way after two steps
 - ravine and tree-stone shrine
-- carving geometry connected to regulator
+- related human workmanship connecting carving to regulator without functioning as a map
 - maintained but neglected red-thread seal
 - intentional breach and talisman removal
-- fragmentary resonance without showing Solomon alive
+- tactile resonance stripped of names, faces, death explanation, or causal chronology
+- Kai raising the talisman toward restoration, then closing his hand
 - first supernatural silence, earth-borne beat, and spider
 
 ## Continuity state
@@ -259,6 +282,7 @@ Verified during this pass:
 - Calabar sociolinguistic research supports English alongside indigenous languages and routine bi/multilingual code-switching.
 - Nigerian Pidgin scholarship treats Pidgin as a structured oral language used for phatic and informal communication across social strata, not as defective English.
 - Efik greeting references support `Mọkọm / Ekọm do` as a general or afternoon exchange and `Emesiere / Emesiere nde` as a morning greeting and response.
+- Spoken family address uses the Nigerian English spelling `Aunty`; the screenplay character heading remains `AUNTIE ENO`.
 
 Working references:
 

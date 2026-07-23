@@ -1,6 +1,6 @@
 # EKPO MASTER DEVELOPMENT BIBLE
 
-Version: Act I Precision Draft
+Version: Act I Prestige Draft
 
 ## Purpose of this document
 
@@ -97,19 +97,21 @@ The Calabar family does not explain the mythology. It makes Solomon human enough
 
 ## Movement Six - The father as inherited consequence
 
-Kai follows a real pattern in the land.
+Kai notices a real inconsistency in the land.
 
 He is not lured by a ghost, spider, voice, or drum.
 
 He makes a sequence of choices:
 
 - leave the path
-- descend after the marker pattern
-- test the shrine geometry
+- step toward one older marked stone that Bode did not identify
+- fall when the slope gives way
+- compare the shrine's handwork to the carving
 - loosen the red thread
 - break the seal
 - remove the talisman
-- keep it after the resonance
+- raise it toward restoration
+- choose not to replace it
 
 The Act I climax belongs simultaneously to character and mythology. Kai's need to understand activates the thing that will exploit that need.
 
@@ -140,7 +142,7 @@ His control is not generic neatness. Each behavior must have a threatened object
 5. He permits Bode to take one side.
 6. He resists the Calabar request as one more posthumous arrangement.
 7. He chooses the journey when the alternative is losing the brotherhood.
-8. He lets Ade help secure and later carry the urn.
+8. He later shares the urn's weight with Ade on the land.
 9. On the land, his knowledge of title acreage gives way to Bode's knowledge of lived boundaries.
 
 ### Performance note
@@ -166,12 +168,12 @@ When a joke fails, the scene must register the failure. When laughter becomes re
 1. His opening jokes test whether Malik can still be reached.
 2. The battery joke fails and exposes the room's actual grief.
 3. He notices Kai's sensory collapse at the funeral before Malik does.
-4. He performs condolences until no one is watching.
+4. A mourner tells him he has Solomon's laugh; he spends the rest of the reception smiling without showing his teeth.
 5. He identifies the photograph damage as intentional.
 6. He articulates Solomon's manipulation without reducing the brothers to victims: "He arranged the room before he left it."
 7. He chooses Calabar to prevent the family splitting.
 8. In Calabar, his humor becomes social fluency without pretending cultural mastery.
-9. At Eno's table, he laughs without earning it.
+9. At Eno's table, he laughs without checking whether anyone follows.
 
 ### Performance note
 
@@ -196,11 +198,12 @@ The camera is not paranormal equipment. It is a way to isolate variables and pre
 5. Reads the empty shelf outline as evidence of removal.
 6. Recognizes the scratched face as deliberate physical damage.
 7. Connects the carving to the Calabar photograph.
-8. Connects the carving geometry to boundary stones.
-9. Detects a missing interval in the marker pattern.
-10. Leaves the path to complete it.
-11. Opens the shrine deliberately.
-12. Keeps the talisman because evidence feels safer to him than uncertainty.
+8. Recognizes the carving's imperfect family mark on the boundary stones.
+9. Asks whether the mark belonged to the erased sister and receives another boundary instead of an answer.
+10. Notices one older marked stone exposed on the wrong side of the path.
+11. Leaves the path to photograph what Bode did not identify; the slope gives way.
+12. Opens the shrine deliberately.
+13. Nearly restores the talisman, then chooses to keep it without explaining the choice.
 
 ### Performance note
 
@@ -274,7 +277,7 @@ The audience assembles him from:
 - contradictory Calabar stories
 - the damaged photograph
 - the inheritance letter
-- Kai's post-trigger recognition of Solomon's fear
+- the tactile fragments Kai receives at the breached regulator
 
 Solomon must never become a posthumous master strategist. The will is simple because the complexity belongs to what he failed to say.
 
@@ -303,7 +306,7 @@ At the trigger it registers:
 - a returned maintaining bloodline
 - an inherited imbalance
 
-Its first behavior is inspection, not predation. The spider crosses the broken thread as if examining damage.
+Its first visible residue is small and unreadable: the spider crosses the broken thread and stops on the failed loop. Meaning remains available to performance, framing, and later consequence.
 
 ---
 
@@ -316,8 +319,8 @@ Meaning evolves:
 - Ade offers hands; Malik refuses
 - Bode puts one hand beneath the urn; Malik allows one side
 - brothers transfer the urn on the land
-- the resonance includes a hand released
-- Kai closes his hand around proof rather than restoring it
+- the resonance places an older palm beneath Kai's
+- Kai raises the talisman toward its recess, then closes his hand around it
 
 Hands are the film's language for responsibility, control, abandonment, and consent.
 
@@ -350,7 +353,7 @@ The camera:
 - frames rather than reveals
 - preserves evidence
 - gives Kai a reason to lag
-- helps him see the marker sequence
+- gives him a reason to step toward the one marked stone Bode did not identify
 - survives the ravine because he protects it before himself
 
 It never produces an anomaly in Act I.
@@ -370,7 +373,7 @@ Malik initially corrects imperfection. Kai discovers function within it. The shr
 - empty shelf outline
 - scratched face
 - omitted sister at family dinner
-- missing interval in boundary stones
+- older marked stone exposed off the current path
 - empty shrine recess after Kai removes the talisman
 
 Kai follows negative space. Each missing element increases in consequence.
@@ -401,7 +404,7 @@ The river is:
 
 - Solomon's requested destination
 - a family boundary
-- a possible site of the sister's death or trauma
+- implicated by one unresolved fragment of inherited sensation
 - an element within the shrine resonance
 - not yet reached by the ashes at the end of Act I
 
@@ -430,7 +433,7 @@ It is:
 - physically small
 - unhurried
 - neither jump scare nor monster reveal
-- visually associated with inspection and balance correction
+- the first visible residue of the regulator's changed state
 
 Later spider imagery must develop capability rather than merely repeat presence.
 
@@ -550,6 +553,7 @@ Working Act I phrases:
 - response: `Ekọm do`
 - morning greeting to the brothers as a group: `Emesiere`
 - response: `Emesiere nde`
+- spoken Nigerian kinship address uses `Aunty`; the character heading remains `AUNTIE ENO`
 
 These phrases are a researched working lock. Pronunciation, performance rhythm, and family-specific usage still require an Efik/Calabar reader.
 
@@ -683,7 +687,7 @@ Each sequence changes who carries Solomon, what the brothers know, or what inher
 
 Pass.
 
-The sequences are built from the Oku family's specific objects, sister-shaped absence, urn continuity, Calabar homecoming, boundary geometry, and balance shrine.
+The sequences are built from the Oku family's specific objects, sister-shaped absence, urn continuity, Calabar homecoming, imperfect family workmanship, and balance shrine.
 
 ---
 

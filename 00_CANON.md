@@ -1,6 +1,6 @@
 # EKPO CANON
 
-Version: 2.0 - Act I Precision Reset
+Version: 2.1 - Act I Prestige Pass
 
 ## Project status
 
@@ -8,7 +8,7 @@ Development phase: Prestige feature rewrite
 
 Current screenplay position: End of Act I
 
-Current story position: Kai has intentionally broken the shrine's red-thread seal, removed the brass talisman, experienced the first inherited resonance, and kept the talisman as proof. The first black spider has emerged from the broken regulator. Malik and Bode are calling for Kai from the path above.
+Current story position: Kai has intentionally broken the shrine's red-thread seal, removed the brass talisman, experienced the first inherited resonance, and chosen not to restore the talisman. The first black spider has emerged from the broken regulator. Malik and Bode are calling for Kai from the path above.
 
 Lock status:
 
@@ -140,8 +140,8 @@ Act I behaviors:
 - Checks burners, clocks, documents, surfaces, routes, and other people's passports
 - Initially refuses Ade's help with the urn
 - Permits Bode to take one side at the funeral
-- Permits Ade to help secure the urn before departure
 - Accepts a family decision he did not control
+- Shares the urn's weight with Ade on the family land
 
 ## Ade Oku
 
@@ -153,8 +153,8 @@ Act I behaviors:
 
 - Jokes when silence becomes dangerous
 - Notices Kai's sensory overload before Malik does
-- Performs condolences until his face empties
-- Laughs without performing at the Calabar family table
+- Is told he has Solomon's laugh and spends the rest of the reception smiling without showing his teeth
+- Laughs at the Calabar family table without checking whether anyone follows
 - Votes for the journey because he refuses to divide the brothers into those who went and the one who stayed
 
 ## Kai Oku
@@ -167,11 +167,13 @@ Act I behaviors:
 
 - Notices the faulty clock, missing camcorder battery, crooked photograph, and empty shelf outline
 - Connects the brass carving to the object in the scratched Calabar photograph
-- Connects the carving's geometry to family boundary stones
-- Leaves the path to complete a physical pattern
+- Recognizes the carving's imperfect family mark on the boundary stones
+- Asks whether the mark belonged to the erased sister and is shut down
+- Notices one older marked stone exposed on the wrong side of the path
+- Leaves the path to photograph what Bode did not identify
 - Intentionally breaks the seal
 - Intentionally removes the talisman
-- Keeps it after the resonance because he wants proof
+- Raises the talisman toward its recess, then chooses not to restore it
 
 Kai is not mystically chosen and is not compelled into amnesia. His curiosity is responsible for the breach.
 
@@ -234,8 +236,8 @@ There is no coffin, casket, grave burial, columbarium, release form, retrieval s
 - Found in Solomon's blue drawer, folded inside an old receipt
 - Behaves normally before the shrine
 - Matches a small object in the Calabar photograph
-- Repeats the geometry cut into family boundary stones
-- Is a human-made copy or representation connected to the shrine system
+- Repeats an imperfect family mark cut into boundary stones
+- Echoes the same handwork found in the shrine without functioning as a map
 - Travels in Kai's camera bag
 
 ## Scratched photograph
@@ -302,13 +304,14 @@ Kai:
 
 1. Detects an inconsistency in the boundary-marker pattern
 2. Leaves the path by choice
-3. Finds the tree-and-stone shrine
-4. Identifies the carving as a copy of its geometry
-5. Works the red-thread seal
-6. Breaks the brittle thread
-7. Removes the talisman to examine it
-8. Experiences inherited resonance
-9. Keeps the talisman as proof
+3. Falls when the slope gives way
+4. Finds the tree-and-stone shrine
+5. Identifies the carving as related human workmanship, not a geometric key
+6. Works the red-thread seal
+7. Breaks the brittle thread
+8. Removes the talisman to examine it
+9. Experiences fragmentary, tactile inherited resonance
+10. Nearly restores the talisman, then keeps it
 
 The bloodline is recognized. The regulator is open. The Entity becomes active.
 
@@ -424,15 +427,17 @@ Outcome:
 
 - The brothers begin sharing the urn's physical weight
 - Bode establishes the land's human history and practical rules
-- Kai connects carving geometry to boundary stones
-- Kai leaves the path to complete an inconsistent marker pattern
+- Kai connects the carving to an imperfect family mark on the boundary stones
+- Bode closes down Kai's question about the erased sister
+- A fallen limb exposes one older marked stone on the wrong side of the path
+- Kai leaves the path to photograph the omission and the slope gives way
 - He finds the shrine where tree and stone have grown together
 - He breaks the seal and removes the talisman
-- The first supernatural resonance occurs
-- Kai keeps the talisman
+- The first supernatural resonance occurs through tactile fragments, not mythology exposition
+- Kai nearly restores the talisman, then keeps it without explaining himself
 - The Entity becomes active
 
-Unforgettable image: A black spider crossing the snapped red thread as if inspecting a broken gate.
+Unforgettable image: A black spider stopping on the broken loop of red thread.
 
 Sound: Dense natural environment, sudden total absence, one deep beat through root and stone.
 
@@ -467,11 +472,11 @@ Ade does not know the shrine or Entity rules.
 
 ## Kai knows
 
-- The carving copies the shrine geometry
-- The old boundary markers lead to the shrine
+- The carving, boundary mark, and shrine were made within the same human system
+- One older marked stone was hidden off the current path
 - He broke a maintained seal
 - The talisman carries inherited resonance
-- Solomon's fear and the dead woman's loss are connected to the land
+- The resonance carried one older palm beneath Kai's, red thread cutting both hands, river water at chest height, and brass striking submerged stone
 - Keeping the talisman is a second choice after breaking the seal
 
 Kai does not yet understand the Entity, the sister's death, or how to restore balance.
@@ -533,7 +538,7 @@ The following material is removed and must not return through copy-forward:
 
 Act II begins in the ravine and on the path simultaneously:
 
-- Kai knows he has opened something and has chosen to keep proof
+- Kai knows he has opened something and chosen not to restore what he removed
 - Malik, Ade, and Bode realize he has left the path
 - The urn remains with the family above
 - The ashes have not yet been scattered
