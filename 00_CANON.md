@@ -1,5 +1,5 @@
 # EKPO CANON
-Version: 1.3
+Version: 1.4
 
 ## Project Status
 
@@ -7,13 +7,13 @@ Development Phase:
 Prestige Rewrite
 
 Current Rewrite Target:
-Sequence III — The Wake (lock review)
+Sequence IV — The Will (lock review)
 
 Current Screenplay Status:
 Sequence I is locked.
 Sequence II is locked through the columbarium ending.
-The approved opening of Sequence III is in the screenplay through the black-spider-on-banister beat.
-The remainder of Sequence III has been drafted through the powerless-camcorder ending and awaits user approval.
+Sequence III is locked in full through the powerless-camcorder ending.
+Sequence IV has been drafted through the brothers' first vote and awaits user approval.
 
 ---
 
@@ -190,10 +190,10 @@ CUT TO BLACK.
 ## Sequence III — The Wake
 
 Status:
-Draft complete; continuation pending user approval.
+Locked.
 
-Approved screenplay range:
-From the brothers returning to Solomon's house through the final black-spider-on-banister beat.
+Locked screenplay range:
+The complete sequence, from the brothers returning to Solomon's house through the powerless-camcorder ending.
 
 Locked opening movement:
 - The house feels occupied rather than overtly haunted.
@@ -203,7 +203,7 @@ Locked opening movement:
 - A floorboard creaks above the gathering.
 - Kai sees a black spider on the banister only through his camera; it is gone when he raises the camera again.
 
-Draft continuation awaiting lock:
+Locked continuation:
 - The wake finds its volume through food, condolences and domestic ritual.
 - Kai's footage contains a one-frame pattern disruption where the spider should be.
 - Eno finds the brass carving hidden in Solomon's blue drawer.
@@ -224,7 +224,49 @@ Current draft writing position:
 Sequence III ends on CUT TO BLACK after the powerless camcorder records one second.
 
 Next structural movement:
-Sequence IV — The Will, pending approval and lock of the Sequence III continuation.
+Sequence IV — The Will.
+
+## Sequence IV — The Will
+
+Status:
+Draft complete; pending user approval.
+
+Purpose:
+Convert Solomon's family mystery into a practical, voluntary obligation that can send the brothers to Calabar while preserving their agency.
+
+Provisional casket-and-urn continuity:
+- Solomon was cremated before the Vancouver funeral.
+- The casket contained personal effects Solomon selected in advance.
+- His cremated remains were sealed in the brass urn placed in the columbarium.
+- Solomon instructed his lawyer to delay disclosing the cremation and travel condition until nine the morning after the funeral.
+- A cemetery release form allows Malik to retrieve the urn.
+- This solution remains provisional until Sequence IV is approved.
+
+Draft movement:
+- Estate lawyer Maya Patel arrives at Solomon's house with the will, four itineraries, a cemetery release form and a sealed archival box.
+- The will directs Malik, Ade and Kai to travel together to the Oku family land outside Calabar and release Solomon's ashes at its river boundary.
+- The brothers are free to refuse without debt or penalty; if they do, the Nigerian property remains with the family trust.
+- The condition must be completed within thirty days of Solomon's death.
+- Nigerian counsel holds the local property instrument and title records.
+- Solomon prepaid a fourth itinerary naming Bode as escort and local liaison.
+- A passport envelope contains Solomon's expired Nigerian passport, a brass key and a MiniDV cassette marked "WHEN YOU ARRIVE."
+- The cassette must remain sealed until all three brothers are inside the Calabar house.
+- Malik insists on a vote. Kai immediately votes to go. Ade has not yet chosen.
+
+Character movement:
+- Malik learns that his competence was anticipated and used by Solomon.
+- Kai moves from observation into open refusal of Malik's authority.
+- Ade's humour exposes precise wounds but can no longer defer the decision.
+- Bode discovers that Solomon assigned him a role without consent.
+
+Unforgettable closing image:
+Rain stains spread through the sky of the scratched Calabar photograph and stop just before the missing woman's face.
+
+Current draft writing position:
+Sequence IV ends on CUT TO BLACK after Kai votes to go.
+
+Next structural movement:
+Review and lock Sequence IV, then stage the brothers' decision, retrieval of the urn and preparation for Calabar.
 
 ---
 

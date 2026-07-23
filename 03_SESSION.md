@@ -9,7 +9,7 @@
 - The distant watcher and the tap from inside the sealed stone incorporated.
 - Sequence III — The Wake begun.
 - The approved Sequence III opening incorporated through the black-spider-on-banister beat.
-- The remainder of Sequence III drafted through the powerless-camcorder ending.
+- Sequence III approved and locked in full through the powerless-camcorder ending.
 - The brass carving connected to a damaged Calabar photograph dated 1989.
 - The scratched-face mystery and the line "Someone your father loved badly" incorporated.
 - Solomon's lawyer established for the following morning.
@@ -18,6 +18,9 @@
 - Her later Calabar appearance established as a damaged guardian rather than the villain.
 - The rescue of Kai established as the brothers' opportunity to correct Solomon's abandonment of his sister.
 - Canon and Master Bible synchronized with the screenplay.
+- Sequence IV — The Will drafted through the brothers' first vote.
+- The casket-and-urn continuity provisionally resolved: Solomon was cremated, his casket held selected effects and his ashes remained in the brass urn.
+- Maya Patel, the thirty-day Calabar condition, four prepaid itineraries, cemetery release, brass key and sealed MiniDV tape introduced.
 
 ## Current Status
 
@@ -28,21 +31,26 @@ Sequence II:
 Locked.
 
 Sequence III:
-Opening locked through the spider's disappearance.
-Continuation drafted through the sequence-ending CUT TO BLACK; pending user approval.
+Locked in full.
+
+Sequence IV:
+Draft complete through the sequence-ending CUT TO BLACK; pending user approval.
 
 ## Next
 
-Review and lock the Sequence III continuation.
-Once approved, begin Sequence IV — The Will.
+Review and lock Sequence IV — The Will.
+Once approved, continue into the brothers' decision, retrieval of the urn and preparation for Calabar.
 
 ## Continuity Directive
 
 - Preserve Sequences I and II as locked material.
-- Preserve the approved opening of Sequence III.
+- Preserve Sequence III in full as locked material.
 - Keep the house's supernatural activity ambiguous and rooted in behavioural or visual disruption.
 - Kai remains the first observer of camera-mediated anomalies.
-- Do not promote the Sequence III continuation from draft to locked canon without user approval.
+- Do not promote Sequence IV from draft to locked canon without user approval.
 - Keep the scratched woman's identity hidden throughout Act I.
 - Treat the scratched-woman solution as provisional canon and revise it if it stops serving character, structure or mythology.
-- Sequence IV must convert Solomon's inheritance from family mystery into the practical obligation that sends the brothers toward Calabar.
+- Treat the casket-and-urn solution as provisional until Sequence IV is approved.
+- Preserve the brothers' meaningful right to refuse the Calabar condition without debt or penalty.
+- Preserve the Nigerian property transfer through a separate local instrument held by Calabar counsel.
+- Keep the MiniDV cassette sealed until all three brothers enter the Calabar house.

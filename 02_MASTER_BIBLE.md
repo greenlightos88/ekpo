@@ -41,11 +41,10 @@ Emotional architecture
 
 ## Current Focus
 
-Sequence III — The Wake (lock review)
+Sequence IV — The Will (lock review)
 
-Sequences I and II are locked and must not be rewritten without an explicit new approval.
-The approved opening of Sequence III remains locked through the black-spider-on-banister beat.
-The continuation through the powerless-camcorder ending is drafted and pending user approval.
+Sequences I, II and III are locked and must not be rewritten without an explicit new approval.
+Sequence IV is drafted through the brothers' first vote and is pending user approval.
 
 ---
 
@@ -125,7 +124,7 @@ CUT TO BLACK, then return to Solomon's house for Sequence III.
 ## Sequence III — The Wake
 
 Status:
-Opening approved; continuation drafted through the sequence ending and pending user approval.
+Locked in full.
 
 Purpose:
 Move grief from the public funeral back into Solomon's domestic space. Establish that the house is not visibly haunted, but feels occupied and attentive.
@@ -151,7 +150,7 @@ Character work:
 Unforgettable image:
 A black spider waits on the banister inside Kai's viewfinder and vanishes outside it.
 
-Draft continuation:
+Locked continuation:
 - The wake becomes socially alive through food, overlapping condolences and relatives who refuse to let the brothers grieve on empty stomachs.
 - Kai discovers that the spider does not exist in his footage; only a momentary mosaic of black squares interrupts the image.
 - Eno opens Solomon's blue drawer and finds the brass carving wrapped in a receipt.
@@ -182,7 +181,58 @@ Current draft position:
 Sequence III ends on CUT TO BLACK.
 
 Next:
-Review and lock the continuation, then begin Sequence IV — The Will.
+Sequence IV — The Will.
+
+---
+
+## Sequence IV — The Will
+
+Status:
+Draft complete; pending user approval.
+
+Purpose:
+Turn Solomon's hidden inheritance into a concrete choice. The scene must make the journey to Calabar feel like a dead father's manipulation without removing the brothers' agency.
+
+Provisional continuity solution:
+- Solomon was cremated before the funeral.
+- His ceremonial casket held personal effects selected in advance.
+- His ashes were placed in the brass urn sealed in the columbarium.
+- His lawyer was instructed to disclose this only at nine the following morning.
+- Malik receives a prepared cemetery release form so the urn can be retrieved.
+- This solution is not locked until the sequence is approved.
+
+Draft movement:
+- Maya Patel arrives carrying the will, a cemetery release form, four prepaid itineraries and a sealed archival box.
+- Solomon directs all three sons to carry his ashes to the river boundary of the Oku family land outside Calabar.
+- No proxy may replace a son.
+- The brothers may refuse without debt or penalty, but the Nigerian property then remains with the family trust.
+- The condition expires thirty days after Solomon's death.
+- The Canadian will does not itself transfer Nigerian land; Calabar counsel holds the local instrument and title records.
+- Bode is named escort and local liaison without having been asked.
+- Solomon's expired Nigerian passport, a brass key and a MiniDV cassette marked "WHEN YOU ARRIVE" are sealed together.
+- The cassette must not be opened until all three brothers are inside the Calabar house.
+- Malik calls for a vote. Kai votes to go immediately. Ade remains undecided.
+
+Character movement:
+- Malik discovers that Solomon predicted and exploited his compulsion to finish whatever was placed before him.
+- Kai stops concealing his need to follow the pattern and openly challenges Malik.
+- Ade's humour can identify the family's pain but cannot make the decision for them.
+- Bode is pulled into Solomon's last plan rather than revealed as its architect.
+
+Legal and agency rule:
+The Calabar property is an offered inheritance, not coercive debt. The thirty-day condition creates pressure, while the brothers retain the meaningful right to refuse.
+
+Sound language:
+Morning rain, paper, cups and the stopped clock keep the revelation domestic. No supernatural score announces the will's consequences.
+
+Unforgettable image:
+Rain stains spread across the sky of the scratched Calabar photograph and stop before the missing woman's erased face.
+
+Current draft position:
+Sequence IV ends on CUT TO BLACK after Kai votes to go.
+
+Next:
+Review and lock Sequence IV, then dramatize the final decision, retrieval of the urn and preparation for Calabar.
 
 ---
 
