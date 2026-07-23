@@ -1,5 +1,5 @@
 # EKPO CANON
-Version: 2.0
+Version: 2.1
 
 ## Project Status
 
@@ -138,13 +138,24 @@ Careful.
 Never mysterious.
 His authority comes from restraint and emotional steadiness.
 
+Protective speech belief:
+- Bode believes names and detailed stories can create routes for dangerous attention or invitation.
+- He restricts certain information to enclosed spaces he considers containable.
+- This is Bode's trauma-shaped operating belief, not yet confirmed objective cosmology.
+- Its partial usefulness and human cost must both be dramatized.
+- His silence eventually fails because it denies the brothers knowledge they need to make informed choices.
+
 ---
 
 # Auntie Eno
 
 Strong, elegant and emotionally direct.
-She belongs in Solomon's house without needing to announce her authority.
-She recognizes the meaning of what is missing.
+Solomon and Bode's cousin, raised close enough to the siblings to witness the 1989 containment crisis.
+She remained connected to the Oku family house outside Calabar and does not appear during the Vancouver wake.
+She first appears when the brothers reach the Calabar compound.
+She is the intact young woman in the 1989 photograph.
+She recognizes the meaning of what is missing and remembers the human cost more clearly than the family's preferred mythology.
+Her line about the scratched woman — "Someone your father loved badly" — is reserved for the first sustained interior movement inside the Calabar house.
 
 ---
 
@@ -158,6 +169,9 @@ Unknown during the Vancouver sequences.
 
 Working true identity:
 Solomon and Bode's younger sister.
+
+Relationship clarification:
+Eno is their cousin and a witness to the sister's abandonment. Eno and the scratched woman are separate characters.
 
 Working mythology:
 - She was the original keeper of the balance shrine.
@@ -236,18 +250,19 @@ Locked opening movement:
 - The house feels occupied rather than overtly haunted.
 - Malik finds the kitchen towel folded differently; it falls without being touched.
 - Kai sees the empty shelf space become darker through his viewfinder.
-- Auntie Eno identifies the missing carving and states that Solomon never left the shelf empty.
+- Bode notices the missing carving, asks where it is and learns that Kai touched it.
 - A floorboard creaks above the gathering.
 - Kai sees a black spider on the banister only through his camera; it is gone when he raises the camera again.
 
 Locked continuation:
 - The wake finds its volume through food, condolences and domestic ritual.
 - Kai's footage contains a one-frame pattern disruption where the spider should be.
-- Eno finds the brass carving hidden in Solomon's blue drawer.
+- Malik opens Solomon's blue drawer and retrieves the brass carving himself.
 - Bode asks who touched the carving and whether it felt warm.
 - A creased Calabar photograph is discovered beneath the carving.
 - The photograph shows young Solomon, Bode, Eno and a woman whose face has been scratched away.
-- Eno answers Kai's question with: "Someone your father loved badly."
+- Bode identifies Eno as his and Solomon's cousin.
+- Bode identifies Solomon as the person who scratched away the other woman's face but withholds her identity.
 - Malik refuses to let the photograph be hidden again.
 - Bode tells the brothers that Solomon's lawyer is coming at nine.
 - Bode distinguishes Solomon's house from the inheritance awaiting them.
@@ -420,13 +435,14 @@ Draft movement:
 - Malik retains the travel urn while allowing other luggage to be carried.
 - The drive moves from Calabar streets into the greener outskirts and family road.
 - Ordinary negotiation, traffic, food and humour establish place without turning residents into scenery.
-- Eyo and Bode reveal that they are withholding something, and Malik openly challenges the partial answers.
+- Eyo challenges Bode's silence, and Bode states his belief that stories can create routes for attention and invitation.
+- Malik learns that Bode knows the scratched woman's name but will only speak it inside the closed house.
 - Malik turns off an inaccurate digital route and allows Eyo to navigate.
 - Eyo and Bode humanize Solomon through the story of his failed teenage jump from a bridge.
 - Kai sees a real stone boundary structure held inside tree roots and marked by faded red fibre.
 - Bode refuses to stop and tells Kai not to confuse a picture with permission.
 - The family receives the brothers warmly while recognizing them as Solomon's sons and cultural outsiders.
-- An elder woman acknowledges the travel urn; Malik answers, "We brought him."
+- Auntie Eno, Solomon and Bode's cousin, acknowledges the travel urn; Malik answers, "We brought him."
 - Kai aligns the scratched 1989 photograph with the living house.
 - The tree's roots have reached the threshold.
 - All three brothers enter the Calabar house; the MiniDV envelope remains sealed.
@@ -442,13 +458,15 @@ Horror and mythology integrity:
 - The roadside structure is physically real and appears in Kai's footage.
 - No Entity attack occurs. Kai has not yet broken the shrine boundary.
 - The structure is called an old boundary, not Ekpo, Ekpe or the Entity.
-- The faded red binding is visual foreshadowing whose precise cultural meaning remains subject to verification.
+- The stone, tree roots and faded red binding belong to a fictional Oku-family containment system created for this story. They are not presented as universal Efik practice.
+- Verified Nigerian or Cross River elements may be integrated later where they fit without misrepresenting a living tradition.
 - The scratched woman's identity remains concealed.
 
 Cultural integrity:
 - Nigerian Pidgin appears through relationships, bargaining and humour rather than menace.
 - Calabar residents continue their lives rather than performing culture for the visitors.
-- Regional cadence, the boundary imagery and the elder woman's dialogue require cultural review before the sequence is locked.
+- Eno is a specific relative and household anchor rather than an unnamed cultural archetype.
+- Regional cadence still requires a Calabar-based dialogue review before the sequence is locked.
 
 Unforgettable image:
 Kai aligns the damaged 1989 photograph with the present-day house. The scratched-away woman's face covers the open doorway while a tree root that once stopped short now reaches the threshold.

@@ -53,6 +53,14 @@ We never scare the audience before making them care.
 
 ---
 
+## Bode's Protective Speech Belief
+
+Bode believes names and detailed stories can create routes for dangerous attention or invitation. He restricts certain information to enclosed spaces he considers containable.
+
+This is a character belief shaped by trauma and inherited ritual, not yet confirmed objective cosmology. The screenplay must dramatize both its partial usefulness and its human cost. His silence eventually fails because it leaves the brothers without the knowledge needed to make informed choices.
+
+---
+
 ## Rewrite Philosophy
 
 Preserve:
@@ -166,8 +174,7 @@ Approved opening movement:
 - Malik finds the kitchen towel folded differently; after he corrects it, it falls untouched.
 - Kai sees the missing shelf space appear darker through his viewfinder.
 - Neighbours arrive with food and perform the familiar choreography of mourning.
-- Auntie Eno enters with natural authority and asks whether the brothers have eaten.
-- Eno identifies the missing carving and states that Solomon never left the shelf empty.
+- Bode identifies the missing carving as a concrete absence and learns that Kai touched it.
 - The lights flicker, conversation resumes and a floorboard creaks above the gathering.
 - Kai sees a black spider waiting on the banister only through his camera. When he raises the camera again, it is gone.
 
@@ -175,7 +182,7 @@ Character work:
 - Malik denies the impossible by naming a practical cause: "Humidity."
 - Ade notices Malik's disturbance without making a joke.
 - Kai continues to experience the supernatural through disrupted visual patterns.
-- Eno becomes the first person to identify a concrete absence in Solomon's house.
+- Bode's recognition of the empty shelf reveals knowledge without importing Eno into Vancouver.
 
 Unforgettable image:
 A black spider waits on the banister inside Kai's viewfinder and vanishes outside it.
@@ -183,11 +190,12 @@ A black spider waits on the banister inside Kai's viewfinder and vanishes outsid
 Locked continuation:
 - The wake becomes socially alive through food, overlapping condolences and relatives who refuse to let the brothers grieve on empty stomachs.
 - Kai discovers that the spider does not exist in his footage; only a momentary mosaic of black squares interrupts the image.
-- Eno opens Solomon's blue drawer and finds the brass carving wrapped in a receipt.
+- Malik opens Solomon's blue drawer and retrieves the brass carving wrapped in a receipt.
 - Bode handles the receipt rather than the carving and asks whether it felt warm.
 - A creased photograph hidden beneath the carving shows Solomon, Bode, Eno and a woman whose face has been scratched away.
 - The reverse is marked "CALABAR. 1989." in Solomon's handwriting.
-- Eno characterizes the damaged woman as "Someone your father loved badly."
+- Bode identifies Eno as his and Solomon's cousin.
+- Bode admits that Solomon scratched away the other woman's face but does not identify her.
 - Malik leaves the photograph face-up, refusing the family's habit of hiding uncomfortable evidence.
 - Bode announces that Solomon's lawyer will come at nine to explain what Solomon left.
 - Bode states that Solomon's Vancouver house is not the inheritance.
@@ -199,7 +207,7 @@ Character movement:
 - Ade's jokes stop restoring circulation; each failed joke now measures the room's danger.
 - Kai moves from private pattern recognition toward an observable but still unprovable event.
 - Bode admits uncertainty instead of manufacturing mystery.
-- Eno refuses to preserve Solomon's silence at the expense of his sons.
+- The brothers uncover the material evidence themselves rather than receiving it from an elder.
 
 Sound language:
 The social volume of the wake drains gradually into engines, house sounds and the near-silence of the camcorder's single recorded second.
@@ -395,20 +403,23 @@ Character movement:
 - Malik protects the urn but allows Eyo's knowledge to replace an inaccurate digital route.
 - Ade's humour creates human connection without treating Calabar as the joke.
 - Kai records a real boundary marker and begins confusing the ability to observe with the right to enter.
-- Bode becomes protective and direct around the boundary, while his partial answers worsen Malik's distrust.
+- Bode states his belief that names and stories can create routes for attention or invitation, clarifying the protective logic behind his silence.
+- Malik learns that Bode knows the scratched woman's name but will only speak it inside the closed house.
 - Eyo operates as caretaker, driver, relative and social bridge before he carries any mythological function.
+- Eno is introduced as Solomon and Bode's cousin, the intact woman from the 1989 photograph and the living household anchor.
 
 Place and cultural integrity:
 - Calabar is active, contemporary and ordinary: traffic, schools, trade, family greetings and imperfect infrastructure coexist.
 - Nigerian Pidgin is relational and situational rather than used as atmospheric decoration.
 - No resident exists solely to explain culture to the Canadian brothers.
-- Eyo's language, the elder woman's reception of Solomon and all boundary imagery require Efik-Calabar review before lock.
+- Eno's reception of Solomon grows from her specific family history rather than an unnamed elder archetype.
+- Eyo's and Eno's regional cadence still require a Calabar-based dialogue review before lock.
 
 Horror integrity:
 The Entity remains inactive toward the brothers. Kai has not broken the shrine. The stone-and-root structure is real, visible without the camera and preserved imperfectly in the footage. Unease comes from Bode's recognition and the existence of a respected boundary, not from hallucination or pursuit.
 
 Title and mythology integrity:
-The boundary structure is not named Ekpo, Ekpe or the Entity. EKPO continues to refer provisionally to ancestral inheritance and obligation. The red binding and shrine vocabulary remain subject to cultural verification.
+The boundary structure is not named Ekpo, Ekpe or the Entity. EKPO continues to refer provisionally to ancestral inheritance and obligation. The stone, tree roots and red binding belong to a fictional Oku-family containment system created for the story, not a claim about universal Efik practice. Verified Nigerian or Cross River elements may be integrated later where they fit without misrepresenting a living tradition.
 
 Continuity requirements:
 - Solomon's ashes remain in the sealed birch travel urn.
@@ -416,6 +427,7 @@ Continuity requirements:
 - The MiniDV cassette remains sealed throughout the drive.
 - All three brothers cross the Calabar house threshold before the sequence ends.
 - The scratched woman's identity is not disclosed.
+- Eno and the scratched woman remain separate characters.
 - The house and massive tree match the 1989 photograph.
 
 Unforgettable image:
@@ -434,6 +446,9 @@ Approved as working canon. Retain while it strengthens the screenplay; revise wi
 True identity:
 Solomon and Bode's younger sister. Her name remains undecided pending Efik-language and cultural verification.
 
+Relationship clarification:
+Eno is Solomon and Bode's cousin, not another sister. She is the intact young woman in the 1989 photograph and a witness to the missing sister's abandonment.
+
 Family role:
 She was the original keeper of the balance shrine and the person left carrying the family's spiritual obligation after the 1989 containment crisis.
 
@@ -447,6 +462,9 @@ She was the original keeper of the balance shrine and the person left carrying t
 
 Meaning of Eno's line:
 "Someone your father loved badly" means Solomon genuinely loved his sister but failed her at the precise moment love required sacrifice.
+
+Placement of Eno's line:
+The line is withheld from the Vancouver wake and reserved for the first sustained interior scene inside the Calabar house, where Eno can speak from the location of the original failure.
 
 Photographic rule:
 Images are not neutral within the mythology. A preserved face can become a route through which the Entity locates, imitates or reaches a person. Solomon physically scratched his sister from the photograph to interrupt that route. The violence of the erasure also externalizes his guilt.

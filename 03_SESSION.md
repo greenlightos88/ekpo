@@ -11,7 +11,7 @@
 - The approved Sequence III opening incorporated through the black-spider-on-banister beat.
 - Sequence III approved and locked in full through the powerless-camcorder ending.
 - The brass carving connected to a damaged Calabar photograph dated 1989.
-- The scratched-face mystery and the line "Someone your father loved badly" incorporated.
+- The scratched-face mystery incorporated.
 - Solomon's lawyer established for the following morning.
 - The scratched woman approved as provisional working canon.
 - Her hidden identity established as Solomon and Bode's younger sister and the former keeper of the balance shrine.
@@ -53,9 +53,18 @@
 - Kai sees a real stone boundary structure held in tree roots and marked by faded red fibre.
 - Bode establishes the rule: a picture is not permission.
 - The Entity remains inactive because Kai has not crossed or broken the boundary.
-- Malik answers the elder woman's recognition of Solomon with, "We brought him."
+- Malik answers Auntie Eno's recognition of Solomon with, "We brought him."
 - The 1989 photograph aligns with the present house; the scratched face covers the doorway and the tree root reaches the threshold.
 - All three brothers enter the Calabar house while the MiniDV envelope remains sealed.
+- Auntie Eno removed from the Vancouver wake and restored to the Calabar family house.
+- Eno established as Solomon and Bode's cousin, the intact young woman in the 1989 photograph and a witness to the 1989 failure.
+- Eno and the scratched missing sister confirmed as separate characters.
+- Bode now identifies the missing carving during the Vancouver wake; Malik and Kai uncover the carving and photograph themselves.
+- Bode identifies Solomon as the person who damaged the photograph but withholds the scratched woman's identity.
+- "Someone your father loved badly" relocated from Vancouver to the first sustained interior scene in the Calabar house.
+- The anonymous elder at the compound replaced by Auntie Eno.
+- Bode's withholding clarified as a protective belief that names and stories can create routes for attention or invitation.
+- The stone, tree roots and red binding established as a fictional Oku-family containment system rather than a claim about universal Efik practice.
 
 ## Current Status
 
@@ -111,6 +120,9 @@ After approval, begin the first interior movement inside the Oku family house an
 - End Sequence VI on a new threshold image that suggests anticipation without confirming pursuit.
 - Treat the birch travel-urn solution as provisional until Sequence VI is approved.
 - Preserve Cousin Eyo as the keeper of the Calabar house unless later cultural review reveals a stronger name or relationship.
+- Preserve Eno in Calabar; she does not appear during the Vancouver wake.
+- Preserve Eno as Solomon and Bode's cousin and keep her distinct from their missing younger sister.
+- Reserve "Someone your father loved badly" for Eno inside the Calabar house.
 - Preserve EKPO as the working title, not a locked final title.
 - Do not call the spider-associated Entity "Ekpo."
 - Treat EKPO as the ancestral inheritance framework: the dead, the lineage, memory, authority and inherited obligation.
@@ -122,5 +134,7 @@ After approval, begin the first interior movement inside the Oku family house an
 - Do not name the stone boundary Ekpo, Ekpe or the Entity.
 - Preserve Bode's line distinguishing observation from permission.
 - Keep the scratched woman's identity hidden.
-- Verify Eyo's and the elder woman's language, the red binding and the boundary imagery before lock.
+- Treat Bode's speech-containment rule as his trauma-shaped belief until the story tests whether it is objectively true.
+- Treat the stone, tree roots and red binding as fictional Oku-family mythology; integrate verified regional elements only where they fit.
+- Verify Eyo's and Eno's regional cadence before lock.
 - The MiniDV envelope may be opened only after all three brothers have entered the house; that condition is now satisfied at the end of Sequence VII.
