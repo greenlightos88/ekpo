@@ -648,8 +648,8 @@ Late afternoon through next morning, Oku family compound outside Calabar.
 Movement:
 
 1. Compound introduced as contemporary and multigenerational.
-2. Eno greets Bode.
-3. Eno corrects the brothers' greeting.
+2. Bode greets Eno with `Mọkọm`; she answers `Ekọm do`.
+3. Eno corrects the brothers until they offer the same respectful greeting.
 4. She reads Solomon in Malik's face.
 5. She identifies Ade's mouth as family continuity.
 6. She recognizes Kai's looking without mystifying it.
@@ -679,9 +679,10 @@ Movement:
 
 Movement:
 
-1. Eggs, plantain, bread, tea, and leftover Afang establish household abundance and continuity.
-2. Eno wins the egg negotiation.
-3. Bode announces the land walk and possible continuation to the river.
+1. Eno greets the brothers as a group with `Emesiere`; they answer `Emesiere nde`.
+2. Eggs, plantain, bread, tea, and leftover Afang establish household abundance and continuity.
+3. Eno wins the egg negotiation.
+4. Bode announces the land walk and possible continuation to the river.
 
 ## Character matrix
 
@@ -729,6 +730,17 @@ Turn: Converts strangers-with-blood into nephews through greeting, touch, food, 
 
 Residue: Her authority can later challenge Bode's containment logic.
 
+## Cultural and language behavior
+
+- The late-afternoon Efik greeting is an act of family reintegration, not decorative vocabulary.
+- The brothers' repetition of `Mọkọm` shows respect without pretending fluency.
+- The morning call-and-response shows that they listened and can improve.
+- Eno uses Nigerian English with the brothers because it is shared; her Efik marks belonging and hierarchy.
+- Pidgin remains available for informal or public contexts but is not forced into every family line.
+- Register changes by relationship, not nationality.
+- No dialogue is spelled phonetically to simulate accent.
+- Shrine terminology is explicitly deferred until the regulator mythology receives specialist cultural review.
+
 ## Director's notebook
 
 ### Camera
@@ -761,7 +773,7 @@ Chronology: pass
 
 Eno geography: pass - first appearance is Calabar
 
-Cultural integrity: pass at working level; greeting and food service require Efik/Calabar reader
+Cultural integrity: researched working pass. Greeting forms are grounded; performance cadence, family-specific usage, and food service still require an Efik/Calabar reader.
 
 Supernatural causality: pass - no warning, omen, spider, or impossible event
 

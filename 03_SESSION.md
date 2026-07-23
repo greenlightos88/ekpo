@@ -145,6 +145,8 @@ No impossible object behavior or active Entity event remains before the shrine.
 
 - Eno's first appearance in Calabar
 - contemporary, lived-in Oku compound
+- late-afternoon `Mọkọm / Ekọm do` greeting
+- morning `Emesiere / Emesiere nde` exchange
 - greeting correction and physical family recognition
 - "This one still has mouth"
 - feeding before explanation
@@ -232,22 +234,38 @@ Parallel pressure:
 
 Before final dialogue lock:
 
-- Efik greeting behavior for adult nephews returning from Canada
-- Eno's code-switching between English, Nigerian Pidgin, and any Efik terms
-- regional accuracy of Pidgin used at Calabar airport
+- native Efik/Calabar performance review of greeting cadence and family-specific usage
+- Eno's longer-form code-switching in later acts
+- regional performance review of Pidgin used at Calabar airport
 - household serving order and kinship address
 - food combinations and time-of-day plausibility
 - exact geography and land-use texture outside Calabar
 - local handling of family land boundaries
-- culturally grounded name and maintenance practice for the shrine
-- spider-deity terminology and relationship to Ekpo/Efik cosmology
 - legal review only if Nigerian property transfer becomes plot-critical
 - airline/airport remains procedures only if later scenes foreground them
+
+Explicitly deferred until the shrine mythology pass:
+
+- culturally grounded shrine name
+- regulator maintenance terminology
+- ritual language
+- spider-force nomenclature
+- relationship to Efik/Ekpe/Ekpo cosmology
 
 Verified during this pass:
 
 - The Federal Airports Authority of Nigeria identifies the Calabar airport as Margaret Ekpo International Airport (IATA: CBQ, ICAO: DNCA).
 - Cross River State's Calabar Municipal materials identify Afang soup with Calabar cuisine and describe Calabar as a center of Efik culture.
+- Calabar sociolinguistic research supports English alongside indigenous languages and routine bi/multilingual code-switching.
+- Nigerian Pidgin scholarship treats Pidgin as a structured oral language used for phatic and informal communication across social strata, not as defective English.
+- Efik greeting references support `Mọkọm / Ekọm do` as a general or afternoon exchange and `Emesiere / Emesiere nde` as a morning greeting and response.
+
+Working references:
+
+- ERIC, "Emerging Sociolinguistic Teaching Trends of English as a First Language in Nigeria": https://eric.ed.gov/?id=EJ1286108
+- Bassey Ekpenyong, "Oracy in Nigerian English-based Pidgin as a product of colonial encounter": https://www.inst.at/trans/17Nr/1-3/1-3_ekpenyong17.htm
+- Efik phrase cross-check: https://omniglot.com/language/phrases/efik.htm
+- Efik elder-greeting behavior cross-check: https://philarchive.org/archive/UWAWPC
 
 ## Next step
 

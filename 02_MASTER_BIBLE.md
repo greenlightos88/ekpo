@@ -530,7 +530,30 @@ Act I grounds the Oku family in:
 - family memory as collective, contradictory ownership
 - a compound combining old and current technologies
 - land known through use before legal title
-- Nigerian Pidgin used sparingly in an ordinary airport interaction
+- Efik greeting used at the Oku compound as an act of respect and belonging
+- Nigerian Pidgin used naturally in an ordinary airport interaction
+
+## Language register
+
+The film does not have one undifferentiated "Nigerian voice."
+
+- Eno moves between Efik, Nigerian English, and Pidgin according to relationship. With the Canadian-raised nephews, English gives shared meaning; Efik greeting tests and restores family belonging.
+- Bode's Vancouver English is controlled. In Nigeria, code-switching returns without announcement because his social environment has changed.
+- Eyo and the extended family may move more freely between Efik, Nigerian English, and Pidgin with one another than they do with the brothers.
+- The brothers begin in Canadian English. Their use of Efik should be learned, uneven, and behaviorally meaningful rather than instantly fluent.
+- Pidgin belongs to educated and working speakers alike. Its use signals context, solidarity, compression, or negotiation—not intelligence.
+- Avoid phonetic accent writing. Syntax, word choice, rhythm, address, and code-switching carry voice.
+
+Working Act I phrases:
+
+- late afternoon/general greeting: `Mọkọm`
+- response: `Ekọm do`
+- morning greeting to the brothers as a group: `Emesiere`
+- response: `Emesiere nde`
+
+These phrases are a researched working lock. Pronunciation, performance rhythm, and family-specific usage still require an Efik/Calabar reader.
+
+Shrine terminology remains outside the language lock. The regulator, maintenance practice, ritual address, spider force, and relationship to Efik/Ekpe/Ekpo concepts must be developed later with specialist guidance.
 
 Guardrails:
 

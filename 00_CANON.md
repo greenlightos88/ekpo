@@ -62,6 +62,19 @@ Psychological pressure and human secrecy precede physical impossibility. After t
 
 Efik and Nigerian life appear through family hierarchy, food, humor, obligation, language, work, greeting, correction, and ordinary modern detail. Culture is never production decoration or an exposition device.
 
+Language register is relationship-specific:
+
+- Efik carries family greeting, elder respect, intimacy, and inherited belonging.
+- Nigerian English is the principal shared language with the Canadian-raised brothers.
+- Nigerian Pidgin is a complete social language used naturally for informality, public negotiation, solidarity, and code-switching. It is never shorthand for ignorance or menace.
+- Nigerian characters do not all share one cadence. Age, education, kinship, profession, and emotional objective shape register.
+- Do not spell English phonetically to manufacture an accent.
+- Efik and Pidgin should be legible through context rather than immediately translated by a character.
+
+Act I establishes `Mọkọm / Ekọm do` for the late-afternoon family greeting and `Emesiere / Emesiere nde` for the morning exchange. Final performance cadence remains subject to an Efik/Calabar dialogue reader.
+
+Shrine vocabulary, the regulator's culturally grounded name, ritual language, and the final relationship between the spider force and Efik/Ekpe/Ekpo cosmology are deliberately deferred. Do not invent terminology before specialist review.
+
 ## Visual language
 
 Each sequence carries one image that could belong only to EKPO. Motifs develop through changed meaning, not repetition alone.
