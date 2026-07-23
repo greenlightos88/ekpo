@@ -41,10 +41,10 @@ Emotional architecture
 
 ## Current Focus
 
-Sequence V — The Decision (lock review)
+Sequence VI — Departure
 
-Sequences I, II, III and IV are locked and must not be rewritten without an explicit new approval.
-Sequence V is drafted through the resumed-clock ending and is pending user approval.
+Sequences I through V are locked and must not be rewritten without an explicit new approval.
+Sequence VI is ready to draft.
 
 ---
 
@@ -238,12 +238,12 @@ Sequence V — The Decision.
 ## Sequence V — The Decision
 
 Status:
-Draft complete; pending user approval.
+Locked.
 
 Purpose:
 Transform Solomon's coercive-looking plan into a choice the brothers make for one another. The decision must belong to the living even though the dead created its terms.
 
-Draft movement:
+Locked movement:
 - Patel leaves after identifying the personal effects buried in Solomon's ceremonial casket.
 - Malik votes no and frames the journey as another dead man's attempt to reorganize their lives.
 - Kai argues from pattern: hidden carving, scratched photograph, batteryless camcorder and the unopened Calabar tape.
@@ -273,11 +273,11 @@ The vote plays against domestic silence. The retrieval repeats the funeral's met
 Unforgettable image:
 Malik hangs the clock crooked, knows it still loses a second and lets it keep moving.
 
-Current draft position:
+Current screenplay position:
 Sequence V ends on CUT TO BLACK.
 
 Next:
-Review and lock Sequence V, then begin Sequence VI — Departure.
+Sequence VI — Departure.
 
 ---
 

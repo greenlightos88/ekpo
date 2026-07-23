@@ -1,5 +1,5 @@
 # EKPO CANON
-Version: 1.5
+Version: 1.6
 
 ## Project Status
 
@@ -7,14 +7,15 @@ Development Phase:
 Prestige Rewrite
 
 Current Rewrite Target:
-Sequence V — The Decision (lock review)
+Sequence VI — Departure
 
 Current Screenplay Status:
 Sequence I is locked.
 Sequence II is locked through the columbarium ending.
 Sequence III is locked in full through the powerless-camcorder ending.
 Sequence IV is locked through the brothers' first vote.
-Sequence V has been drafted through the resumed-clock ending and awaits user approval.
+Sequence V is locked through the resumed-clock ending.
+Sequence VI is ready to draft.
 
 ---
 
@@ -271,12 +272,12 @@ Sequence V — The Decision.
 ## Sequence V — The Decision
 
 Status:
-Draft complete; pending user approval.
+Locked.
 
 Purpose:
 Make the Calabar journey the brothers' decision rather than Solomon's command. Convert the inherited obligation into a fragile act of solidarity.
 
-Draft movement:
+Locked movement:
 - Patel leaves after revealing that Solomon's ceremonial casket contained his blue suit, citizenship shoes, Efik Bible and three unopened letters.
 - Malik votes against the journey.
 - Kai argues that the hidden carving, scratched photograph, impossible camcorder and Calabar tape form a pattern he cannot ignore.
@@ -292,7 +293,7 @@ Draft movement:
 - Malik restores the battery to the stopped wall clock.
 - The clock still loses a second, but Malik hangs it crooked and allows it to keep moving.
 
-Locked only upon approval:
+Locked outcomes:
 - The journey is a two-to-one decision by the brothers, not compliance with the will.
 - Ade's vote is based on preserving the brotherhood rather than obeying Solomon.
 - Bode has no deciding vote and refuses to sell the brothers their own home.
@@ -303,11 +304,11 @@ Locked only upon approval:
 Unforgettable closing image:
 The batteryless clock moves again, still imperfect, and Malik knowingly leaves it hanging crooked.
 
-Current draft writing position:
+Current screenplay position:
 Sequence V ends on CUT TO BLACK after the clock resumes.
 
 Next structural movement:
-Review and lock Sequence V, then begin Sequence VI — Departure.
+Sequence VI — Departure.
 
 ---
 

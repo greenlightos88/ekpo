@@ -30,6 +30,7 @@
 - The brothers' preparation for Calabar dramatized through their distinct coping behaviours.
 - Bode's call to the Nigerian family establishes that they are expecting all three brothers while still withholding the hidden truth.
 - Malik restores the stopped clock and accepts its imperfect movement.
+- Sequence V approved and locked.
 
 ## Current Status
 
@@ -46,21 +47,20 @@ Sequence IV:
 Locked.
 
 Sequence V:
-Draft complete through the sequence-ending CUT TO BLACK; pending user approval.
+Locked.
 
 ## Next
 
-Review and lock Sequence V — The Decision.
-Once approved, begin Sequence VI — Departure.
+Begin Sequence VI — Departure.
 
 ## Continuity Directive
 
 - Preserve Sequences I and II as locked material.
 - Preserve Sequence III in full as locked material.
 - Preserve Sequence IV in full as locked material.
+- Preserve Sequence V in full as locked material.
 - Keep the house's supernatural activity ambiguous and rooted in behavioural or visual disruption.
 - Kai remains the first observer of camera-mediated anomalies.
-- Do not promote Sequence V from draft to locked canon without user approval.
 - Keep the scratched woman's identity hidden throughout Act I.
 - Treat the scratched-woman solution as provisional canon and revise it if it stops serving character, structure or mythology.
 - Preserve the locked casket-and-urn solution.
@@ -69,3 +69,5 @@ Once approved, begin Sequence VI — Departure.
 - Keep the MiniDV cassette sealed until all three brothers enter the Calabar house.
 - Keep the journey grounded in the brothers' own vote rather than simple obedience to Solomon.
 - Carry the restored but imperfect clock forward as Malik's first conscious acceptance of unresolved disorder.
+- Use Sequence VI to dramatize the brothers under travel pressure before Calabar introduces its own cultural and supernatural demands.
+- Keep Solomon's urn with the brothers throughout the journey.
