@@ -1,5 +1,5 @@
 # EKPO CANON
-Version: 1.1
+Version: 1.2
 
 ## Project Status
 
@@ -7,12 +7,13 @@ Development Phase:
 Prestige Rewrite
 
 Current Rewrite Target:
-Sequence III — The Wake
+Sequence III — The Wake (lock review)
 
 Current Screenplay Status:
 Sequence I is locked.
 Sequence II is locked through the columbarium ending.
 The approved opening of Sequence III is in the screenplay through the black-spider-on-banister beat.
+The remainder of Sequence III has been drafted through the powerless-camcorder ending and awaits user approval.
 
 ---
 
@@ -156,7 +157,7 @@ CUT TO BLACK.
 ## Sequence III — The Wake
 
 Status:
-In progress.
+Draft complete; continuation pending user approval.
 
 Approved screenplay range:
 From the brothers returning to Solomon's house through the final black-spider-on-banister beat.
@@ -169,8 +170,25 @@ Locked opening movement:
 - A floorboard creaks above the gathering.
 - Kai sees a black spider on the banister only through his camera; it is gone when he raises the camera again.
 
-Current canonical writing position:
-Immediately after the final CUT TO: following the disappearance of the spider.
+Draft continuation awaiting lock:
+- The wake finds its volume through food, condolences and domestic ritual.
+- Kai's footage contains a one-frame pattern disruption where the spider should be.
+- Eno finds the brass carving hidden in Solomon's blue drawer.
+- Bode asks who touched the carving and whether it felt warm.
+- A creased Calabar photograph is discovered beneath the carving.
+- The photograph shows young Solomon, Bode, Eno and a woman whose face has been scratched away.
+- Eno answers Kai's question with: "Someone your father loved badly."
+- Malik refuses to let the photograph be hidden again.
+- Bode tells the brothers that Solomon's lawyer is coming at nine.
+- Bode distinguishes Solomon's house from the inheritance awaiting them.
+- The batteryless camcorder records one second before going dark.
+- Kai says "Nothing," but Malik and Bode no longer let the word pass.
+
+Current draft writing position:
+Sequence III ends on CUT TO BLACK after the powerless camcorder records one second.
+
+Next structural movement:
+Sequence IV — The Will, pending approval and lock of the Sequence III continuation.
 
 ---
 

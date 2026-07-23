@@ -9,6 +9,10 @@
 - The distant watcher and the tap from inside the sealed stone incorporated.
 - Sequence III — The Wake begun.
 - The approved Sequence III opening incorporated through the black-spider-on-banister beat.
+- The remainder of Sequence III drafted through the powerless-camcorder ending.
+- The brass carving connected to a damaged Calabar photograph dated 1989.
+- The scratched-face mystery and the line "Someone your father loved badly" incorporated.
+- Solomon's lawyer established for the following morning.
 - Canon and Master Bible synchronized with the screenplay.
 
 ## Current Status
@@ -20,16 +24,19 @@ Sequence II:
 Locked.
 
 Sequence III:
-In progress; approved through the spider's disappearance and final CUT TO:.
+Opening locked through the spider's disappearance.
+Continuation drafted through the sequence-ending CUT TO BLACK; pending user approval.
 
 ## Next
 
-Continue Sequence III — The Wake from the line immediately after the final CUT TO:.
+Review and lock the Sequence III continuation.
+Once approved, begin Sequence IV — The Will.
 
 ## Continuity Directive
 
 - Preserve Sequences I and II as locked material.
-- Do not repeat or rewrite the approved opening of Sequence III.
+- Preserve the approved opening of Sequence III.
 - Keep the house's supernatural activity ambiguous and rooted in behavioural or visual disruption.
 - Kai remains the first observer of camera-mediated anomalies.
-- Develop Auntie Eno's recognition of the missing carving without converting the wake into an exposition scene.
+- Do not promote the Sequence III continuation from draft to locked canon without user approval.
+- Sequence IV must convert Solomon's inheritance from family mystery into the practical obligation that sends the brothers toward Calabar.
