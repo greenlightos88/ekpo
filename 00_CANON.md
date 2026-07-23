@@ -1,5 +1,5 @@
 # EKPO CANON
-Version: 1.7
+Version: 1.8
 
 ## Project Status
 
@@ -7,7 +7,7 @@ Development Phase:
 Prestige Rewrite
 
 Current Rewrite Target:
-Sequence VI — Departure
+Sequence VI — Departure (lock review)
 
 Current Screenplay Status:
 Sequence I is locked.
@@ -15,7 +15,7 @@ Sequence II is locked through the columbarium ending.
 Sequence III is locked in full through the powerless-camcorder ending.
 Sequence IV is locked through the brothers' first vote.
 Sequence V is locked through the resumed-clock ending.
-Sequence VI's integrity-tested architecture is approved and ready to draft.
+Sequence VI is drafted through the Calabar threshold ending and awaits user approval.
 
 ---
 
@@ -313,7 +313,7 @@ Sequence VI — Departure.
 ## Sequence VI — Departure
 
 Status:
-Architecture approved; screenplay not yet drafted.
+Draft complete; pending user approval.
 
 Purpose:
 Move the brothers across the first physical threshold from Solomon's Vancouver life toward the inheritance waiting in Calabar. Use travel pressure to expose character before Nigeria introduces its own cultural and supernatural demands.
@@ -340,7 +340,36 @@ Integrity rules:
 - The sequence must earn a new unforgettable image rather than recycling the urn, spider or stopped-clock images.
 
 Current screenplay position:
-Sequence VI is ready to draft from the locked architecture.
+Sequence VI ends on CUT TO BLACK after the brothers step into the Calabar heat together.
+
+Draft continuity solution:
+- A funeral home transfers Solomon's remains from the permanent brass urn into a sealed birch travel urn that can be screened.
+- The empty brass urn travels with the brothers.
+- Both containers remain in the brothers' carry-on possession.
+- The sealed passport envelope passes through security unopened and is entrusted to Bode by Kai.
+- This travel-container solution remains provisional until Sequence VI is approved.
+
+Draft implementation:
+- Malik presents the travel documents before the check-in agent requests them.
+- Ade's overweight suitcase exposes the brothers' ordinary friction before the emotional security-screening beat.
+- Canadian screening officers treat the remains respectfully, do not open the container and clear it after X-ray review and an exterior swab.
+- Kai triggers the metal detector because the sealed envelope still contains Solomon's brass key.
+- During the international flight, the destination name briefly disappears from Kai's seatback map; it returns as an ambiguous screen refresh rather than proof of pursuit.
+- Bode reveals that Cousin Eyo keeps the Calabar house.
+- In Lagos, Bode's posture and cadence become more confident as the brothers become less certain.
+- Kai's pattern recognition prevents Ade from taking the wrong suitcase.
+- Bode negotiates practical assistance in Nigerian Pidgin without treating the porter as a threat.
+- The Lagos-to-Calabar transfer preserves the urn and sealed envelope.
+- Margaret Ekpo International Airport is the Calabar arrival point.
+- At Calabar baggage claim, Kai again uses observable details to identify Ade's missing suitcase.
+- Bode negotiates a fair price with a persistent porter and restores order through competence.
+- The sequence ends when humidity fogs Kai's lens and one clear circle reveals a placard reading "OKU — FOUR."
+
+Unforgettable image:
+Calabar disappears behind condensation on Kai's lens except for one clear circle containing the hand-painted words "OKU — FOUR."
+
+Next structural movement:
+Review and lock Sequence VI, then begin the drive from the airport toward the Oku family house.
 
 ---
 

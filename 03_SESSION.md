@@ -33,6 +33,16 @@
 - Sequence V approved and locked.
 - Sequence VI integrity check completed and approved.
 - Sequence VI architecture locked around Vancouver departure, international travel, Lagos transfer and Calabar arrival.
+- Sequence VI — Departure drafted through the Calabar threshold ending.
+- The official Calabar arrival point established as Margaret Ekpo International Airport.
+- Solomon's remains transferred into a sealed birch travel urn for screening while the empty brass urn travels with the family.
+- Vancouver screening dramatized without opening or disrespecting the remains.
+- The sealed MiniDV envelope remains unopened and passes from Kai to Bode by choice.
+- The disappearing destination on the seatback map introduces a fresh ambiguous pattern disruption.
+- Lagos travel pressure establishes Bode's practical competence and the brothers' growing dependence.
+- Kai's pattern recognition receives practical baggage-claim payoffs.
+- Nigerian Pidgin enters through ordinary negotiation rather than menace or exposition.
+- The threshold image established as the fogged lens revealing "OKU — FOUR."
 
 ## Current Status
 
@@ -51,9 +61,13 @@ Locked.
 Sequence V:
 Locked.
 
+Sequence VI:
+Draft complete through the sequence-ending CUT TO BLACK; pending user approval.
+
 ## Next
 
-Draft Sequence VI — Departure from the approved architecture.
+Review and lock Sequence VI — Departure.
+Once approved, begin the drive from Margaret Ekpo International Airport toward the Oku family house.
 
 ## Continuity Directive
 
@@ -79,3 +93,5 @@ Draft Sequence VI — Departure from the approved architecture.
 - Avoid repeating the camera-only spider device.
 - Verify regional language and airport logistics before locking the Sequence VI dialogue.
 - End Sequence VI on a new threshold image that suggests anticipation without confirming pursuit.
+- Treat the birch travel-urn solution as provisional until Sequence VI is approved.
+- Preserve Cousin Eyo as the keeper of the Calabar house unless later cultural review reveals a stronger name or relationship.

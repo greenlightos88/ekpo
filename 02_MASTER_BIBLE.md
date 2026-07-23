@@ -41,10 +41,10 @@ Emotional architecture
 
 ## Current Focus
 
-Sequence VI — Departure
+Sequence VI — Departure (lock review)
 
 Sequences I through V are locked and must not be rewritten without an explicit new approval.
-Sequence VI's integrity-tested architecture is approved and ready to draft.
+Sequence VI is drafted through the Calabar threshold ending and is pending user approval.
 
 ---
 
@@ -284,7 +284,7 @@ Sequence VI — Departure.
 ## Sequence VI — Departure
 
 Status:
-Architecture approved; screenplay not yet drafted.
+Draft complete; pending user approval.
 
 Purpose:
 Carry the brothers from the familiar systems of Vancouver toward the inherited world of Calabar. The sequence should create pressure through travel, confinement and displacement before the land itself begins acting upon them.
@@ -320,7 +320,29 @@ Visual requirement:
 Create one new unforgettable threshold image during the draft. Do not reuse the urn-seatbelt, black-spider or stopped-clock images as the sequence's principal visual.
 
 Current position:
-Ready to draft.
+Sequence VI ends on CUT TO BLACK after the brothers step into the Calabar heat together.
+
+Draft travel-container solution:
+The funeral home transfers Solomon's remains from the brass urn into a sealed birch travel container suitable for airport screening. The empty brass urn travels with the family. Both remain in carry-on possession. This solution is provisional until the sequence is approved.
+
+Draft implementation:
+- Malik's mastery of paperwork controls the Vancouver check-in but cannot control the security image.
+- Ade's humour gives Malik's fear somewhere to stand without making the remains the joke.
+- The sealed passport envelope remains unopened during screening and moves from Kai's custody to Bode's by choice.
+- A disappearing destination name on the seatback map creates fresh pattern disruption without repeating the camera-spider device.
+- Bode identifies Cousin Eyo as the keeper of the Calabar house.
+- Lagos is presented through scale, fatigue, negotiation and lived competence rather than generalized chaos.
+- Kai's pattern recognition has practical value during baggage collection.
+- Bode uses restrained Nigerian Pidgin to hire and negotiate with individual porters.
+- The domestic flight lands at Margaret Ekpo International Airport in Calabar.
+- The final baggage confusion resolves through observation and negotiation, not criminal threat.
+- The fogged camera lens and the "OKU — FOUR" placard form the threshold image.
+
+Unforgettable image:
+Kai clears one circle in the condensation covering his lens. Inside it, the family placard "OKU — FOUR" is sharp while Calabar remains white.
+
+Next:
+Review and lock Sequence VI, then begin the drive toward the Oku family house.
 
 ---
 
