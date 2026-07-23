@@ -1,140 +1,89 @@
-# EKPO SESSION
+# EKPO SESSION CHECKPOINT
 
-## Completed
+Session date: July 23, 2026
+Canon version: 2.2
+Master Bible version: 2.2
+Branch: `integrate-approved-sequences`
 
-- Sequence I — The Last Morning locked.
-- Sequence II — The Funeral completed and locked through the columbarium ending.
-- Malik's line, "I'm trying not to make another mistake for him," incorporated.
-- Bode, Malik, Ade and Kai now carry Solomon's urn together.
-- The distant watcher and the tap from inside the sealed stone incorporated.
-- Sequence III — The Wake begun.
-- The approved Sequence III opening incorporated through the black-spider-on-banister beat.
-- Sequence III approved and locked in full through the powerless-camcorder ending.
-- The brass carving connected to a damaged Calabar photograph dated 1989.
-- The scratched-face mystery incorporated.
-- Solomon's lawyer established for the following morning.
-- The scratched woman approved as provisional working canon.
-- Her hidden identity established as Solomon and Bode's younger sister and the former keeper of the balance shrine.
-- Her later Calabar appearance established as a damaged guardian rather than the villain.
-- The rescue of Kai established as the brothers' opportunity to correct Solomon's abandonment of his sister.
-- Canon and Master Bible synchronized with the screenplay.
-- Sequence IV — The Will drafted through the brothers' first vote.
-- The casket-and-urn continuity provisionally resolved: Solomon was cremated, his casket held selected effects and his ashes remained in the brass urn.
-- Maya Patel, the thirty-day Calabar condition, four prepaid itineraries, cemetery release, brass key and sealed MiniDV tape introduced.
-- Sequence IV approved and locked.
-- The casket-and-urn continuity promoted from provisional to locked canon.
-- Sequence V — The Decision drafted through the resumed-clock ending.
-- Malik votes against Calabar; Kai and Ade vote to go.
-- Ade's vote established as a choice to preserve the brotherhood rather than obey Solomon.
-- Solomon's urn retrieved from Mountain View and returned to the family.
-- The brothers' preparation for Calabar dramatized through their distinct coping behaviours.
-- Bode's call to the Nigerian family establishes that they are expecting all three brothers while still withholding the hidden truth.
-- Malik restores the stopped clock and accepts its imperfect movement.
-- Sequence V approved and locked.
-- Sequence VI integrity check completed and approved.
-- Sequence VI architecture locked around Vancouver departure, international travel, Lagos transfer and Calabar arrival.
-- Sequence VI — Departure drafted through the Calabar threshold ending.
-- The official Calabar arrival point established as Margaret Ekpo International Airport.
-- Solomon's remains transferred into a sealed birch travel urn for screening while the empty brass urn travels with the family.
-- Vancouver screening dramatized without opening or disrespecting the remains.
-- The sealed MiniDV envelope remains unopened and passes from Kai to Bode by choice.
-- The disappearing destination on the seatback map introduces a fresh ambiguous pattern disruption.
-- Lagos travel pressure establishes Bode's practical competence and the brothers' growing dependence.
-- Kai's pattern recognition receives practical baggage-claim payoffs.
-- Nigerian Pidgin enters through ordinary negotiation rather than menace or exposition.
-- EKPO retained as the working title, with final title lock deferred pending cultural verification.
-- EKPO defined provisionally as the Oku family's ancestral inheritance, not the spider-associated Entity.
-- The Entity established as a distinct force the lineage was responsible for containing.
-- A cultural verification gate added to distinguish Ekpo from Ekpe and validate the title's use in the film's Efik-Calabar setting.
-- The threshold image established as the fogged lens revealing "OKU — FOUR."
-- Sequence VII — The Road Home drafted through the Oku house threshold ending.
-- Cousin Eyo introduced as the practical keeper of the house and Bode's bridge back into family life.
-- Calabar dramatized through ordinary movement, trade, humour, family and infrastructure rather than spectacle.
-- Kai sees a real stone boundary structure held in tree roots and marked by faded red fibre.
-- Bode establishes the rule: a picture is not permission.
-- The Entity remains inactive because Kai has not crossed or broken the boundary.
-- Malik answers Auntie Eno's recognition of Solomon with, "We brought him."
-- The 1989 photograph aligns with the present house; the scratched face covers the doorway and the tree root reaches the threshold.
-- All three brothers enter the Calabar house while the MiniDV envelope remains sealed.
-- Auntie Eno removed from the Vancouver wake and restored to the Calabar family house.
-- Eno established as Solomon and Bode's cousin, the intact young woman in the 1989 photograph and a witness to the 1989 failure.
-- Eno and the scratched missing sister confirmed as separate characters.
-- Bode now identifies the missing carving during the Vancouver wake; Malik and Kai uncover the carving and photograph themselves.
-- Bode identifies Solomon as the person who damaged the photograph but withholds the scratched woman's identity.
-- "Someone your father loved badly" relocated from Vancouver to the first sustained interior scene in the Calabar house.
-- The anonymous elder at the compound replaced by Auntie Eno.
-- Bode's withholding clarified as a protective belief that names and stories can create routes for attention or invitation.
-- The stone, tree roots and red binding established as a fictional Oku-family containment system rather than a claim about universal Efik practice.
+## Completed in this session
 
-## Current Status
+- Established that the brothers’ mother left Solomon while the boys were young.
+- Kept the mother separate from Auntie Eno and the scratched woman.
+- Removed every active supernatural beat in Vancouver.
+- Removed the watcher and tap from the columbarium ending.
+- Removed the camera-only spider, corrupted footage, moving photograph and batteryless camcorder recording.
+- Reframed the damaged photograph as evidence of Solomon’s guilt rather than a supernatural route.
+- Established the scratched woman as Solomon and Bode’s younger sister.
+- Established that she died during the 1989 failure because Solomon underestimated the Entity and left her carrying the containment burden.
+- Removed the missing-sister, ageless-survivor and damaged-guardian versions.
+- Preserved Bode’s uncertain knowledge boundary.
+- Interrupted Bode’s photograph answers with ordinary family activity and a departing car.
+- Collapsed the full travel sequence into a short exterior arrival at **Calabar Airport**.
+- Removed Vancouver airport, visa, boarding, international-flight, Lagos-transfer and Calabar baggage-procedure scenes.
+- Replaced the explicit Bode/Eyo mythology explanation in the vehicle with an ordinary traffic interruption.
+- Removed the duplicated Oku family compound scene heading.
+- Synchronized the Screenplay, Canon and Master Bible with the new rules.
 
-Sequence I:
-Locked.
+## Current screenplay status
 
-Sequence II:
-Locked.
+- Sequence I — **The Last Morning**: revised, structurally locked.
+- Sequence II — **The Funeral**: revised, structurally locked.
+- Sequence III — **The Wake**: revised, structurally locked.
+- Sequence IV — **The Will**: revised, structurally locked.
+- Sequence V — **The Decision**: revised, structurally locked.
+- Sequence VI — **Arrival**: consolidated draft complete.
+- Sequence VII — **The Road Home**: draft complete through the Oku family compound arrival.
 
-Sequence III:
-Locked in full.
+## Current absolute rules
 
-Sequence IV:
-Locked.
+1. No supernatural activity occurs before Kai breaks the shrine boundary.
+2. Vancouver unease comes only from grief, secrecy, coincidence and human behaviour.
+3. The roadside shrine is physical and inactive until Kai crosses and breaks its binding.
+4. The boys’ mother left the family when they were young.
+5. The scratched woman is the deceased younger sister of Solomon and Bode.
+6. Solomon’s failure to take the Entity seriously contributed directly to her death.
+7. The photograph is not a magical conduit.
+8. Bode does not identify the scratched woman to the brothers in Act I.
+9. Eno remains Solomon and Bode’s cousin at the Calabar compound.
+10. The screenplay calls the arrival point **Calabar Airport**.
+11. The title **EKPO** remains provisional in meaning until its cultural interpretation and mythology are verified.
 
-Sequence V:
-Locked.
+## Next writing target
 
-Sequence VI:
-Draft complete through the sequence-ending CUT TO BLACK; pending user approval.
+Begin the first sustained sequence inside the Calabar house:
 
-Sequence VII:
-Draft complete through the sequence-ending CUT TO BLACK; pending user approval.
+- family welcome;
+- food and lived Efik/Calabar texture;
+- the brothers’ outsider status;
+- the sealed MiniDV tape waiting to be opened;
+- no supernatural activity;
+- Bode and Eno’s conflicting forms of protection;
+- the first clear emotional consequences of Solomon’s return.
 
-## Next
+## Integrity checks before the next commit
 
-Review Sequence VII — The Road Home.
-After approval, begin the first interior movement inside the Oku family house and open the sealed MiniDV message at a character-driven moment.
+- Fountain syntax and page rendering.
+- No pre-shrine supernatural residue.
+- No visa or dramatized travel residue.
+- No Margaret Ekpo Airport naming residue.
+- No alive/missing/guardian version of the scratched woman.
+- No photographic-conduit rule.
+- No contradiction among the four canonical project files.
 
-## Continuity Directive
+## Verification results
 
-- Preserve Sequences I and II as locked material.
-- Preserve Sequence III in full as locked material.
-- Preserve Sequence IV in full as locked material.
-- Preserve Sequence V in full as locked material.
-- Keep the house's supernatural activity ambiguous and rooted in behavioural or visual disruption.
-- Kai remains the first observer of camera-mediated anomalies.
-- Keep the scratched woman's identity hidden throughout Act I.
-- Treat the scratched-woman solution as provisional canon and revise it if it stops serving character, structure or mythology.
-- Preserve the locked casket-and-urn solution.
-- Preserve the brothers' meaningful right to refuse the Calabar condition without debt or penalty.
-- Preserve the Nigerian property transfer through a separate local instrument held by Calabar counsel.
-- Keep the MiniDV cassette sealed until all three brothers enter the Calabar house.
-- Keep the journey grounded in the brothers' own vote rather than simple obedience to Solomon.
-- Carry the restored but imperfect clock forward as Malik's first conscious acceptance of unresolved disorder.
-- Use Sequence VI to dramatize the brothers under travel pressure before Calabar introduces its own cultural and supernatural demands.
-- Keep Solomon's urn with the brothers throughout the journey.
-- Keep the urn as protected carry-on and the MiniDV cassette sealed.
-- Do not imply that the Entity is travelling with the family before Kai breaks the shrine.
-- Make Bode's increased authority practical and culturally grounded rather than mysterious.
-- Avoid repeating the camera-only spider device.
-- Verify regional language and airport logistics before locking the Sequence VI dialogue.
-- End Sequence VI on a new threshold image that suggests anticipation without confirming pursuit.
-- Treat the birch travel-urn solution as provisional until Sequence VI is approved.
-- Preserve Cousin Eyo as the keeper of the Calabar house unless later cultural review reveals a stronger name or relationship.
-- Preserve Eno in Calabar; she does not appear during the Vancouver wake.
-- Preserve Eno as Solomon and Bode's cousin and keep her distinct from their missing younger sister.
-- Reserve "Someone your father loved badly" for Eno inside the Calabar house.
-- Preserve EKPO as the working title, not a locked final title.
-- Do not call the spider-associated Entity "Ekpo."
-- Treat EKPO as the ancestral inheritance framework: the dead, the lineage, memory, authority and inherited obligation.
-- Keep the shrine, Ekpo, Ekpe and the Entity conceptually distinct unless cultural verification supports a more precise relationship.
-- Before final title and mythology lock, obtain Efik-Calabar cultural review and Ibibio-informed review wherever the terminology crosses traditions.
-- If verification contradicts the intended usage, revise the mythology or retitle the film rather than forcing the term.
-- Treat Sequence VI as working continuity while its formal lock remains pending.
-- Keep Sequence VII's roadside boundary physically real; do not convert it into an Entity hallucination.
-- Do not name the stone boundary Ekpo, Ekpe or the Entity.
-- Preserve Bode's line distinguishing observation from permission.
-- Keep the scratched woman's identity hidden.
-- Treat Bode's speech-containment rule as his trauma-shaped belief until the story tests whether it is objectively true.
-- Treat the stone, tree roots and red binding as fictional Oku-family mythology; integrate verified regional elements only where they fit.
-- Verify Eyo's and Eno's regional cadence before lock.
-- The MiniDV envelope may be opened only after all three brothers have entered the house; that condition is now satisfied at the end of Sequence VII.
+- Better Fountain parser: passed.
+- Parsed scenes: 25.
+- Parsed character cues: 461, with no false action-line character cues.
+- U.S.-Letter screenplay render: 85 pages.
+- UTF-8 encoding: passed for all four project files.
+- Git whitespace check: passed.
+- Pre-shrine supernatural residue scan: passed.
+- Legacy sister/guardian/photo-route contradiction scan: passed.
+- Travel and airport naming scan: passed.
+
+## Remaining structural warning
+
+The screenplay currently reaches 85 rendered pages by the Oku compound arrival. The travel consolidation removed substantial excess, but the feature is still overlength at this story position.
+
+Do not conceal this by calling the current act structure locked. Before the complete feature is assembled, Sequences I–VII require a dedicated compression pass that preserves their emotional turns while reducing repeated action beats, white-space inflation and delayed scene exits.

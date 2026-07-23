@@ -1,483 +1,746 @@
 # EKPO MASTER DEVELOPMENT BIBLE
 
-## Vision
+Version: 2.2
+Synchronized with: `00_CANON.md` v2.2
 
-EKPO is prestige cinema rooted in Efik spirituality, migration, grief and inherited memory.
+## 1. Vision statement
 
----
+EKPO is a psychological supernatural family drama about three Canadian-raised Nigerian brothers who inherit their father’s final journey home.
 
-## Working Title and Mythology Meaning
+What begins as a funeral obligation becomes an encounter with an inheritance older than their relationship with him. The film explores grief, migration, identity, silence and generational responsibility through an Efik and Cross River setting.
 
-Working title:
-EKPO
+Its horror does not begin with a monster.
 
-Development decision:
-Continue under EKPO, but defer final title lock until cultural verification is complete.
+It begins with what a father refused to explain.
 
-Intended dramatic meaning:
-EKPO names the ancestral inheritance of the Oku family: the dead, lineage, inherited authority, memory and obligation. It does not name the spider-associated Entity.
+The audience should leave asking where grief ends, where inheritance begins and whether protection without truth is another form of abandonment.
 
-Mythological architecture:
-- The ancestors and the inheritance system form the thematic domain named by EKPO.
-- The spider-associated Entity is a separate contained adversarial force.
-- The Oku lineage inherited responsibility for maintaining the boundary that contains that force.
-- The shrine regulates balance; it is not automatically synonymous with Ekpo, Ekpe or the Entity.
-- The film must dramatize this distinction before the mythology is fully revealed.
+## 2. Creative manifesto
 
-Cultural integrity gate:
-Before final title lock, obtain review from an Efik cultural authority from Calabar and an Ibibio-informed authority wherever the terminology crosses traditions. Confirm the meaning and pronunciation of "Ekpo," its distinction from "Ekpe," the accuracy of its ancestral usage in an Efik-Calabar story, and whether any sacred or restricted associations require revision.
+### What EKPO is
 
-Failure condition:
-If the intended usage cannot be supported, either rebuild the mythology around a culturally accurate meaning or retitle the film. A culturally unsupported title cannot remain merely because it is evocative.
+- patient;
+- intimate;
+- emotionally restrained;
+- culturally specific;
+- psychologically truthful;
+- visually deliberate;
+- spiritually unsettling.
 
-Production-language note:
-The official airport name does not determine the film title. Screenplay references may use "Calabar Airport" for immediate clarity.
+### What EKPO is not
 
----
+- jump-scare-first horror;
+- folklore exploitation;
+- mythology delivered as exposition;
+- a generic haunted-house story;
+- a story in which Nigerian culture itself is the threat;
+- a film about defeating a simple evil.
 
-## Theme
+### Audience contract
 
-Inheritance.
-Silence.
-Identity.
-Family.
-Migration.
-Faith.
-Memory.
+> We will never scare the audience more than we first make them care.
 
----
+## 3. Permanent creative rules
 
-## Emotional Rule
+### Behaviour before explanation
 
-We never scare the audience before making them care.
+Characters perform their wounds:
 
----
+- Malik corrects disorder.
+- Ade restores social oxygen with humour.
+- Kai studies incomplete patterns.
+- Bode protects through omission.
 
-## Bode's Protective Speech Belief
+### Emotional truth before horror
 
-Bode believes names and detailed stories can create routes for dangerous attention or invitation. He restricts certain information to enclosed spaces he considers containable.
+Every supernatural escalation must follow an emotional truth that makes it matter.
 
-This is a character belief shaped by trauma and inherited ritual, not yet confirmed objective cosmology. The screenplay must dramatize both its partial usefulness and its human cost. His silence eventually fails because it leaves the brothers without the knowledge needed to make informed choices.
+### Culture through life
 
----
+Efik and Nigerian specificity should arrive through:
 
-## Rewrite Philosophy
+- kinship;
+- food;
+- greeting;
+- humour;
+- prayer;
+- language;
+- hierarchy;
+- domestic practice;
+- responsibility to the dead.
 
-Preserve:
-Story
-Chronology
-Mythology
+Culture is not production decoration or shorthand for danger.
 
-Rewrite:
-Dialogue
-Behaviour
-Visual storytelling
-Emotional architecture
+### One memorable image per sequence
 
----
+Every sequence must leave at least one image that survives after its dialogue is forgotten.
 
-## Current Focus
+## 4. Supernatural architecture
 
-Sequence VII — The Road Home (draft review)
+### Phase One — Human absence
 
-Sequences I through V are locked and must not be rewritten without an explicit new approval.
-Sequence VI is drafted through the Calabar threshold ending and is pending user approval.
-Sequence VII is drafted through the brothers' entry into the Oku family house and is pending user approval.
+Vancouver contains no supernatural activity.
 
----
+The pressure comes from:
 
-## Sequence I — The Last Morning
+- Solomon’s death;
+- the mother’s earlier departure;
+- unfinished family relationships;
+- damaged objects;
+- withheld information;
+- grief changing how ordinary rooms feel.
 
-Status:
-Locked.
+### Phase Two — Physical warning
+
+Calabar introduces a real boundary:
+
+- stone;
+- tree roots;
+- red binding;
+- a door-like panel;
+- family members who know not to cross.
+
+Its existence is not itself a supernatural event.
+
+### Phase Three — The breach
+
+The Entity becomes active toward the brothers only after Kai crosses the shrine boundary and breaks the red binding.
+
+This is the film’s absolute supernatural threshold.
+
+### Phase Four — Psychological invasion
+
+After the breach, attacks begin by exploiting the brothers’ existing wounds. Pain is real to them, but conventional physical damage is absent.
+
+Possible manifestations after activation include:
+
+- dreams;
+- missing time;
+- distorted perception;
+- impossible sound;
+- intensified talking-drum patterns;
+- the sensation of bodily injury without a wound;
+- personalized visions;
+- manipulation of what Kai thinks images reveal.
+
+### Phase Five — Shared recognition
+
+The brothers eventually experience the same manifestation and can no longer isolate one another through disbelief.
+
+### Phase Six — Burial and trial
+
+Kai is taken for the final ritual. The rescue fails. All three brothers are buried and forced to confront versions of themselves that never matured.
+
+### Phase Seven — False victory
+
+The brothers reject control, find one another and dig themselves out.
+
+The final turn reveals perfect doubles emerging from the graves they escaped, setting up the next film.
+
+## 5. The human family history
+
+### Solomon and the boys’ mother
+
+The boys’ mother left Solomon while the brothers were young.
+
+Her absence is not mythology:
+
+- she was not consumed by the Entity;
+- she is not secretly in Calabar;
+- she is not the scratched woman;
+- she is not Eno;
+- the story does not presently rely on a late reunion.
+
+Her departure is part of the emotional environment in which Malik learned control, Ade learned humour and Kai learned observation.
+
+### The 1989 failure
+
+The damaged photograph captures four young people outside the Oku house:
+
+- Solomon;
+- Bode;
+- Eno;
+- Solomon and Bode’s unnamed younger sister.
+
+The younger sister understood the danger around the balance shrine and carried much of the family’s containment burden.
+
+Solomon underestimated the Entity.
+
+He minimized her warnings, failed to act with the seriousness the danger required and left her doing the heavy work alone.
+
+She died during the resulting failure.
+
+This death is a moral wound in the family and the clearest proof that Solomon’s protective instincts were compromised by denial.
+
+### Solomon’s damage to the photograph
+
+Solomon later scratched his sister’s face from the picture.
+
+The act is not a spell.
+
+It expresses:
+
+- guilt;
+- denial;
+- shame;
+- his inability to live beside the evidence of what his ignorance cost.
+
+The photograph never changes on its own.
+
+### Bode’s silence
+
+Bode knows more than he says, but the screenplay does not yet define the full reach of his knowledge.
+
+He believes speaking certain truths can create attention or invitation. The film treats this as his protective belief until later events verify, complicate or disprove it.
+
+When asked about the damaged photograph:
+
+- he identifies Eno;
+- he studies the erased face;
+- he does not name the sister;
+- he does not explain her death;
+- mundane activity interrupts the exchange;
+- later questioning is again deferred.
+
+The scene must feel like family avoidance, not a writer withholding a puzzle answer.
+
+## 6. Character bible
+
+### Solomon Oku
+
+Function:
+
+Absent protagonist.
+
+Contradiction:
+
+He tried to protect his sons from an inheritance while reproducing its central damage: silence.
+
+Behavioural legacy:
+
+- repaired objects;
+- incomplete instructions;
+- carefully placed evidence;
+- routines frozen in domestic space.
+
+Secret:
+
+His younger sister died after he underestimated the Entity and failed to share the containment burden.
+
+### Malik Oku
+
+Function:
+
+The eldest brother who mistakes control for care.
+
+Behaviour:
+
+- aligns;
+- checks;
+- documents;
+- cleans;
+- manages;
+- carries the urn alone whenever possible.
+
+Fear:
+
+That one missed detail will cost someone he loves.
+
+Entity pressure after activation:
+
+Situations in which preparation cannot save anyone.
+
+Arc:
+
+From bearing everything alone to accepting shared responsibility without domination.
+
+### Ade Oku
+
+Function:
+
+The social bridge.
+
+Behaviour:
+
+- jokes;
+- translates tension;
+- feeds conversation;
+- redirects conflict;
+- notices who is being left outside the group.
+
+Fear:
+
+That without his usefulness to other people, he disappears.
+
+Entity pressure after activation:
+
+Rooms in which no one hears him, needs him or reacts.
+
+Arc:
+
+From deflection to emotionally direct presence.
+
+### Kai Oku
+
+Function:
+
+The pattern recognizer and boundary breaker.
+
+Behaviour:
+
+- frames;
+- compares;
+- returns to incomplete images;
+- notices missing objects;
+- follows questions after others stop.
+
+Camera rule:
+
+Before the shrine break, the camera records ordinary reality. After activation, the Entity can manipulate Kai’s perception of evidence, but photographs are not magical conduits.
+
+Fear:
+
+That truth exists but he will fail to see it.
+
+Entity pressure after activation:
+
+Perfectly convincing patterns that reward curiosity while separating him from reality.
+
+Arc:
+
+From observation without responsibility to knowledge joined with choice.
+
+### Bode Oku
+
+Function:
+
+Guide, uncle and flawed protector.
+
+Behaviour:
+
+- answers precisely when he chooses to answer;
+- uses restraint rather than theatrical mystery;
+- watches reactions;
+- carries knowledge as though language itself has consequences.
+
+Fear:
+
+That truth will invite danger before the brothers can survive it.
+
+Flaw:
+
+His withholding repeats Solomon’s mistake even when motivated by love.
+
+### Auntie Eno
+
+Function:
+
+The Calabar house’s emotional gravity and living witness to 1989.
+
+Location:
+
+The Oku family compound in Calabar.
+
+Relationship:
+
+Solomon and Bode’s cousin.
+
+Knowledge:
+
+She knows the sister died and knows Solomon’s denial helped cause it.
+
+Behaviour:
+
+- warmth through discipline;
+- food before explanation;
+- direct observation;
+- little patience for romanticized homecoming.
+
+### Eyo Oku
+
+Function:
+
+Caretaker, driver and practical bridge into the family’s lived Calabar world.
+
+Voice:
+
+Regional Nigerian English and Pidgin used naturally, not as comic decoration.
+
+Knowledge:
+
+He recognizes the family’s boundaries and Bode’s habits, but should not become an exposition machine.
+
+## 7. Mythology bible
+
+### EKPO
+
+Working dramatic meaning:
+
+The inherited relationship among the Oku dead, living lineage, memory, authority and obligation.
+
+Open research requirement:
+
+Verify the interpretation and language with knowledgeable Efik sources before cultural lock.
+
+### The Entity
+
+A separate adversarial force once contained by the Oku lineage.
+
+It is not automatically called Ekpo.
+
+It attacks attachment rather than flesh and becomes active toward the brothers only after Kai breaks the shrine.
+
+### The shrine
+
+A fictional Oku-family balance regulator built into stone and held by tree roots.
+
+It should not be presented as a universal Efik practice.
+
+Current fictional rules:
+
+1. The boundary is visible and physical.
+2. Stone markers define where not to step.
+3. A wooden panel is bound with faded red fibre.
+4. The binding helps maintain balance or containment.
+5. Looking at or filming it does not activate anything.
+6. Breaking the binding releases the threat.
+7. The talking-drum sound motif begins as an active supernatural pressure only after the break.
+
+### Cultural verification rule
+
+When a real Cross River, Efik or Nigerian practice can support the story, research and integrate it.
+
+When no verified practice fits, label the mechanism as fictional family mythology rather than presenting invention as fact.
+
+## 8. Visual bible
+
+### Vancouver
+
+Palette:
+
+- rain grey;
+- cedar green;
+- brass;
+- weak dawn;
+- funeral black;
+- domestic amber.
+
+Camera:
+
+- patient frames;
+- negative space;
+- objects before explanation;
+- no supernatural point-of-view effects.
+
+Principle:
+
+Grief makes the house feel altered without the house doing anything impossible.
+
+### Calabar arrival
+
+Palette:
+
+- white heat;
+- red earth;
+- saturated green;
+- faded paint;
+- family clothing and food as lived colour.
+
+Camera:
+
+- the brothers enter an already moving world;
+- people do not pause to become scenery;
+- humidity, traffic and proximity replace Vancouver’s controlled distance.
+
+### The shrine
+
+Image:
+
+Stone held in the roots of a silk-cotton tree as though the land is maintaining what people neglected.
+
+Before the breach:
+
+Natural sound, physical detail and Bode’s reaction create tension.
+
+After the breach:
+
+Sound and perception may become impossible.
+
+## 9. Sound bible
+
+### Before the shrine break
+
+All sound is physically explainable:
+
+- kettle;
+- refrigerator;
+- pipes;
+- funeral feedback;
+- rain;
+- traffic;
+- family conversation;
+- road noise;
+- insects;
+- ordinary drums within real community life.
+
+Do not use an unexplained talking-drum call as Entity activity before the break.
+
+### After the shrine break
+
+The talking drum may function as pressure rather than conventional score:
+
+- first felt in the chest;
+- minimal;
+- difficult to locate;
+- responsive;
+- linked to the Entity’s attention.
+
+## 10. Object bible
+
+### Brass funerary urn
+
+Meaning:
+
+Malik’s attempt to make grief clean, containable and carryable.
+
+Continuity:
+
+- used at the funeral;
+- removed from the niche;
+- emptied for travel;
+- travels wrapped in Malik’s carry-on.
+
+### Birch travel urn
+
+Meaning:
+
+The practical body of Solomon’s last instruction.
+
+Continuity:
+
+- sealed by the funeral home;
+- holds the ashes in Calabar;
+- remains in Malik’s physical custody on arrival.
+
+### Damaged photograph
+
+Meaning:
+
+Human guilt made visible.
+
+Rule:
+
+Never changes by itself and never functions as a supernatural route.
+
+### Brass carving
+
+Meaning:
+
+Evidence that Solomon retained contact with the history he claimed to leave.
+
+Rule:
+
+Not active supernatural proof in Vancouver.
+
+### Camcorder
+
+Meaning:
+
+Solomon’s abandoned record.
+
+Rule:
+
+Dead without its battery in Vancouver.
+
+### MiniDV tape
+
+Meaning:
+
+Solomon controlling the conditions under which he will finally speak.
+
+Rule:
+
+Opened only when all three brothers are inside the Calabar house.
+
+### Wall clock
+
+Meaning:
+
+Malik’s need to correct time after death has made correction impossible.
+
+Rule:
+
+Mechanically unreliable, never supernatural before the shrine break.
+
+## 11. Sequence bible
+
+### Sequence I — The Last Morning
 
 Purpose:
-Introduce Solomon as the absent protagonist through the domestic life he left behind. Establish each brother's coping mechanism before the funeral.
 
-Locked behavioural language:
-- Malik corrects disorder, checks systems and removes uncertainty.
-- Ade uses humour to revive emotional circulation; failed jokes expose danger.
-- Kai recognizes incomplete patterns and cannot comfortably abandon them.
+Introduce Solomon through absence and establish each brother’s coping mechanism.
 
-Locked visual elements:
-- Walking stick, polished shoes and prayer beads at the entrance.
-- Achebe, Soyinka, Efik Bible and immigration manuals.
-- Brass leopard and unidentified brass carving.
-- Gari, crayfish, Maggi, Peak Milk and Ovaltine.
-- One thriving plant beside two dead plants.
-- Intentionally crooked family photograph.
-- Empty dust rectangle indicating a missing object.
-- Solomon's dead camcorder.
-- Batteryless wall clock moving once after the brothers leave.
+Key image:
 
-Unforgettable image:
-The house waits for Solomon to come downstairs.
+The house waits for a man who will not come downstairs.
 
-Mythological seed:
-A small brass carving is discovered but not explained. A black spider appears only through Kai's camera frame.
+Revision rule:
 
-Transition:
-Malik carries the brass urn from the house into Sequence II, The Funeral.
+The mother appears in earlier family photographs and is absent from later childhood images. No supernatural beat occurs.
 
----
-
-## Sequence II — The Funeral
-
-Status:
-Locked through the columbarium ending.
+### Sequence II — The Funeral
 
 Purpose:
-Move the brothers from private grief into public ritual, then turn the burden of Solomon's remains into the first consciously shared act of inheritance.
 
-Emotional movement:
-- Malik attempts to control the ceremony through observation, checking and precision.
-- Ade briefly restores warmth through humour, then lets silence take over.
-- Kai detects disturbances without being able to prove them.
-- Bode stabilizes the family through presence rather than exposition.
+Make the brothers share the physical weight of Solomon before they understand the inherited one.
 
-Locked dialogue:
-- Malik: "I'm trying not to make another mistake for him."
-- Bode: "Then let us carry him together."
+Locked lines:
 
-Locked inheritance image:
-Bode, Malik, Ade and Kai carry the brass urn together toward the columbarium. No single person bears the weight.
+- Malik: **“I’m trying not to make another mistake for him.”**
+- Bode: **“Then let us carry him together.”**
 
-Sound language:
-Rain, shoes on wet concrete, metal against granite and the final tightening of bolts replace a conventional score.
+Key image:
 
-Mythological escalation:
-- A distant watcher stands at the far end of the columbarium corridor.
-- The watcher vanishes when Kai blinks.
-- A faint tap comes from inside the sealed stone.
-- The event remains unconfirmed because only Kai reacts.
+Four men carrying one urn.
 
-Closing image:
-Kai listens at the sealed columbarium while the others remain unaware.
+Revision rule:
 
-Transition:
-CUT TO BLACK, then return to Solomon's house for Sequence III.
+The microphone feedback is technical. No watcher or tap closes the sequence.
 
----
-
-## Sequence III — The Wake
-
-Status:
-Locked in full.
+### Sequence III — The Wake
 
 Purpose:
-Move grief from the public funeral back into Solomon's domestic space. Establish that the house is not visibly haunted, but feels occupied and attentive.
 
-Approved opening movement:
-- The brothers and Bode return to Solomon's house in silence.
-- Malik places his shoes beside Solomon's, recognizes the gesture and moves them away.
-- Bode observes that funerals are noisy and the quiet starts afterwards.
-- Malik finds the kitchen towel folded differently; after he corrects it, it falls untouched.
-- Kai sees the missing shelf space appear darker through his viewfinder.
-- Neighbours arrive with food and perform the familiar choreography of mourning.
-- Bode identifies the missing carving as a concrete absence and learns that Kai touched it.
-- The lights flicker, conversation resumes and a floorboard creaks above the gathering.
-- Kai sees a black spider waiting on the banister only through his camera. When he raises the camera again, it is gone.
+Move grief into domestic family space and introduce the first human evidence of Calabar.
 
-Character work:
-- Malik denies the impossible by naming a practical cause: "Humidity."
-- Ade notices Malik's disturbance without making a joke.
-- Kai continues to experience the supernatural through disrupted visual patterns.
-- Bode's recognition of the empty shelf reveals knowledge without importing Eno into Vancouver.
+Key image:
 
-Unforgettable image:
-A black spider waits on the banister inside Kai's viewfinder and vanishes outside it.
+The scratched woman remains face-up on the kitchen counter after Malik refuses to hide her again.
 
-Locked continuation:
-- The wake becomes socially alive through food, overlapping condolences and relatives who refuse to let the brothers grieve on empty stomachs.
-- Kai discovers that the spider does not exist in his footage; only a momentary mosaic of black squares interrupts the image.
-- Malik opens Solomon's blue drawer and retrieves the brass carving wrapped in a receipt.
-- Bode handles the receipt rather than the carving and asks whether it felt warm.
-- A creased photograph hidden beneath the carving shows Solomon, Bode, Eno and a woman whose face has been scratched away.
-- The reverse is marked "CALABAR. 1989." in Solomon's handwriting.
-- Bode identifies Eno as his and Solomon's cousin.
-- Bode admits that Solomon scratched away the other woman's face but does not identify her.
-- Malik leaves the photograph face-up, refusing the family's habit of hiding uncomfortable evidence.
-- Bode announces that Solomon's lawyer will come at nine to explain what Solomon left.
-- Bode states that Solomon's Vancouver house is not the inheritance.
-- The old camcorder powers on without a battery and advances its counter by one second.
-- Kai retreats into "Nothing," but Malik and Bode now recognize the word as concealment.
+Revision rule:
 
-Character movement:
-- Malik stops cleaning long enough to make a deliberate mess by leaving the photograph exposed.
-- Ade's jokes stop restoring circulation; each failed joke now measures the room's danger.
-- Kai moves from private pattern recognition toward an observable but still unprovable event.
-- Bode admits uncertainty instead of manufacturing mystery.
-- The brothers uncover the material evidence themselves rather than receiving it from an elder.
+Bode does not answer who she is. Folding chairs and a departing car interrupt. The camcorder remains dead.
 
-Sound language:
-The social volume of the wake drains gradually into engines, house sounds and the near-silence of the camcorder's single recorded second.
-
-Unforgettable closing image:
-A camcorder with an empty battery compartment records one second.
-
-Current draft position:
-Sequence III ends on CUT TO BLACK.
-
-Next:
-Sequence IV — The Will.
-
----
-
-## Sequence IV — The Will
-
-Status:
-Locked.
+### Sequence IV — The Will
 
 Purpose:
-Turn Solomon's hidden inheritance into a concrete choice. The scene must make the journey to Calabar feel like a dead father's manipulation without removing the brothers' agency.
 
-Locked continuity solution:
-- Solomon was cremated before the funeral.
-- His ceremonial casket held personal effects selected in advance.
-- His ashes were placed in the brass urn sealed in the columbarium.
-- His lawyer was instructed to disclose this only at nine the following morning.
-- Malik receives a prepared cemetery release form so the urn can be retrieved.
+Convert grief into a choice.
 
-Locked movement:
-- Maya Patel arrives carrying the will, a cemetery release form, four prepaid itineraries and a sealed archival box.
-- Solomon directs all three sons to carry his ashes to the river boundary of the Oku family land outside Calabar.
-- No proxy may replace a son.
-- The brothers may refuse without debt or penalty, but the Nigerian property then remains with the family trust.
-- The condition expires thirty days after Solomon's death.
-- The Canadian will does not itself transfer Nigerian land; Calabar counsel holds the local instrument and title records.
-- Bode is named escort and local liaison without having been asked.
-- Solomon's expired Nigerian passport, a brass key and a MiniDV cassette marked "WHEN YOU ARRIVE" are sealed together.
-- The cassette must not be opened until all three brothers are inside the Calabar house.
-- Malik calls for a vote. Kai votes to go immediately. Ade remains undecided.
+Objects introduced:
 
-Character movement:
-- Malik discovers that Solomon predicted and exploited his compulsion to finish whatever was placed before him.
-- Kai stops concealing his need to follow the pattern and openly challenges Malik.
-- Ade's humour can identify the family's pain but cannot make the decision for them.
-- Bode is pulled into Solomon's last plan rather than revealed as its architect.
+- Calabar property;
+- brass key;
+- sealed MiniDV tape;
+- four itineraries;
+- ashes instruction.
 
-Legal and agency rule:
-The Calabar property is an offered inheritance, not coercive debt. The thirty-day condition creates pressure, while the brothers retain the meaningful right to refuse.
+Key image:
 
-Sound language:
-Morning rain, paper, cups and the stopped clock keep the revelation domestic. No supernatural score announces the will's consequences.
+The photograph, key and tape arranged as three human forms of access.
 
-Unforgettable image:
-Rain stains spread across the sky of the scratched Calabar photograph and stop before the missing woman's erased face.
+Revision rule:
 
-Current screenplay position:
-Sequence IV ends on CUT TO BLACK after Kai votes to go.
+The photograph remains physically unchanged.
 
-Next:
-Sequence V — The Decision.
-
----
-
-## Sequence V — The Decision
-
-Status:
-Locked.
+### Sequence V — The Decision
 
 Purpose:
-Transform Solomon's coercive-looking plan into a choice the brothers make for one another. The decision must belong to the living even though the dead created its terms.
 
-Locked movement:
-- Patel leaves after identifying the personal effects buried in Solomon's ceremonial casket.
-- Malik votes no and frames the journey as another dead man's attempt to reorganize their lives.
-- Kai argues from pattern: hidden carving, scratched photograph, batteryless camcorder and the unopened Calabar tape.
-- Bode refuses to use his knowledge or authority to influence the vote.
-- Ade votes yes because refusing or travelling separately would permanently divide the brothers.
-- Malik accepts the two-to-one decision and converts it into a nine-day plan.
-- The four men return to Mountain View and retrieve the urn.
-- Malik chooses to leave Solomon's name on the now-empty niche because the family did bury something there.
-- Malik allows Ade to take the urn without resistance.
-- Solomon's tendency toward carsickness gives the family one ordinary, human memory amid the machinery of inheritance.
-- Each brother prepares differently: Malik organizes, Ade negotiates what of Solomon to carry, and Kai preserves evidence.
-- Bode confirms to family in Nigeria that all three brothers are coming while withholding the deeper truth.
-- Malik restores the wall clock's battery and knowingly leaves the imperfect clock hanging crooked.
+Force the brothers to decide whether inheritance can create obligation without consent.
 
-Character movement:
-- Malik loses the vote without losing his place in the family. His choice to organize the trip becomes participation rather than domination.
-- Ade stops using humour only to revive the room and makes the emotionally decisive argument.
-- Kai openly defends his pattern recognition and refuses to let Malik classify it as immaturity.
-- Bode distinguishes guidance from manipulation by refusing a deciding vote.
+Key image:
 
-Inheritance movement:
-The urn changes from Solomon's command into a burden the brothers elect to carry together. The scratched photograph, brass key and sealed tape travel because the brothers choose to confront what was hidden.
+Malik rehanging the unreliable clock crooked and choosing not to correct it.
 
-Sound language:
-The vote plays against domestic silence. The retrieval repeats the funeral's metal and stone without mourners or music. The sequence ends with the imperfect tick of restored time.
+Revision rule:
 
-Unforgettable image:
-Malik hangs the clock crooked, knows it still loses a second and lets it keep moving.
+The argument relies on secrecy and evidence, not impossible camera activity.
 
-Current screenplay position:
-Sequence V ends on CUT TO BLACK.
-
-Next:
-Sequence VI — Departure.
-
----
-
-## Sequence VI — Departure
-
-Status:
-Draft complete; pending user approval.
+### Sequence VI — Arrival
 
 Purpose:
-Carry the brothers from the familiar systems of Vancouver toward the inherited world of Calabar. The sequence should create pressure through travel, confinement and displacement before the land itself begins acting upon them.
 
-Approved movement:
-- At Vancouver airport, the urn and its documentation expose Malik's need to control the crossing.
-- During the international flight, physical confinement makes avoidance harder for all three brothers.
-- The Lagos transfer introduces fatigue, scale and dependence without reducing Nigeria to chaos.
-- The Calabar arrival confronts the brothers with heat, baggage confusion and unsolicited help.
-- Bode's calm negotiation demonstrates lived competence rather than secret knowledge.
-- The sequence ends at the threshold of Calabar with the feeling that their arrival has been anticipated.
+Move directly from Vancouver preparation to Calabar without dramatizing travel administration.
 
-Character integrity:
-- Malik remains highly organized but carries forward his new tolerance for limited imperfection.
-- Ade uses humour as emotional CPR and never directs the joke at Nigerian culture, grief or Solomon's remains.
-- Kai recognizes a fresh pattern rather than repeating an established camera-spider scare.
-- Bode becomes more legible and capable as the environment becomes less legible to the brothers.
+Structure:
 
-Horror integrity:
-The Entity is not depicted as travelling with the family. Kai has not yet broken the shrine. Any unease must read as anticipation, inherited sensitivity or an ambiguous pattern disruption—not active pursuit.
+- exterior arrivals exit;
+- heat;
+- fatigue;
+- luggage;
+- sealed urn;
+- **OKU — FOUR** placard;
+- direct handoff into Eyo’s pickup.
 
-Cultural integrity:
-The airport sequence distinguishes overwhelming logistics and persistent solicitation from moral danger. Nigerian characters remain individual people with specific motives and cadences. Authentic regional language must be verified before dialogue is locked.
+Rule:
 
-Continuity requirements:
-- Route: Vancouver to Lagos to Calabar.
-- The urn stays with the family as protected carry-on.
-- The MiniDV cassette stays sealed.
-- The scratched woman is not identified.
-- No locked supernatural rule is contradicted.
+Use **Calabar Airport** only. Do not add visas, check-in, international flight or Lagos-transfer scenes.
 
-Visual requirement:
-Create one new unforgettable threshold image during the draft. Do not reuse the urn-seatbelt, black-spider or stopped-clock images as the sequence's principal visual.
-
-Current position:
-Sequence VI ends on CUT TO BLACK after the brothers step into the Calabar heat together.
-
-Draft travel-container solution:
-The funeral home transfers Solomon's remains from the brass urn into a sealed birch travel container suitable for airport screening. The empty brass urn travels with the family. Both remain in carry-on possession. This solution is provisional until the sequence is approved.
-
-Draft implementation:
-- Malik's mastery of paperwork controls the Vancouver check-in but cannot control the security image.
-- Ade's humour gives Malik's fear somewhere to stand without making the remains the joke.
-- The sealed passport envelope remains unopened during screening and moves from Kai's custody to Bode's by choice.
-- A disappearing destination name on the seatback map creates fresh pattern disruption without repeating the camera-spider device.
-- Bode identifies Cousin Eyo as the keeper of the Calabar house.
-- Lagos is presented through scale, fatigue, negotiation and lived competence rather than generalized chaos.
-- Kai's pattern recognition has practical value during baggage collection.
-- Bode uses restrained Nigerian Pidgin to hire and negotiate with individual porters.
-- The domestic flight lands at Margaret Ekpo International Airport in Calabar.
-- The final baggage confusion resolves through observation and negotiation, not criminal threat.
-- The fogged camera lens and the "OKU — FOUR" placard form the threshold image.
-
-Unforgettable image:
-Kai clears one circle in the condensation covering his lens. Inside it, the family placard "OKU — FOUR" is sharp while Calabar remains white.
-
-Next:
-Review and lock Sequence VI, then begin the drive toward the Oku family house.
-
----
-
-## Sequence VII — The Road Home
-
-Status:
-Draft complete; pending user approval.
+### Sequence VII — The Road Home
 
 Purpose:
-Transform Calabar from destination into lived family space. The movement carries the brothers from the airport's public threshold to the Oku house's private threshold while giving Kai his first direct encounter with a boundary he will later choose to violate.
 
-Emotional movement:
-- Bode's reunion with Eyo reveals the cost and intimacy of returning home.
-- The brothers are recognized as Solomon's sons before they can define themselves.
-- A comic family story temporarily releases Solomon from the roles of corpse, secret and obligation.
-- The welcoming family makes belonging emotionally available while their lingering attention confirms the brothers' outsider status.
-- Malik's plural correction—"We brought him"—turns the return of Solomon into a shared act.
+Transform Calabar from a destination into family space and introduce the physical boundary Kai will later violate.
 
-Character movement:
-- Malik protects the urn but allows Eyo's knowledge to replace an inaccurate digital route.
-- Ade's humour creates human connection without treating Calabar as the joke.
-- Kai records a real boundary marker and begins confusing the ability to observe with the right to enter.
-- Bode states his belief that names and stories can create routes for attention or invitation, clarifying the protective logic behind his silence.
-- Malik learns that Bode knows the scratched woman's name but will only speak it inside the closed house.
-- Eyo operates as caretaker, driver, relative and social bridge before he carries any mythological function.
-- Eno is introduced as Solomon and Bode's cousin, the intact woman from the 1989 photograph and the living household anchor.
+Key movements:
 
-Place and cultural integrity:
-- Calabar is active, contemporary and ordinary: traffic, schools, trade, family greetings and imperfect infrastructure coexist.
-- Nigerian Pidgin is relational and situational rather than used as atmospheric decoration.
-- No resident exists solely to explain culture to the Canadian brothers.
-- Eno's reception of Solomon grows from her specific family history rather than an unnamed elder archetype.
-- Eyo's and Eno's regional cadence still require a Calabar-based dialogue review before lock.
+- Eyo recognizes each brother;
+- the brothers encounter living city texture;
+- Bode and Eyo begin a private exchange;
+- ordinary traffic interrupts before Bode explains;
+- family memory briefly humanizes Solomon;
+- Kai sees the stone shrine in the silk-cotton roots;
+- Bode refuses permission to stop;
+- the Oku compound and Eno are revealed.
 
-Horror integrity:
-The Entity remains inactive toward the brothers. Kai has not broken the shrine. The stone-and-root structure is real, visible without the camera and preserved imperfectly in the footage. Unease comes from Bode's recognition and the existence of a respected boundary, not from hallucination or pursuit.
+Rule:
 
-Title and mythology integrity:
-The boundary structure is not named Ekpo, Ekpe or the Entity. EKPO continues to refer provisionally to ancestral inheritance and obligation. The stone, tree roots and red binding belong to a fictional Oku-family containment system created for the story, not a claim about universal Efik practice. Verified Nigerian or Cross River elements may be integrated later where they fit without misrepresenting a living tradition.
+No supernatural activity. The shrine, road, red binding and footage are physically real.
 
-Continuity requirements:
-- Solomon's ashes remain in the sealed birch travel urn.
-- The empty brass urn remains with the luggage.
-- The MiniDV cassette remains sealed throughout the drive.
-- All three brothers cross the Calabar house threshold before the sequence ends.
-- The scratched woman's identity is not disclosed.
-- Eno and the scratched woman remain separate characters.
-- The house and massive tree match the 1989 photograph.
+## 12. Travel continuity
 
-Unforgettable image:
-The scratched-away face in the old photograph aligns with the dark open doorway of the present house while a root that once stopped several feet away now touches the threshold.
+The film omits:
 
-Next:
-Review and lock Sequence VII. Then begin the house interior, family settling and the first permitted opening of Solomon's sealed MiniDV message.
+- Vancouver airport;
+- visa discussion;
+- check-in;
+- boarding;
+- international flight;
+- Lagos transfer;
+- Calabar baggage procedure.
 
----
+The transition moves from Solomon’s Vancouver house directly to the arrivals exit at Calabar Airport.
 
-## Provisional Mythology — The Scratched Woman
+## 13. Integrity gate
 
-Status:
-Approved as working canon. Retain while it strengthens the screenplay; revise without hesitation if later structural work exposes a better solution.
+Every new sequence must pass:
 
-True identity:
-Solomon and Bode's younger sister. Her name remains undecided pending Efik-language and cultural verification.
+### Psychology
 
-Relationship clarification:
-Eno is Solomon and Bode's cousin, not another sister. She is the intact young woman in the 1989 photograph and a witness to the missing sister's abandonment.
+What wound is active, and how is it performed?
 
-Family role:
-She was the original keeper of the balance shrine and the person left carrying the family's spiritual obligation after the 1989 containment crisis.
+### Cinema
 
-1989 event:
-- Solomon, Bode, Eno and the woman were present at the family house outside Calabar.
-- The containment crisis required one member of the lineage to remain bound to the shrine and the land.
-- Solomon abandoned his sister rather than remain or share the cost.
-- Solomon's departure for Canada became both migration and escape.
-- Bode participated in the silence that followed.
-- Eno remembers the human cost more clearly than the family's preferred mythology.
+Can explanation be replaced by behaviour or image?
 
-Meaning of Eno's line:
-"Someone your father loved badly" means Solomon genuinely loved his sister but failed her at the precise moment love required sacrifice.
+### Culture
 
-Placement of Eno's line:
-The line is withheld from the Vancouver wake and reserved for the first sustained interior scene inside the Calabar house, where Eno can speak from the location of the original failure.
+Does the scene feel specific without presenting invention as fact?
 
-Photographic rule:
-Images are not neutral within the mythology. A preserved face can become a route through which the Entity locates, imitates or reaches a person. Solomon physically scratched his sister from the photograph to interrupt that route. The violence of the erasure also externalizes his guilt.
+### Mythology
 
-Calabar function:
-The scratched woman survives into the present as the elderly woman seen around the market, road and family land. She should initially read as unsettling or possibly hostile, then gradually resolve into a damaged guardian attempting to warn the brothers.
+Has anything supernatural occurred before Kai breaks the shrine?
 
-Structural function:
-- Converts Solomon's migration into a morally complicated escape.
-- Gives Bode and Eno different relationships to the same family failure.
-- Connects the scratched photograph, Kai's camera and the Entity's image-based manifestations.
-- Makes the third-act rescue of Kai a direct generational correction.
-- Forces Malik and Ade to choose differently from Solomon by refusing to abandon their sibling.
+### Continuity
 
-Disclosure rule:
-Do not identify her during Act I. Allow the audience to misread her presence in early Calabar sequences. Reveal the sibling relationship only when it intensifies the brothers' fear that their father transferred an unpaid obligation to them.
+- Mother left when the boys were young.
+- Eno is a cousin in Calabar.
+- Scratched woman is the dead younger sister.
+- Photograph is not a conduit.
+- Bode does not answer the photograph question in Act I.
+- Travel cuts directly to Calabar Airport.
+
+### Theme
+
+How does inheritance appear as both gift and burden?
