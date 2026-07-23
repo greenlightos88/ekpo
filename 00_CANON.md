@@ -1,5 +1,5 @@
 # EKPO CANON
-Version: 1.4
+Version: 1.5
 
 ## Project Status
 
@@ -7,13 +7,14 @@ Development Phase:
 Prestige Rewrite
 
 Current Rewrite Target:
-Sequence IV — The Will (lock review)
+Sequence V — The Decision (lock review)
 
 Current Screenplay Status:
 Sequence I is locked.
 Sequence II is locked through the columbarium ending.
 Sequence III is locked in full through the powerless-camcorder ending.
-Sequence IV has been drafted through the brothers' first vote and awaits user approval.
+Sequence IV is locked through the brothers' first vote.
+Sequence V has been drafted through the resumed-clock ending and awaits user approval.
 
 ---
 
@@ -229,20 +230,19 @@ Sequence IV — The Will.
 ## Sequence IV — The Will
 
 Status:
-Draft complete; pending user approval.
+Locked.
 
 Purpose:
 Convert Solomon's family mystery into a practical, voluntary obligation that can send the brothers to Calabar while preserving their agency.
 
-Provisional casket-and-urn continuity:
+Locked casket-and-urn continuity:
 - Solomon was cremated before the Vancouver funeral.
 - The casket contained personal effects Solomon selected in advance.
 - His cremated remains were sealed in the brass urn placed in the columbarium.
 - Solomon instructed his lawyer to delay disclosing the cremation and travel condition until nine the morning after the funeral.
 - A cemetery release form allows Malik to retrieve the urn.
-- This solution remains provisional until Sequence IV is approved.
 
-Draft movement:
+Locked movement:
 - Estate lawyer Maya Patel arrives at Solomon's house with the will, four itineraries, a cemetery release form and a sealed archival box.
 - The will directs Malik, Ade and Kai to travel together to the Oku family land outside Calabar and release Solomon's ashes at its river boundary.
 - The brothers are free to refuse without debt or penalty; if they do, the Nigerian property remains with the family trust.
@@ -262,11 +262,52 @@ Character movement:
 Unforgettable closing image:
 Rain stains spread through the sky of the scratched Calabar photograph and stop just before the missing woman's face.
 
-Current draft writing position:
+Current screenplay position:
 Sequence IV ends on CUT TO BLACK after Kai votes to go.
 
 Next structural movement:
-Review and lock Sequence IV, then stage the brothers' decision, retrieval of the urn and preparation for Calabar.
+Sequence V — The Decision.
+
+## Sequence V — The Decision
+
+Status:
+Draft complete; pending user approval.
+
+Purpose:
+Make the Calabar journey the brothers' decision rather than Solomon's command. Convert the inherited obligation into a fragile act of solidarity.
+
+Draft movement:
+- Patel leaves after revealing that Solomon's ceremonial casket contained his blue suit, citizenship shoes, Efik Bible and three unopened letters.
+- Malik votes against the journey.
+- Kai argues that the hidden carving, scratched photograph, impossible camcorder and Calabar tape form a pattern he cannot ignore.
+- Bode refuses to persuade the brothers and warns that Calabar may make Solomon harder to forgive.
+- Ade votes to go so the brothers do not become divided into the one who went and the ones who stayed.
+- Outvoted, Malik accepts the decision and imposes a nine-day plan.
+- Malik signs the cemetery release and the four men retrieve Solomon's urn from the columbarium.
+- Malik leaves Solomon's name on the empty niche because something was buried there.
+- Malik immediately lets Ade carry the urn, reversing his earlier refusal to share its weight.
+- The urn travels in the front passenger seat because Solomon became carsick in the back.
+- The brothers prepare documents, clothing, cameras, the scratched photograph and the sealed Calabar materials.
+- Bode secretly tells family in Nigeria that all three brothers are coming and confirms that the brothers do not know the hidden truth.
+- Malik restores the battery to the stopped wall clock.
+- The clock still loses a second, but Malik hangs it crooked and allows it to keep moving.
+
+Locked only upon approval:
+- The journey is a two-to-one decision by the brothers, not compliance with the will.
+- Ade's vote is based on preserving the brotherhood rather than obeying Solomon.
+- Bode has no deciding vote and refuses to sell the brothers their own home.
+- The empty Vancouver niche retains Solomon's plaque.
+- Solomon's ashes return to the house before departure.
+- The archival materials and the scratched woman's identity remain unresolved.
+
+Unforgettable closing image:
+The batteryless clock moves again, still imperfect, and Malik knowingly leaves it hanging crooked.
+
+Current draft writing position:
+Sequence V ends on CUT TO BLACK after the clock resumes.
+
+Next structural movement:
+Review and lock Sequence V, then begin Sequence VI — Departure.
 
 ---
 

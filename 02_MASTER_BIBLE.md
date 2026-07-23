@@ -41,10 +41,10 @@ Emotional architecture
 
 ## Current Focus
 
-Sequence IV — The Will (lock review)
+Sequence V — The Decision (lock review)
 
-Sequences I, II and III are locked and must not be rewritten without an explicit new approval.
-Sequence IV is drafted through the brothers' first vote and is pending user approval.
+Sequences I, II, III and IV are locked and must not be rewritten without an explicit new approval.
+Sequence V is drafted through the resumed-clock ending and is pending user approval.
 
 ---
 
@@ -188,20 +188,19 @@ Sequence IV — The Will.
 ## Sequence IV — The Will
 
 Status:
-Draft complete; pending user approval.
+Locked.
 
 Purpose:
 Turn Solomon's hidden inheritance into a concrete choice. The scene must make the journey to Calabar feel like a dead father's manipulation without removing the brothers' agency.
 
-Provisional continuity solution:
+Locked continuity solution:
 - Solomon was cremated before the funeral.
 - His ceremonial casket held personal effects selected in advance.
 - His ashes were placed in the brass urn sealed in the columbarium.
 - His lawyer was instructed to disclose this only at nine the following morning.
 - Malik receives a prepared cemetery release form so the urn can be retrieved.
-- This solution is not locked until the sequence is approved.
 
-Draft movement:
+Locked movement:
 - Maya Patel arrives carrying the will, a cemetery release form, four prepaid itineraries and a sealed archival box.
 - Solomon directs all three sons to carry his ashes to the river boundary of the Oku family land outside Calabar.
 - No proxy may replace a son.
@@ -228,11 +227,57 @@ Morning rain, paper, cups and the stopped clock keep the revelation domestic. No
 Unforgettable image:
 Rain stains spread across the sky of the scratched Calabar photograph and stop before the missing woman's erased face.
 
-Current draft position:
+Current screenplay position:
 Sequence IV ends on CUT TO BLACK after Kai votes to go.
 
 Next:
-Review and lock Sequence IV, then dramatize the final decision, retrieval of the urn and preparation for Calabar.
+Sequence V — The Decision.
+
+---
+
+## Sequence V — The Decision
+
+Status:
+Draft complete; pending user approval.
+
+Purpose:
+Transform Solomon's coercive-looking plan into a choice the brothers make for one another. The decision must belong to the living even though the dead created its terms.
+
+Draft movement:
+- Patel leaves after identifying the personal effects buried in Solomon's ceremonial casket.
+- Malik votes no and frames the journey as another dead man's attempt to reorganize their lives.
+- Kai argues from pattern: hidden carving, scratched photograph, batteryless camcorder and the unopened Calabar tape.
+- Bode refuses to use his knowledge or authority to influence the vote.
+- Ade votes yes because refusing or travelling separately would permanently divide the brothers.
+- Malik accepts the two-to-one decision and converts it into a nine-day plan.
+- The four men return to Mountain View and retrieve the urn.
+- Malik chooses to leave Solomon's name on the now-empty niche because the family did bury something there.
+- Malik allows Ade to take the urn without resistance.
+- Solomon's tendency toward carsickness gives the family one ordinary, human memory amid the machinery of inheritance.
+- Each brother prepares differently: Malik organizes, Ade negotiates what of Solomon to carry, and Kai preserves evidence.
+- Bode confirms to family in Nigeria that all three brothers are coming while withholding the deeper truth.
+- Malik restores the wall clock's battery and knowingly leaves the imperfect clock hanging crooked.
+
+Character movement:
+- Malik loses the vote without losing his place in the family. His choice to organize the trip becomes participation rather than domination.
+- Ade stops using humour only to revive the room and makes the emotionally decisive argument.
+- Kai openly defends his pattern recognition and refuses to let Malik classify it as immaturity.
+- Bode distinguishes guidance from manipulation by refusing a deciding vote.
+
+Inheritance movement:
+The urn changes from Solomon's command into a burden the brothers elect to carry together. The scratched photograph, brass key and sealed tape travel because the brothers choose to confront what was hidden.
+
+Sound language:
+The vote plays against domestic silence. The retrieval repeats the funeral's metal and stone without mourners or music. The sequence ends with the imperfect tick of restored time.
+
+Unforgettable image:
+Malik hangs the clock crooked, knows it still loses a second and lets it keep moving.
+
+Current draft position:
+Sequence V ends on CUT TO BLACK.
+
+Next:
+Review and lock Sequence V, then begin Sequence VI — Departure.
 
 ---
 
