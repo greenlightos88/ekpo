@@ -44,7 +44,7 @@ Emotional architecture
 Sequence VI — Departure
 
 Sequences I through V are locked and must not be rewritten without an explicit new approval.
-Sequence VI is ready to draft.
+Sequence VI's integrity-tested architecture is approved and ready to draft.
 
 ---
 
@@ -278,6 +278,49 @@ Sequence V ends on CUT TO BLACK.
 
 Next:
 Sequence VI — Departure.
+
+---
+
+## Sequence VI — Departure
+
+Status:
+Architecture approved; screenplay not yet drafted.
+
+Purpose:
+Carry the brothers from the familiar systems of Vancouver toward the inherited world of Calabar. The sequence should create pressure through travel, confinement and displacement before the land itself begins acting upon them.
+
+Approved movement:
+- At Vancouver airport, the urn and its documentation expose Malik's need to control the crossing.
+- During the international flight, physical confinement makes avoidance harder for all three brothers.
+- The Lagos transfer introduces fatigue, scale and dependence without reducing Nigeria to chaos.
+- The Calabar arrival confronts the brothers with heat, baggage confusion and unsolicited help.
+- Bode's calm negotiation demonstrates lived competence rather than secret knowledge.
+- The sequence ends at the threshold of Calabar with the feeling that their arrival has been anticipated.
+
+Character integrity:
+- Malik remains highly organized but carries forward his new tolerance for limited imperfection.
+- Ade uses humour as emotional CPR and never directs the joke at Nigerian culture, grief or Solomon's remains.
+- Kai recognizes a fresh pattern rather than repeating an established camera-spider scare.
+- Bode becomes more legible and capable as the environment becomes less legible to the brothers.
+
+Horror integrity:
+The Entity is not depicted as travelling with the family. Kai has not yet broken the shrine. Any unease must read as anticipation, inherited sensitivity or an ambiguous pattern disruption—not active pursuit.
+
+Cultural integrity:
+The airport sequence distinguishes overwhelming logistics and persistent solicitation from moral danger. Nigerian characters remain individual people with specific motives and cadences. Authentic regional language must be verified before dialogue is locked.
+
+Continuity requirements:
+- Route: Vancouver to Lagos to Calabar.
+- The urn stays with the family as protected carry-on.
+- The MiniDV cassette stays sealed.
+- The scratched woman is not identified.
+- No locked supernatural rule is contradicted.
+
+Visual requirement:
+Create one new unforgettable threshold image during the draft. Do not reuse the urn-seatbelt, black-spider or stopped-clock images as the sequence's principal visual.
+
+Current position:
+Ready to draft.
 
 ---
 

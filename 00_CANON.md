@@ -1,5 +1,5 @@
 # EKPO CANON
-Version: 1.6
+Version: 1.7
 
 ## Project Status
 
@@ -15,7 +15,7 @@ Sequence II is locked through the columbarium ending.
 Sequence III is locked in full through the powerless-camcorder ending.
 Sequence IV is locked through the brothers' first vote.
 Sequence V is locked through the resumed-clock ending.
-Sequence VI is ready to draft.
+Sequence VI's integrity-tested architecture is approved and ready to draft.
 
 ---
 
@@ -309,6 +309,38 @@ Sequence V ends on CUT TO BLACK after the clock resumes.
 
 Next structural movement:
 Sequence VI — Departure.
+
+## Sequence VI — Departure
+
+Status:
+Architecture approved; screenplay not yet drafted.
+
+Purpose:
+Move the brothers across the first physical threshold from Solomon's Vancouver life toward the inheritance waiting in Calabar. Use travel pressure to expose character before Nigeria introduces its own cultural and supernatural demands.
+
+Approved structure:
+- Vancouver airport: transporting the urn and satisfying the paperwork tests Malik's control.
+- International flight: confinement forces the brothers' unresolved tensions into the same physical space.
+- Lagos transfer: fatigue and unfamiliar systems increase their dependence on Bode.
+- Calabar arrival: heat, baggage confusion and persistent porters reveal the brothers' lack of local fluency.
+- Bode restores order through calm competence and authentic Nigerian cadence.
+- The closing threshold suggests that their arrival was expected without confirming a supernatural presence.
+
+Integrity rules:
+- Solomon's urn remains with the brothers as protected carry-on, never treated as ordinary luggage.
+- The MiniDV cassette remains sealed until all three brothers enter the Calabar house.
+- Malik may organize the journey, but he cannot regress completely from the imperfect control accepted in Sequence V.
+- Ade's humour protects people; it does not make Nigeria, grief or the urn the joke.
+- Kai may detect a new pattern disruption, but the sequence cannot repeat the spider-visible-only-through-camera device.
+- Bode becomes more practically competent as the group approaches Nigeria, not more cryptically mysterious.
+- Airport tension must arise from exhaustion, unfamiliar systems, aggressive solicitation and the brothers' disorientation, never from portraying Nigerians as inherently predatory.
+- The Entity is not shown travelling with them. Before Kai breaks the shrine, the most the sequence may suggest is that something in Calabar anticipates their arrival.
+- The scratched woman's identity remains hidden.
+- The route remains Vancouver to Lagos to Calabar.
+- The sequence must earn a new unforgettable image rather than recycling the urn, spider or stopped-clock images.
+
+Current screenplay position:
+Sequence VI is ready to draft from the locked architecture.
 
 ---
 

@@ -31,6 +31,8 @@
 - Bode's call to the Nigerian family establishes that they are expecting all three brothers while still withholding the hidden truth.
 - Malik restores the stopped clock and accepts its imperfect movement.
 - Sequence V approved and locked.
+- Sequence VI integrity check completed and approved.
+- Sequence VI architecture locked around Vancouver departure, international travel, Lagos transfer and Calabar arrival.
 
 ## Current Status
 
@@ -51,7 +53,7 @@ Locked.
 
 ## Next
 
-Begin Sequence VI — Departure.
+Draft Sequence VI — Departure from the approved architecture.
 
 ## Continuity Directive
 
@@ -71,3 +73,9 @@ Begin Sequence VI — Departure.
 - Carry the restored but imperfect clock forward as Malik's first conscious acceptance of unresolved disorder.
 - Use Sequence VI to dramatize the brothers under travel pressure before Calabar introduces its own cultural and supernatural demands.
 - Keep Solomon's urn with the brothers throughout the journey.
+- Keep the urn as protected carry-on and the MiniDV cassette sealed.
+- Do not imply that the Entity is travelling with the family before Kai breaks the shrine.
+- Make Bode's increased authority practical and culturally grounded rather than mysterious.
+- Avoid repeating the camera-only spider device.
+- Verify regional language and airport logistics before locking the Sequence VI dialogue.
+- End Sequence VI on a new threshold image that suggests anticipation without confirming pursuit.
