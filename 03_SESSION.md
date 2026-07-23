@@ -1,97 +1,235 @@
 # EKPO SESSION
 
-## Completed
+Date: 2026-07-23
 
-- Sequence I — The Last Morning locked.
-- Sequence II — The Funeral completed and locked through the columbarium ending.
-- Malik's line, "I'm trying not to make another mistake for him," incorporated.
-- Bode, Malik, Ade and Kai now carry Solomon's urn together.
-- The distant watcher and the tap from inside the sealed stone incorporated.
-- Sequence III — The Wake begun.
-- The approved Sequence III opening incorporated through the black-spider-on-banister beat.
-- Sequence III approved and locked in full through the powerless-camcorder ending.
-- The brass carving connected to a damaged Calabar photograph dated 1989.
-- The scratched-face mystery and the line "Someone your father loved badly" incorporated.
-- Solomon's lawyer established for the following morning.
-- The scratched woman approved as provisional working canon.
-- Her hidden identity established as Solomon and Bode's younger sister and the former keeper of the balance shrine.
-- Her later Calabar appearance established as a damaged guardian rather than the villain.
-- The rescue of Kai established as the brothers' opportunity to correct Solomon's abandonment of his sister.
-- Canon and Master Bible synchronized with the screenplay.
-- Sequence IV — The Will drafted through the brothers' first vote.
-- The casket-and-urn continuity provisionally resolved: Solomon was cremated, his casket held selected effects and his ashes remained in the brass urn.
-- Maya Patel, the thirty-day Calabar condition, four prepaid itineraries, cemetery release, brass key and sealed MiniDV tape introduced.
-- Sequence IV approved and locked.
-- The casket-and-urn continuity promoted from provisional to locked canon.
-- Sequence V — The Decision drafted through the resumed-clock ending.
-- Malik votes against Calabar; Kai and Ade vote to go.
-- Ade's vote established as a choice to preserve the brotherhood rather than obey Solomon.
-- Solomon's urn retrieved from Mountain View and returned to the family.
-- The brothers' preparation for Calabar dramatized through their distinct coping behaviours.
-- Bode's call to the Nigerian family establishes that they are expecting all three brothers while still withholding the hidden truth.
-- Malik restores the stopped clock and accepts its imperfect movement.
-- Sequence V approved and locked.
-- Sequence VI integrity check completed and approved.
-- Sequence VI architecture locked around Vancouver departure, international travel, Lagos transfer and Calabar arrival.
-- Sequence VI — Departure drafted through the Calabar threshold ending.
-- The official Calabar arrival point established as Margaret Ekpo International Airport.
-- Solomon's remains transferred into a sealed birch travel urn for screening while the empty brass urn travels with the family.
-- Vancouver screening dramatized without opening or disrespecting the remains.
-- The sealed MiniDV envelope remains unopened and passes from Kai to Bode by choice.
-- The disappearing destination on the seatback map introduces a fresh ambiguous pattern disruption.
-- Lagos travel pressure establishes Bode's practical competence and the brothers' growing dependence.
-- Kai's pattern recognition receives practical baggage-claim payoffs.
-- Nigerian Pidgin enters through ordinary negotiation rather than menace or exposition.
-- The threshold image established as the fogged lens revealing "OKU — FOUR."
+Session objective: Rebuild and complete Act I from the latest binding corrections, existing repository, project conversation, and earlier Act I source material.
 
-## Current Status
+## Outcome
 
-Sequence I:
-Locked.
+Act I is complete through the shrine-trigger ending.
 
-Sequence II:
-Locked.
+The act now contains six sequences:
 
-Sequence III:
-Locked in full.
+1. The Last Morning
+2. The Funeral
+3. The Will and Decision
+4. Departure and Arrival
+5. Homecoming
+6. The Land and the Shrine
 
-Sequence IV:
-Locked.
+The screenplay ends at the first active supernatural event:
 
-Sequence V:
-Locked.
+- Kai intentionally breaks the red-thread seal
+- Kai intentionally removes the talisman
+- inherited resonance recognizes the returned bloodline
+- natural sound disappears
+- one deep beat moves through the land
+- Kai keeps the talisman as proof
+- the first black spider emerges from the regulator
 
-Sequence VI:
-Draft complete through the sequence-ending CUT TO BLACK; pending user approval.
+## Governing correction applied
 
-## Next
+The shrine is the trigger point.
 
-Review and lock Sequence VI — Departure.
-Once approved, begin the drive from Margaret Ekpo International Airport toward the Oku family house.
+Everything before the trigger is human, psychological, cultural, geographic, or mechanically ordinary.
 
-## Continuity Directive
+No impossible object behavior or active Entity event remains before the shrine.
 
-- Preserve Sequences I and II as locked material.
-- Preserve Sequence III in full as locked material.
-- Preserve Sequence IV in full as locked material.
-- Preserve Sequence V in full as locked material.
-- Keep the house's supernatural activity ambiguous and rooted in behavioural or visual disruption.
-- Kai remains the first observer of camera-mediated anomalies.
-- Keep the scratched woman's identity hidden throughout Act I.
-- Treat the scratched-woman solution as provisional canon and revise it if it stops serving character, structure or mythology.
-- Preserve the locked casket-and-urn solution.
-- Preserve the brothers' meaningful right to refuse the Calabar condition without debt or penalty.
-- Preserve the Nigerian property transfer through a separate local instrument held by Calabar counsel.
-- Keep the MiniDV cassette sealed until all three brothers enter the Calabar house.
-- Keep the journey grounded in the brothers' own vote rather than simple obedience to Solomon.
-- Carry the restored but imperfect clock forward as Malik's first conscious acceptance of unresolved disorder.
-- Use Sequence VI to dramatize the brothers under travel pressure before Calabar introduces its own cultural and supernatural demands.
-- Keep Solomon's urn with the brothers throughout the journey.
-- Keep the urn as protected carry-on and the MiniDV cassette sealed.
-- Do not imply that the Entity is travelling with the family before Kai breaks the shrine.
-- Make Bode's increased authority practical and culturally grounded rather than mysterious.
-- Avoid repeating the camera-only spider device.
-- Verify regional language and airport logistics before locking the Sequence VI dialogue.
-- End Sequence VI on a new threshold image that suggests anticipation without confirming pursuit.
-- Treat the birch travel-urn solution as provisional until Sequence VI is approved.
-- Preserve Cousin Eyo as the keeper of the Calabar house unless later cultural review reveals a stronger name or relationship.
+## Material removed
+
+- camera-only spider in Vancouver
+- television activating by itself
+- batteryless clock movement
+- casket and grave burial
+- ceremonial-casket explanation
+- columbarium
+- delayed urn reflection
+- distant watcher
+- tap from sealed stone
+- Eno in Vancouver
+- falling towel
+- darkened shelf anomaly
+- camera mosaic
+- batteryless camcorder recording
+- thirty-day legal trap
+- cemetery release form
+- brass key and sealed MiniDV instruction device
+- split Will and Decision sequences
+- individualized symbolic bequests
+- second/birch travel urn
+- remains-transfer subplot
+- disappearing flight destination
+- repeated baggage sequences
+- child recognition at airport
+- pre-shrine spider, drum, voice, or pursuit
+- Adeyemi surname
+
+## Strong material retained or rebuilt
+
+### Sequence I
+
+- Solomon through the house
+- polished shoes, walking stick, prayer beads
+- Achebe, Soyinka, repaired Efik Bible, immigration manuals
+- Nigerian pantry and three mustards
+- thriving and dead plants
+- faulty ordinary clock
+- missing camcorder battery
+- brass carving
+- crooked family photograph
+- empty shelf outline
+- Malik's control, Ade's emotional humor, Kai's pattern cognition
+- house waiting for Solomon to come downstairs
+- Ade offering to carry the urn and Malik refusing
+
+### Sequence II
+
+- urn-centered funeral
+- ordinary feedback revealing Kai's sensory processing
+- Bode's restrained arrival from Nigeria
+- "Was it peaceful?" and Malik's protective lie
+- an ordinary childhood memory of Solomon
+- Malik: "I'm trying not to make another mistake for him"
+- Bode taking one side of the urn
+- scratched photograph of Solomon, Bode, and their dead younger sister
+- Bode: "Someone your father loved badly"
+- will meeting announced
+
+### Sequence III
+
+- one simple joint inheritance
+- no debt or punitive deadline
+- Solomon: "I need you to take me home. All three"
+- Malik resisting posthumous control
+- Kai connecting observable human evidence
+- Bode refusing to decide for the sons
+- Ade choosing the journey to prevent a divided brotherhood
+- "He arranged the room before he left it"
+- short packing movement
+- same urn prepared for travel
+
+### Sequence IV
+
+- compressed travel
+- Bode's practical authority increasing with geography
+- one short, non-menacing bag interaction
+- Lagos scale
+- Calabar heat and sound
+- "Your father had a childhood"
+- "He had legs too"
+
+### Sequence V
+
+- Eno's first appearance in Calabar
+- contemporary, lived-in Oku compound
+- greeting correction and physical family recognition
+- "This one still has mouth"
+- feeding before explanation
+- Afang soup, fufu, rice, fish, plantain, eggs, bread, tea
+- mango and boiled-water stories
+- Ade laughing without performing
+- Malik relaxing slightly
+- Kai detecting the sister-shaped gap in family memory
+
+### Sequence VI
+
+- family boundaries and Solomon's planted tree
+- practical warning about path, sound, and distance
+- Kai following a real marker inconsistency
+- ravine and tree-stone shrine
+- carving geometry connected to regulator
+- maintained but neglected red-thread seal
+- intentional breach and talisman removal
+- fragmentary resonance without showing Solomon alive
+- first supernatural silence, earth-borne beat, and spider
+
+## Continuity state
+
+Surname: Oku
+
+Solomon: dead before FADE IN; never shown alive
+
+Bode: travelled from Nigeria for Solomon's death
+
+Eno: remained in Nigeria; first appears in Calabar
+
+Scratched woman: Solomon and Bode's dead younger sister; unnamed in Act I
+
+Urn: one brass urn throughout; ashes not yet scattered at Act I end
+
+Photograph and carving: ordinary objects before trigger
+
+Camcorder: missing battery; remains inactive
+
+Talisman: in Kai's camera bag at Act I end
+
+Regulator: open
+
+Entity phase: Recognition
+
+## Integrity checks completed
+
+- chronology
+- surname and family geography
+- urn custody
+- prohibited-term audit
+- pre-shrine supernatural audit
+- sequence consequence
+- character progression
+- object and motif continuity
+- sound progression
+- Act I supernatural capability limit
+
+## Current writing position
+
+Act II should begin immediately after the Act I cut.
+
+Parallel pressure:
+
+- Kai is in the ravine with the talisman
+- Malik, Ade, and Bode are above with the urn
+- Bode has realized Kai left the path
+- the river ceremony has not occurred
+- the Entity has recognized the bloodline but has not yet learned each brother well enough for complex mimicry
+
+## Required Act II architecture before pages
+
+1. Determine whether and how the regulator can be physically repaired.
+2. Define Bode's exact knowledge and immediate reaction.
+3. Define Eno's exact knowledge and responsibility.
+4. Decide when Kai discloses the talisman.
+5. Decide whether the ashes ceremony proceeds, pauses, or becomes the first repair attempt.
+6. Define Phase One manifestations and prevent premature capability escalation.
+7. Design the sister reveal as dramatic action rather than exposition.
+8. Map the Entity's transition from recognition to attachment.
+9. Preserve Malik's "stay together" rule as pressure, not a slogan.
+10. Give Ade an active response to Kai's breach beyond humor.
+
+## Cultural and factual verification still required
+
+Before final dialogue lock:
+
+- Efik greeting behavior for adult nephews returning from Canada
+- Eno's code-switching between English, Nigerian Pidgin, and any Efik terms
+- regional accuracy of Pidgin used at Calabar airport
+- household serving order and kinship address
+- food combinations and time-of-day plausibility
+- exact geography and land-use texture outside Calabar
+- local handling of family land boundaries
+- culturally grounded name and maintenance practice for the shrine
+- spider-deity terminology and relationship to Ekpo/Efik cosmology
+- legal review only if Nigerian property transfer becomes plot-critical
+- airline/airport remains procedures only if later scenes foreground them
+
+Verified during this pass:
+
+- The Federal Airports Authority of Nigeria identifies the Calabar airport as Margaret Ekpo International Airport (IATA: CBQ, ICAO: DNCA).
+- Cross River State's Calabar Municipal materials identify Afang soup with Calabar cuisine and describe Calabar as a center of Efik culture.
+
+## Next step
+
+Build Act II canon, character matrix, scene bible, and director's notebook from the immediate shrine aftermath before drafting new screenplay pages.
+
+---
+
+END SESSION
