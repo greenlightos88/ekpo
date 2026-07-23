@@ -1,5 +1,5 @@
 # EKPO CANON
-Version: 1.9
+Version: 2.0
 
 ## Project Status
 
@@ -7,7 +7,7 @@ Development Phase:
 Prestige Rewrite
 
 Current Rewrite Target:
-Sequence VI — Departure (lock review)
+Sequence VII — The Road Home (draft review)
 
 Current Screenplay Status:
 Sequence I is locked.
@@ -16,6 +16,7 @@ Sequence III is locked in full through the powerless-camcorder ending.
 Sequence IV is locked through the brothers' first vote.
 Sequence V is locked through the resumed-clock ending.
 Sequence VI is drafted through the Calabar threshold ending and awaits user approval.
+Sequence VII is drafted through Kai crossing the Oku house threshold and awaits user approval.
 
 ---
 
@@ -404,6 +405,59 @@ Calabar disappears behind condensation on Kai's lens except for one clear circle
 
 Next structural movement:
 Review and lock Sequence VI, then begin the drive from the airport toward the Oku family house.
+
+## Sequence VII — The Road Home
+
+Status:
+Draft complete; pending user approval.
+
+Purpose:
+Move the brothers from public arrival into private inheritance. Introduce Cousin Eyo, let Calabar function as lived reality rather than spectacle, and place Kai's curiosity in direct contact with the first physical boundary he will later violate.
+
+Draft movement:
+- Cousin Eyo receives Bode and the brothers beneath the "OKU — FOUR" placard.
+- Eyo recognizes the brothers through Bode's worried descriptions and acknowledges Solomon's remains without ceremony.
+- Malik retains the travel urn while allowing other luggage to be carried.
+- The drive moves from Calabar streets into the greener outskirts and family road.
+- Ordinary negotiation, traffic, food and humour establish place without turning residents into scenery.
+- Eyo and Bode reveal that they are withholding something, and Malik openly challenges the partial answers.
+- Malik turns off an inaccurate digital route and allows Eyo to navigate.
+- Eyo and Bode humanize Solomon through the story of his failed teenage jump from a bridge.
+- Kai sees a real stone boundary structure held inside tree roots and marked by faded red fibre.
+- Bode refuses to stop and tells Kai not to confuse a picture with permission.
+- The family receives the brothers warmly while recognizing them as Solomon's sons and cultural outsiders.
+- An elder woman acknowledges the travel urn; Malik answers, "We brought him."
+- Kai aligns the scratched 1989 photograph with the living house.
+- The tree's roots have reached the threshold.
+- All three brothers enter the Calabar house; the MiniDV envelope remains sealed.
+
+Character movement:
+- Malik continues loosening control in small, observable increments without becoming passive.
+- Ade uses humour to create safe passage between strangers and relatives.
+- Kai's pattern recognition becomes curiosity directed toward a real prohibited place.
+- Bode's withholding now creates explicit friction rather than atmospheric mystery.
+- Eyo is introduced as a practical keeper of the house, not a mythology-delivery device.
+
+Horror and mythology integrity:
+- The roadside structure is physically real and appears in Kai's footage.
+- No Entity attack occurs. Kai has not yet broken the shrine boundary.
+- The structure is called an old boundary, not Ekpo, Ekpe or the Entity.
+- The faded red binding is visual foreshadowing whose precise cultural meaning remains subject to verification.
+- The scratched woman's identity remains concealed.
+
+Cultural integrity:
+- Nigerian Pidgin appears through relationships, bargaining and humour rather than menace.
+- Calabar residents continue their lives rather than performing culture for the visitors.
+- Regional cadence, the boundary imagery and the elder woman's dialogue require cultural review before the sequence is locked.
+
+Unforgettable image:
+Kai aligns the damaged 1989 photograph with the present-day house. The scratched-away woman's face covers the open doorway while a tree root that once stopped short now reaches the threshold.
+
+Current screenplay position:
+Sequence VII ends on CUT TO BLACK after Kai steps over the root and enters the house.
+
+Next structural movement:
+Review Sequence VII, then begin the first sustained interior movement inside the Oku family house. The sealed MiniDV cassette may now be opened because all three brothers have crossed the threshold.
 
 ---
 

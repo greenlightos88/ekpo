@@ -47,6 +47,15 @@
 - The Entity established as a distinct force the lineage was responsible for containing.
 - A cultural verification gate added to distinguish Ekpo from Ekpe and validate the title's use in the film's Efik-Calabar setting.
 - The threshold image established as the fogged lens revealing "OKU — FOUR."
+- Sequence VII — The Road Home drafted through the Oku house threshold ending.
+- Cousin Eyo introduced as the practical keeper of the house and Bode's bridge back into family life.
+- Calabar dramatized through ordinary movement, trade, humour, family and infrastructure rather than spectacle.
+- Kai sees a real stone boundary structure held in tree roots and marked by faded red fibre.
+- Bode establishes the rule: a picture is not permission.
+- The Entity remains inactive because Kai has not crossed or broken the boundary.
+- Malik answers the elder woman's recognition of Solomon with, "We brought him."
+- The 1989 photograph aligns with the present house; the scratched face covers the doorway and the tree root reaches the threshold.
+- All three brothers enter the Calabar house while the MiniDV envelope remains sealed.
 
 ## Current Status
 
@@ -68,10 +77,13 @@ Locked.
 Sequence VI:
 Draft complete through the sequence-ending CUT TO BLACK; pending user approval.
 
+Sequence VII:
+Draft complete through the sequence-ending CUT TO BLACK; pending user approval.
+
 ## Next
 
-Review and lock Sequence VI — Departure.
-Once approved, begin the drive from Margaret Ekpo International Airport toward the Oku family house.
+Review Sequence VII — The Road Home.
+After approval, begin the first interior movement inside the Oku family house and open the sealed MiniDV message at a character-driven moment.
 
 ## Continuity Directive
 
@@ -105,3 +117,10 @@ Once approved, begin the drive from Margaret Ekpo International Airport toward t
 - Keep the shrine, Ekpo, Ekpe and the Entity conceptually distinct unless cultural verification supports a more precise relationship.
 - Before final title and mythology lock, obtain Efik-Calabar cultural review and Ibibio-informed review wherever the terminology crosses traditions.
 - If verification contradicts the intended usage, revise the mythology or retitle the film rather than forcing the term.
+- Treat Sequence VI as working continuity while its formal lock remains pending.
+- Keep Sequence VII's roadside boundary physically real; do not convert it into an Entity hallucination.
+- Do not name the stone boundary Ekpo, Ekpe or the Entity.
+- Preserve Bode's line distinguishing observation from permission.
+- Keep the scratched woman's identity hidden.
+- Verify Eyo's and the elder woman's language, the red binding and the boundary imagery before lock.
+- The MiniDV envelope may be opened only after all three brothers have entered the house; that condition is now satisfied at the end of Sequence VII.

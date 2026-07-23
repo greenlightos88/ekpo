@@ -70,10 +70,11 @@ Emotional architecture
 
 ## Current Focus
 
-Sequence VI — Departure (lock review)
+Sequence VII — The Road Home (draft review)
 
 Sequences I through V are locked and must not be rewritten without an explicit new approval.
 Sequence VI is drafted through the Calabar threshold ending and is pending user approval.
+Sequence VII is drafted through the brothers' entry into the Oku family house and is pending user approval.
 
 ---
 
@@ -372,6 +373,56 @@ Kai clears one circle in the condensation covering his lens. Inside it, the fami
 
 Next:
 Review and lock Sequence VI, then begin the drive toward the Oku family house.
+
+---
+
+## Sequence VII — The Road Home
+
+Status:
+Draft complete; pending user approval.
+
+Purpose:
+Transform Calabar from destination into lived family space. The movement carries the brothers from the airport's public threshold to the Oku house's private threshold while giving Kai his first direct encounter with a boundary he will later choose to violate.
+
+Emotional movement:
+- Bode's reunion with Eyo reveals the cost and intimacy of returning home.
+- The brothers are recognized as Solomon's sons before they can define themselves.
+- A comic family story temporarily releases Solomon from the roles of corpse, secret and obligation.
+- The welcoming family makes belonging emotionally available while their lingering attention confirms the brothers' outsider status.
+- Malik's plural correction—"We brought him"—turns the return of Solomon into a shared act.
+
+Character movement:
+- Malik protects the urn but allows Eyo's knowledge to replace an inaccurate digital route.
+- Ade's humour creates human connection without treating Calabar as the joke.
+- Kai records a real boundary marker and begins confusing the ability to observe with the right to enter.
+- Bode becomes protective and direct around the boundary, while his partial answers worsen Malik's distrust.
+- Eyo operates as caretaker, driver, relative and social bridge before he carries any mythological function.
+
+Place and cultural integrity:
+- Calabar is active, contemporary and ordinary: traffic, schools, trade, family greetings and imperfect infrastructure coexist.
+- Nigerian Pidgin is relational and situational rather than used as atmospheric decoration.
+- No resident exists solely to explain culture to the Canadian brothers.
+- Eyo's language, the elder woman's reception of Solomon and all boundary imagery require Efik-Calabar review before lock.
+
+Horror integrity:
+The Entity remains inactive toward the brothers. Kai has not broken the shrine. The stone-and-root structure is real, visible without the camera and preserved imperfectly in the footage. Unease comes from Bode's recognition and the existence of a respected boundary, not from hallucination or pursuit.
+
+Title and mythology integrity:
+The boundary structure is not named Ekpo, Ekpe or the Entity. EKPO continues to refer provisionally to ancestral inheritance and obligation. The red binding and shrine vocabulary remain subject to cultural verification.
+
+Continuity requirements:
+- Solomon's ashes remain in the sealed birch travel urn.
+- The empty brass urn remains with the luggage.
+- The MiniDV cassette remains sealed throughout the drive.
+- All three brothers cross the Calabar house threshold before the sequence ends.
+- The scratched woman's identity is not disclosed.
+- The house and massive tree match the 1989 photograph.
+
+Unforgettable image:
+The scratched-away face in the old photograph aligns with the dark open doorway of the present house while a root that once stopped several feet away now touches the threshold.
+
+Next:
+Review and lock Sequence VII. Then begin the house interior, family settling and the first permitted opening of Solomon's sealed MiniDV message.
 
 ---
 
