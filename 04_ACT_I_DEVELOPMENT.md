@@ -1025,4 +1025,19 @@ Dialogue remains subject to cultural and regional review before production lock.
 
 ---
 
+# Post-lock continuity note
+
+Sequence VII now follows the Act I cut without revising the trigger:
+
+- Kai rejoins the group with the talisman concealed
+- the shrine remains open
+- the river ceremony proceeds in good faith, not as a repair attempt
+- Solomon's ashes are released from the same brass urn
+- the Entity's first whole-boundary manifestation remains within Phase One Recognition
+- no later scene retroactively introduces pre-trigger supernatural activity
+
+Act I remains locked.
+
+---
+
 END ACT I DEVELOPMENT DOCUMENT

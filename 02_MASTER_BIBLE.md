@@ -1,6 +1,6 @@
 # EKPO MASTER DEVELOPMENT BIBLE
 
-Version: Act I Prestige Draft
+Version: Act II Sequence VII Integration
 
 ## Purpose of this document
 
@@ -406,9 +406,10 @@ The river is:
 - a family boundary
 - implicated by one unresolved fragment of inherited sensation
 - an element within the shrine resonance
-- not yet reached by the ashes at the end of Act I
+- reached by Solomon's ashes in Sequence VII
+- the first place all three sons register the Entity's attention together
 
-Water should accumulate meaning before the scattering ceremony.
+At the river, water completes the sons' chosen obligation while placing them inside the land's corrective system. The ash anomaly remains visible only to Kai and brief enough to retain ambiguity.
 
 ## Red thread
 
@@ -518,6 +519,23 @@ Trigger:
 
 The first supernatural sound is not score. It is the land registering the regulator's changed state.
 
+## Sequence VII
+
+River ceremony:
+
+- current against ankles
+- leaves and insects
+- ash entering water
+- no score
+
+Recognition:
+
+- insect calls stop in stages
+- wind drops
+- ordinary sound returns unevenly
+
+The sound withdrawal expands from the breached regulator to the river boundary only after Solomon's ashes enter the current. It remains undifferentiated attention, not a personalized attack.
+
 ---
 
 # Cultural behavior
@@ -610,7 +628,11 @@ Phase One - Recognition:
 
 - Act II opening state
 - Entity may observe and locate
+- ritual contact at the river may register all three sons simultaneously
+- natural sound may withdraw briefly across the regulated land
+- a minor material irregularity may remain ambiguous to everyone except one observer
 - complex mimicry not yet permitted
+- no speech, figure, touch, injury, or individualized psychological content
 
 Phase Two - Attachment:
 
@@ -691,22 +713,46 @@ The sequences are built from the Oku family's specific objects, sister-shaped ab
 
 ---
 
-# Immediate Act II design obligations
+# Act II opening movement
 
-Before drafting Act II, answer:
+## Sequence VII - Completion becomes recognition
 
-1. Does Kai attempt to replace the talisman after the Act I cut, and why can that not reseal the regulator?
-2. What does Bode recognize from the broken thread, mud, or talisman?
-3. How much does Eno know about the maintenance practice?
-4. Does the ash-scattering ceremony proceed immediately, pause, or become the family's first attempted repair?
-5. What is the Entity allowed to observe during Phase One?
-6. What residue remains in Kai after resonance?
-7. When and why does Kai disclose or conceal the talisman?
-8. What human conflict follows before the first active supernatural test?
-9. How does the dead sister's history surface without an exposition scene?
-10. What specific action advances the Entity from recognition to attachment?
+The river ceremony is not an attempted repair. The family does not yet know that repair is required.
 
-Act II must not begin with full-scale mimicry or generalized haunting. The Entity has only just recognized the returned bloodline.
+The sons complete Solomon's request in good faith:
+
+- Bode establishes a minimal family practice without explaining mythology
+- all three sons enter the river
+- Malik releases the ashes only after receiving Ade's physical support and Kai's assent
+- Solomon's physical weight leaves Malik's hands
+- the empty urn remains
+
+The Entity's recognition then expands:
+
+- one ribbon of ash briefly resists dispersal while the current moves beneath it
+- only Kai notices
+- natural sound withdraws across the boundary
+- all three sons register one undifferentiated presence
+- their reactions reveal existing character without proving personalized supernatural knowledge
+- no one compares accounts
+- Bode reads their shared concealment and removes them from the boundary
+
+The brothers enter the river together and leave separately. This is the first Act II fracture.
+
+## Immediate obligations after Sequence VII
+
+Before drafting the next sequence, answer:
+
+1. What account did Kai give after returning from the ravine, and what part of it does Malik already distrust?
+2. Why does Bode respond to the river behavior with evacuation rather than immediate explanation?
+3. What does Eno read when the four men return with an empty urn and incompatible silences?
+4. Which brother first risks asking whether the river event was shared?
+5. What makes Kai continue concealing the talisman after the river confirms a connection?
+6. What observable behavior may the Entity study before Recognition can become Attachment?
+7. What role does the empty urn play now that it no longer contains Solomon?
+8. How does the dead sister's history surface through conflict or action rather than a lore briefing?
+
+Act II must not jump from shared Recognition to mimicry, bodily attack, or individualized torment. The Entity has located the sons; it has not yet learned them.
 
 ---
 

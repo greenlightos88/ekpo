@@ -2,11 +2,11 @@
 
 Date: 2026-07-23
 
-Session objective: Rebuild and complete Act I from the latest binding corrections, existing repository, project conversation, and earlier Act I source material.
+Session objective: Preserve the completed Act I and integrate the supplied river-boundary scene as the canonical opening of Act II.
 
 ## Outcome
 
-Act I is complete through the shrine-trigger ending.
+Act I is complete through the shrine-trigger ending. Act II now contains one canonical sequence: the river-boundary ceremony.
 
 The act now contains six sequences:
 
@@ -17,6 +17,10 @@ The act now contains six sequences:
 5. Homecoming
 6. The Land and the Shrine
 
+Act II begins with:
+
+7. The River Boundary
+
 The screenplay ends at the first active supernatural event:
 
 - Kai intentionally breaks the red-thread seal
@@ -26,6 +30,52 @@ The screenplay ends at the first active supernatural event:
 - one deep beat moves through the land
 - Kai nearly restores the talisman, then chooses to keep it without explaining himself
 - the first black spider emerges from the regulator
+
+The current screenplay position is now the end of Sequence VII:
+
+- Kai has rejoined the group with the talisman concealed
+- the brothers scatter Solomon's ashes at the river boundary
+- the same brass urn is empty
+- Kai alone sees one ribbon of ash briefly resist dispersal
+- natural sound withdraws in stages
+- all three brothers register the same undifferentiated presence
+- each believes the fear may have been private
+- Bode reads the shared concealment, leads them away, and tells them not to look back
+
+## Sequence VII integration pass
+
+The supplied scene was retained for:
+
+- the river's calm physical presence
+- Bode's restrained family practice
+- Malik releasing the ashes with Ade's hand on his shoulder and Kai's assent
+- the ash anomaly
+- the progressive withdrawal of natural sound
+- Malik's vigilance response
+- Ade's failed reflex toward humor
+- Kai's sense of recognition
+- the shared presence
+- the brothers leaving separately after entering together
+- Bode understanding danger from behavior rather than supernatural perception
+
+The scene was compressed to remove:
+
+- repeated declarations that the obligation was complete
+- prose explaining healing, absolution, peace, responsibility, or terror after performance had already communicated it
+- the suggested giant visual figure
+- language implying the Entity had already learned each brother's psychology
+- repeated versions of the same environmental silence
+
+Canonical interpretation:
+
+- the Entity remains in Phase One Recognition
+- the three reactions arise from established coping systems, not individualized attacks
+- Bode does not share the manifestation
+- the river ceremony is not a repair attempt
+- the ashes complete Solomon's request but do not close the regulator
+- shrine terminology remains deferred
+
+Working screenplay length is now approximately 34 pages. Sequence VII adds roughly three to four pages after the 30-31 page Act I.
 
 ## Pacing revision
 
@@ -230,28 +280,28 @@ Entity phase: Recognition
 
 ## Current writing position
 
-Act II should begin immediately after the Act I cut.
+Sequence VII is complete.
 
-Parallel pressure:
+The four men are leaving the river boundary:
 
-- Kai is in the ravine with the talisman
-- Malik, Ade, and Bode are above with the urn
-- Bode has realized Kai left the path
-- the river ceremony has not occurred
-- the Entity has recognized the bloodline but has not yet learned each brother well enough for complex mimicry
+- Solomon's ashes are in the current
+- Malik carries the empty urn
+- Kai carries the concealed talisman
+- the brothers do not know the river event was shared
+- Bode knows only that the same concealed fear crossed all three men
+- Eno knows nothing yet about the breach or manifestation
+- the Entity remains in Phase One Recognition
 
-## Required Act II architecture before pages
+## Required architecture before the next pages
 
-1. Determine whether and how the regulator can be physically repaired.
-2. Define Bode's exact knowledge and immediate reaction.
-3. Define Eno's exact knowledge and responsibility.
-4. Decide when Kai discloses the talisman.
-5. Decide whether the ashes ceremony proceeds, pauses, or becomes the first repair attempt.
-6. Define Phase One manifestations and prevent premature capability escalation.
+1. Lock the account Kai gave after returning from the ravine.
+2. Define why Bode evacuates first and explains later.
+3. Define Eno's reading of the returning men.
+4. Decide which brother first compares the river experience.
+5. Decide when Kai discloses the talisman and what forces disclosure.
+6. Define the Entity's first observation scene without advancing to Attachment prematurely.
 7. Design the sister reveal as dramatic action rather than exposition.
-8. Map the Entity's transition from recognition to attachment.
-9. Preserve Malik's "stay together" rule as pressure, not a slogan.
-10. Give Ade an active response to Kai's breach beyond humor.
+8. Establish the empty urn's next dramatic function.
 
 ## Cultural and factual verification still required
 
@@ -293,7 +343,7 @@ Working references:
 
 ## Next step
 
-Build Act II canon, character matrix, scene bible, and director's notebook from the immediate shrine aftermath before drafting new screenplay pages.
+Build the next Act II sequence from the return to the Oku compound. Do not draft it until the character matrix, scene bible, director's notebook, and Phase One capability check agree.
 
 ---
 
