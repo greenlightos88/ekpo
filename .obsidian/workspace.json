@@ -35,14 +35,10 @@
             "id": "1d8d8da8c77eeb6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_ACT_I_DEVELOPMENT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04_ACT_I_DEVELOPMENT"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -129,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_ACT_I_DEVELOPMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04_ACT_I_DEVELOPMENT"
+              "title": "Backlinks"
             }
           },
           {
@@ -148,12 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_ACT_I_DEVELOPMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04_ACT_I_DEVELOPMENT"
+              "title": "Outgoing links"
             }
           },
           {
@@ -191,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_ACT_I_DEVELOPMENT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04_ACT_I_DEVELOPMENT"
+              "title": "Outline"
             }
           }
         ],
@@ -221,12 +214,12 @@
   },
   "active": "1d8d8da8c77eeb6b",
   "lastOpenFiles": [
+    "04_ACT_I_DEVELOPMENT.md",
     "02_MASTER_BIBLE.md",
     "06_ACT_II_DEVELOPMENT.md",
     "05_MASTER_CHARACTER_BREAKDOWN.md",
     "00_CANON.md",
     "Untitled 1.canvas",
-    "04_ACT_I_DEVELOPMENT.md",
     "Untitled.canvas",
     "01_SCREENPLAY.fountain",
     "03_SESSION.md",
