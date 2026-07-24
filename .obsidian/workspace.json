@@ -35,10 +35,16 @@
             "id": "1d8d8da8c77eeb6b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "fountain",
+              "state": {
+                "file": "01_SCREENPLAY.fountain",
+                "fountain": {
+                  "editing": false,
+                  "mode": "script"
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01_SCREENPLAY"
             }
           },
           {
@@ -52,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_SCREENPLAY.fountain",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 01_SCREENPLAY"
             }
           },
           {
@@ -143,11 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_SCREENPLAY.fountain",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 01_SCREENPLAY"
             }
           },
           {
@@ -185,16 +193,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_SCREENPLAY.fountain",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 01_SCREENPLAY"
+            }
+          },
+          {
+            "id": "9c985853b5c999ed",
+            "type": "leaf",
+            "state": {
+              "type": "fountain-sidebar",
+              "state": {},
+              "icon": "list-tree",
+              "title": "Fountain Outline"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,20 +228,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "fountain:New fountain document": false
     }
   },
-  "active": "1d8d8da8c77eeb6b",
+  "active": "aae6753b7bdc4cfe",
   "lastOpenFiles": [
-    "04_ACT_I_DEVELOPMENT.md",
+    "01_SCREENPLAY.fountain",
+    "Untitled.canvas",
+    "03_SESSION.md",
     "02_MASTER_BIBLE.md",
+    "04_ACT_I_DEVELOPMENT.md",
     "06_ACT_II_DEVELOPMENT.md",
     "05_MASTER_CHARACTER_BREAKDOWN.md",
     "00_CANON.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "01_SCREENPLAY.fountain",
-    "03_SESSION.md",
     "EKPO/01_SCREENPLAY.fountain",
     "EKPO/02_MASTER_BIBLE.md",
     "EKPO/00_CANON.md",
