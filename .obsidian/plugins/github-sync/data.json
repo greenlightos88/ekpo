@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/greenlightos88/ekpo",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}

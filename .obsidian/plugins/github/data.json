@@ -1,0 +1,14 @@
+{
+  "apiToken": "",
+  "username": "greenlightos88",
+  "targetDirectory": "",
+  "lastFetchDate": "",
+  "syncEnabled": true,
+  "syncPullRequests": true,
+  "lastPRFetchDate": "",
+  "prDirectory": "https://github.com/greenlightos88/ekpo",
+  "useDefaultTemplateStar": true,
+  "templatePathStar": "",
+  "useDefaultTemplatePR": true,
+  "templatePathPR": ""
+}
