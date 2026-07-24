@@ -159,11 +159,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +178,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b95095eff74dfa0d",
+  "active": "551e8adf32791432",
   "lastOpenFiles": [
     "01_SCREENPLAY.fountain",
     "02_MASTER_BIBLE.md",
