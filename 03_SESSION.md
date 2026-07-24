@@ -292,6 +292,32 @@ The four men are leaving the river boundary:
 - Eno knows nothing yet about the breach or manifestation
 - the Entity remains in Phase One Recognition
 
+## Producer-format delivery pass
+
+The canonical Fountain source now carries standard title-page metadata and has
+been rendered as `output/pdf/EKPO_Screenplay.pdf`.
+
+The producer-facing PDF:
+
+- uses U.S. Letter pages and 12-point Courier New
+- applies professional scene-heading, action, character-cue, parenthetical,
+  dialogue, transition, and page-number placement
+- preserves Efik diacritics in the rendered screenplay
+- omits internal `# SEQUENCE`, act-boundary, and development-control headings
+- contains one unnumbered title page and twenty-seven screenplay pages
+- begins with `FADE IN:` and ends at the current canonical writing position,
+  `Nothing holds there now.`
+
+The Fountain file remains the canonical editable screenplay. The PDF is the
+producer-facing reading copy; no story, dialogue, chronology, or mythology was
+changed during this formatting pass.
+
+The post-format repository audit also removed unresolved synchronization
+branches from `01_SCREENPLAY.fountain`, `00_CANON.md`, and
+`02_MASTER_BIBLE.md`. Those files were reconciled to the last verified
+river-boundary canon; valid downstream character and Act II development files
+were preserved.
+
 ## Required architecture before the next pages
 
 1. Lock the account Kai gave after returning from the ravine.
