@@ -32,6 +32,20 @@
             }
           },
           {
+            "id": "1d8d8da8c77eeb6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_ACT_I_DEVELOPMENT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04_ACT_I_DEVELOPMENT"
+            }
+          },
+          {
             "id": "bae0dd93b17726e8",
             "type": "leaf",
             "state": {
@@ -42,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04_ACT_I_DEVELOPMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 04_ACT_I_DEVELOPMENT"
             }
           },
           {
@@ -133,11 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04_ACT_I_DEVELOPMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 04_ACT_I_DEVELOPMENT"
             }
           },
           {
@@ -175,12 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04_ACT_I_DEVELOPMENT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 04_ACT_I_DEVELOPMENT"
             }
           }
         ],
@@ -202,10 +219,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "aae6753b7bdc4cfe",
+  "active": "1d8d8da8c77eeb6b",
   "lastOpenFiles": [
-    "00_CANON.md",
     "02_MASTER_BIBLE.md",
+    "06_ACT_II_DEVELOPMENT.md",
+    "05_MASTER_CHARACTER_BREAKDOWN.md",
+    "00_CANON.md",
     "Untitled 1.canvas",
     "04_ACT_I_DEVELOPMENT.md",
     "Untitled.canvas",

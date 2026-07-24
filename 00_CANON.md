@@ -17,23 +17,24 @@ The approved opening of Sequence III is in the screenplay through the black-spid
 The remainder of Sequence III has been drafted through the powerless-camcorder ending and awaits user approval.
 =======
 
-Version: 2.1 - Act I Prestige Pass
+Version: 2.2 - River Boundary Integration
 
 ## Project status
 
 Development phase: Prestige feature rewrite
 
-Current screenplay position: End of Act I
+Current screenplay position: End of Act II, Sequence VII
 
-Current story position: Kai has intentionally broken the shrine's red-thread seal, removed the brass talisman, experienced the first inherited resonance, and chosen not to restore the talisman. The first black spider has emerged from the broken regulator. Malik and Bode are calling for Kai from the path above.
+Current story position: Solomon's ashes have been released at the Oku river boundary. Kai still conceals the talisman in his camera bag. The brothers experienced the same undifferentiated presence in the river, but each believes the fear may have belonged to him alone. Bode did not share the manifestation; he recognized the same concealed fear in all three men and led them away without explanation.
 
 Lock status:
 
 - Act I story architecture: LOCKED
 - Act I chronology and supernatural causality: LOCKED
 - Act I screenplay: COMPLETE AND INTEGRITY-REVIEWED
+- Act II Sequence VII: CANONICAL AND INTEGRITY-REVIEWED
 - Regional dialogue and cultural behavior: WORKING LOCK pending Efik/Calabar reader verification
-- Act II: not yet drafted from this reset
+- Remaining Act II: not yet architected from this reset
 
 All previous lock labels attached to casket, columbarium, pre-shrine manifestations, Eno in Vancouver, split will/decision sequences, travel-urn mechanics, or duplicated baggage business are void.
 >>>>>>> 29711678d9eaa522952767a2468baea6ad9905e8
@@ -414,7 +415,9 @@ Continuity:
 5. Travels with the brothers to Nigeria in a padded carry case
 6. Enters the Oku family house outside Calabar
 7. Is carried onto the family land in Sequence VI
-8. Has not yet reached the river or released Solomon's ashes at the end of Act I
+8. Reaches the river boundary in Sequence VII
+9. Releases Solomon's ashes into the river
+10. Leaves the river empty in Malik's hands
 
 There is no coffin, casket, grave burial, columbarium, release form, retrieval scene, second urn, birch travel urn, or remains-transfer subplot.
 
@@ -448,6 +451,7 @@ There is no coffin, casket, grave burial, columbarium, release form, retrieval s
 - Is removed intentionally by Kai
 - Contact initiates inherited resonance
 - Is in Kai's camera bag at the end of Act I
+- Remains concealed in Kai's camera bag throughout Sequence VII
 
 ---
 
@@ -513,8 +517,12 @@ Current permitted capabilities:
 - One deep earth-borne beat
 - The forest registering the changed state
 - The first black spider emerging from the broken shrine
+- Brief suppression of natural sound at the river boundary after Solomon's ashes enter the current
+- Ambiguous physical irregularity in the ash while the current continues beneath it
+- Undifferentiated attention registered simultaneously by the three sons participating in the river ceremony
+- Recognition across the regulated family land without speech, image, touch, or individualized content
 
-The Entity has not yet earned mimicry, complex hallucination, spatial distortion, bodily pain, false Solomon, or individualized psychological attack. Those capabilities must develop through observation and attachment in Act II.
+The Entity has not yet earned mimicry, complex hallucination, objective spatial distortion, bodily pain, false Solomon, or individualized psychological attack. The brothers' different reactions at the river arise from their existing coping systems, not from tailored supernatural attacks.
 
 ---
 
@@ -630,19 +638,55 @@ Sound: Dense natural environment, sudden total absence, one deep beat through ro
 
 ---
 
+# Act II sequence canon
+
+## Sequence VII - The River Boundary
+
+Purpose: Complete Solomon's request while extending the Entity from recognition at the broken regulator to undifferentiated recognition of the three sons at the family boundary.
+
+Continuity entering the scene:
+
+- Kai has rejoined the group with mud on his clothes and the talisman concealed
+- Malik, Ade, and Bode know he left the path
+- The confrontation over what happened remains unresolved
+- The same brass urn still contains Solomon's ashes
+- Bode gives the sons room to perform the river ceremony
+
+Outcome:
+
+- All three brothers enter the river together
+- Malik releases Solomon's ashes with Ade's hand on his shoulder and Kai's assent
+- One ribbon of ash appears to hold together while the current moves beneath it; only Kai registers the anomaly
+- The brothers experience the same sound withdrawal and undifferentiated presence
+- Malik responds through vigilance, Ade through a failed reflex toward humor, and Kai through recognition
+- None of the brothers knows the others felt the same event
+- Bode does not experience the manifestation
+- Bode reads their simultaneous concealed fear and orders the group away
+- Solomon's ashes are in the river
+- The brass urn is empty
+- Kai continues to conceal the talisman
+
+Unforgettable image: The three brothers leave the river separately after entering it together.
+
+Sound: Water and dense life; sound withdraws in stages; the ordinary environment resumes unevenly.
+
+Supernatural ceiling: Phase One Recognition only. No voice, figure, mimicry, touch, injury, individualized message, or confirmed spatial change.
+
+---
+
 # End-of-Act-I knowledge ledger
 
 ## Malik knows
 
 - Solomon asked all three sons to take his ashes to the Oku river boundary
-- The scratched woman is dead family
+- The scratched woman was Solomon and Bode's sister
 - Bode and Solomon concealed part of the family history
 - Kai carries the photograph and carving
 - Kai has left the path and is currently missing
 
 Malik does not know:
 
-- The woman is Solomon and Bode's younger sister
+- The sister's name or exact death
 - The shrine exists
 - Kai broke the seal
 - Kai has the talisman
@@ -652,6 +696,7 @@ Malik does not know:
 
 - Kai experiences sensory overload differently
 - The scratched photograph was deliberately damaged
+- The scratched woman was Solomon and Bode's sister
 - Family stories in Calabar contradict the father they knew
 - Kai has left the group
 
@@ -660,6 +705,7 @@ Ade does not know the shrine or Entity rules.
 ## Kai knows
 
 - The carving, boundary mark, and shrine were made within the same human system
+- The scratched woman was Solomon and Bode's sister
 - One older marked stone was hidden off the current path
 - He broke a maintained seal
 - The talisman carries inherited resonance
@@ -685,6 +731,63 @@ The exact limit of Bode's knowledge about the regulator and spider god remains t
 - The brothers are approaching a history they have not been taught
 
 Her exact knowledge of the shrine breach mechanism remains to be specified before Act II.
+
+---
+
+# Post-Sequence-VII knowledge ledger
+
+## Malik knows
+
+- Kai left the path and returned with mud and a scraped hand
+- Solomon's ashes have been released at the requested river boundary
+- Something made his body register a presence behind him
+- Ade and Kai also left the river altered, though Malik has not asked why
+- Bode saw enough to hurry them away and say not to look back
+
+Malik does not know:
+
+- The shrine exists
+- Kai broke the seal
+- Kai carries the talisman
+- Ade and Kai experienced the same presence
+
+## Ade knows
+
+- Kai returned from off the path carrying an unresolved secret
+- Solomon's ashes are in the river
+- His reflex toward humor failed under an unexplained presence
+- Malik and Kai also became silent in the river
+
+Ade does not know whether the shared timing was coincidence, grief, or supernatural recognition.
+
+## Kai knows
+
+- The shrine breach preceded the river anomaly
+- The ash briefly resisted dispersal while the current continued
+- The same impossible attention that recognized him at the shrine reached the brothers at the river
+- He chose again not to disclose or restore the talisman
+
+Kai does not know that Malik and Ade felt the same presence.
+
+## Bode knows
+
+- Kai left the path and returned changed
+- All three brothers concealed fear at the river at the same moment
+- The river itself showed him nothing unusual
+- Continuing to remain at the boundary was unsafe
+
+Bode's exact knowledge of the regulator remains unresolved. His decision to leave is precaution based on behavior, not proof of what Kai did.
+
+## Eno knows
+
+- Nothing yet about the breach or the river manifestation
+
+## Entity state
+
+- Phase One: Recognition
+- Has registered all three sons at the river boundary
+- Has not demonstrated individualized psychological knowledge
+- Has not communicated language or adopted a human form
 
 ---
 
