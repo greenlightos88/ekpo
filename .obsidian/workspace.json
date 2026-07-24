@@ -25,10 +25,16 @@
             "id": "aae6753b7bdc4cfe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "fountain",
+              "state": {
+                "file": "01_SCREENPLAY.fountain",
+                "fountain": {
+                  "editing": true,
+                  "mode": "script"
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01_SCREENPLAY"
             }
           },
           {
