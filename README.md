@@ -19,6 +19,11 @@ The Fountain file is the canonical editable source. Section headings beginning w
 
 ## Development control
 
+- [Creative constitution](docs/EKPO_CONSTITUTION.md)
+- [Current continuity](docs/CURRENT_CONTINUITY.md)
+- [Permanent decision log](docs/DECISION_LOG.md)
+- [Motif ledger](docs/MOTIF_LEDGER.md)
+- [Current writing assignment](docs/NEXT_MOVEMENT.md)
 - [Canon](00_CANON.md)
 - [Master development bible](02_MASTER_BIBLE.md)
 - [Current session and continuity position](03_SESSION.md)
@@ -29,3 +34,6 @@ The Fountain file is the canonical editable source. Section headings beginning w
 - [Act II morning and work-room development](08_ACT_II_MORNING_ROOM_DEVELOPMENT.md)
 
 Current screenplay position: Act II, Sequence X - The Closed Room.
+
+The screenplay and every file in `docs/` form the operational source of truth
+for all future EKPO writing sessions.

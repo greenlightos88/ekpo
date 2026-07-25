@@ -24,7 +24,7 @@ Lock status:
 - Act II Sequence VII: CANONICAL AND INTEGRITY-REVIEWED
 - Act II Sequences VIII-X: CANONICAL AND INTEGRITY-REVIEWED
 - Regional dialogue and cultural behavior: WORKING LOCK pending Efik/Calabar reader verification
-- Remaining Act II after Sequence IX: not yet architected from this reset
+- Remaining Act II after Sequence X: not yet architected from this reset
 
 All previous lock labels attached to casket, columbarium, pre-shrine manifestations, Eno in Vancouver, split will/decision sequences, travel-urn mechanics, or duplicated baggage business are void.
 
