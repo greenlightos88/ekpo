@@ -376,17 +376,22 @@ The scene completes Solomon's chosen return, activates the broken Oku regulator 
 
 ---
 
-# Next Sequence Gate
+# Next Sequence Gate - CLOSED
 
-Do not draft the return to the compound until these are locked:
+The required decisions were locked through Sequences VIII-IX:
 
-1. Kai's account of the ravine.
-2. Malik's interpretation of Kai's absence.
-3. Bode's reason for delaying explanation.
-4. Eno's regulator knowledge ceiling.
-5. Which brother first compares river experiences.
-6. What the Entity is permitted to observe next.
-7. The empty urn's placement and dramatic function.
+1. Kai disclosed only the boundary stone, fall, and return.
+2. Malik accepted the fall but distrusted the completeness of the account.
+3. Bode evacuated because he had behavioral evidence of danger but no proof of
+   the breach.
+4. Eno recognizes the family obligation and broken workmanship without yet
+   supplying final cosmological terminology.
+5. Ade first names the impossible voices; the brothers then compare accounts.
+6. The Entity begins Attachment through immediate sensory probes.
+7. The empty urn becomes the first household material responder.
+
+Development control continues in
+`07_ACT_II_NIGHT_KITCHEN_DEVELOPMENT.md`.
 
 ---
 

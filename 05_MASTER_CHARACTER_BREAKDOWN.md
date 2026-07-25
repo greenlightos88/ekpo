@@ -2537,6 +2537,90 @@ Her first task in the following movement is to read incompatible behavior before
 
 ---
 
+# CANONICAL CHARACTER LEDGER AFTER SEQUENCE IX
+
+## Malik
+
+- Experienced unseen weight and breath in his bed.
+- Admitted the encounter only after Ade stopped Kai in the passage.
+- Knows Kai broke a maintained binding and concealed the talisman.
+- Converts fear into a charge of theft because culpability is easier to manage
+  than uncertainty.
+- Has begun to treat Kai as both a brother requiring protection and a source of
+  danger.
+
+Performance residue:
+
+Malik's anger must never erase the humiliation of lying still while something
+breathed beside him.
+
+## Ade
+
+- Heard his name from impossible locations.
+- Refused the invitation to perform.
+- Recognized that Kai's outward sleepwalking concealed active terror.
+- Used physical contact to interrupt the probe.
+- Prevented Malik and Kai from dividing before the truth was shared.
+
+Performance residue:
+
+Ade's humor remains available. He is beginning to choose when not to use it.
+That choice marks growth rather than personality loss.
+
+## Kai
+
+- Experienced rhythm inside his chest, a bodyless spider shadow, and voices
+  offering contradictory repair.
+- Carried the talisman toward the red-corded household door.
+- Could not identify whether one voice was internal or external.
+- Disclosed the talisman only after material evidence made concealment
+  impossible.
+- Admitted he did not restore it.
+- Defended his right to the question but could not defend the consequence.
+
+Performance residue:
+
+Kai is no longer mythology delivery. He is a frightened adult whose valid need
+to understand has become ethically dangerous.
+
+## Bode
+
+- Recognized the regulator's workmanship by reconstructing the snapped knot.
+- Learned that the Entity is sampling voice, proximity, rhythm, and shadow.
+- Knows the talisman has left the regulator.
+- Defines the probes as learning rather than communication.
+- Admits uncertainty about whether the inherited name and explanation remain
+  true.
+
+Performance residue:
+
+Bode's competence survives. His certainty does not. Further withholding now
+requires an immediate protective reason or becomes culpable.
+
+## Eno
+
+- Reads Bode's concealment before she understands the object.
+- Learns the breach occurred below the western stones.
+- Reorganizes the household immediately.
+- Keeps the talisman visible and forbids unseen voices from being answered.
+- Requires Bode to speak before inherited silence becomes another danger.
+
+Performance residue:
+
+Fear accelerates Eno. It does not make her mystical or passive.
+
+## Entity
+
+- Has entered Phase Two: Attachment.
+- Samples immediate sensory and behavioral responses.
+- Can use short voice fragments and names heard directly.
+- Can project an unstable spider shadow and create somatic pressure.
+- Can create one material resonance between talisman and empty urn.
+- Has not earned dead-relative impersonation, private memory, injury, stable
+  form, or a complete psychological scenario.
+
+---
+
 # FINAL CHARACTER GOVERNING TEST
 
 The goal is not to make every character sympathetic.

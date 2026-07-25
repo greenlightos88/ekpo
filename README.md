@@ -6,7 +6,7 @@ Psychological supernatural family drama.
 
 [Read the professionally formatted screenplay PDF](output/pdf/EKPO_Screenplay.pdf)
 
-The PDF is the producer-facing reading copy: one title page followed by 27
+The PDF is the producer-facing reading copy: one title page followed by 36
 screenplay pages in U.S. Letter format, 12-point Courier New, standard
 screenplay margins, professional dialogue indentation, transitions, and
 continuous screenplay page numbering.
@@ -25,5 +25,6 @@ The Fountain file is the canonical editable source. Section headings beginning w
 - [Act I development control](04_ACT_I_DEVELOPMENT.md)
 - [Master character breakdown](05_MASTER_CHARACTER_BREAKDOWN.md)
 - [Act II development control](06_ACT_II_DEVELOPMENT.md)
+- [Act II night and kitchen development](07_ACT_II_NIGHT_KITCHEN_DEVELOPMENT.md)
 
-Current screenplay position: Act II, Sequence VII - The River Boundary.
+Current screenplay position: Act II, Sequence IX - The Broken Knot.

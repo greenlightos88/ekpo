@@ -1,14 +1,18 @@
 # EKPO CANON
 
-Version: 2.2 - River Boundary Integration
+Version: 2.3 - Night Attachment Integration
 
 ## Project status
 
 Development phase: Prestige feature rewrite
 
-Current screenplay position: End of Act II, Sequence VII
+Current screenplay position: End of Act II, Sequence IX
 
-Current story position: Solomon's ashes have been released at the Oku river boundary. Kai still conceals the talisman in his camera bag. The brothers experienced the same undifferentiated presence in the river, but each believes the fear may have belonged to him alone. Bode did not share the manifestation; he recognized the same concealed fear in all three men and led them away without explanation.
+Current story position: After the river, the Entity probes all three brothers in
+their shared room. Ade stops Kai before he reaches the red-corded household
+door. In the kitchen, the empty urn answers the concealed talisman, Bode
+reconstructs the broken shrine knot, and Kai discloses what he removed. Bode and
+Eno now know the regulator below the western stones has been breached.
 
 Lock status:
 
@@ -16,8 +20,9 @@ Lock status:
 - Act I chronology and supernatural causality: LOCKED
 - Act I screenplay: COMPLETE AND INTEGRITY-REVIEWED
 - Act II Sequence VII: CANONICAL AND INTEGRITY-REVIEWED
+- Act II Sequences VIII-IX: CANONICAL AND INTEGRITY-REVIEWED
 - Regional dialogue and cultural behavior: WORKING LOCK pending Efik/Calabar reader verification
-- Remaining Act II: not yet architected from this reset
+- Remaining Act II after Sequence IX: not yet architected from this reset
 
 All previous lock labels attached to casket, columbarium, pre-shrine manifestations, Eno in Vancouver, split will/decision sequences, travel-urn mechanics, or duplicated baggage business are void.
 
@@ -231,6 +236,8 @@ Continuity:
 8. Reaches the river boundary in Sequence VII
 9. Releases Solomon's ashes into the river
 10. Leaves the river empty in Malik's hands
+11. Produces one impossible brass note in the kitchen after the concealed
+    talisman enters the room
 
 There is no coffin, casket, grave burial, columbarium, release form, retrieval scene, second urn, birch travel urn, or remains-transfer subplot.
 
@@ -265,6 +272,20 @@ There is no coffin, casket, grave burial, columbarium, release form, retrieval s
 - Contact initiates inherited resonance
 - Is in Kai's camera bag at the end of Act I
 - Remains concealed in Kai's camera bag throughout Sequence VII
+- Is disclosed in the kitchen after its material resonance with the empty urn
+- Is wrapped once in an ordinary clean cloth; the wrapping is triage, not a
+  ritual repair
+
+## Red-corded household door
+
+- Exists at the end of the Oku house passage before the shrine breach
+- Behaves normally before the breach
+- Is secured between its handle and a brass wall hook
+- Is an inherited household boundary, not the land regulator itself
+- Shares physical maintenance language with the regulator
+- Draws Kai during the first Attachment probe
+- Is not opened in Sequences VIII or IX
+- Its contents and final terminology remain deferred
 
 ---
 
@@ -336,6 +357,33 @@ Current permitted capabilities:
 - Recognition across the regulated family land without speech, image, touch, or individualized content
 
 The Entity has not yet earned mimicry, complex hallucination, objective spatial distortion, bodily pain, false Solomon, or individualized psychological attack. The brothers' different reactions at the river arise from their existing coping systems, not from tailored supernatural attacks.
+
+## Phase Two - Attachment
+
+Begins during Sequence VIII.
+
+Current permitted capabilities:
+
+- sample names and short voice fragments heard directly on the land
+- create spatially inconsistent whispers without stable impersonation
+- test somatic channels through weight, breath, and chest-borne rhythm
+- project an unstable spider shadow without revealing a body
+- exploit Kai's observed attempt to restore the talisman by offering an
+  ambiguous instruction to close what he opened
+- create one material resonance between the talisman and empty brass urn
+
+Still prohibited:
+
+- dead-relative impersonation
+- private biographical memory
+- sustained conversation
+- physical injury
+- objective architectural change
+- stable creature form
+- a complete individualized psychological scenario
+
+These first probes do not demonstrate deep knowledge. They are how the Entity
+begins acquiring it.
 
 ---
 
@@ -485,6 +533,59 @@ Sound: Water and dense life; sound withdraws in stages; the ordinary environment
 
 Supernatural ceiling: Phase One Recognition only. No voice, figure, mimicry, touch, injury, individualized message, or confirmed spatial change.
 
+## Sequence VIII - The House Listens
+
+Purpose: Give each brother a first private probe, then reveal that treating the
+encounters as private increases the danger.
+
+Outcome:
+
+- Malik feels unseen weight enter his mattress and breath near his ear
+- Ade hears his name and an instruction to perform from two impossible
+  locations
+- Kai experiences chest-borne beats, a bodyless spider shadow, and a voice
+  offering to close what he opened
+- Kai carries the talisman toward the red-corded household door
+- From Ade's view, Kai appears awake but sleepwalking
+- Ade stops Kai before he touches the cord
+- Malik, Ade, and Kai exchange enough truth to know the encounters were shared
+- the brothers choose to confront Bode together
+
+Unforgettable image: Kai's shadow reaches the red-corded door before his body
+and closes its hand around a knot that does not move.
+
+Sound: Ordinary compound life thinning into breath, dry spatially inconsistent
+whispers, and chest-borne rhythm without score.
+
+Supernatural state: Phase Two Attachment begins through probes. No dead-relative
+voice, injury, stable figure, private memory, or full psychological scenario.
+
+## Sequence IX - The Broken Knot
+
+Purpose: Force Kai's disclosure and make Bode's knowledge behavioral rather
+than clairvoyant or expository.
+
+Outcome:
+
+- the brothers report one exact fact from each encounter
+- the empty urn gives one impossible brass note
+- the concealed talisman answers from Kai's camera bag
+- Bode finds and reconstructs the snapped red-thread knot
+- Kai removes the talisman himself and admits he did not restore it
+- Malik identifies the act as theft; Kai defends his claim to the question
+- Bode explains that the voices are learning what the brothers answer to
+- Eno discovers the breach and reorganizes the household
+- the talisman remains cloth-covered on the kitchen table
+- no repair is attempted
+
+Unforgettable image: Bode reconstructs the snapped knot beside Solomon's empty
+urn while Kai places the stolen talisman between them.
+
+Sound: Kettle, one clear urn note, one dull answer from the camera bag, distant
+dogs marking the land, and Eno relighting the burner.
+
+Supernatural ceiling: First Attachment probes and one object resonance only.
+
 ---
 
 # End-of-Act-I knowledge ledger
@@ -604,6 +705,57 @@ Bode's exact knowledge of the regulator remains unresolved. His decision to leav
 
 ---
 
+# Post-Sequence-IX knowledge ledger
+
+## Malik knows
+
+- all three brothers experienced the Entity during the night
+- Kai opened a maintained place below the western boundary stones
+- Kai removed and concealed the talisman
+- Bode and Eno recognize the broken knot
+- the supernatural can enter intimate household space
+
+## Ade knows
+
+- the voices can sample names and immediate behavior
+- Kai was being drawn toward the red-corded door
+- real physical contact can interrupt a probe
+- Bode's silence is no longer protective
+
+## Kai knows
+
+- the promise of repair may itself be manipulation
+- the Entity can use his own voice without becoming a stable speaker
+- the shadow, chest rhythm, and talisman belong to one causal system
+- his brothers are now exposed to the consequence of his choice
+
+## Bode knows
+
+- Kai opened the regulator below the western stones
+- the red-thread seal is broken
+- the talisman has been removed
+- the Entity has begun learning through sensory probes
+- the brothers require enough truth to make informed choices
+
+## Eno knows
+
+- the regulator has been breached
+- the talisman is inside the house
+- the first probes have reached the brothers
+- Bode delayed disclosure until physical proof arrived
+
+Her exact repair knowledge and final terminology remain unresolved.
+
+## Entity state
+
+- Phase Two: Attachment has begun
+- has sampled vigilance, humor, guilt, voice recognition, and physical
+  intervention
+- has not yet earned dead-relative impersonation, private memory, injury, or a
+  stable form
+
+---
+
 # Prohibited continuity
 
 The following material is removed and must not return through copy-forward:
@@ -639,16 +791,28 @@ The following material is removed and must not return through copy-forward:
 
 # Next writing position
 
-Act II begins in the ravine and on the path simultaneously:
+The family is seated in the kitchen after the first Attachment probes:
 
-- Kai knows he has opened something and chosen not to restore what he removed
-- Malik, Ade, and Bode realize he has left the path
-- The urn remains with the family above
-- The ashes have not yet been scattered
-- The regulator is open
-- The Entity is in Phase One: Recognition
+- Solomon's ashes remain in the river
+- the empty urn is on the kitchen table
+- the talisman is disclosed and wrapped once in clean cloth
+- the broken red knot is physical evidence of the breach
+- the red-corded household door remains closed
+- Malik, Ade, and Kai know the encounters were connected
+- Bode and Eno know Kai opened the regulator
+- the Entity has begun learning responses but has not yet gained private
+  biographical material
 
-Before drafting Act II, define the immediate response to the breach, the rules for what can and cannot be repaired, and the exact scope of Bode and Eno's knowledge.
+Before drafting Sequence X, define:
+
+1. How much Bode explains before Eno challenges his version.
+2. What immediate action is possible without pretending the regulator can be
+   repaired overnight.
+3. Whether the next movement remains inside the house or returns to the land.
+4. What observable behavior the Entity studies before deeper impersonation is
+   permitted.
+5. How the dead sister enters dramatic conflict without becoming a lore
+   briefing.
 
 ---
 

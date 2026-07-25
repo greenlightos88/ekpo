@@ -739,20 +739,80 @@ The Entity's recognition then expands:
 
 The brothers enter the river together and leave separately. This is the first Act II fracture.
 
-## Immediate obligations after Sequence VII
+## Sequence VIII - The House Listens
+
+The immediate aftermath skips the walk back and rejoins the brothers in the
+shared room at night.
+
+The Entity begins Attachment by testing available sensory channels:
+
+- unseen weight and breath test Malik's vigilance
+- spatially inconsistent voices test Ade's compulsion to perform
+- chest-borne rhythm, spider shadow, and an ambiguous offer of repair test
+  Kai's need to complete a pattern
+
+These are probes, not mature attacks. The voices carry names and short
+fragments available through observation. They do not yet possess dead
+relatives, private memory, or biographical precision.
+
+Kai is drawn toward a red-corded door already present in the Oku house. The
+door is an inherited household boundary, not the land regulator. Ade sees what
+looks like sleepwalking while Kai experiences coercive voices, a bodyless
+shadow, and competing instructions.
+
+Ade stops Kai before he touches the cord. Malik arrives with his own encounter.
+The brothers choose disclosure over three separate denials.
+
+The sequence's defining image is Kai's shadow reaching the red-corded door
+before his body.
+
+## Sequence IX - The Broken Knot
+
+The brothers confront Bode in the kitchen.
+
+The scene refuses a mythology lecture. Proof arrives through material behavior:
+
+- the empty urn gives one impossible brass note
+- the talisman answers from Kai's camera bag
+- Bode finds a snapped loop of red thread caught beneath the bag flap
+- he reconstructs its workmanship between his fingers
+- Kai removes the talisman himself and admits he did not restore it
+
+Bode's knowledge is therefore earned through family craft rather than mystical
+omniscience.
+
+The core rule established is:
+
+> It is not speaking to you. It is learning what you answer to.
+
+This line defines Attachment without pretending Bode understands the Entity
+completely.
+
+Eno enters after hearing the confrontation. She recognizes Bode's concealment
+before she recognizes the object. Once the location is named, she reorganizes
+the household through practical authority. No ritual terminology is invented.
+
+The sequence's defining image is the broken red knot, empty urn, and stolen
+talisman sharing one kitchen table.
+
+## Immediate obligations after Sequence IX
 
 Before drafting the next sequence, answer:
 
-1. What account did Kai give after returning from the ravine, and what part of it does Malik already distrust?
-2. Why does Bode respond to the river behavior with evacuation rather than immediate explanation?
-3. What does Eno read when the four men return with an empty urn and incompatible silences?
-4. Which brother first risks asking whether the river event was shared?
-5. What makes Kai continue concealing the talisman after the river confirms a connection?
-6. What observable behavior may the Entity study before Recognition can become Attachment?
-7. What role does the empty urn play now that it no longer contains Solomon?
-8. How does the dead sister's history surface through conflict or action rather than a lore briefing?
+1. What partial account does Bode give, and where does Eno contradict him?
+2. What can the family do immediately that is precaution rather than false
+   repair?
+3. What human history of the dead sister becomes necessary now?
+4. Which brother first challenges the idea that inherited responsibility is
+   automatically legitimate?
+5. What on-screen observation earns the Entity's next increase in
+   impersonation?
+6. How long may the talisman remain in the house before its location becomes a
+   new source of pressure?
+7. What practical purpose does the red-corded household room serve?
 
-Act II must not jump from shared Recognition to mimicry, bodily attack, or individualized torment. The Entity has located the sons; it has not yet learned them.
+Act II may now enter Attachment. It may not yet use false Solomon, private
+memories, bodily injury, or a stable creature form.
 
 ---
 

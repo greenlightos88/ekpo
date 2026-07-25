@@ -1,14 +1,18 @@
 # EKPO SESSION
 
-Date: 2026-07-23
+Date: 2026-07-25
 
-Session objective: Preserve the completed Act I and integrate the supplied river-boundary scene as the canonical opening of Act II.
+Session objective: Preserve the completed Act I and river-boundary opening,
+then integrate the first night encounters and Bode's kitchen recognition as
+canonical Sequences VIII-IX.
 
 ## Outcome
 
-Act I is complete through the shrine-trigger ending. Act II now contains one canonical sequence: the river-boundary ceremony.
+Act I is complete through the shrine-trigger ending. Act II now contains three
+canonical sequences: the river boundary, the first night encounters, and the
+kitchen disclosure.
 
-The act now contains six sequences:
+Act I contains six sequences:
 
 1. The Last Morning
 2. The Funeral
@@ -17,30 +21,21 @@ The act now contains six sequences:
 5. Homecoming
 6. The Land and the Shrine
 
-Act II begins with:
+Act II currently contains:
 
 7. The River Boundary
+8. The House Listens
+9. The Broken Knot
 
-The screenplay ends at the first active supernatural event:
+The screenplay now ends in the kitchen after:
 
-- Kai intentionally breaks the red-thread seal
-- Kai intentionally removes the talisman
-- inherited resonance recognizes the returned bloodline
-- natural sound disappears
-- one deep beat moves through the land
-- Kai nearly restores the talisman, then chooses to keep it without explaining himself
-- the first black spider emerges from the regulator
-
-The current screenplay position is now the end of Sequence VII:
-
-- Kai has rejoined the group with the talisman concealed
-- the brothers scatter Solomon's ashes at the river boundary
-- the same brass urn is empty
-- Kai alone sees one ribbon of ash briefly resist dispersal
-- natural sound withdraws in stages
-- all three brothers register the same undifferentiated presence
-- each believes the fear may have been private
-- Bode reads the shared concealment, leads them away, and tells them not to look back
+- each brother experiences a first Attachment probe
+- Ade stops Kai before he touches the red-corded household door
+- the brothers compare enough of their experiences to confront Bode together
+- the empty urn answers the concealed talisman
+- Bode reconstructs the broken regulator knot
+- Kai discloses the talisman and admits he did not restore it
+- Eno learns the location of the breach and reorganizes the household
 
 ## Sequence VII integration pass
 
@@ -280,17 +275,18 @@ Entity phase: Recognition
 
 ## Current writing position
 
-Sequence VII is complete.
+Sequence IX is complete.
 
-The four men are leaving the river boundary:
+The family is gathered in the Oku kitchen:
 
-- Solomon's ashes are in the current
-- Malik carries the empty urn
-- Kai carries the concealed talisman
-- the brothers do not know the river event was shared
-- Bode knows only that the same concealed fear crossed all three men
-- Eno knows nothing yet about the breach or manifestation
-- the Entity remains in Phase One Recognition
+- Solomon's ashes remain in the river
+- the empty urn is on the table
+- the talisman has been disclosed and wrapped once in clean cloth
+- the broken red-thread knot has been reconstructed by Bode
+- Malik, Ade, and Kai know the encounters were connected
+- Bode and Eno know Kai opened the regulator below the western stones
+- the red-corded household door remains closed
+- the Entity has begun Phase Two Attachment through sensory probes
 
 ## Producer-format delivery pass
 
@@ -304,7 +300,7 @@ The producer-facing PDF:
   dialogue, transition, and page-number placement
 - preserves Efik diacritics in the rendered screenplay
 - omits internal `# SEQUENCE`, act-boundary, and development-control headings
-- contains one unnumbered title page and twenty-seven screenplay pages
+- contains one unnumbered title page and thirty-six screenplay pages
 - begins with `FADE IN:` and ends at the current canonical writing position,
   `Nothing holds there now.`
 
@@ -318,16 +314,36 @@ branches from `01_SCREENPLAY.fountain`, `00_CANON.md`, and
 river-boundary canon; valid downstream character and Act II development files
 were preserved.
 
+## Sequence VIII-IX integration pass
+
+Locked decisions:
+
+- the screenplay skips the walk back from the river and resumes in the shared
+  bedroom
+- every brother receives a distinct first probe
+- the probes begin Attachment without using private memories or dead-relative
+  impersonation
+- Kai's interior terror reads externally as sleepwalking
+- Ade stops Kai before he touches the red-corded door
+- the brothers choose to confront Bode together
+- the empty urn and talisman produce one paired material resonance
+- Bode recognizes the breach by reconstructing the physical knot
+- Kai reveals the talisman himself
+- Eno refuses to let Bode continue protecting the family through omission
+
+Development control for these sequences is recorded in
+`07_ACT_II_NIGHT_KITCHEN_DEVELOPMENT.md`.
+
 ## Required architecture before the next pages
 
-1. Lock the account Kai gave after returning from the ravine.
-2. Define why Bode evacuates first and explains later.
-3. Define Eno's reading of the returning men.
-4. Decide which brother first compares the river experience.
-5. Decide when Kai discloses the talisman and what forces disclosure.
-6. Define the Entity's first observation scene without advancing to Attachment prematurely.
-7. Design the sister reveal as dramatic action rather than exposition.
-8. Establish the empty urn's next dramatic function.
+1. Define Bode's partial account and Eno's correction.
+2. Define immediate precaution without false ritual repair.
+3. Bring the dead sister into dramatic conflict rather than exposition.
+4. Decide which brother challenges inherited responsibility first.
+5. Earn the Entity's next impersonation capability through on-screen
+   observation.
+6. Define the red-corded room's practical family function.
+7. Keep shrine terminology deferred pending specialist review.
 
 ## Cultural and factual verification still required
 
@@ -369,7 +385,9 @@ Working references:
 
 ## Next step
 
-Build the next Act II sequence from the return to the Oku compound. Do not draft it until the character matrix, scene bible, director's notebook, and Phase One capability check agree.
+Build Sequence X from the kitchen table. Do not draft it until Bode and Eno's
+knowledge ceilings, the sister's dramatic function, and the next Attachment
+capability pass agree.
 
 ---
 
