@@ -2542,7 +2542,9 @@ Her first task in the following movement is to read incompatible behavior before
 ## Malik
 
 - Experienced unseen weight and breath in his bed.
-- Admitted the encounter only after Ade stopped Kai in the passage.
+- Heard the same disturbance reach his brothers through voices and rhythm.
+- Carried the empty urn case into the passage because it was the first
+  responsibility his hand could find.
 - Knows Kai broke a maintained binding and concealed the talisman.
 - Converts fear into a charge of theft because culpability is easier to manage
   than uncertainty.
@@ -2556,7 +2558,8 @@ breathed beside him.
 
 ## Ade
 
-- Heard his name from impossible locations.
+- Heard his name and an instruction from impossible locations while both
+  brothers remained visibly present.
 - Refused the invitation to perform.
 - Recognized that Kai's outward sleepwalking concealed active terror.
 - Used physical contact to interrupt the probe.
@@ -2569,8 +2572,8 @@ That choice marks growth rather than personality loss.
 
 ## Kai
 
-- Experienced rhythm inside his chest, a bodyless spider shadow, and voices
-  offering contradictory repair.
+- Experienced rhythm inside his chest, his own shadow falling out of time, and
+  a voice offering ambiguous repair.
 - Carried the talisman toward the red-corded household door.
 - Could not identify whether one voice was internal or external.
 - Disclosed the talisman only after material evidence made concealment
@@ -2586,7 +2589,8 @@ to understand has become ethically dangerous.
 ## Bode
 
 - Recognized the regulator's workmanship by reconstructing the snapped knot.
-- Learned that the Entity is sampling voice, proximity, rhythm, and shadow.
+- Learned that one disturbance is sampling voice, proximity, rhythm, human
+  shadow, and physical intervention.
 - Knows the talisman has left the regulator.
 - Defines the probes as learning rather than communication.
 - Admits uncertainty about whether the inherited name and explanation remain
@@ -2599,22 +2603,23 @@ requires an immediate protective reason or becomes culpable.
 
 ## Eno
 
-- Reads Bode's concealment before she understands the object.
-- Learns the breach occurred below the western stones.
-- Reorganizes the household immediately.
-- Keeps the talisman visible and forbids unseen voices from being answered.
-- Requires Bode to speak before inherited silence becomes another danger.
+- Reads Bode's fear without understanding the object under the cloth.
+- Learns only that Kai left the path below the western stones.
+- Reorganizes sleeping arrangements and keeps the sons inside.
+- Does not identify the regulator, talisman, Entity, or repair.
 
 Performance residue:
 
-Fear accelerates Eno. It does not make her mystical or passive.
+Eno does not require occult knowledge to protect her household. She reads
+people, danger, and responsibility.
 
 ## Entity
 
 - Has entered Phase Two: Attachment.
-- Samples immediate sensory and behavioral responses.
+- Creates one shared disturbance that divides across immediate sensory and
+  behavioral responses.
 - Can use short voice fragments and names heard directly.
-- Can project an unstable spider shadow and create somatic pressure.
+- Can create minor disagreement in human shadows and somatic pressure.
 - Can create one material resonance between talisman and empty urn.
 - Has not earned dead-relative impersonation, private memory, injury, stable
   form, or a complete psychological scenario.

@@ -1,6 +1,6 @@
-# EKPO ACT II - NIGHT ENCOUNTERS AND KITCHEN DISCLOSURE
+# EKPO ACT II - SHARED NIGHT DISTURBANCE AND KITCHEN DISCLOSURE
 
-Version: Sequences VIII-IX Canonical Development
+Version: Shared Attachment Integrity Revision
 
 ## Function
 
@@ -9,13 +9,28 @@ subsequent kitchen confrontation.
 
 The two sequences form one causal movement:
 
-1. The Entity tests which sensations the brothers obey.
-2. The brothers discover that their fear is shared.
+1. One disturbance enters the shared room and divides across three bodies.
+2. The brothers recognize that different perceptions belong to one event.
 3. Physical evidence forces Kai to disclose the talisman.
 4. Bode recognizes the broken binding.
-5. Eno converts recognition into household action.
+5. Eno reads human danger and converts it into household action without
+   acquiring mythological knowledge.
 
 The horror is now active. It remains disciplined.
+
+## Governing horror principle
+
+The Entity behaves like inherited memory moving through disturbed ecology.
+
+It is not staged as a conventional creature entering a haunted house. Its
+presence is registered through the land's living sound withdrawing, familiar
+voices losing reliable ownership, human shadows falling out of time, bodily
+rhythm, weight, breath, and family maintenance objects responding to a broken
+relationship.
+
+Every new manifestation must change the family's understanding of inheritance
+or the Entity's understanding of the family. A scare that does neither is
+ornament and must be removed.
 
 ---
 
@@ -45,15 +60,21 @@ It has not yet demonstrated:
 
 The house sequence begins Phase Two - Attachment.
 
-The Entity does not yet know the brothers deeply. It samples immediate sensory
-channels:
+The Entity does not yet know the brothers deeply. It creates one continuous
+pressure whose sensory channels divide across the brothers:
 
 - Malik: weight, proximity, and breath
 - Ade: a voice asking him to perform
-- Kai: chest-borne rhythm, spider shadow, and ambiguous instruction
+- Kai: chest-borne rhythm, human shadow lag, and ambiguous instruction
+
+The compound silence, mattress pressure, voices, chest rhythm, and shadow
+disagreement are parts of the same event. The screenplay must not cut or label
+them as three self-contained hauntings.
 
 The voices use names and fragments available from direct observation. They do
-not deliver private memories or reproduce a dead relative.
+not deliver private memories or reproduce a dead relative. The shrine spider
+remains ecological and physically small; the household disturbance does not
+repeat it as a symbolic creature.
 
 The Entity learns from what each brother does next.
 
@@ -78,15 +99,15 @@ It is:
 - a narrow interior door at the end of the passage
 - secured between handle and brass wall hook
 - an inherited household boundary
-- recognized by Bode and Eno
+- recognized by Bode
 - not the land regulator itself
 
 Its contents and final ritual function remain unresolved pending the shrine
 terminology and Efik cultural pass.
 
-The Entity draws Kai toward the door because the household binding shares the
-same maintenance language as the broken regulator. This is not arbitrary
-haunted-house geography.
+The broken knot and household cord share enough workmanship for Bode to
+recognize a family maintenance practice. The precise function of the household
+door remains unexplained.
 
 The door is seeded during Homecoming without explanation. Eno sees Kai notice
 it; ordinary household work interrupts the moment.
@@ -97,8 +118,8 @@ it; ordinary household work interrupts the moment.
 
 ## Purpose
 
-Give every brother a first undeniable private encounter, then expose the
-danger of treating those encounters as private.
+Give the brothers one undeniable shared encounter whose pressures divide
+through character, then force them to act as a unit before they understand it.
 
 ## Chronology and geography
 
@@ -129,44 +150,53 @@ Knows the river became unsafe. Does not yet know Kai reached the regulator.
 
 ### Eno
 
-Knows nothing about the river or breach.
+Knows nothing about the river, breach, regulator, talisman, or Entity.
 
 ## Scene Bible
 
-1. Ordinary compound sound diminishes as the family sleeps.
+1. Ordinary compound life stops in one clean withdrawal; all three brothers
+   notice.
 2. Malik's mattress accepts unseen weight.
-3. Malik feels breath close to his ear and refuses to turn.
-4. Ade hears his name from Malik's bed.
-5. A second voice beneath Kai's bed asks Ade to say something.
-6. Ade does not use humor.
-7. A deep beat begins inside Kai's chest.
-8. A spider shadow appears without a visible body.
-9. An ambiguous voice tells Kai he can still close what he opened.
-10. Kai carries the camera bag into the passage.
-11. A whisper from his empty bed sends Ade after him.
-12. Kai's shadow reaches the red-corded door before Kai does.
-13. Voices behind the door alternate between opening and closing.
-14. From Ade's view, Kai appears awake but sleepwalking.
-15. Ade stops Kai before he touches the cord.
-16. Malik arrives and asks whether either brother was in his bed.
-17. The brothers exchange enough truth to know the encounters were not private.
-18. They choose to confront Bode together.
+3. At the same moment, a deep beat begins inside Kai's chest and Ade hears his
+   name from the indentation beside Malik.
+4. The mosquito net draws inward and Malik feels breath close to his ear.
+5. The bed springs answer Kai's next chest-borne impact, binding the
+   perceptions into one event.
+6. A voice beneath Kai's bed uses Malik's voice; Malik hears it too.
+7. A second spatially inconsistent voice asks Ade to say something.
+8. Ade refuses the invitation to perform.
+9. Kai sits up and his human shadow follows one fan revolution late.
+10. The dark passage beyond the room becomes Kai's fixed point.
+11. An ambiguous voice tells Kai he can still close what he opened.
+12. Kai carries the camera bag into the passage while Ade follows and Malik
+    takes the empty urn case before joining them.
+13. Kai's shadow first lags, then reaches the red-corded door before he does.
+14. The passage distance becomes uncertain only to Kai.
+15. The voice behind the door repeats Malik and Ade's calls closely enough to
+    compromise recognition.
+16. To Ade, Kai appears awake but sleepwalking.
+17. Ade stops Kai before he touches the cord.
+18. Malik's question about the presence in his bed completes the brothers'
+    shared understanding.
+19. They choose to confront Bode together.
 
 ## Character matrix
 
 ### Malik
 
-Objective: Maintain physical control of the shared room.
+Objective: Determine what has entered a room in which both brothers remain
+visible.
 
 Avoidance: Calling for help before he can identify a threat.
 
-Turn: The brothers' accounts prove proximity was not a private fear.
+Turn: The same rhythm, voices, and movement carry the pressure out of his bed
+and toward Kai.
 
 Residue: His protection instinct begins converting fear into anger.
 
 ### Ade
 
-Objective: Determine whether the voices are coming from his brothers.
+Objective: Keep both brothers physically present and verifiable.
 
 Avoidance: Answering fear through automatic humor.
 
@@ -181,7 +211,7 @@ the breach.
 
 Avoidance: Accepting that the promise of repair may be manipulation.
 
-Turn: Ade's real touch interrupts the competing voices.
+Turn: Ade's real touch interrupts the voice that has compromised recognition.
 
 Residue: Kai can no longer trust a pattern merely because it offers completion.
 
@@ -189,33 +219,40 @@ Residue: Kai can no longer trust a pattern merely because it offers completion.
 
 ### Camera
 
-- establish all three brothers in one room before fragmenting experience
-- remain close to bodies and nets
-- show no creature casting the spider shadow
-- distinguish Kai's experience from Ade's objective hallway view
+- hold all three brothers in shared geography while the disturbance begins
+- allow perception to divide without granting each brother a separate set
+  piece
+- remain close to bodies, nets, and the visible distances between the beds
+- use only Kai's human shadow; no spider silhouette or creature proxy
+- let Ade's physical position anchor the passage without creating a separate
+  objective-view sequence
 - do not distort the hallway with lenses or digital effects
-- let Kai's moving shadow create the impossible geography
+- let Kai's shadow lag once, then arrive at the door first
 
 ### Sound
 
 - ordinary compound life provides the baseline
-- Malik's breath event remains nearly silent
+- the ecological silence begins the shared event
+- Malik's breath remains nearly silent
 - Ade's voices are dry and spatially inconsistent
 - Kai's drum is felt through body and low-frequency design, not presented as
   ceremonial music
+- the bed springs and chest rhythm briefly occupy the same low-frequency field
 - no score explains when fear should begin
 
 ### Performance
 
 - Malik's stillness is active measurement
 - Ade's refusal to joke is a choice
-- Kai is visibly fighting from inside what resembles sleepwalking outside
+- all three brothers remain aware; Kai alone loses reliable control of distance
+  and voice identity
+- Kai is visibly fighting from inside what resembles sleepwalking to Ade
 - `Which one?` must be terror, not cleverness
 
 ## Unforgettable image
 
-Kai's shadow reaches the red-corded door before his body and closes its hand
-around a knot that does not move.
+Kai's shadow reaches the red-corded door before his body while Ade closes a
+real hand around Kai's wrist.
 
 ## Integrity result
 
@@ -255,10 +292,11 @@ lecture.
 14. Malik calls the act theft; Kai defends the question, not the consequence.
 15. Ade prevents the room from dividing before information is shared.
 16. Bode defines the voices as learning behavior, not communication.
-17. Eno enters and refuses further concealment.
-18. Bode identifies the location as below the western stones.
-19. Eno reorganizes the household immediately.
-20. The talisman remains cloth-covered on the kitchen table.
+17. Eno enters because the household is awake and demands the human facts.
+18. Bode tells her only that Kai left the path below the western stones.
+19. Eno reads Bode's fear and reorganizes sleeping arrangements without
+    identifying the object or mythology.
+20. Bode, not Eno, orders that the cloth-covered talisman remain untouched.
 
 ## Knowledge after Sequence IX
 
@@ -267,29 +305,31 @@ lecture.
 - Kai found a maintained place below the marked stones
 - he broke a red-thread binding
 - he removed and concealed the talisman
-- Bode and Eno recognize the binding
+- Bode recognizes the binding
+- Eno recognizes danger through Bode's behavior, not the binding
 - the night encounters were connected
 
 ### Kai now knows
 
 - the Entity is testing responses rather than offering trustworthy repair
-- the broken knot and talisman are legible to Bode and Eno
-- his brothers experienced separate probes
+- the broken knot and talisman are legible to Bode
+- his brothers experienced different pressures inside the same disturbance
 
 ### Bode now knows
 
 - Kai opened the regulator below the western stones
 - the talisman has been removed
-- the Entity has begun sampling the brothers through voice, proximity, shadow,
-  and somatic rhythm
+- the Entity has begun sampling the brothers through one event involving
+  voice, proximity, human shadow, and somatic rhythm
 
 ### Eno now knows
 
-- the regulator has been breached
-- Kai removed its brass object
-- the danger has entered household space
+- Kai left the path below the western stones
+- Bode is frightened
+- the returned sons and children require immediate protection
 
-Her exact repair knowledge remains unresolved.
+She does not know what is under the cloth, what Kai removed, whether the
+regulator is open, what the Entity is called, or how it works.
 
 ## Character matrix
 
@@ -327,11 +367,13 @@ Residue: Continued silence would now be culpable.
 
 ### Eno
 
-Objective: Protect the household from danger and from Bode's containment habit.
+Objective: Protect a household whose men are visibly frightened and withholding
+facts.
 
-Pressure: The old failure has entered her kitchen through the returned sons.
+Pressure: Bode cannot meet her eyes and will not explain quickly enough.
 
-Residue: She requires action and truth before ritual terminology.
+Residue: She establishes immediate human safety without pretending to possess
+ritual authority.
 
 ## Director's notebook
 
@@ -357,8 +399,8 @@ Residue: She requires action and truth before ritual terminology.
 - Bode's recognition travels fingers, breath, then face
 - Kai's `No` about restoration is the emotional climax
 - Malik's anger must remain downstream of fear
-- Eno enters already certain that Bode is withholding, not already certain of
-  the mythology
+- Eno enters because the house is awake; she reads danger from bodies and
+  Bode's behavior, not from the knot or covered object
 
 ## Unforgettable image
 
@@ -369,6 +411,8 @@ places the stolen talisman between them.
 
 - Bode and Eno use English because the brothers require full inclusion
 - Eno's household authority is practical and immediate
+- Bode remains the only person in the kitchen who can identify the inherited
+  workmanship
 - no invented Efik shrine vocabulary is introduced
 - final cadence, kinship address, and code-switching require native
   Calabar/Efik performance review

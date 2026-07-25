@@ -744,27 +744,31 @@ The brothers enter the river together and leave separately. This is the first Ac
 The immediate aftermath skips the walk back and rejoins the brothers in the
 shared room at night.
 
-The Entity begins Attachment by testing available sensory channels:
+The Entity begins Attachment through one shared disturbance. All three brothers
+remain awake, visible, and physically present inside the same event. The event
+divides across available sensory channels:
 
 - unseen weight and breath test Malik's vigilance
 - spatially inconsistent voices test Ade's compulsion to perform
-- chest-borne rhythm, spider shadow, and an ambiguous offer of repair test
-  Kai's need to complete a pattern
+- chest-borne rhythm, a human shadow falling out of time, and an ambiguous
+  offer of repair test Kai's need to complete a pattern
 
-These are probes, not mature attacks. The voices carry names and short
-fragments available through observation. They do not yet possess dead
-relatives, private memory, or biographical precision.
+This is not a suite of private attacks. The bed springs, breath, voices,
+environmental silence, and rhythm belong to one continuous pressure. Each
+brother registers a different aspect because perception and coping differ.
+The voices carry names and short fragments available through observation. They
+do not yet possess dead relatives, private memory, or biographical precision.
 
 Kai is drawn toward a red-corded door already present in the Oku house. The
 door is an inherited household boundary, not the land regulator. Ade sees what
-looks like sleepwalking while Kai experiences coercive voices, a bodyless
-shadow, and competing instructions.
+looks like sleepwalking while Kai experiences coercive voices, uncertain
+distance, and a shadow that first lags and then reaches the door before him.
 
 Ade stops Kai before he touches the cord. Malik arrives with his own encounter.
-The brothers choose disclosure over three separate denials.
+The brothers choose disclosure over three different versions of one event.
 
 The sequence's defining image is Kai's shadow reaching the red-corded door
-before his body.
+before his body while Ade closes a real hand around Kai's wrist.
 
 ## Sequence IX - The Broken Knot
 
@@ -788,9 +792,10 @@ The core rule established is:
 This line defines Attachment without pretending Bode understands the Entity
 completely.
 
-Eno enters after hearing the confrontation. She recognizes Bode's concealment
-before she recognizes the object. Once the location is named, she reorganizes
-the household through practical authority. No ritual terminology is invented.
+Eno enters after hearing the confrontation. She recognizes Bode's fear, not the
+object, regulator, or Entity. Once the location is named, she reorganizes the
+household through practical family authority. No ritual terminology is
+invented, and no mythological knowledge is assigned to her.
 
 The sequence's defining image is the broken red knot, empty urn, and stolen
 talisman sharing one kitchen table.

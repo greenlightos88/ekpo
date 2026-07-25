@@ -3,13 +3,13 @@
 Date: 2026-07-25
 
 Session objective: Preserve the completed Act I and river-boundary opening,
-then integrate the first night encounters and Bode's kitchen recognition as
-canonical Sequences VIII-IX.
+then integrity-revise the first night disturbance and Bode's kitchen
+recognition as canonical Sequences VIII-IX.
 
 ## Outcome
 
 Act I is complete through the shrine-trigger ending. Act II now contains three
-canonical sequences: the river boundary, the first night encounters, and the
+canonical sequences: the river boundary, the shared night disturbance, and the
 kitchen disclosure.
 
 Act I contains six sequences:
@@ -29,13 +29,16 @@ Act II currently contains:
 
 The screenplay now ends in the kitchen after:
 
-- each brother experiences a first Attachment probe
+- all three brothers experience one shared Attachment event through different
+  sensory pressures
 - Ade stops Kai before he touches the red-corded household door
-- the brothers compare enough of their experiences to confront Bode together
+- the brothers recognize they occupied the disturbance together and confront
+  Bode together
 - the empty urn answers the concealed talisman
 - Bode reconstructs the broken regulator knot
 - Kai discloses the talisman and admits he did not restore it
-- Eno learns the location of the breach and reorganizes the household
+- Eno learns where Kai left the path and reorganizes the household after
+  reading Bode's fear, without identifying the mythology
 
 ## Sequence VII integration pass
 
@@ -284,9 +287,10 @@ The family is gathered in the Oku kitchen:
 - the talisman has been disclosed and wrapped once in clean cloth
 - the broken red-thread knot has been reconstructed by Bode
 - Malik, Ade, and Kai know the encounters were connected
-- Bode and Eno know Kai opened the regulator below the western stones
+- Bode knows Kai opened the regulator below the western stones
+- Eno knows Kai left the path and that Bode believes the household is in danger
 - the red-corded household door remains closed
-- the Entity has begun Phase Two Attachment through sensory probes
+- the Entity has begun Phase Two Attachment through one shared disturbance
 
 ## Producer-format delivery pass
 
@@ -320,23 +324,28 @@ Locked decisions:
 
 - the screenplay skips the walk back from the river and resumes in the shared
   bedroom
-- every brother receives a distinct first probe
-- the probes begin Attachment without using private memories or dead-relative
-  impersonation
+- the brothers remain awake and visible inside one continuous disturbance
+- weight, breath, voices, chest rhythm, environmental silence, and shadow lag
+  are different perceptions of the same event
+- the event begins Attachment without using private memories, dead-relative
+  impersonation, or a creature image
+- the post-shrine spider remains ecological; no giant or bodyless spider shadow
+  recurs in the house
 - Kai's interior terror reads externally as sleepwalking
 - Ade stops Kai before he touches the red-corded door
 - the brothers choose to confront Bode together
 - the empty urn and talisman produce one paired material resonance
 - Bode recognizes the breach by reconstructing the physical knot
 - Kai reveals the talisman himself
-- Eno refuses to let Bode continue protecting the family through omission
+- Eno recognizes household danger through Bode's behavior, not inherited
+  mythology; her authority remains familial and practical
 
 Development control for these sequences is recorded in
 `07_ACT_II_NIGHT_KITCHEN_DEVELOPMENT.md`.
 
 ## Required architecture before the next pages
 
-1. Define Bode's partial account and Eno's correction.
+1. Define Bode's partial account without using Eno as a mythology corrector.
 2. Define immediate precaution without false ritual repair.
 3. Bring the dead sister into dramatic conflict rather than exposition.
 4. Decide which brother challenges inherited responsibility first.
@@ -385,9 +394,9 @@ Working references:
 
 ## Next step
 
-Build Sequence X from the kitchen table. Do not draft it until Bode and Eno's
-knowledge ceilings, the sister's dramatic function, and the next Attachment
-capability pass agree.
+Build Sequence X from the kitchen table. Do not draft it until Bode's knowledge
+ceiling, Eno's strictly practical protective role, the sister's dramatic
+function, and the next Attachment capability pass agree.
 
 ---
 

@@ -384,10 +384,12 @@ The required decisions were locked through Sequences VIII-IX:
 2. Malik accepted the fall but distrusted the completeness of the account.
 3. Bode evacuated because he had behavioral evidence of danger but no proof of
    the breach.
-4. Eno recognizes the family obligation and broken workmanship without yet
-   supplying final cosmological terminology.
-5. Ade first names the impossible voices; the brothers then compare accounts.
-6. The Entity begins Attachment through immediate sensory probes.
+4. Eno recognizes household danger through Bode's fear; she does not identify
+   the workmanship, regulator, talisman, or Entity.
+5. Ade first names the impossible voices after all three brothers experience
+   one shared disturbance through different sensory pressures.
+6. The Entity begins Attachment through that shared event, not three isolated
+   horror sequences.
 7. The empty urn becomes the first household material responder.
 
 Development control continues in

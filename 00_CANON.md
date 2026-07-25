@@ -1,6 +1,6 @@
 # EKPO CANON
 
-Version: 2.3 - Night Attachment Integration
+Version: 2.4 - Shared Attachment Integrity Pass
 
 ## Project status
 
@@ -8,11 +8,13 @@ Development phase: Prestige feature rewrite
 
 Current screenplay position: End of Act II, Sequence IX
 
-Current story position: After the river, the Entity probes all three brothers in
-their shared room. Ade stops Kai before he reaches the red-corded household
-door. In the kitchen, the empty urn answers the concealed talisman, Bode
-reconstructs the broken shrine knot, and Kai discloses what he removed. Bode and
-Eno now know the regulator below the western stones has been breached.
+Current story position: After the river, one shared disturbance reaches all
+three brothers in their room, though each registers a different pressure inside
+the same event. Ade stops Kai before he reaches the red-corded household door.
+In the kitchen, the empty urn answers the concealed talisman, Bode reconstructs
+the broken shrine knot, and Kai discloses what he removed. Bode recognizes the
+breach. Eno recognizes that her household is in danger, but does not yet know
+the mythology or the object beneath Bode's cloth.
 
 Lock status:
 
@@ -367,7 +369,7 @@ Current permitted capabilities:
 - sample names and short voice fragments heard directly on the land
 - create spatially inconsistent whispers without stable impersonation
 - test somatic channels through weight, breath, and chest-borne rhythm
-- project an unstable spider shadow without revealing a body
+- create minor temporal or spatial disagreement in human shadows
 - exploit Kai's observed attempt to restore the talisman by offering an
   ambiguous instruction to close what he opened
 - create one material resonance between the talisman and empty brass urn
@@ -535,24 +537,28 @@ Supernatural ceiling: Phase One Recognition only. No voice, figure, mimicry, tou
 
 ## Sequence VIII - The House Listens
 
-Purpose: Give each brother a first private probe, then reveal that treating the
-encounters as private increases the danger.
+Purpose: Subject the brothers to one shared disturbance that divides across
+their different bodies and coping systems, then make concealment impossible.
 
 Outcome:
 
+- the compound's living sound disappears at once and all three brothers notice
 - Malik feels unseen weight enter his mattress and breath near his ear
-- Ade hears his name and an instruction to perform from two impossible
-  locations
-- Kai experiences chest-borne beats, a bodyless spider shadow, and a voice
-  offering to close what he opened
+- Ade hears his name and an instruction to perform while his brothers remain
+  visibly present
+- Kai experiences chest-borne rhythm and an ambiguous voice offering to close
+  what he opened
+- the bed springs, voice, breath, and rhythm belong to one continuous event
+- Kai's shadow lags, then reaches the passage door before him
 - Kai carries the talisman toward the red-corded household door
-- From Ade's view, Kai appears awake but sleepwalking
+- to Ade, Kai appears awake but sleepwalking inside the same disturbance
 - Ade stops Kai before he touches the cord
-- Malik, Ade, and Kai exchange enough truth to know the encounters were shared
+- Malik, Ade, and Kai already know they occupied the disturbance together, even
+  though none perceived it identically
 - the brothers choose to confront Bode together
 
 Unforgettable image: Kai's shadow reaches the red-corded door before his body
-and closes its hand around a knot that does not move.
+while Ade closes a real hand around Kai's wrist.
 
 Sound: Ordinary compound life thinning into breath, dry spatially inconsistent
 whispers, and chest-borne rhythm without score.
@@ -574,7 +580,8 @@ Outcome:
 - Kai removes the talisman himself and admits he did not restore it
 - Malik identifies the act as theft; Kai defends his claim to the question
 - Bode explains that the voices are learning what the brothers answer to
-- Eno discovers the breach and reorganizes the household
+- Eno reads Bode's fear and reorganizes the household without identifying the
+  talisman, regulator, or Entity
 - the talisman remains cloth-covered on the kitchen table
 - no repair is attempted
 
@@ -712,7 +719,8 @@ Bode's exact knowledge of the regulator remains unresolved. His decision to leav
 - all three brothers experienced the Entity during the night
 - Kai opened a maintained place below the western boundary stones
 - Kai removed and concealed the talisman
-- Bode and Eno recognize the broken knot
+- Bode recognizes the broken knot
+- Eno recognizes Bode's fear, not the mythology
 - the supernatural can enter intimate household space
 
 ## Ade knows
@@ -726,7 +734,7 @@ Bode's exact knowledge of the regulator remains unresolved. His decision to leav
 
 - the promise of repair may itself be manipulation
 - the Entity can use his own voice without becoming a stable speaker
-- the shadow, chest rhythm, and talisman belong to one causal system
+- the shadow lag, chest rhythm, and talisman belong to one causal system
 - his brothers are now exposed to the consequence of his choice
 
 ## Bode knows
@@ -739,17 +747,18 @@ Bode's exact knowledge of the regulator remains unresolved. His decision to leav
 
 ## Eno knows
 
-- the regulator has been breached
-- the talisman is inside the house
-- the first probes have reached the brothers
-- Bode delayed disclosure until physical proof arrived
+- Kai left the path below the western stones
+- Bode is frightened by what Kai brought back
+- the returned sons and the children require immediate household protection
 
-Her exact repair knowledge and final terminology remain unresolved.
+Eno does not yet know what is beneath Bode's cloth, what condition the
+regulator is in, what the Entity is called, or what mechanism has entered the
+house.
 
 ## Entity state
 
 - Phase Two: Attachment has begun
-- has sampled vigilance, humor, guilt, voice recognition, and physical
+- has sampled vigilance, withheld speech, voice recognition, and physical
   intervention
 - has not yet earned dead-relative impersonation, private memory, injury, or a
   stable form
@@ -791,7 +800,7 @@ The following material is removed and must not return through copy-forward:
 
 # Next writing position
 
-The family is seated in the kitchen after the first Attachment probes:
+The family is seated in the kitchen after the first shared Attachment event:
 
 - Solomon's ashes remain in the river
 - the empty urn is on the kitchen table
@@ -799,7 +808,8 @@ The family is seated in the kitchen after the first Attachment probes:
 - the broken red knot is physical evidence of the breach
 - the red-corded household door remains closed
 - Malik, Ade, and Kai know the encounters were connected
-- Bode and Eno know Kai opened the regulator
+- Bode knows Kai opened the regulator
+- Eno knows Kai left the path and that Bode believes the household is in danger
 - the Entity has begun learning responses but has not yet gained private
   biographical material
 
