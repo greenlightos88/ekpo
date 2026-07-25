@@ -1,20 +1,20 @@
 # EKPO CANON
 
-Version: 2.4 - Shared Attachment Integrity Pass
+Version: 2.5 - Daylight Consequence and Work Room
 
 ## Project status
 
 Development phase: Prestige feature rewrite
 
-Current screenplay position: End of Act II, Sequence IX
+Current screenplay position: End of Act II, Sequence X
 
-Current story position: After the river, one shared disturbance reaches all
-three brothers in their room, though each registers a different pressure inside
-the same event. Ade stops Kai before he reaches the red-corded household door.
-In the kitchen, the empty urn answers the concealed talisman, Bode reconstructs
-the broken shrine knot, and Kai discloses what he removed. Bode recognizes the
-breach. Eno recognizes that her household is in danger, but does not yet know
-the mythology or the object beneath Bode's cloth.
+Current story position: The morning after the shared disturbance, the brothers
+remain together and argue over leaving, returning the talisman, or staying long
+enough to understand the breach. They choose not to separate. Bode deliberately
+opens the red-corded household room. The room reveals repeated practical
+maintenance, decades of correspondence with Solomon, and records carrying the
+handwriting of Solomon and Bode's dead younger sister. No repair is attempted
+and no new supernatural event occurs.
 
 Lock status:
 
@@ -22,7 +22,7 @@ Lock status:
 - Act I chronology and supernatural causality: LOCKED
 - Act I screenplay: COMPLETE AND INTEGRITY-REVIEWED
 - Act II Sequence VII: CANONICAL AND INTEGRITY-REVIEWED
-- Act II Sequences VIII-IX: CANONICAL AND INTEGRITY-REVIEWED
+- Act II Sequences VIII-X: CANONICAL AND INTEGRITY-REVIEWED
 - Regional dialogue and cultural behavior: WORKING LOCK pending Efik/Calabar reader verification
 - Remaining Act II after Sequence IX: not yet architected from this reset
 
@@ -81,7 +81,10 @@ Language register is relationship-specific:
 
 Act I establishes `Mọkọm / Ekọm do` for the late-afternoon family greeting and `Emesiere / Emesiere nde` for the morning exchange. Final performance cadence remains subject to an Efik/Calabar dialogue reader.
 
-Shrine vocabulary, the regulator's culturally grounded name, ritual language, and the final relationship between the spider force and Efik/Ekpe/Ekpo cosmology are deliberately deferred. Do not invent terminology before specialist review.
+Shrine vocabulary, the regulator's culturally grounded name, ritual language,
+and any relationship between the small shrine spider, the Entity, and
+Efik/Ekpe/Ekpo cosmology are deliberately deferred. Do not invent terminology
+before specialist review.
 
 ## Visual language
 
@@ -323,7 +326,9 @@ Prohibited:
 
 ## Trigger - Shrine breach
 
-The shrine is a spiritual regulator of the Oku family land. It contains or mediates the balance-correcting force associated with the spider god.
+The shrine is a spiritual regulator of the Oku family land. It contains or
+mediates a balance-correcting force whose definitive name, nature, and
+relationship to the shrine spider remain unresolved.
 
 The Oku bloodline has an inherited maintenance responsibility.
 
@@ -593,6 +598,45 @@ dogs marking the land, and Eno relighting the burner.
 
 Supernatural ceiling: First Attachment probes and one object resonance only.
 
+## Sequence X - The Closed Room
+
+Purpose: Convert the night disturbance into a shared family decision and reveal
+the hidden responsibility as repeated human labour rather than mythology.
+
+Outcome:
+
+- none of the brothers has slept
+- Bode cannot reproduce the broken knot from memory
+- Malik argues to leave the land immediately
+- Kai accepts responsibility and argues that the talisman cannot be abandoned
+  in Eno's house
+- Ade prevents departure, return, or blame from dividing the brothers
+- the brothers agree to remain long enough to make an informed decision
+- Bode reveals that the binding was checked, replaced, and recorded
+- Bode confirms Solomon continued participating from Canada
+- Eno requires Bode to open the red-corded room inside her house
+- Bode opens the household knot deliberately rather than breaking it
+- the room contains used tools, replacement cotton, corrected boundary maps,
+  rainfall and river records, and decades of correspondence
+- Malik recognizes Solomon's habits inside the records
+- Bode admits Solomon answered practical work while leaving human questions
+  unanswered
+- Kai stops his own hand and waits for permission before opening an older
+  notebook
+- Eno identifies a third handwriting as belonging to her dead younger sister
+- no one explains her death, the Entity, or a repair sequence
+
+Unforgettable image: Bode coils the household cord as morning light reveals
+shelves of replacement thread and handled records behind him.
+
+Final image: Eno recognizes her dead sister's handwriting in the open notebook.
+
+Sound: Ordinary breakfast and front-veranda life; cotton, swollen wood, paper,
+drawer runners, and tools. No supernatural sound or score-led omen.
+
+Supernatural ceiling: No new capability and no manifestation. Phase Two remains
+active but does not escalate.
+
 ---
 
 # End-of-Act-I knowledge ledger
@@ -642,7 +686,9 @@ Kai does not yet understand the Entity, the sister's death, or how to restore ba
 - Kai is unusually likely to follow an incomplete pattern
 - Kai has left the path
 
-The exact limit of Bode's knowledge about the regulator and spider god remains to be specified before Act II exposition is written.
+The exact limit of Bode's knowledge about the regulator and the inherited names
+applied to the Entity remains to be specified before further Act II exposition
+is written.
 
 ## Eno knows
 
@@ -765,6 +811,58 @@ house.
 
 ---
 
+# Post-Sequence-X knowledge ledger
+
+## Malik knows
+
+- the talisman was one component of repeated maintenance
+- Solomon continued organizing the work from Canada
+- Bode performed the local work without understanding every reason
+- the hidden responsibility consumed decades of family attention
+- the dead younger sister also participated
+
+Malik does not accept the obligation as legitimate merely because it is old.
+
+## Ade knows
+
+- leaving, returning, and remaining are all family decisions with consequences
+- Bode's silence protected procedure at the expense of informed consent
+- practical work and personal communication were not the same relationship for
+  Solomon
+- the sister's erased place in the photograph contradicts her presence in the
+  records
+
+## Kai knows
+
+- replacing the talisman cannot simply reverse his action
+- the binding depended on observation, materials, sequence, and repeated labour
+- his father, Bode, and their sister all participated
+- ethical investigation now requires permission and shared action
+
+## Bode knows
+
+- the brothers will not accept procedure without context
+- opening the room has exposed his own complicity and uncertainty
+- he can no longer use the household door to contain the family's judgment
+
+## Eno knows
+
+- the room held decades of practical work
+- Bode and Solomon concealed that work inside her house
+- their younger sister wrote in the maintenance records
+- the returned sons are being asked to inherit consequences without adequate
+  knowledge
+
+Eno still does not know the Entity's nature, an accurate name, the talisman's
+mechanism, the regulator's current condition, or a repair procedure.
+
+## Entity state
+
+Unchanged from the end of Sequence IX. Sequence X contains no manifestation and
+earns no new capability.
+
+---
+
 # Prohibited continuity
 
 The following material is removed and must not return through copy-forward:
@@ -800,29 +898,33 @@ The following material is removed and must not return through copy-forward:
 
 # Next writing position
 
-The family is seated in the kitchen after the first shared Attachment event:
+The family stands inside the opened household work room:
 
-- Solomon's ashes remain in the river
-- the empty urn is on the kitchen table
-- the talisman is disclosed and wrapped once in clean cloth
-- the broken red knot is physical evidence of the breach
-- the red-corded household door remains closed
-- Malik, Ade, and Kai know the encounters were connected
-- Bode knows Kai opened the regulator
-- Eno knows Kai left the path and that Bode believes the household is in danger
-- the Entity has begun learning responses but has not yet gained private
-  biographical material
+- the wrapped talisman remains on the kitchen table
+- the empty urn case remains in Malik's hand
+- the household cord is open and coiled in Bode's pocket
+- the room has revealed repeated labour but no repair plan
+- Solomon's practical correspondence from Vancouver is visible
+- the dead sister's handwriting has been identified in an older notebook
+- the brothers have agreed not to separate while deciding what comes next
+- no one has agreed to inherit the work
+- no one is returning to the regulator yet
+- the Entity's capability remains unchanged
 
-Before drafting Sequence X, define:
+Before drafting Sequence XI, define:
 
-1. How much Bode explains before Eno challenges his version.
-2. What immediate action is possible without pretending the regulator can be
-   repaired overnight.
-3. Whether the next movement remains inside the house or returns to the land.
-4. What observable behavior the Entity studies before deeper impersonation is
-   permitted.
-5. How the dead sister enters dramatic conflict without becoming a lore
-   briefing.
+1. Which record creates the next practical question without becoming a repair
+   manual.
+2. How the sister's participation changes the conflict before her death is
+   explained.
+3. What Bode admits about his relationship with Solomon and what he still
+   cannot know.
+4. Which brother first refuses the moral premise that bloodline creates
+   consent.
+5. What observable family behavior the Entity may learn from before any new
+   capability is permitted.
+6. Whether the next movement remains in daylight and how long the talisman can
+   safely remain in the house.
 
 ---
 

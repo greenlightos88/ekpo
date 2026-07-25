@@ -430,4 +430,17 @@ places the stolen talisman between them.
 
 ---
 
+## Continuation status
+
+Sequence X now continues from this document's ending through daylight
+consequence and Bode's deliberate opening of the red-corded room.
+
+Canonical development control continues in
+`08_ACT_II_MORNING_ROOM_DEVELOPMENT.md`.
+
+Sequence X adds no supernatural capability and does not revise any locked
+decision in Sequences VIII-IX.
+
+---
+
 END DEVELOPMENT DOCUMENT - SEQUENCES VIII-IX

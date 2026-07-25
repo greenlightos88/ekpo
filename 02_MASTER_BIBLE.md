@@ -575,7 +575,10 @@ Working Act I phrases:
 
 These phrases are a researched working lock. Pronunciation, performance rhythm, and family-specific usage still require an Efik/Calabar reader.
 
-Shrine terminology remains outside the language lock. The regulator, maintenance practice, ritual address, spider force, and relationship to Efik/Ekpe/Ekpo concepts must be developed later with specialist guidance.
+Shrine terminology remains outside the language lock. The regulator,
+maintenance practice, ritual address, Entity nomenclature, and any relationship
+between the small shrine spider and Efik/Ekpe/Ekpo concepts must be developed
+later with specialist guidance.
 
 Guardrails:
 
@@ -800,24 +803,81 @@ invented, and no mythological knowledge is assigned to her.
 The sequence's defining image is the broken red knot, empty urn, and stolen
 talisman sharing one kitchen table.
 
-## Immediate obligations after Sequence IX
+## Sequence X - The Closed Room
+
+Morning does not bring another manifestation. It brings consequence.
+
+The household remains functional in front while the back passage is restricted.
+Eno moves children and ordinary family life away from the concealed problem
+without acquiring supernatural knowledge.
+
+The brothers argue from distinct moral positions:
+
+- Malik insists that Solomon's request is complete and concealed consequences
+  do not create consent
+- Kai accepts responsibility and refuses to abandon the talisman inside Eno's
+  house
+- Ade refuses any action that separates the brothers
+- Bode refuses immediate return because the object was never the whole work
+
+The decision is temporary but consequential: the brothers remain together long
+enough to inspect the practical history before choosing whether to leave or
+return.
+
+Under pressure, Bode reveals that the binding was checked, replaced, and
+recorded. Solomon continued participating from Vancouver. Bode performed local
+work according to what he understood.
+
+Eno requires Bode to open the household room he kept tied inside her house.
+Bode deliberately unwinds the cord rather than breaking it.
+
+The room contains:
+
+- worn hand tools
+- replacement red cotton protected against humidity
+- corrected boundary maps
+- rainfall and river records
+- dates beside repaired stones
+- practical correspondence from Solomon in Vancouver
+- Bode's questions and Solomon's work-focused replies
+- an older notebook containing a third handwriting
+
+The room establishes labour, repetition, and damaged communication. It does not
+provide mythology or a repair procedure.
+
+Kai stops his hand before touching the older notebook and waits for Bode's
+permission. This is his first post-breach act of ethical curiosity.
+
+Eno identifies the third handwriting as belonging to her dead younger sister.
+She recognizes family, not supernatural mechanism.
+
+The sequence's defining image is Bode coiling the household cord while daylight
+reveals shelves of replacement thread and handled records.
+
+The final image is the dead sister's handwriting in an open maintenance
+notebook.
+
+No new Entity capability is used or earned.
+
+## Immediate obligations after Sequence X
 
 Before drafting the next sequence, answer:
 
-1. What partial account does Bode give, and where does Eno contradict him?
-2. What can the family do immediately that is precaution rather than false
-   repair?
-3. What human history of the dead sister becomes necessary now?
-4. Which brother first challenges the idea that inherited responsibility is
-   automatically legitimate?
-5. What on-screen observation earns the Entity's next increase in
-   impersonation?
-6. How long may the talisman remain in the house before its location becomes a
-   new source of pressure?
-7. What practical purpose does the red-corded household room serve?
+1. Which record creates a practical next question without functioning as a
+   repair manual?
+2. How does the sister's participation alter the family conflict before her
+   death is explained?
+3. What does Bode admit about the break in communication with Solomon?
+4. Which brother first challenges inherited obligation as a moral premise?
+5. What family behavior may the Entity observe before any new capability is
+   earned?
+6. How long may the talisman remain in the house?
+7. What immediate precaution is possible without pretending the regulator can
+   be repaired through one returned object?
 
-Act II may now enter Attachment. It may not yet use false Solomon, private
-memories, bodily injury, or a stable creature form.
+Act II remains in Attachment. It may not yet use false Solomon, private
+memories, bodily injury, a stable creature form, or a complete individualized
+psychological scenario.
 
 ---
 

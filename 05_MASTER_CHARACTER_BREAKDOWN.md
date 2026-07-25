@@ -2626,6 +2626,118 @@ people, danger, and responsibility.
 
 ---
 
+# CANONICAL CHARACTER LEDGER AFTER SEQUENCE X
+
+## Malik
+
+- Argues to leave because Solomon's request is complete and concealed
+  consequence cannot create consent.
+- Keeps the empty urn case beside him and carries it when the family moves.
+- Recognizes Solomon's controlling domestic habits inside the work records.
+- Learns that the hidden responsibility organized Bode and the dead sister's
+  lives as well as Solomon's.
+- Does not accept the inherited work merely because it is old or familial.
+
+Performance residue:
+
+Malik's anger now has two targets: Kai's unilateral action and Solomon's
+long-term control. Protection remains the source of both.
+
+## Ade
+
+- Refuses departure, return, or blame as separate actions.
+- Establishes the temporary family decision: remain long enough to understand,
+  then decide together.
+- Uses one tired joke to acknowledge the brothers' practiced anger without
+  dissolving the conflict.
+- Recognizes that Solomon answered practical work while leaving human questions
+  unanswered.
+
+Performance residue:
+
+Ade is not neutral. Keeping the brothers together has become a concrete
+position with consequences.
+
+## Kai
+
+- Admits he does not want to return to the regulator but refuses to abandon the
+  consequence in Eno's house.
+- Learns that the talisman was one part of repeated human maintenance.
+- Stops his own hand before touching the older notebook.
+- Waits for Bode's permission and receives it.
+- Learns that the dead sister participated in the work.
+
+Performance residue:
+
+Kai's curiosity is becoming ethical through behavior. Responsibility does not
+erase fear or his need to understand.
+
+## Bode
+
+- Cannot reconstruct the broken knot perfectly from memory.
+- Reveals that the binding was checked, replaced, and recorded.
+- Admits Solomon continued directing work from Canada.
+- Opens the household room voluntarily after preserving it for decades.
+- Exposes records that make his own complicity, obedience, uncertainty, and
+  unanswered questions available for judgment.
+
+Performance residue:
+
+Bode's practical competence remains credible because it has limits. Opening the
+room is his first surrender of informational control.
+
+## Eno
+
+- Keeps children and uninvolved relatives in the functioning front of the
+  compound.
+- Requires the hidden practical history inside her house to be opened.
+- Does not identify the talisman, regulator, Entity, or repair.
+- Recognizes her dead sister's handwriting through family memory.
+- Learns that the concealed work included all three siblings.
+
+Performance residue:
+
+Eno's authority remains domestic, moral, and relational. Recognition of
+handwriting does not make her a supernatural custodian.
+
+## Eyo
+
+- Carries breakfast to the children and maintains ordinary household rhythm.
+- Keeps the front of the compound functioning when Eno restricts the back
+  passage.
+- Receives no mythology briefing.
+
+Performance residue:
+
+Eyo remains a family participant with practical competence, not a potential
+victim or background witness.
+
+## Solomon
+
+- Is revealed to have continued practical maintenance from Canada.
+- His correspondence is precise, corrective, and sustained.
+- Practical replies coexist with unanswered human questions.
+- The discovery complicates his secrecy without redeeming it.
+
+## Younger Sister
+
+- Is revealed to have written in the maintenance records alongside Solomon and
+  Bode.
+- Her handwriting restores agency and labour to the person whose face Solomon
+  tried to erase.
+- Her name, death, final act, and exact relationship to the regulator remain
+  unrevealed.
+
+## Entity
+
+- Does not manifest in Sequence X.
+- Gains no new capability.
+- Remains a balance-correcting presence expressed through inherited
+  relationship, disturbed ecology, and altered attention rather than evil or
+  predation.
+
+---
+
 # FINAL CHARACTER GOVERNING TEST
 
 The goal is not to make every character sympathetic.

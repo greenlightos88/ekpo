@@ -2,15 +2,15 @@
 
 Date: 2026-07-25
 
-Session objective: Preserve the completed Act I and river-boundary opening,
-then integrity-revise the first night disturbance and Bode's kitchen
-recognition as canonical Sequences VIII-IX.
+Session objective: Preserve the completed Act I and canonical Sequences VII-IX,
+then write the morning consequence, family decision, and deliberate opening of
+the red-corded work room as Sequence X.
 
 ## Outcome
 
-Act I is complete through the shrine-trigger ending. Act II now contains three
-canonical sequences: the river boundary, the shared night disturbance, and the
-kitchen disclosure.
+Act I is complete through the shrine-trigger ending. Act II now contains four
+canonical sequences: the river boundary, the shared night disturbance, the
+kitchen disclosure, and the daylight work-room discovery.
 
 Act I contains six sequences:
 
@@ -26,19 +26,21 @@ Act II currently contains:
 7. The River Boundary
 8. The House Listens
 9. The Broken Knot
+10. The Closed Room
 
-The screenplay now ends in the kitchen after:
+The screenplay now ends inside the opened work room after:
 
-- all three brothers experience one shared Attachment event through different
-  sensory pressures
-- Ade stops Kai before he touches the red-corded household door
-- the brothers recognize they occupied the disturbance together and confront
-  Bode together
-- the empty urn answers the concealed talisman
-- Bode reconstructs the broken regulator knot
-- Kai discloses the talisman and admits he did not restore it
-- Eno learns where Kai left the path and reorganizes the household after
-  reading Bode's fear, without identifying the mythology
+- Malik argues to leave the land
+- Kai accepts responsibility without treating return as simple reversal
+- Ade prevents the brothers from choosing separate actions
+- Bode reveals that restraint required repeated maintenance
+- the family chooses to remain together long enough to understand
+- Eno requires the hidden practical room inside her house to be opened
+- Bode deliberately unwinds the household cord
+- the room reveals tools, replacement material, maps, observations, and
+  decades of correspondence
+- Eno identifies the dead younger sister's handwriting in an older notebook
+- no new supernatural event, mythology explanation, or repair plan is provided
 
 ## Sequence VII integration pass
 
@@ -278,19 +280,21 @@ Entity phase: Recognition
 
 ## Current writing position
 
-Sequence IX is complete.
+Sequence X is complete.
 
-The family is gathered in the Oku kitchen:
+The family is inside the opened Oku work room:
 
 - Solomon's ashes remain in the river
-- the empty urn is on the table
-- the talisman has been disclosed and wrapped once in clean cloth
-- the broken red-thread knot has been reconstructed by Bode
-- Malik, Ade, and Kai know the encounters were connected
-- Bode knows Kai opened the regulator below the western stones
-- Eno knows Kai left the path and that Bode believes the household is in danger
-- the red-corded household door remains closed
-- the Entity has begun Phase Two Attachment through one shared disturbance
+- Malik carries the empty urn case
+- the wrapped talisman remains on the kitchen table
+- Bode carries the opened household cord in his pocket
+- the room has revealed tools, replacement materials, maps, observations, and
+  correspondence
+- Solomon's continued participation from Vancouver is established
+- the dead sister's handwriting has been identified
+- the brothers have agreed not to separate while deciding what comes next
+- no return, repair, or inherited obligation has been accepted
+- the Entity remains in Phase Two Attachment without a new manifestation
 
 ## Producer-format delivery pass
 
@@ -304,9 +308,9 @@ The producer-facing PDF:
   dialogue, transition, and page-number placement
 - preserves Efik diacritics in the rendered screenplay
 - omits internal `# SEQUENCE`, act-boundary, and development-control headings
-- contains one unnumbered title page and thirty-six screenplay pages
+- contains one unnumbered title page and forty-three screenplay pages
 - begins with `FADE IN:` and ends at the current canonical writing position,
-  `Nothing holds there now.`
+  `That is our sister's hand.`
 
 The Fountain file remains the canonical editable screenplay. The PDF is the
 producer-facing reading copy; no story, dialogue, chronology, or mythology was
@@ -343,15 +347,41 @@ Locked decisions:
 Development control for these sequences is recorded in
 `07_ACT_II_NIGHT_KITCHEN_DEVELOPMENT.md`.
 
+## Sequence X integration pass
+
+Locked decisions:
+
+- the next movement begins in daylight and contains no new supernatural event
+- the brothers have not slept and remain physically close
+- Eno has moved children and uninvolved relatives toward the functioning front
+  of the compound
+- Malik's departure argument is rational, protective, and grounded in consent
+- Kai accepts responsibility without becoming eager to return
+- Ade prevents the family from choosing separate actions
+- Bode cannot perfectly reconstruct the broken knot from memory
+- Bode reveals only repeated maintenance and Solomon's continued participation
+  from Canada
+- Eno requires Bode to open the room because it exists inside her house, not
+  because she understands the mythology
+- Bode unwinds rather than breaks the household cord
+- the room reveals used labour and damaged communication rather than occult
+  spectacle
+- Kai waits for permission before touching the sister's notebook
+- Eno recognizes handwriting through family memory
+- the sister's death, the Entity, and a repair plan remain unexplained
+
+Development control is recorded in
+`08_ACT_II_MORNING_ROOM_DEVELOPMENT.md`.
+
 ## Required architecture before the next pages
 
-1. Define Bode's partial account without using Eno as a mythology corrector.
-2. Define immediate precaution without false ritual repair.
-3. Bring the dead sister into dramatic conflict rather than exposition.
-4. Decide which brother challenges inherited responsibility first.
-5. Earn the Entity's next impersonation capability through on-screen
-   observation.
-6. Define the red-corded room's practical family function.
+1. Select one record that creates a practical question without becoming a
+   repair manual.
+2. Define the first moral challenge to bloodline obligation.
+3. Develop the sister through family consequence before explaining her death.
+4. Define what Bode admits about his communication break with Solomon.
+5. Earn any new Entity capability through observable family behavior.
+6. Decide how long the talisman may remain in the house.
 7. Keep shrine terminology deferred pending specialist review.
 
 ## Cultural and factual verification still required
@@ -373,7 +403,7 @@ Explicitly deferred until the shrine mythology pass:
 - culturally grounded shrine name
 - regulator maintenance terminology
 - ritual language
-- spider-force nomenclature
+- Entity nomenclature and the status of the small shrine spider
 - relationship to Efik/Ekpe/Ekpo cosmology
 
 Verified during this pass:
@@ -394,9 +424,10 @@ Working references:
 
 ## Next step
 
-Build Sequence X from the kitchen table. Do not draft it until Bode's knowledge
-ceiling, Eno's strictly practical protective role, the sister's dramatic
-function, and the next Attachment capability pass agree.
+Architect Sequence XI from the first records in the work room. Do not draft it
+until the practical next question, the sister's dramatic function, the moral
+challenge to inherited obligation, and the next Attachment capability pass
+agree.
 
 ---
 
