@@ -8,6 +8,23 @@ Current canonical endpoint: End of Act II, Sequence X - The Closed Room
 
 Producer draft length at this endpoint: 43 screenplay pages plus title page
 
+## Governing Cosmology
+
+`EKPO_Canonical_Mythology_Refactor.md` is the authoritative mythology.
+
+- Reality consists of the Seen and the Unseen.
+- The covenant maintains their proper relationship and protects both domains.
+- The Oku family inherit stewardship of a covenant node.
+- The shrine is that node's point of alignment and regulator, never a prison.
+- The red binding maintains alignment.
+- The brass talisman maintains equilibrium.
+- The Entity is a manifestation of imbalance and the first catastrophic
+  visible expression of the fracture, not its cause or the covenant's purpose.
+- Kai broke alignment; he did not release a prisoner.
+- Solomon maintained the covenant but failed succession.
+- Solomon's sister died restoring equilibrium after he neglected a required
+  act of stewardship.
+
 ## Immediate Story Position
 
 It is morning at the Oku family house outside Calabar, immediately after the
@@ -49,8 +66,9 @@ No new supernatural event occurred in Sequence X.
 5. Homecoming - canonical and integrity-reviewed
 6. The Land and the Shrine - canonical and integrity-reviewed
 
-Act I ends when Kai intentionally breaks the shrine's red-thread seal, removes
-the talisman, chooses not to restore it, and the regulator becomes active.
+Act I ends when Kai intentionally breaks the shrine's red-thread binding,
+removes the talisman, chooses not to restore it, and destabilizes alignment
+between the Seen and the Unseen.
 
 ### Act II
 
@@ -150,10 +168,10 @@ Current knowledge:
 
 - the shrine seal was maintained, not abandoned;
 - the talisman, binding, records, materials, and observations formed one
-  repeated system of labor;
+  repeated system of custodial labor;
 - Solomon, Bode, and their sister participated;
-- the Entity may use the promise of repair as a means of learning what he
-  answers to;
+- the manifested Entity may use the promise of repair as a means of learning
+  what he answers to;
 - and his first breach cannot be undone by repeating the physical motion in
   reverse.
 
@@ -182,12 +200,12 @@ Current knowledge:
 
 - Kai opened the regulator below the western stones;
 - the talisman was removed and the seal broken;
-- the Entity has entered Phase Two Attachment;
+- the Entity's manifestation has entered Phase Two Attachment;
 - the brothers require truth before action;
 - and the work was distributed among Solomon, himself, and their sister.
 
-Bode's exact knowledge of repair, the sister's death, and the regulator's
-culturally grounded name remains unresolved.
+Bode's exact knowledge of repair, what he knows about the sister's canonical
+death, and the regulator's culturally grounded name remains unresolved.
 
 ### Eno
 
@@ -214,8 +232,8 @@ Current knowledge:
 - Solomon and Bode concealed that work;
 - and their dead younger sister wrote in the maintenance records.
 
-Eno does not know the Entity's definitive nature, the talisman's mechanism, the
-regulator's present condition, or a repair procedure.
+Eno does not know the Entity's definitive nature, the full covenant mechanism,
+the regulator's present condition, or a repair procedure.
 
 ### Eyo
 
@@ -232,6 +250,7 @@ Current state:
 ### Brass talisman
 
 - Removed intentionally by Kai from the shrine.
+- Maintains equilibrium at the covenant node.
 - Disclosed in Sequence IX.
 - Wrapped once in ordinary clean cloth by Bode.
 - Current location: center of the kitchen table.
@@ -242,6 +261,7 @@ Current state:
 ### Broken shrine thread
 
 - Removed from Kai's camera bag by Bode.
+- The original binding maintained alignment before Kai broke it.
 - Reconstructed enough to expose its workmanship.
 - Gathered by Bode in Sequence X.
 - Current location: carried by Bode into the work-room movement unless a later
@@ -307,6 +327,10 @@ Current state:
 
 Current phase: Phase Two - Attachment
 
+Cosmological condition: Alignment between the Seen and the Unseen is
+destabilized. The Entity is a perceptible manifestation of that imbalance, not
+an escaped or formerly imprisoned being.
+
 Capabilities already demonstrated:
 
 - suppression of ordinary environmental sound;
@@ -335,15 +359,16 @@ Sequence X added no capability.
 
 ## Active Dramatic Questions
 
-1. What exactly did the sister do within the maintenance system?
+1. How and when should the story reveal that the sister restored equilibrium
+   and died after Solomon failed his stewardship?
 2. Why was her face erased while her work remained necessary?
-3. What did Solomon leave her to carry?
+3. How did Solomon's guilt shape his later stewardship and failed succession?
 4. What did Bode understand, and what did he merely repeat?
 5. What record creates a practical question without becoming a repair manual?
 6. Can inherited responsibility be legitimate without informed consent?
 7. Does leaving the land carry the Attachment with the brothers?
 8. How long can the talisman remain inside Eno's household?
-9. What condition is the breached regulator currently in?
+9. What condition is the destabilized covenant node currently in?
 10. What family behavior will the Entity learn from next?
 
 Do not answer all of these in one sequence.
@@ -365,5 +390,6 @@ The next movement begins in the work room in morning daylight.
 
 It must deepen family conflict before it deepens mythology.
 
-The sister's handwriting creates pressure; it does not authorize a biography,
-death explanation, ritual lesson, or repair montage.
+The sister's handwriting creates pressure; it does not authorize the screenplay
+to reveal her canonical death yet, deliver a biography or ritual lesson, or
+begin a repair montage.

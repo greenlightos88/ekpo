@@ -12,6 +12,52 @@ DATE:
 2026-07-25
 
 DECISION:
+**Covenant Cosmology Refactor**
+
+Reality consists of the Seen and the Unseen. An ancient covenant protects both
+domains by maintaining their proper relationship and separation. The Oku
+family inherited stewardship of one covenant node.
+
+The shrine is a point of alignment and regulator where the covenant is
+maintained. It is never a prison. The red binding maintains alignment and the
+brass talisman maintains equilibrium.
+
+The Entity is one manifestation of imbalance: the first catastrophic visible
+expression of a fracture that makes aspects of the Unseen perceptible within
+the Seen. It is not imprisoned, the source of evil, or the purpose of the
+covenant.
+
+Solomon maintained the covenant throughout his life, including from Canada.
+After an earlier failure of stewardship, his more spiritually intuitive sister
+restored equilibrium and died restoring the covenant. She did not die because
+she broke a rule. Solomon's greatest failure was succession: he did not prepare
+his sons.
+
+Kai breaks alignment rather than releasing a prisoner.
+
+RATIONALE:
+The mythology must express inheritance through stewardship, forgotten
+responsibility, boundaries, and generational failure rather than monster
+containment.
+
+STATUS:
+FOUNDATIONAL / LOCKED
+
+GOVERNING SOURCE:
+`EKPO_Canonical_Mythology_Refactor.md`
+
+SUPERSEDES:
+The earlier locked decisions defining the Entity through a corrective ontology
+and leaving the sister's death and shrine responsibility cosmologically
+unresolved. It also supersedes every containment, imprisonment, release, or
+monster-centered interpretation in repository history.
+
+---
+
+DATE:
+2026-07-25
+
+DECISION:
 EKPO is governed as a prestige psychological supernatural family drama about
 inheritance: the supernatural is the language, family is the subject, grief is
 the doorway, and inheritance is the engine.
@@ -72,15 +118,16 @@ DATE:
 2026-07-25
 
 DECISION:
-The Entity is balance-correcting from its own perspective. It is not
-canonically evil, demonic, a conventional antagonist, or a "spider god."
+HISTORICAL ASSUMPTION: The Entity was defined as pursuing an inhuman standard
+of balance and as neither evil, demonic, a conventional antagonist, nor a
+"spider god."
 
 RATIONALE:
 The supernatural should behave like inherited memory and disturbed ecology,
 not a monster franchise mechanism.
 
 STATUS:
-LOCKED
+SUPERSEDED BY COVENANT COSMOLOGY REFACTOR
 
 SUPERSEDES:
 Villain-centered and "spider god" descriptions.
@@ -137,7 +184,7 @@ RATIONALE:
 The human cost beneath the mythology must precede a complete explanation.
 
 STATUS:
-LOCKED
+PARTIALLY SUPERSEDED BY COVENANT COSMOLOGY REFACTOR
 
 SUPERSEDES:
 The scratched figure as a man, living guardian, or eventual villain.

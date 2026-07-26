@@ -9,7 +9,8 @@ system without an explicit entry in `DECISION_LOG.md`.
 Meaning:
 
 - visible evidence of repeated human maintenance;
-- boundary, care, continuity, and the cost of keeping a system intact;
+- covenant alignment, boundary, care, continuity, and the cost of keeping a
+  system intact;
 - a material connection between land procedure and household concealment.
 
 Current appearances:
@@ -31,6 +32,7 @@ Future-use rules:
 - never imply that any red string automatically performs a ritual;
 - preserve distinctions among shrine binding, replacement material, and
   household cord;
+- the shrine binding maintains alignment between the Seen and the Unseen;
 - repair requires knowledge and repeated work, not tying a visually similar
   knot;
 - a new knot or cut must change custody, consent, or obligation.
@@ -41,7 +43,8 @@ Meaning:
 
 - durable human workmanship carrying touch, custody, correction, and family
   labor;
-- continuity between domestic life, remains, land markers, and maintenance.
+- continuity between domestic life, remains, land markers, and covenant
+  stewardship.
 
 Current appearances:
 
@@ -58,6 +61,8 @@ Future-use rules:
 - brass is not automatically magical;
 - do not turn every brass object into a conduit;
 - object meaning comes from handling, use, and relation;
+- the shrine talisman maintains equilibrium; removing it destabilizes balance
+  rather than releasing an imprisoned being;
 - new resonance requires a causal reason and capability permission;
 - patina, fingerprints, cleaning, and wear may reveal labor without explaining
   mythology.
@@ -241,6 +246,7 @@ Current appearances:
 Future-use rules:
 
 - it is not a second shrine, portal, or monster room;
+- it stores evidence of covenant stewardship, not containment;
 - the room remains physically ordinary;
 - its discoveries must generate character conflict and practical questions;
 - no record may conveniently explain the whole mythology;
@@ -262,6 +268,7 @@ Future-use rules:
 
 - do not call it a god, avatar, familiar, or villain without an explicit
   future decision;
+- do not imply it escaped from inside the shrine;
 - no giant spider;
 - no spider-shaped shadow;
 - no pre-shrine spider;
@@ -413,6 +420,7 @@ Future-use rules:
 - no instant repair;
 - no knot functions because it merely looks correct;
 - memory, material, environment, sequence, and maintenance all matter;
+- workmanship serves alignment and equilibrium, not imprisonment;
 - knot work must pressure competence, consent, and incomplete inheritance.
 
 ## Dogs

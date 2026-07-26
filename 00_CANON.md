@@ -1,6 +1,8 @@
 # EKPO CANON
 
-Version: 2.5 - Daylight Consequence and Work Room
+Version: 3.0 - Covenant Cosmology Refactor
+
+Governing mythology: `EKPO_Canonical_Mythology_Refactor.md`
 
 ## Project status
 
@@ -42,9 +44,20 @@ Grief is the doorway.
 
 Inheritance is the engine.
 
-The film is not about people encountering random evil. It is about a family discovering that an inherited obligation has been neglected long enough to become dangerous.
+The film is not about people encountering random evil. It is about a family
+discovering that an inherited stewardship was concealed so completely that
+succession failed and an uninformed heir broke the alignment it maintained.
 
-The Entity is not active because Solomon died or because the brothers travelled to Nigeria. It becomes active because the maintaining bloodline physically returns to the regulator and Kai disturbs it.
+Reality consists of the Seen and the Unseen. The covenant preserves their
+proper relationship and protects both domains. The Oku family inherit
+stewardship of one covenant node.
+
+The Entity does not travel from Canada, emerge because Solomon died, or escape
+from the shrine. It becomes perceptible when Kai breaks the node's red binding,
+removes the talisman that maintains equilibrium, and destabilizes alignment
+between the Seen and the Unseen.
+
+> Reality survives not through power, but through stewardship.
 
 ---
 
@@ -128,13 +141,24 @@ The scratched woman:
 - Dead before the story begins
 - Her name is withheld during Act I
 - Solomon loved her badly and attempted to erase the guilt attached to her memory
-- Her exact death, responsibility within the shrine system, and the full reason her face was scratched are not explained in Act I
+- She and Solomon were raised as potential custodians
+- She possessed greater spiritual intuition
+- After Solomon neglected a required act of stewardship, she restored
+  equilibrium and died restoring the covenant
+- She did not die because she broke a rule
+- Her canonical death and the full reason her face was scratched are not
+  revealed in Act I
 
 Solomon:
 
 - Is never shown alive
 - Is reconstructed through rooms, objects, instructions, contradictory memories, and damage left in other people
 - Must remain human: loving, withholding, controlling, frightened, funny in memory, and morally compromised
+- Maintained the covenant throughout his life, including after emigrating to
+  Canada
+- Practiced discipline born from guilt over his sister
+- Preserved stewardship but failed to prepare his sons
+- Failed succession, not stewardship
 
 ---
 
@@ -273,6 +297,7 @@ There is no coffin, casket, grave burial, columbarium, release form, retrieval s
 ## Brass talisman
 
 - Sits inside the shrine's red-threaded recess
+- Maintains equilibrium at the covenant node
 - Is removed intentionally by Kai
 - Contact initiates inherited resonance
 - Is in Kai's camera bag at the end of Act I
@@ -326,11 +351,13 @@ Prohibited:
 
 ## Trigger - Shrine breach
 
-The shrine is a spiritual regulator of the Oku family land. It contains or
-mediates a balance-correcting force whose definitive name, nature, and
-relationship to the shrine spider remain unresolved.
+The shrine is a point of alignment, a regulator, and the physical locus where
+the covenant is maintained on Oku family land. It is never a prison, magical
+cage, demon trap, or container for the Entity.
 
-The Oku bloodline has an inherited maintenance responsibility.
+The Oku family inherited stewardship of this covenant node. They are
+custodians, not chosen heroes, priests, or rulers. The red binding maintains
+alignment. The brass talisman maintains equilibrium.
 
 Kai:
 
@@ -345,7 +372,9 @@ Kai:
 9. Experiences fragmentary, tactile inherited resonance
 10. Nearly restores the talisman, then keeps it
 
-The bloodline is recognized. The regulator is open. The Entity becomes active.
+The binding is broken. The node falls out of alignment. As permeability
+increases between the Seen and the Unseen, the Entity becomes perceptible as
+the first catastrophic visible expression of the fracture.
 
 ## Phase One - Recognition
 
@@ -363,7 +392,11 @@ Current permitted capabilities:
 - Undifferentiated attention registered simultaneously by the three sons participating in the river ceremony
 - Recognition across the regulated family land without speech, image, touch, or individualized content
 
-The Entity has not yet earned mimicry, complex hallucination, objective spatial distortion, bodily pain, false Solomon, or individualized psychological attack. The brothers' different reactions at the river arise from their existing coping systems, not from tailored supernatural attacks.
+The Entity, as a manifestation of imbalance, has not yet earned mimicry,
+complex hallucination, objective spatial distortion, bodily pain, false
+Solomon, or individualized psychological attack. The brothers' different
+reactions at the river arise from their existing coping systems, not from
+tailored supernatural attacks.
 
 ## Phase Two - Attachment
 
@@ -498,7 +531,8 @@ Outcome:
 - He breaks the seal and removes the talisman
 - The first supernatural resonance occurs through tactile fragments, not mythology exposition
 - Kai nearly restores the talisman, then keeps it without explaining himself
-- The Entity becomes active
+- The Entity becomes perceptible as the first catastrophic expression of
+  broken alignment
 
 Unforgettable image: A black spider stopping on the broken loop of red thread.
 
@@ -510,7 +544,9 @@ Sound: Dense natural environment, sudden total absence, one deep beat through ro
 
 ## Sequence VII - The River Boundary
 
-Purpose: Complete Solomon's request while extending the Entity from recognition at the broken regulator to undifferentiated recognition of the three sons at the family boundary.
+Purpose: Complete Solomon's request while extending the manifested imbalance
+from the destabilized covenant node to undifferentiated recognition of the
+three sons at the family boundary.
 
 Continuity entering the scene:
 
@@ -677,7 +713,8 @@ Ade does not know the shrine or Entity rules.
 - The resonance carried one older palm beneath Kai's, red thread cutting both hands, river water at chest height, and brass striking submerged stone
 - Keeping the talisman is a second choice after breaking the seal
 
-Kai does not yet understand the Entity, the sister's death, or how to restore balance.
+Kai does not yet understand the Entity, the canonical truth of the sister's
+death, or how to restore balance.
 
 ## Bode knows
 
@@ -686,9 +723,9 @@ Kai does not yet understand the Entity, the sister's death, or how to restore ba
 - Kai is unusually likely to follow an incomplete pattern
 - Kai has left the path
 
-The exact limit of Bode's knowledge about the regulator and the inherited names
-applied to the Entity remains to be specified before further Act II exposition
-is written.
+The exact limit of Bode's knowledge about the covenant, the regulator, the
+sister's final act, and the inherited names applied to the Entity remains to be
+specified before further Act II exposition is written.
 
 ## Eno knows
 
@@ -915,8 +952,8 @@ Before drafting Sequence XI, define:
 
 1. Which record creates the next practical question without becoming a repair
    manual.
-2. How the sister's participation changes the conflict before her death is
-   explained.
+2. How the sister's participation changes the conflict before her canonical
+   death is revealed in the screenplay.
 3. What Bode admits about his relationship with Solomon and what he still
    cannot know.
 4. Which brother first refuses the moral premise that bloodline creates

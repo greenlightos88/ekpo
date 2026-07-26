@@ -2,6 +2,10 @@
 
 Version: Sequence VII Canonical Integration
 
+Mythology authority: `EKPO_Canonical_Mythology_Refactor.md`. The phase and
+sequence controls below describe manifestation escalation, not an imprisoned
+or corrective Entity.
+
 ## Function
 
 This document controls Act II sequence development after the shrine breach.
@@ -16,14 +20,15 @@ Shrine terminology and final Efik cosmological language remain deferred pending 
 
 ## Starting condition
 
-- The regulator is open.
+- The covenant node is destabilized; alignment between the Seen and Unseen is
+  broken.
 - Kai has removed and concealed the talisman.
 - Kai has rejoined the group with mud on his clothes and a scraped palm.
 - Malik, Ade, and Bode know Kai left the path.
 - No one above the ravine knows what Kai touched or took.
 - Solomon's ashes remain in the single brass urn.
 - The family still intends to complete Solomon's request at the river.
-- The Entity is in Phase One: Recognition.
+- The Entity, a manifestation of imbalance, is in Phase One: Recognition.
 
 ## Ending condition after Sequence VII
 
@@ -34,7 +39,8 @@ Shrine terminology and final Efik cosmological language remain deferred pending 
 - Each brother believes the fear may have been private.
 - Bode experienced no manifestation but recognized one concealed fear in all three men.
 - The group is leaving the boundary under Bode's precaution.
-- The Entity has located all three sons but has not learned enough for individualized attack.
+- The manifested Entity has located all three sons but has not learned enough
+  for individualized attack.
 
 ## Sequence question
 
@@ -238,7 +244,7 @@ Residue: The request is complete. The concealed obligation remains.
 
 ## Entity
 
-Objective: Register the returned bloodline within the disturbed regulatory system.
+Objective: Register the present heirs within the destabilized covenant system.
 
 Capability: Environmental withdrawal and undifferentiated presence only.
 
@@ -372,7 +378,9 @@ Environmental withdrawal carries the supernatural event.
 
 Could this belong to another film? NO
 
-The scene completes Solomon's chosen return, activates the broken Oku regulator across the family boundary, and fractures three brothers through one unshared shared event.
+The scene completes Solomon's chosen return, extends the perceptible covenant
+fracture across the family boundary, and fractures three brothers through one
+unshared shared event.
 
 ---
 

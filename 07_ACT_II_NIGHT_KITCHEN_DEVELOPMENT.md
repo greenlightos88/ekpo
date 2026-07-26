@@ -2,6 +2,10 @@
 
 Version: Shared Attachment Integrity Revision
 
+Mythology authority: `EKPO_Canonical_Mythology_Refactor.md`. The Entity is a
+manifestation of imbalance made perceptible by broken alignment; it was never
+imprisoned in or released from the shrine.
+
 ## Function
 
 This document controls the first night after the shrine breach and the
@@ -20,7 +24,7 @@ The horror is now active. It remains disciplined.
 
 ## Governing horror principle
 
-The Entity behaves like inherited memory moving through disturbed ecology.
+The Entity manifests like inherited memory moving through disturbed ecology.
 
 It is not staged as a conventional creature entering a haunted house. Its
 presence is registered through the land's living sound withdrawing, familiar
@@ -271,8 +275,8 @@ real hand around Kai's wrist.
 ## Purpose
 
 Force shared disclosure, prove Kai's breach to Bode through physical
-workmanship, and establish the Entity's learning rule without a mythology
-lecture.
+workmanship, and establish how the manifestation learns through response
+without a mythology lecture.
 
 ## Scene Bible
 
@@ -328,8 +332,8 @@ lecture.
 - Bode is frightened
 - the returned sons and children require immediate protection
 
-She does not know what is under the cloth, what Kai removed, whether the
-regulator is open, what the Entity is called, or how it works.
+She does not know what is under the cloth, what Kai removed, how far covenant
+alignment has failed, what the Entity is called, or how it works.
 
 ## Character matrix
 

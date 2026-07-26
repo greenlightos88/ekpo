@@ -2,6 +2,11 @@
 
 Date: 2026-07-25
 
+Canonical mythology synchronization: `EKPO_Canonical_Mythology_Refactor.md`
+supersedes the mythology assumptions recorded during this session. Sequence
+history remains valid; earlier regulator-state, corrective-Entity, and
+unresolved-sister-death assumptions do not.
+
 Session objective: Preserve the completed Act I and canonical Sequences VII-IX,
 then write the morning consequence, family decision, and deliberate opening of
 the red-corded work room as Sequence X.
@@ -68,11 +73,11 @@ The scene was compressed to remove:
 
 Canonical interpretation:
 
-- the Entity remains in Phase One Recognition
+- the Entity remains in Phase One Recognition as a manifestation of imbalance
 - the three reactions arise from established coping systems, not individualized attacks
 - Bode does not share the manifestation
 - the river ceremony is not a repair attempt
-- the ashes complete Solomon's request but do not close the regulator
+- the ashes complete Solomon's request but do not restore covenant alignment
 - shrine terminology remains deferred
 
 Working screenplay length is now approximately 34 pages. Sequence VII adds roughly three to four pages after the 30-31 page Act I.
@@ -261,9 +266,9 @@ Camcorder: missing battery; remains inactive
 
 Talisman: in Kai's camera bag at Act I end
 
-Regulator: open
+Regulator: destabilized; alignment between the Seen and Unseen has been broken
 
-Entity phase: Recognition
+Entity phase: Recognition; manifestation of imbalance, not a released prisoner
 
 ## Integrity checks completed
 
@@ -368,7 +373,8 @@ Locked decisions:
   spectacle
 - Kai waits for permission before touching the sister's notebook
 - Eno recognizes handwriting through family memory
-- the sister's death, the Entity, and a repair plan remain unexplained
+- the sister's canonical death, the Entity, and a repair plan remain
+  unexplained to the characters
 
 Development control is recorded in
 `08_ACT_II_MORNING_ROOM_DEVELOPMENT.md`.
@@ -378,7 +384,8 @@ Development control is recorded in
 1. Select one record that creates a practical question without becoming a
    repair manual.
 2. Define the first moral challenge to bloodline obligation.
-3. Develop the sister through family consequence before explaining her death.
+3. Develop the sister through family consequence before revealing that she
+   died restoring equilibrium after Solomon failed his stewardship.
 4. Define what Bode admits about his communication break with Solomon.
 5. Earn any new Entity capability through observable family behavior.
 6. Decide how long the talisman may remain in the house.

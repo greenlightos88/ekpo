@@ -2,6 +2,9 @@
 
 Version: Sequence X Canonical Development
 
+Mythology authority: `EKPO_Canonical_Mythology_Refactor.md`. The room contains
+records of covenant stewardship, not containment.
+
 ## Governing purpose
 
 Sequence X converts the first shared supernatural disturbance into a family
@@ -52,7 +55,8 @@ Morning after Sequence IX.
 - Eno learns that Bode concealed sustained family labour inside her house
 - handwriting in an older record is identified as belonging to Solomon and
   Bode's dead younger sister
-- her death, the Entity's nature, and any repair sequence remain unexplained
+- her canonical death, the Entity's nature, and any repair sequence remain
+  unexplained to the characters
 
 ---
 
@@ -76,8 +80,9 @@ The Entity does not:
 Daylight consequence is the dramatic pressure. The absence of a new
 manifestation keeps the previous night consequential instead of disposable.
 
-The Entity remains an inherited relationship expressed through disturbed
-ecology and altered attention, not a creature waiting behind the next door.
+The Entity remains a manifestation of inherited imbalance expressed through
+disturbed ecology and altered attention, not a creature waiting behind the
+next door.
 
 ---
 
@@ -438,8 +443,8 @@ Only repeated maintenance and distributed labour are revealed.
 
 Supernatural constitution: PASS
 
-The Entity does nothing new and is not framed as evil, predatory, sleeping, or
-imprisoned.
+The Entity does nothing new and is not framed as evil, predatory, sleeping,
+imprisoned, or the purpose of the covenant.
 
 Cultural integrity: WORKING PASS
 

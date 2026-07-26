@@ -10,14 +10,16 @@ user explicitly revises a governing principle.
 
 Before writing, revising, critiquing, or restructuring EKPO:
 
-1. Read `01_SCREENPLAY.fountain`.
-2. Read every file in `docs/`.
-3. Treat the screenplay and `docs/` together as the operational source of
+1. Read `EKPO_Canonical_Mythology_Refactor.md`.
+2. Read `01_SCREENPLAY.fountain`.
+3. Read every file in `docs/`.
+4. Treat the canonical mythology refactor, screenplay, and `docs/` together as
+   the operational source of
    truth.
-4. Treat entries marked `LOCKED` in `DECISION_LOG.md` as binding.
-5. If a new instruction conflicts with a locked decision, identify the
+5. Treat entries marked `LOCKED` in `DECISION_LOG.md` as binding.
+6. If a new instruction conflicts with a locked decision, identify the
    conflict before changing the project.
-6. Never restore discarded material merely because it survives in an old
+7. Never restore discarded material merely because it survives in an old
    draft, chat, PDF, or development file.
 
 The user's latest explicit correction may supersede an earlier lock, but the
@@ -36,13 +38,17 @@ Grief is the doorway.
 Inheritance is the engine.
 
 The film is not about a family encountering random evil. It is about a family
-discovering that an inherited responsibility was neglected, concealed, and
-distributed without informed consent.
+discovering that an inherited stewardship was concealed so completely that
+succession failed and an uninformed heir broke the alignment it maintained.
 
 The dramatic question is never simply whether the brothers can defeat a
 supernatural force. It is whether they can confront what their family carried
 without repeating the secrecy, abandonment, and coercion through which it was
 passed down.
+
+The governing philosophy is stewardship:
+
+> Reality survives not through power, but through stewardship.
 
 ## Prestige Standard
 
@@ -82,6 +88,10 @@ and damage left in other people.
 Solomon must remain human: loving, funny in memory, controlling, withholding,
 frightened, competent, and morally compromised. He is not an omniscient dead
 architect who predicted every response.
+
+Solomon successfully maintained the covenant throughout his adult life,
+including after emigrating to Canada. His failed succession was his greatest
+failure: he did not prepare his sons to understand or inherit the stewardship.
 
 ## Character Law
 
@@ -139,10 +149,13 @@ mythology oracle. Her authority does not depend on occult expertise.
 - Eno remains in Nigeria during all Vancouver material and first appears in
   Calabar.
 - The scratched woman is Solomon and Bode's dead younger sister.
-- Her participation, erasure, and death carry the human cost beneath the
-  mythology.
-- Her exact death and full responsibility are not to be explained before the
-  drama earns them.
+- Solomon and his sister were raised as potential custodians.
+- She possessed greater spiritual intuition.
+- After Solomon neglected a required act of stewardship, she restored
+  equilibrium and died restoring the covenant.
+- She did not die because she broke a rule.
+- Her canonical death must not be explained on screen before the drama earns
+  the revelation.
 
 ## Cultural Law
 
@@ -182,6 +195,21 @@ Do not invent them for atmosphere.
 
 ## Supernatural Constitution
 
+### Reality and covenant
+
+Reality consists of the Seen and the Unseen.
+
+- The Seen is the ordinary material world inhabited by humanity.
+- The Unseen is a necessary metaphysical order containing ancestors,
+  spiritual intelligences, dream beings, primordial presences, archetypal
+  forces, and entities beyond human categorization.
+- The Unseen is not inherently evil and is not merely the land of the dead.
+- An ancient covenant preserves the proper relationship and separation between
+  the Seen and the Unseen.
+- The covenant protects both worlds. Neither should consume the other.
+- The Oku family inherited stewardship of one covenant node. They are
+  custodians, not chosen heroes, priests, or rulers.
+
 ### The trigger
 
 The shrine breach is the supernatural trigger.
@@ -204,23 +232,32 @@ ordinary objects, cultural displacement, and Kai's pattern sensitivity.
 
 ### The regulator
 
-The shrine regulates or mediates balance on Oku family land. The Oku bloodline
-performed repeated maintenance around it.
+The shrine is a point of alignment, a regulator, and a physical locus where
+the covenant is maintained on Oku family land. The Oku family performed
+repeated custodial maintenance around it.
 
-It is not a generic prison holding a conventional monster.
+It is never a prison, magical cage, demon trap, or container for the Entity.
+The red binding maintains alignment. The brass talisman maintains equilibrium.
+Kai weakens the covenant by breaking the binding and destabilizes reality's
+balance by removing the talisman.
 
 ### The Entity
 
-The Entity is a balance-correcting force from its own perspective. It is not
-canonically evil, demonic, or a "spider god." Its definitive name, nature, and
-relationship to the small shrine spider remain unresolved.
+The Entity is one manifestation of imbalance. It is not imprisoned, not the
+source of evil, and not the purpose of the covenant. It is the first
+catastrophic visible expression of the fracture through which aspects of the
+Unseen become perceptible within the Seen.
 
-It becomes active because:
+It is a symptom, not the disease. It is not canonically evil, demonic, or a
+"spider god." Its definitive name, nature, and relationship to the small
+shrine spider remain unresolved.
 
-1. the maintaining bloodline returns;
-2. Kai intentionally breaks a maintained boundary;
-3. Kai intentionally removes the talisman;
-4. Kai chooses not to restore it.
+It becomes perceptible because:
+
+1. Kai intentionally breaks a maintained covenant boundary;
+2. Kai intentionally removes the talisman that maintains equilibrium;
+3. Kai chooses not to restore it;
+4. alignment between the Seen and Unseen begins to fail.
 
 Every supernatural capability must be earned in sequence. A new beat requires:
 
@@ -233,10 +270,10 @@ Every supernatural capability must be earned in sequence. A new beat requires:
 
 Never give the Entity a power merely because it would be frightening.
 
-### Perception
+### Perception and escalation
 
-The Entity behaves like disturbed ecology and inherited memory, not a
-conventional creature villain.
+The Entity's manifestation behaves like disturbed ecology and inherited
+memory, not a conventional creature villain.
 
 - Shared events may be perceived differently through existing coping systems.
 - Difference of perception does not automatically mean three separate
@@ -247,6 +284,14 @@ conventional creature villain.
 - Stable creature form, physical injury, dead-relative impersonation, and
   complete individualized psychological scenarios require future earned
   development and are not currently permitted.
+
+Escalation follows the covenant fracture:
+
+1. subtle imbalance;
+2. atmospheric distortion;
+3. dreams, memory anomalies, animal behavior, and spatial wrongness;
+4. manifestation of the Entity;
+5. increasing permeability between the Seen and the Unseen.
 
 ## Object Law
 

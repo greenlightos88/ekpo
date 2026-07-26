@@ -2,6 +2,10 @@
 
 Version: Prestige Draft
 
+Mythology authority: `EKPO_Canonical_Mythology_Refactor.md`. This document's
+sequence architecture remains locked, but covenant cosmology supersedes earlier
+balance-correction or containment language.
+
 ## Function
 
 This is the sequence-level control document used to build and review the completed Act I screenplay.
@@ -44,7 +48,8 @@ Kai has:
 - experienced inherited resonance
 - raised the talisman toward restoration, then chosen not to replace it
 
-The regulator is open. The bloodline has been recognized. The first black spider has emerged.
+The covenant node is destabilized. Alignment between the Seen and the Unseen
+has been broken. The first black spider has emerged.
 
 The ashes remain in the single brass urn with Malik, Ade, and Bode above the ravine.
 
@@ -736,7 +741,7 @@ Objective: Establish the brothers as family before history is discussed.
 
 Turn: Converts strangers-with-blood into nephews through greeting, touch, food, and teasing.
 
-Residue: Her authority can later challenge Bode's containment logic.
+Residue: Her authority can later challenge Bode's secrecy and procedural logic.
 
 ## Cultural and language behavior
 
@@ -883,7 +888,9 @@ Pressure: Bode's warning, the fall, the visible opportunity to climb away, and M
 
 Turn: Holds the talisman within an inch of restoration, then closes his hand.
 
-Residue: Responsibility, unexplained sensory memory, and the Entity's recognition. Shame must emerge from what Kai does next, not be supplied in advance.
+Residue: Responsibility, unexplained sensory memory, and the first perceptible
+manifestation of imbalance. Shame must emerge from what Kai does next, not be
+supplied in advance.
 
 ### Bode
 
@@ -903,10 +910,11 @@ Residue: Bode must decide whether truth or procedure comes first.
 
 - the imperfect three-cut mark belongs to the human maintenance system
 - the carving is a portable representation, not a map or key
-- repeated red-thread repair shows active maintenance across generations
-- neglect, not a single villain, allowed the seal to become brittle
-- bloodline contact makes the breach legible to the Entity
-- the talisman is a functional component, not a souvenir
+- repeated red-thread repair shows active covenant stewardship across
+  generations
+- failed succession left the binding vulnerable to an uninformed heir
+- breaking the binding and removing the talisman destabilize alignment
+- the talisman maintains equilibrium; it is not a souvenir or prison key
 
 ## Resonance content
 
@@ -960,7 +968,8 @@ The spider crossing the snapped red thread and stopping at the failed knot.
 
 ### Exit pressure
 
-Act II must begin with an open regulator, missing Kai, unscattered ashes, and Bode's first fear.
+Act II must begin with a destabilized covenant node, missing Kai, unscattered
+ashes, and Bode's first fear.
 
 ## Integrity verdict
 
@@ -974,7 +983,9 @@ Supernatural phase: pass - first impossibility follows removal of talisman
 
 Cultural integrity: working pass; the shrine's final design, maintenance practice, spider-deity terminology, and red-thread usage require specialist review
 
-Could this belong to another film? No. The scene unites Oku bloodline maintenance, Solomon's erased sister, Kai's refusal of family silence, an imperfect family mark, and the balance-correcting Entity.
+Could this belong to another film? No. The scene unites Oku covenant
+stewardship, Solomon's erased sister, Kai's refusal of family silence, an
+imperfect family mark, and the first manifestation of broken alignment.
 
 ---
 
@@ -1009,7 +1020,7 @@ Could this belong to another film? No. The scene unites Oku bloodline maintenanc
 11. No pre-shrine supernatural event: YES
 12. Kai acts intentionally: YES
 13. First spider and deep beat occur after breach: YES
-14. Entity begins as balance correction, not random attack: YES
+14. Entity begins as a manifestation of imbalance, not random evil: YES
 15. Each sequence changes inheritance or relationship: YES
 16. Each sequence has a distinct image and sound strategy: YES
 17. Material could not be transferred intact to another film: YES
@@ -1030,7 +1041,7 @@ Dialogue remains subject to cultural and regional review before production lock.
 Sequence VII now follows the Act I cut without revising the trigger:
 
 - Kai rejoins the group with the talisman concealed
-- the shrine remains open
+- the covenant node remains destabilized
 - the river ceremony proceeds in good faith, not as a repair attempt
 - Solomon's ashes are released from the same brass urn
 - the Entity's first whole-boundary manifestation remains within Phase One Recognition

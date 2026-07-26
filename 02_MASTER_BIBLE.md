@@ -1,6 +1,8 @@
 # EKPO MASTER DEVELOPMENT BIBLE
 
-Version: Act II Sequence VII Integration
+Version: Covenant Cosmology Integration
+
+Governing mythology: `EKPO_Canonical_Mythology_Refactor.md`
 
 ## Purpose of this document
 
@@ -26,15 +28,26 @@ The uploaded earlier draft is source material, not authority. Material survives 
 
 EKPO is a prestige psychological supernatural family drama.
 
-It begins as a film about three sons carrying a dead father. It becomes a film about a bloodline carrying an abandoned obligation. The movement from grief to horror must feel like one subject changing temperature, not one genre replacing another.
+It begins as a film about three sons carrying a dead father. It becomes a film
+about heirs receiving a stewardship whose succession was concealed from them.
+The movement from grief to horror must feel like one subject changing
+temperature, not one genre replacing another.
 
 The film's central proposition:
 
 > A family can inherit a silence as completely as it inherits land.
 
-The Entity does not enter from outside the family. It is the inhuman response produced when the family's system of balance is neglected, hidden, and then disturbed.
+Reality consists of the Seen and the Unseen. An ancient covenant protects both
+by preserving their proper relationship. The Oku family inherited stewardship
+of one covenant node, and the shrine is its point of alignment.
+
+The Entity does not enter from outside the family or escape the shrine. It is
+one manifestation of imbalance, made perceptible when Kai breaks the binding
+and removes the talisman that maintained equilibrium.
 
 The supernatural is therefore never ornamental. It is the consequence of relationship.
+
+> Reality survives not through power, but through stewardship.
 
 ---
 
@@ -281,6 +294,12 @@ The audience assembles him from:
 
 Solomon must never become a posthumous master strategist. The will is simple because the complexity belongs to what he failed to say.
 
+Solomon maintained the covenant throughout his life, including from Canada.
+His discipline grew from guilt: after he neglected a required act of
+stewardship, his more spiritually intuitive sister restored equilibrium and
+died restoring the covenant. His greatest failure was not stewardship but
+succession. He preserved the work and failed to prepare his sons.
+
 ## The younger sister
 
 She is dead before the story.
@@ -294,6 +313,14 @@ Act I function:
 
 Her name and exact death remain unrevealed in Act I.
 
+Canonical history, withheld from the Act I characters and audience:
+
+- she and Solomon were raised as potential custodians;
+- she possessed greater spiritual intuition;
+- Solomon became complacent and neglected a required act of stewardship;
+- she restored equilibrium and died restoring the covenant;
+- she did not die because she broke a rule.
+
 ## The Entity
 
 Act I function before the trigger: none.
@@ -302,9 +329,9 @@ The Entity is not hiding in Vancouver, riding the flight, appearing through came
 
 At the trigger it registers:
 
-- a broken regulator
-- a returned maintaining bloodline
-- an inherited imbalance
+- a broken covenant binding
+- a removed equilibrium talisman
+- destabilized alignment between the Seen and the Unseen
 
 Its first visible residue is small and unreadable: the spider crosses the broken thread and stops on the failed loop. Meaning remains available to performance, framing, and later consequence.
 
@@ -409,7 +436,9 @@ The river is:
 - reached by Solomon's ashes in Sequence VII
 - the first place all three sons register the Entity's attention together
 
-At the river, water completes the sons' chosen obligation while placing them inside the land's corrective system. The ash anomaly remains visible only to Kai and brief enough to retain ambiguity.
+At the river, water completes the sons' chosen obligation while placing them
+inside the destabilized covenant system. The ash anomaly remains visible only
+to Kai and brief enough to retain ambiguity.
 
 ## Red thread
 
@@ -421,7 +450,7 @@ Its first appearance is functional at the shrine:
 - repaired repeatedly
 - deliberately tied
 - designed with a way to loosen without cutting
-- neglected long enough to become brittle
+- weathered but still serving alignment when Kai forces it
 
 Kai does not cut it. He attempts to work the intended opening and breaks it through impatience and decay.
 
@@ -594,24 +623,27 @@ Guardrails:
 
 ## Regulator
 
-The shrine regulates balance on Oku family land. It contains or mediates the spider-associated Entity.
+The shrine is a point of alignment, a regulator, and a physical locus where the
+covenant is maintained on Oku family land. It is never a prison and does not
+contain the Entity.
 
-The regulator is maintained through physical practice. The red thread shows repeated repair followed by abandonment.
+The regulator is maintained through physical custodial practice. The red
+binding maintains alignment and the brass talisman maintains equilibrium.
+Their wear shows repeated stewardship followed by failed succession.
 
 ## Bloodline
 
 The Oku line carries maintenance responsibility. Blood does not make Kai a hero. It makes his action legible to the regulator.
 
-## Entity morality
+## Entity ontology
 
-The Entity is balance-correcting from its own perspective.
+The Entity is one manifestation of imbalance. It is not imprisoned, not the
+source of evil, and not the purpose of the covenant. It is the first
+catastrophic visible expression of the fracture through which aspects of the
+Unseen become perceptible within the Seen.
 
-It is dangerous because:
-
-- its standard of balance is inhuman
-- it treats inherited responsibility as continuous
-- it may use attachment as leverage
-- it does not distinguish adequately between the generation that failed and the generation that returned
+It is dangerous because the boundary between realities is failing, not because
+the covenant was built to oppose or contain it.
 
 ## Capability progression
 
@@ -647,10 +679,12 @@ Phase Three - Weaponization:
 - Entity corrupts trust, memory, voice, and perception
 - must be earned after attachment
 
-Phase Four - Trial/Correction:
+Phase Four - Permeability/Trial:
 
-- Entity attempts to restore balance through its inherited logic
-- must connect directly to the sister, Solomon's abandonment, and the brothers' choices
+- the fracture tests the brothers through increasingly personalized
+  manifestations
+- must connect directly to the sister's restoration of equilibrium, Solomon's
+  failed succession, and the brothers' choices
 
 ---
 
@@ -868,11 +902,11 @@ Before drafting the next sequence, answer:
 2. How does the sister's participation alter the family conflict before her
    death is explained?
 3. What does Bode admit about the break in communication with Solomon?
-4. Which brother first challenges inherited obligation as a moral premise?
+4. Which brother first challenges inherited stewardship as a moral premise?
 5. What family behavior may the Entity observe before any new capability is
    earned?
 6. How long may the talisman remain in the house?
-7. What immediate precaution is possible without pretending the regulator can
+7. What immediate precaution is possible without pretending the covenant node can
    be repaired through one returned object?
 
 Act II remains in Attachment. It may not yet use false Solomon, private

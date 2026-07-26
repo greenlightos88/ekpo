@@ -1,6 +1,6 @@
 # EKPO MASTER CHARACTER BREAKDOWN
 
-Version: 1.0 - Canonical Character Control Document
+Version: 2.0 - Covenant Cosmology Character Synchronization
 
 Status: Working canon through Act II, Sequence VII
 
@@ -33,11 +33,15 @@ The character engines in this file are canonical. Later plot outcomes remain pro
 When character sources conflict, use this hierarchy:
 
 1. The user's latest explicit correction.
-2. `00_CANON.md` for chronology, geography, object continuity, and supernatural phase law.
-3. This file for character psychology, decision-making, behavior, voice, and relationships.
-4. `02_MASTER_BIBLE.md` for thematic, motif, and feature architecture.
-5. The current screenplay for executed behavior.
-6. Development documents and older source PDFs for recoverable material only.
+2. `EKPO_Canonical_Mythology_Refactor.md` for cosmology, covenant, shrine,
+   Solomon, his sister, and Entity ontology.
+3. `00_CANON.md` for chronology, geography, object continuity, and
+   supernatural phase law.
+4. This file for character psychology, decision-making, behavior, voice, and
+   relationships.
+5. `02_MASTER_BIBLE.md` for thematic, motif, and feature architecture.
+6. The current screenplay for executed behavior.
+7. Development documents and older source PDFs for recoverable material only.
 
 When a later sequence changes a character in a lasting way, update this file in the same commit as the screenplay and canon. Do not allow screenplay pages and character canon to diverge.
 
@@ -86,11 +90,11 @@ The Oku family is organized around different methods of surviving uncertainty.
 | Malik | Control the environment | Proof that his care is sufficient | Confusing protection with possession | Control toward consent |
 | Ade | Keep emotion circulating | Belonging without performance | Confusing usefulness with worth | Performance toward intrinsic worth |
 | Kai | Make the hidden pattern legible | A father and family history he can understand | Confusing emotional accuracy with truth | Certainty-seeking toward chosen uncertainty |
-| Bode | Respect inherited boundaries | To prevent the past from repeating | Confusing containment with protection | Containment toward relational responsibility |
+| Bode | Respect inherited boundaries | To prevent the past from repeating | Confusing secrecy with stewardship | Procedure toward relational responsibility |
 | Eno | Make care materially unavoidable | A family capable of facing truth and continuing to live | Carrying ordinary life while men preserve silence | Practical care toward active truth-telling |
-| Solomon | Arrange people and systems from absence | To protect his sons from what he could not repair | Turning protection into another inheritance of silence | Mystery toward human contradiction |
-| Younger sister | Presently exists through erasure and memory | Restoration to full human personhood | Being reduced to a clue or a victim | Erased absence toward acknowledged consequence |
-| Entity | Correct damaged balance | Restoration according to an inhuman standard | Treating descendants as continuous with ancestral failure | Recognition toward attachment, then correction |
+| Solomon | Arrange people and systems from absence | To protect his sons from the stewardship he maintained | Turning protection into failed succession | Mystery toward human contradiction |
+| Younger sister | Presently exists through erasure and memory | Restoration to full human personhood and acknowledged custodianship | Being reduced to a clue or a victim | Erased absence toward acknowledged consequence |
+| Entity | Manifest the broken relationship between realities | Increasing perceptibility as alignment fails | Being misread as the cause rather than a symptom | Recognition toward attachment, then permeability |
 
 The brothers must remain a three-part system:
 
@@ -1026,7 +1030,7 @@ He organizes safety through:
 - earned disclosure
 - respect for place
 - respect for elder knowledge
-- containment of information until context can carry it
+- sequencing of information until context can carry it
 
 The danger is that Bode can preserve a system's silence after the silence itself has become harmful.
 
@@ -1044,9 +1048,11 @@ That one uncontained act will repeat the family catastrophe he survived.
 
 ## Governing Shame
 
-Bode carries unresolved responsibility for the younger sister and for whatever failure separated Solomon from the land.
-
-The exact event is not yet locked. The guilt is.
+Bode carries survivor guilt around the younger sister's death and unresolved
+responsibility for the family silence that followed. Solomon's neglected act
+of stewardship, the sister's restoration of equilibrium, and her death are
+locked; Bode's exact presence and behavior during those events remain
+unrevealed.
 
 ## Attachment Strategy
 
@@ -1122,7 +1128,7 @@ Bode changes course when:
 - a rule is producing the harm it was designed to prevent
 - a younger person demonstrates responsibility rather than entitlement
 - secrecy makes informed choice impossible
-- family unity offers a safer principle than isolated containment
+- family unity offers a safer principle than isolated procedure
 - he recognizes that he is repeating Solomon's failure
 
 ### What makes him dangerous
@@ -1226,7 +1232,7 @@ Bode's restraint is partly built over the place where her name should be. His ev
 
 Thematic compass, not locked plot:
 
-> Containment toward relational responsibility.
+> Procedure toward relational responsibility.
 
 Bode must confront the possibility that a rule can preserve danger when it denies the living a path to informed choice.
 
@@ -1539,7 +1545,8 @@ The audience assembles Solomon through:
 - the damaged photograph
 - the simple inheritance letter
 - the physical weight of the urn
-- the later consequences of what he did not repair
+- the later evidence of covenant work he maintained
+- the consequences of the succession he did not prepare
 
 ## Psychological Essence
 
@@ -1556,7 +1563,8 @@ The film must resist producing one final clean verdict.
 
 ## Conscious Want Before Death
 
-Return his ashes to the river boundary and place his sons in contact with the family and land he abandoned.
+Return his ashes to the river boundary and place his sons in contact with the
+family, land, and stewardship he maintained from a distance.
 
 ## Unconscious Need
 
@@ -1564,13 +1572,14 @@ Create, after death, the confrontation he could not risk while alive.
 
 ## Governing Fear
 
-That proximity to the family obligation would endanger his sons, and that distance would allow the neglected balance to worsen.
+That proximity to the family obligation would endanger his sons, and that
+preparing them would repeat the trauma that shaped his own custodianship.
 
 ## Governing Shame
 
-His younger sister's death and the moral choices surrounding it.
-
-The exact facts are not yet locked.
+His younger sister died restoring equilibrium after he neglected a required
+act of stewardship. This is the defining trauma of his life and the source of
+his discipline.
 
 ## Attachment Strategy
 
@@ -1607,9 +1616,9 @@ Solomon must not become a posthumous mastermind. The will is simple because the 
 Reconstructed from residue:
 
 1. Identify a threat.
-2. Contain information.
+2. Sequence and restrict information.
 3. Control environment and access.
-4. Remove himself when containment feels insufficient.
+4. Remove himself when distance feels safer.
 5. Preserve objects that contradict the story he tells.
 6. Leave a route back without explaining the danger.
 
@@ -1653,7 +1662,8 @@ Memory of the boy beneath the edited father.
 
 ### In the Younger Sister
 
-Love damaged by action, erasure, and guilt.
+Love damaged by his complacency, her fatal restoration of equilibrium,
+erasure, and guilt.
 
 ## Long-Form Trajectory
 
@@ -1662,6 +1672,10 @@ Thematic compass:
 > Mystery toward irreducible human contradiction.
 
 The film may revise the sons' interpretation of Solomon repeatedly. It must not replace one false total explanation with another.
+
+The moral distinction remains fixed: Solomon maintained the covenant and
+failed succession. He may not be rewritten as a failed steward or as a heroic
+custodian whose silence carried no cost.
 
 ## Anti-Drift Locks
 
@@ -1704,18 +1718,22 @@ Locked:
 - She is dead.
 - Her face was deliberately scratched from a family photograph.
 - Solomon loved her badly.
-- Her death is connected emotionally to Solomon's guilt and the damaged family system.
+- She and Solomon were raised as potential custodians.
+- She possessed greater spiritual intuition.
+- Solomon became complacent and neglected a required act of stewardship.
+- The resulting imbalance began manifesting.
+- She restored equilibrium and died restoring the covenant.
+- She did not die because she broke a rule.
+- Her death is the defining trauma behind Solomon's guilt and discipline.
 - Act I does not explain her death.
 
 Not yet locked:
 
 - her name
 - her age at death
-- her exact role in maintaining the regulator
-- the circumstances of her death
 - who was present
-- whether the river was the site of death, attempted rescue, ritual, or memory
-- what Bode and Eno each did or failed to do
+- where and by what exact practical act she restored equilibrium
+- what Bode and Eno witnessed or did
 - why Solomon scratched the photograph
 
 No later scene may state an unlocked fact as history without updating canon.
@@ -1742,9 +1760,13 @@ Her future characterization must be built from her own behavior and choices, not
 
 ## Decision-Making Engine Status
 
-Her final decision-making engine is deliberately unfinalized because Act I contains no direct behavior from which to derive it responsibly.
+Her final decision-making engine is deliberately unfinalized because Act I
+contains no direct behavior from which to derive it responsibly.
 
-Do not solve that gap by defining her only through Solomon's guilt. Before her history enters screenplay pages, construct her decision engine from dramatized evidence and answer:
+Do not solve that gap by defining her only through Solomon's guilt. Her
+canonical restoration of equilibrium establishes agency but does not complete
+her personality. Before her history enters screenplay pages, construct her
+decision engine from dramatized evidence and answer:
 
 - Did she follow rules, challenge them, or maintain them differently?
 - What did she believe balance required?
@@ -1794,31 +1816,35 @@ She must never become:
 
 ---
 
-# THE ENTITY / SPIDER-ASSOCIATED BALANCE FORCE
+# THE ENTITY / MANIFESTATION OF IMBALANCE
 
 ## Canonical Identity
 
-- Nature: Nonhuman, balance-correcting force mediated or contained by the shrine regulator
+- Nature: One manifestation of imbalance between the Seen and the Unseen
+- Ontology: The first catastrophic visible expression of the covenant
+  fracture; a symptom, not the disease
+- Shrine relationship: Neither imprisoned nor contained by the shrine; the
+  shrine is the alignment point whose destabilization makes the Entity
+  perceptible
 - Act I status before trigger: Inactive as a dramatic agent
 - Act I status after trigger: Recognition phase
 - Current status after Sequence VII: Recognition has extended to all three sons at the river boundary
-- Story function: Inherited obligation made active through an inhuman standard of correction
+- Story function: Broken stewardship made perceptible through an inhuman
+  manifestation
 
 ## Governing Principle
 
 The Entity does not emerge because it is hungry for victims.
 
-It becomes active because:
+It becomes perceptible because:
 
-- the regulator is damaged
-- the maintaining bloodline has returned
-- Kai breaks the red-thread seal
-- Kai removes the talisman
-- the imbalance becomes legible
+- Kai breaks the red binding that maintains alignment
+- Kai removes the talisman that maintains equilibrium
+- the covenant node destabilizes
+- aspects of the Unseen become perceptible within the Seen
+- the imbalance becomes visible
 
-From its perspective, correction is required.
-
-Its morality is not human.
+The Entity is not the source of evil or the purpose of the covenant.
 
 ## Nonhuman Psychological Panel
 
@@ -1826,22 +1852,23 @@ Do not assign the Entity a psychiatric diagnosis.
 
 For writing purposes, think in terms of:
 
-- regulatory intelligence
+- manifestation intelligence
 - pattern detection
 - inherited obligation
 - inspection
 - attachment learning
 - adversarial use of emotional information
-- indifference to generational innocence
+- perceptibility increasing with the fracture
 
-It does not initially hate the brothers. It recognizes function and failure.
+It does not initially hate the brothers. It registers and expresses the
+failure of alignment.
 
 ## Decision-Making Engine
 
 ### Phase One - Recognition
 
-1. Register the broken regulator.
-2. Identify the returned bloodline.
+1. Register the destabilized covenant node.
+2. Identify the heirs present at the fracture.
 3. Inspect the breach.
 4. Locate the person carrying the removed component.
 5. Observe without full personalization.
@@ -1892,15 +1919,17 @@ The Entity may use:
 - division between brothers
 - each character's coping strategy against him
 
-### Phase Four - Correction
+### Phase Four - Permeability/Trial
 
-The Entity attempts to restore balance according to its inherited logic.
+The covenant fracture becomes sufficiently permeable to create full trials or
+corrective-seeming demands. Those demands must never be mistaken by the
+repository for the purpose of the covenant.
 
-The final corrective demand must connect directly to:
+The final trial must connect directly to:
 
-- the younger sister
-- Solomon's abandonment
-- the neglected maintenance system
+- the younger sister's restoration of equilibrium
+- Solomon's failed succession
+- the destabilized covenant node
 - the brothers' refusal or repetition of the old family choice
 
 ## Core Contradiction
@@ -1921,7 +1950,7 @@ The first spider inspects the broken thread. Each later use must change the audi
 
 Thematic compass, not locked plot:
 
-> Recognition toward attachment, then weaponized correction.
+> Recognition toward attachment, then dangerous permeability.
 
 The Entity should become more psychologically precise as it learns the family. It must never begin Act II with powers it has not earned.
 
@@ -1937,6 +1966,8 @@ The Entity must never become:
 - an excuse for arbitrary surrealism
 - a psychiatric metaphor
 - a talking mythology lecturer
+- the purpose of the covenant
+- a prisoner released from the shrine
 - identical to any real Efik, Ekpe, or Ekpo belief without specialist review
 
 Shrine terminology and the final culturally grounded relationship to Efik cosmology remain deferred pending expert consultation.
@@ -1946,7 +1977,7 @@ Shrine terminology and the final culturally grounded relationship to Efik cosmol
 - What phase is the Entity in?
 - What capability has it earned?
 - What did it observe that permits this personalization?
-- What balance does it believe it is correcting?
+- What aspect of the fracture does this manifestation express?
 - Why this target now?
 - What residue proves the beat changed the relationship?
 
@@ -2304,7 +2335,7 @@ He must choose between a complete answer and an incomplete reality shared with h
 
 ## Bode
 
-He must discover that inherited containment may be repeating the family failure.
+He must discover that inherited secrecy may be repeating the family failure.
 
 He must give the next generation enough truth to choose rather than merely enough rules to obey.
 
@@ -2318,15 +2349,20 @@ Her ordinary care must remain dramatically active during supernatural escalation
 
 The film must complicate him without resolving him into hero or monster.
 
+It must preserve the distinction between his successful stewardship and failed
+succession.
+
 ## Younger Sister
 
-Her history must include agency, desire, and ordinary life before it supplies mythological explanation.
+Her history must include agency, desire, and ordinary life before the film
+reveals how she restored equilibrium and died maintaining the covenant.
 
 ## Entity
 
 Its psychological precision must be learned, not granted.
 
-Its correction must expose the family's inherited logic rather than interrupt it with arbitrary evil.
+Its manifestations must expose the family's inherited logic rather than
+interrupt it with arbitrary evil.
 
 ---
 
@@ -2354,7 +2390,9 @@ Recoverable thematic DNA:
 - Solomon: love and moral failure coexist
 - Entity: intimacy can be weaponized after attachment is earned
 
-Any restored character or plot concept requires a new integrity review against current Oku canon, the younger sister's history, and the Entity's balance-correcting logic.
+Any restored character or plot concept requires a new integrity review against
+current Oku canon, the younger sister's history, and the Entity's status as a
+manifestation of imbalance.
 
 ---
 
@@ -2717,7 +2755,8 @@ victim or background witness.
 - Is revealed to have continued practical maintenance from Canada.
 - His correspondence is precise, corrective, and sustained.
 - Practical replies coexist with unanswered human questions.
-- The discovery complicates his secrecy without redeeming it.
+- The discovery confirms successful stewardship while complicating the failed
+  succession his secrecy produced.
 
 ## Younger Sister
 
@@ -2725,14 +2764,15 @@ victim or background witness.
   Bode.
 - Her handwriting restores agency and labour to the person whose face Solomon
   tried to erase.
-- Her name, death, final act, and exact relationship to the regulator remain
-  unrevealed.
+- Her name and the exact practical form of her final act remain unrevealed.
+- Canonically, she died restoring equilibrium after Solomon failed his duty;
+  Sequence X does not yet expose that truth to the characters.
 
 ## Entity
 
 - Does not manifest in Sequence X.
 - Gains no new capability.
-- Remains a balance-correcting presence expressed through inherited
+- Remains a manifestation of imbalance expressed through inherited
   relationship, disturbed ecology, and altered attention rather than evil or
   predation.
 
