@@ -1,369 +1,334 @@
 # EKPO DECISION LOG
 
-This file records only consequential creative decisions. It does not record
-grammar, line polish, formatting changes, or minor dialogue revisions.
+This file records consequential creative decisions and reversals.
 
-Unless an entry says otherwise, `LOCKED` means the decision may change only
-through an explicit user reversal. Any reversal must name the superseded entry.
+`LOCKED` means a decision changes only through explicit creator reversal.
+
+`LOCKED / FOUNDATIONAL` means the decision defines architecture beneath multiple scenes/documents.
+
+Older decisions remain historical when superseded; they must not silently return.
 
 ---
 
 DATE:
-2026-07-25
+2026-08-13
+
+TITLE:
+Post-River Screenplay Rewrite — Sequences VIII-X
 
 DECISION:
-EKPO is governed as a prestige psychological supernatural family drama about
-inheritance: the supernatural is the language, family is the subject, grief is
-the doorway, and inheritance is the engine.
+The post-river screenplay is rewritten and canonical through Sequence X.
 
-RATIONALE:
-The horror must reveal and pressure family relationships rather than replace
-them.
+Sequence VIII is now `THE DISTANCE BETWEEN`: one shared house disturbance in which environmental sound withdrawal evolves from the river, distance becomes perceptually inconsistent, a partially perceptible failed-translation presence becomes clearer/closer under Kai's sustained attention, Malik physically stabilizes Kai, and the presence withdraws without being defeated.
+
+Sequence IX is now `WHAT HE OPENED`: Kai discloses the shrine photographs and talisman; Bode remains a limited family-history/boundary witness and explicitly does not know the object's complete nature or the cosmology; Solomon's hidden Calabar work is revealed through human history; Eno forces access to the household room in daylight.
+
+Sequence X is now `THE TWO RECORDS`: the room reveals a practical spiritual-maintenance workshop, an inner maintained door/interface, Solomon's procedural ledger, and his sister's perceptual notebooks sharing dates. Her handwriting stops while Solomon continues alone and later attempts uncertain perceptual notation. Malik gravitates toward Solomon's work, Kai toward the sister's, Ade sees the arrangement, and no one is appointed.
+
+STATUS:
+LOCKED / CANONICAL SCREENPLAY
+
+SUPERSEDES:
+- `THE HOUSE LISTENS` as canonical Sequence VIII;
+- `THE BROKEN KNOT` as canonical Sequence IX;
+- `THE CLOSED ROOM` as canonical Sequence X;
+- Bode knot-reconstruction / Entity-rule explanation in the old kitchen scene;
+- Bode maintenance-proxy architecture in the old work-room scene;
+- single mixed three-hand notebook as the core red-room reveal.
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
+Producer PDF Is the Reading Baseline
+
+DECISION:
+`output/pdf/EKPO_Screenplay.pdf` is the producer-facing screenplay baseline used to judge page flow and current reading experience. `01_SCREENPLAY.fountain` remains the editable source from which that PDF is generated.
+
+After accepted screenplay changes, the Fountain and output PDF must be regenerated/synchronized in the same screenplay operation.
+
+The current rewrite renders to 46 physical pages: one title page plus 45 screenplay pages.
+
+STATUS:
+LOCKED WORKFLOW DECISION
+
+SUPERSEDES:
+Any workflow that treats an outdated PDF as authoritative over the latest accepted Fountain or edits canon documentation without regenerating the screenplay reading copy when pages change.
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
+Two-Function Stewardship + Breach-Seeking Entity Ecology
+
+DECISION:
+The Oku covenant preserves equilibrium between the Seen and the Unseen through inherited stewardship. Historically that stewardship required complementary procedural and perceptual functions. Solomon held the procedural / Seen-facing function; his sister held the perceptual / Unseen-facing function. Succession requires recognized capacity, transmitted knowledge, and voluntary acceptance.
+
+Solomon failed his procedural side in young adulthood. His sister restored equilibrium and died. Afterward Solomon became obsessive, attempted to compensate for her missing function, preserved the work, and ultimately failed succession/transmission.
+
+Malik naturally mirrors Solomon's procedural aptitude because of his established psychology. Kai naturally mirrors the sister's perceptual aptitude because of his established sensitivity. Neither is chosen or cosmically appointed. Ade has no supernatural office.
+
+The Entity is an independent ancient intelligence native to the Unseen that is naturally attracted to breaches in equilibrium. The breach does not create it. The shrine is a regulator/alignment point, not a prison. Kai destabilized the regulator and the breach attracted the Entity.
+
+STATUS:
+LOCKED / FOUNDATIONAL
+
+SUPERSEDES:
+- containment mythology;
+- Entity-as-manifestation or Entity-as-symptom interpretation;
+- Entity as programmed balance-correcting mechanism;
+- competing-successor sibling model;
+- Bode maintenance-proxy/co-custodian model;
+- Chosen One succession;
+- any third supernatural office for Ade;
+- doppelgänger ending mythology where inconsistent;
+- Emeka/replacement mythology where inconsistent.
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
+Attention Creates Proximity
+
+DECISION:
+Perception across the Seen/Unseen boundary is reciprocal. Seeing, answering, following, acknowledging, or repeatedly observing an Unseen phenomenon can increase reciprocal awareness.
+
+Sequence VIII now provides on-page experiential evidence: Kai observes the partially perceptible form becoming clearer/closer the longer he looks.
+
+This remains a relational metaphysical rule, not a simplistic summoning mechanic.
+
+STATUS:
+LOCKED / FOUNDATIONAL
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
+Entity Physicality Is Failed Translation
+
+DECISION:
+The Entity's perceptible form is not necessarily its true body. The Seen imposes anatomy, sequence, spatial coherence, mass, distance, and bodily continuity on something native to the Unseen.
+
+Sequence VIII may therefore show extreme height, impossible articulation, unstable spatial depth, and proximity that does not map to ordinary movement.
+
+Spider articulation may visually rhyme but does not define species/divinity.
+
+STATUS:
+LOCKED / FOUNDATIONAL
+
+SUPERSEDES:
+Literal spider-god, giant-spider, or conventional creature-body interpretations.
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
+Solomon Returned for Maintenance
+
+DECISION:
+Solomon physically returned to Calabar when his procedural stewardship required his presence. His sons understood at least some trips as funerals, property matters, family obligations, or ordinary visits.
+
+Sequence X now gives the brothers direct evidence through Solomon's Calabar-dated maintenance ledger entries long after he moved to Canada.
+
+Bode did not routinely perform Solomon's custodial maintenance on his behalf.
 
 STATUS:
 LOCKED
 
 SUPERSEDES:
-Generic supernatural-family-horror framing.
+Sequence-X-era documentation implying Solomon directed maintenance from Canada while Bode performed local work as proxy.
 
 ---
 
 DATE:
-2026-07-25
+2026-08-13
+
+TITLE:
+Sister Death Truth Deferred On-Page
 
 DECISION:
-The shrine breach is the first supernatural trigger. Nothing impossible occurs
-before Kai intentionally breaks the red-thread seal and removes the talisman.
+Writer-level canon establishes that Solomon's procedural failure destabilized the boundary and his sister died restoring equilibrium. Early screenplay material must not reveal the complete causal truth.
 
-RATIONALE:
-Supernatural escalation requires causal integrity. Pre-shrine dread comes from
-grief, silence, concealment, displacement, and observable pattern.
+Sequence X may reveal partnership, overlapping dates, two different record systems, the stopping of the sister's handwriting, and Solomon continuing alone.
+
+The causal truth of her death is reserved for a later moment when it directly changes Malik's present decision.
+
+STATUS:
+LOCKED
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
+Red Room Uses Two-Record Architecture
+
+DECISION:
+The red-corded room is a working spiritual-maintenance environment. Its central discovery is complementary evidence: Solomon's procedural/measurable maintenance records and his sister's perceptual/observational records sharing dates.
+
+An inner maintained door belongs to the same covenant system. It is a human-facing threshold/interface, not a second portal or monster cage. Its full function remains unrevealed and it does not move or produce a scare during the room reveal.
 
 STATUS:
 LOCKED
 
 SUPERSEDES:
-Pre-shrine spiders, drumbeats, camera anomalies, watchers, delayed reflections,
-taps, and self-activating objects.
+The single mixed notebook as the full reveal, unrelated occult-room mechanics, and second-portal/monster-room interpretations.
 
 ---
 
 DATE:
-2026-07-25
+2026-08-13
+
+TITLE:
+Bode Knowledge Boundary
 
 DECISION:
-Kai acts intentionally at the shrine. He is not compelled, chosen, possessed,
-or deprived of memory. He breaks the seal, removes the talisman, nearly
-restores it, and chooses to keep it.
+Bode is a family-history witness with practical knowledge of land, dangerous boundaries, consequences surrounding his sister's death, Solomon's changed behavior, and enough warning knowledge to recognize danger.
 
-RATIONALE:
-Kai must be a morally pressured character responsible for consequence, not a
-mythology delivery device.
+He does not possess complete cosmology, succession architecture, repair knowledge, or full records of either custodian.
+
+Sequence IX now explicitly enforces this boundary.
+
+Bode is not a co-custodian, maintenance proxy, or mythology narrator.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-Drafts in which Kai wakes with the talisman or cannot remember taking it.
-
 ---
 
 DATE:
-2026-07-25
+2026-08-13
+
+TITLE:
+Ade Has No Supernatural Office
 
 DECISION:
-The Entity is balance-correcting from its own perspective. It is not
-canonically evil, demonic, a conventional antagonist, or a "spider god."
+Ade's importance remains human and relational. He maintains emotional connection, uses humor as protection/social mediation, sees relational patterns, and may become the person who recognizes when stewardship consumes Malik and Kai.
 
-RATIONALE:
-The supernatural should behave like inherited memory and disturbed ecology,
-not a monster franchise mechanism.
+Sequence X explicitly lets Ade see the Malik/Kai arrangement without assigning him a third metaphysical function.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-Villain-centered and "spider god" descriptions.
-
 ---
 
-DATE:
-2026-07-25
+# PRESERVED PRIOR LOCKS STILL ACTIVE
+
+## EKPO North Star
 
 DECISION:
-Solomon is never shown alive.
-
-RATIONALE:
-The audience must construct him from objects, spaces, instructions,
-contradictory memories, practical work, correspondence, and the effects of his
-choices.
+EKPO is a prestige psychological supernatural family drama about inheritance: family is the subject, grief is the doorway, inheritance is the engine, and the supernatural is the language.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-Any flashback or living-Solomon scene.
-
----
-
-DATE:
-2026-07-25
+## Shrine breach is first impossible supernatural trigger
 
 DECISION:
-The family surname is Oku. Bode travels from Nigeria to Vancouver because
-Solomon died. Eno remains in Nigeria and first appears in Calabar.
-
-RATIONALE:
-The geography grounds diaspora, authority, and homecoming while preventing
-relatives from appearing wherever exposition is convenient.
+Nothing objectively impossible occurs before Kai intentionally breaks the red restraint and removes the talisman. Pre-shrine unease comes from grief, silence, concealment, displacement, charged-but-ordinary objects, and observable pattern.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-Adeyemi surname and Eno-at-the-Vancouver-wake drafts.
-
----
-
-DATE:
-2026-07-25
+## Kai acts intentionally at the shrine
 
 DECISION:
-The scratched woman is Solomon and Bode's dead younger sister. Solomon loved
-her badly and tried to erase the guilt attached to her memory. Her exact death
-and full shrine responsibility remain unresolved in the current screenplay.
-
-RATIONALE:
-The human cost beneath the mythology must precede a complete explanation.
+Kai deliberately breaks the maintained binding, removes the talisman, nearly restores it, and chooses not to. He is not possessed, chosen, mind-controlled, or deprived of memory.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-The scratched figure as a man, living guardian, or eventual villain.
-
----
-
-DATE:
-2026-07-25
+## Solomon is never shown alive
 
 DECISION:
-There is one brass urn. It remains with the family from Solomon's house through
-the Vancouver funeral, Calabar journey, family land, and river ceremony. After
-the river it is empty.
-
-RATIONALE:
-Simple custody preserves emotional weight and avoids procedural plot built to
-repair an unnecessary contradiction.
+The audience reconstructs Solomon through spaces, objects, instructions, travel history, contradictory memories, records, practical work, and consequences.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-Coffin, ceremonial casket, grave burial, columbarium, release forms, retrieval,
-second urn, and remains-transfer subplot.
-
----
-
-DATE:
-2026-07-25
+## Family geography
 
 DECISION:
-The Vancouver funeral is urn-centered. The feedback shriek is an ordinary
-equipment failure that reveals Kai's sensory vulnerability and Ade's
-attentiveness.
-
-RATIONALE:
-Character work must not be misrepresented as premature supernatural
-foreshadowing.
+The family surname is Oku. Bode travels from Nigeria to Vancouver because Solomon died. Eno remains in Nigeria during Vancouver material and first appears in Calabar.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-Supernatural funeral signals and casket burial.
-
----
-
-DATE:
-2026-07-25
+## One brass urn
 
 DECISION:
-The funeral reception is brief and contains the scratched-photograph discovery.
-The will and brotherly decision form one concise movement. Packing and
-international travel montages are omitted; the decision cuts by sound directly
-to descent into Calabar.
-
-RATIONALE:
-The first act needs velocity. Repeated aftermath, legal procedure, and travel
-business diluted the family choice and delayed Calabar.
+One urn carries Solomon's ashes from Vancouver to Calabar and the river. After Sequence VII the ashes remain in the river and the urn is empty.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-Long wake, split will/decision sequences, packing montage, and extended travel
-logistics.
-
----
-
-DATE:
-2026-07-25
+## Funeral / will / travel compression
 
 DECISION:
-Efik, Nigerian English, and Nigerian Pidgin are relationship-specific
-languages, not decorative slang or phonetic accent. Native Calabar/Efik review
-is required before final dialogue lock. Shrine terminology remains deferred.
+The Vancouver funeral is urn-centered. Ordinary feedback reveals Kai's sensory vulnerability. The scratched photograph appears at the reception. The will and brotherly decision form one concise movement. Packing and extended travel logistics remain omitted.
 
-RATIONALE:
-Cultural specificity must be lived, legible, and accurate rather than
-fabricated for flavor.
+STATUS:
+LOCKED
+
+## Cultural-language principle
+
+DECISION:
+Efik, Nigerian English, and Nigerian Pidgin are relationship-specific languages, not decorative accent writing. Native/regional review remains required before final production lock. Deferred shrine/ritual terminology must not be invented for flavor.
 
 STATUS:
 LOCKED PRINCIPLE / WORKING LANGUAGE LOCK
 
-SUPERSEDES:
-Generic Yoruba references, generic "African" speech, and invented shrine
-vocabulary.
-
----
-
-DATE:
-2026-07-25
+## River recognition is shared
 
 DECISION:
-The river manifestation is one shared, undifferentiated recognition event.
-Each brother processes it through his existing coping system, and none knows
-the others felt the same thing.
-
-RATIONALE:
-The Entity has recognized the bloodline but has not yet earned individualized
-psychological knowledge.
+The river event is one shared field of pressure/recognition experienced through the brothers' existing bodies and coping systems. It is not three independent hauntings or a conventional attack.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-An overt figure, spoken message, or three separate river hauntings.
-
----
-
-DATE:
-2026-07-25
+## Eno is not mythology expert
 
 DECISION:
-The first household disturbance is one shared event experienced differently by
-the brothers, not three isolated horror sequences.
-
-RATIONALE:
-The story concerns one inheritance entering one family while pressure routes
-through different bodies and coping systems.
+Eno's authority comes from family and household responsibility. She may recognize danger, secrecy, fear, and family history without possessing covenant cosmology or Entity expertise.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-Separate Malik, Ade, and Kai bedroom hauntings.
-
----
-
-DATE:
-2026-07-25
+## Repository carries permanent operational memory
 
 DECISION:
-The post-shrine household disturbance uses weight, breath, rhythm, sampled
-voices, silence, and minor shadow disagreement. It does not use a giant spider
-shadow or conventional creature reveal.
-
-RATIONALE:
-The Entity must continue to resemble disturbed ecology and inherited memory
-rather than symbolic monster imagery.
+Future agents must be able to continue EKPO from repository state without depending on chat memory. Active canon, decisions, continuity, character truth, motifs, screenplay state, PDF state, and next assignment must remain explicit in the repository.
 
 STATUS:
 LOCKED
 
-SUPERSEDES:
-Hallway spider-shadow imagery.
-
 ---
 
-DATE:
-2026-07-25
+# SUPERSEDED MATERIAL — HISTORY ONLY
 
-DECISION:
-Eno recognizes danger and protects the household but does not know the
-mythology. Bode remains the principal keeper of inherited procedure, while his
-knowledge is explicitly incomplete.
+Do not restore as active canon:
 
-RATIONALE:
-Eno's authority comes from family and household responsibility. Bode's
-uncertainty prevents exposition from becoming false omniscience.
-
-STATUS:
-LOCKED
-
-SUPERSEDES:
-Eno as mythology expert and Bode as an all-knowing occult guide.
-
----
-
-DATE:
-2026-07-25
-
-DECISION:
-The red-corded household door remains unexplained through the night
-disturbance. Bode opens it deliberately in daylight after Eno demands access.
-The room reveals repeated practical maintenance rather than occult spectacle.
-
-RATIONALE:
-The door's power comes from concealed family labor and exclusion, not from
-being a second haunted shrine.
-
-STATUS:
-LOCKED
-
-SUPERSEDES:
-Kai opening the household door at night, a portal reveal, or a ceremonial
-chamber.
-
----
-
-DATE:
-2026-07-25
-
-DECISION:
-Sequence X contains no new supernatural manifestation. Its dramatic turn is
-the brothers refusing separation, Bode exposing incomplete maintenance
-records, and Eno identifying the dead sister's handwriting.
-
-RATIONALE:
-Daylight consequence gives the shared disturbance human weight and prevents
-constant escalation from flattening the horror.
-
-STATUS:
-LOCKED
-
-SUPERSEDES:
-An immediate shrine return, repair attempt, full mythology explanation, sister
-death explanation, or new attack.
-
----
-
-DATE:
-2026-07-25
-
-DECISION:
-The repository maintains a permanent operational memory layer in `docs/`.
-Before EKPO work, the screenplay and every file in `docs/` must be read
-together. Locked decisions cannot be silently contradicted.
-
-RATIONALE:
-The project must remain resumable from the repository without dependence on
-long chat history and must resist continuity drift.
-
-STATUS:
-LOCKED
-
-SUPERSEDES:
-Reliance on conversational memory or isolated development files as the only
-handoff.
+- Entity as balance-generated manifestation/symptom;
+- shrine as containment prison;
+- Solomon/sister competing-successor model;
+- Bode local maintenance proxy;
+- Bode as co-custodian or mythology expert;
+- old Sequence VIII `THE HOUSE LISTENS`;
+- old Sequence IX `THE BROKEN KNOT`;
+- old Sequence X `THE CLOSED ROOM`;
+- single mixed three-hand notebook as sufficient red-room architecture;
+- literal spider deity / giant spider manifestation;
+- Chosen One language for Malik or Kai;
+- supernatural office for Ade;
+- Emeka/replacement/doppelgänger legacy material as current story architecture.
