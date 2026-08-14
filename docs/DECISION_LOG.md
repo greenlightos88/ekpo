@@ -14,6 +14,39 @@ DATE:
 2026-08-13
 
 TITLE:
+Award-Level Screenplay Gate — Passed Through Sequence 12
+
+DECISION:
+Sequences 11 (`WHAT HE LEFT`) and 12 (`WHEN IT STAYS`) pass the current EKPO execution gate. The authoritative producer copy is 58 physical pages total: one title page plus 57 screenplay pages. Sequence 11 occupies six rendered screenplay pages. Sequence 12 establishes perceptual stutter, physiological translation pressure, residual injury, wider-family exposure, and Ade's human protective function.
+
+The brothers do not yet possess the complete attention mechanism. The inner-door fastener changes state but its cause remains unknown.
+
+STATUS:
+LOCKED SCREENPLAY THROUGH SEQUENCE 12 / QUALITY GATE PASSED
+
+SUPERSEDES:
+Any current-state designation stopping the authoritative screenplay at Sequence 10.
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
+Sequence Numbering Uses Arabic Numerals
+
+DECISION:
+Active screenplay and current control documents use standard numerical sequence labels: Sequence 1, Sequence 2, Sequence 3, and so on. Roman numerals are not used for sequence numbers going forward.
+
+STATUS:
+LOCKED FORMATTING / WORKFLOW
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
 Solomon's Final Succession Contradiction — Access Without Appointment
 
 DECISION:
@@ -67,10 +100,10 @@ DATE:
 2026-08-13
 
 TITLE:
-Award-Level Screenplay Gate — Passed Through Sequence X
+Award-Level Screenplay Gate — Passed Through Sequence 10
 
 DECISION:
-The integrated screenplay through Sequence X passes EKPO's current award-level execution gate. The accepted Sequences VIII-X prose is now the canonical screenplay execution, not merely approved architecture.
+The integrated screenplay through Sequence 10 passes EKPO's current award-level execution gate. The accepted Sequences VIII-X prose is now the canonical screenplay execution, not merely approved architecture.
 
 The promotion preserved the complete Sequences I-VII byte prefix, replaced only VIII-X, regenerated `output/pdf/EKPO_Screenplay.pdf` through the repository Windows/Courier renderer, and passed regression plus page-by-page PDF review.
 
@@ -78,7 +111,7 @@ The producer reading copy is 42 physical pages total: one title page plus 41 scr
 
 `docs/CHARACTER_VOICE_CONSTITUTION.md` is an active screenplay control document. Voice distinction must continue to arise from character psychology, knowledge, objective, and pressure rather than decorative verbal style.
 
-Sequence XI development is unlocked. Passing this gate does not authorize merging PR #2 to `main`; merge remains an explicit creator action.
+Sequence 11 development is unlocked. Passing this gate does not authorize merging PR #2 to `main`; merge remains an explicit creator action.
 
 STATUS:
 LOCKED SCREENPLAY THROUGH SEQUENCE X / QUALITY GATE PASSED
@@ -97,11 +130,11 @@ TITLE:
 Award-Level Screenplay Gate
 
 DECISION:
-The current screenplay through Sequence X does not yet pass EKPO's final quality threshold.
+The current screenplay through Sequence 10 does not yet pass EKPO's final quality threshold.
 
 The story architecture, canon outcomes, character functions, mythology boundaries, and major visual design of Sequences VIII-X remain approved. The exact screenplay prose, dialogue, exposition density, beat construction, and final scene execution are **not locked**.
 
-No Sequence XI drafting and no merge to `main` are permitted until the mandatory rewrite pass in `development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md` is complete and the regenerated producer PDF passes a page-by-page audit.
+No Sequence 11 drafting and no merge to `main` are permitted until the mandatory rewrite pass in `development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md` is complete and the regenerated producer PDF passes a page-by-page audit.
 
 Canon correctness is the floor, not the finish line.
 
@@ -141,23 +174,23 @@ TITLE:
 Post-River Screenplay Rewrite - Sequences VIII-X
 
 DECISION:
-The post-river **story architecture** is canonical through Sequence X.
+The post-river **story architecture** is canonical through Sequence 10.
 
-Sequence VIII is `THE DISTANCE BETWEEN`: one shared house disturbance in which environmental sound withdrawal evolves from the river, passage distance becomes inconsistent, a partially perceptible failed-translation presence becomes more legible under Kai's sustained attention, reciprocal awareness occurs, Malik physically stabilizes Kai and breaks visual contact, and the presence withdraws without being defeated.
+Sequence 8 is `THE DISTANCE BETWEEN`: one shared house disturbance in which environmental sound withdrawal evolves from the river, passage distance becomes inconsistent, a partially perceptible failed-translation presence becomes more legible under Kai's sustained attention, reciprocal awareness occurs, Malik physically stabilizes Kai and breaks visual contact, and the presence withdraws without being defeated.
 
-Sequence IX is `WHAT HE OPENED`: Kai voluntarily discloses the brass talisman; Bode remains a limited family-history/boundary witness and does not know the object's complete nature, the cosmology, or how to perform Solomon's custodial work; Eno prevents a nighttime return and forces daylight access to concealed family records.
+Sequence 9 is `WHAT HE OPENED`: Kai voluntarily discloses the brass talisman; Bode remains a limited family-history/boundary witness and does not know the object's complete nature, the cosmology, or how to perform Solomon's custodial work; Eno prevents a nighttime return and forces daylight access to concealed family records.
 
-Sequence X is `THE TWO RECORDS`: the room reveals a practical spiritual-maintenance workshop, an inner maintained door/interface, Solomon's procedural ledger, and his sister's separate perceptual notebooks sharing dates. Evidence establishes that Solomon physically returned from Vancouver to Calabar for maintenance. Her records stop while Solomon continues alone and later attempts uncertain perceptual notation. Malik gravitates toward Solomon's procedural work, Kai toward the sister's perceptual record, Ade sees the emerging relationship, and no one is appointed.
+Sequence 10 is `THE TWO RECORDS`: the room reveals a practical spiritual-maintenance workshop, an inner maintained door/interface, Solomon's procedural ledger, and his sister's separate perceptual notebooks sharing dates. Evidence establishes that Solomon physically returned from Vancouver to Calabar for maintenance. Her records stop while Solomon continues alone and later attempts uncertain perceptual notation. Malik gravitates toward Solomon's procedural work, Kai toward the sister's perceptual record, Ade sees the emerging relationship, and no one is appointed.
 
-These outcomes are locked. The exact wording and beat density were subsequently accepted by the `Award-Level Screenplay Gate — Passed Through Sequence X` decision above.
+These outcomes are locked. The exact wording and beat density were subsequently accepted by the `Award-Level Screenplay Gate — Passed Through Sequence 10` decision above.
 
 STATUS:
 LOCKED ARCHITECTURE / HISTORICAL PRE-PASS PROSE STATUS
 
 SUPERSEDES:
-- the previous Sequence VIII construction;
-- the previous Sequence IX `THE BROKEN KNOT` construction;
-- the previous Sequence X `THE CLOSED ROOM` construction;
+- the previous Sequence 8 construction;
+- the previous Sequence 9 `THE BROKEN KNOT` construction;
+- the previous Sequence 10 `THE CLOSED ROOM` construction;
 - Bode knot-reconstruction / Entity-rule explanation as proof;
 - Bode maintenance-proxy architecture;
 - the single mixed three-hand notebook as the core red-room reveal.
@@ -171,7 +204,7 @@ TITLE:
 Shrine Architecture Is Regulator, Not Containment
 
 DECISION:
-The shrine's physical language must read as maintained regulatory architecture. Sequence VI describes roots bracing old seams rather than appearing to hold a prisoner shut.
+The shrine's physical language must read as maintained regulatory architecture. Sequence 6 describes roots bracing old seams rather than appearing to hold a prisoner shut.
 
 STATUS:
 LOCKED
@@ -221,7 +254,7 @@ Attention Creates Proximity
 DECISION:
 Perception across the Seen/Unseen boundary is reciprocal. Seeing, answering, following, acknowledging, or repeatedly observing an Unseen phenomenon can increase reciprocal awareness.
 
-Sequence VIII must provide experiential evidence of this relationship without fully explaining the rule in dialogue immediately afterward.
+Sequence 8 must provide experiential evidence of this relationship without fully explaining the rule in dialogue immediately afterward.
 
 This remains a relational metaphysical rule, not a simplistic summoning mechanic.
 
@@ -239,7 +272,7 @@ Entity Physicality Is Failed Translation
 DECISION:
 The Entity's perceptible form is not necessarily its true body. The Seen imposes anatomy, sequence, spatial coherence, mass, distance, and bodily continuity on something native to the Unseen.
 
-Sequence VIII may therefore show extreme height, impossible articulation, unstable spatial depth, and proximity that does not map to ordinary movement.
+Sequence 8 may therefore show extreme height, impossible articulation, unstable spatial depth, and proximity that does not map to ordinary movement.
 
 Spider articulation may visually rhyme but does not define species/divinity.
 
@@ -281,7 +314,7 @@ Sister Death Truth Deferred On-Page
 DECISION:
 Writer-level canon establishes that Solomon's procedural failure destabilized the boundary and his sister died restoring equilibrium. Early screenplay material must not reveal the complete causal truth.
 
-Sequence X may reveal partnership, overlapping dates, separate record systems, the stopping of the sister's writing, and Solomon continuing alone.
+Sequence 10 may reveal partnership, overlapping dates, separate record systems, the stopping of the sister's writing, and Solomon continuing alone.
 
 The causal truth is reserved for a later moment when it directly changes a present Malik decision.
 

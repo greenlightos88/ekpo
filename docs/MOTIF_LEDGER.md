@@ -2,7 +2,7 @@
 
 Status: ACTIVE
 Last synchronized: 2026-08-13
-Canonical endpoint: End of Sequence X — `THE TWO RECORDS`
+Canonical endpoint: End of Sequence 12 — `WHEN IT STAYS`
 
 This ledger governs recurring images, materials, sounds, spaces, and behaviors. Motifs may deepen through changed context but may not mutate into a different symbolic system without a logged decision.
 
@@ -19,12 +19,12 @@ Meaning:
 
 Canonical appearances:
 
-- faded red thread binds the regulator recess in Sequence VI;
+- faded red thread binds the regulator recess in Sequence 6;
 - pale grooves show earlier replacements;
 - Kai works the intended loop and breaks the old thread;
 - the red-corded household door exists before the breach;
-- Sequence VIII visually rhymes the household cord with the regulator binding while explicitly preserving their different age/function;
-- Sequence X establishes that the outer household cord uses a simple practical hitch, not the regulator's worked binding;
+- Sequence 8 visually rhymes the household cord with the regulator binding while explicitly preserving their different age/function;
+- Sequence 10 establishes that the outer household cord uses a simple practical hitch, not the regulator's worked binding;
 - replacement red cotton appears in the maintenance room;
 - the inner maintained door uses red-cord elements fixed at measured intervals.
 
@@ -108,11 +108,11 @@ Canonical thresholds:
 - red-corded household maintenance room;
 - inner maintained door/interface.
 
-Sequence VIII use:
+Sequence 8 use:
 
 The passage becomes perceptually unreliable without the house objectively transforming into a fantasy architecture. Distance to the red-corded door becomes unstable while the brothers remain physically together.
 
-Sequence X use:
+Sequence 10 use:
 
 The outer household door opens ordinarily. The inner door remains closed, measured, maintained, and unrevealed in full function. It does not move or produce a scare.
 
@@ -139,7 +139,7 @@ Canonical progression:
 - regulator sound withdraws only after the breach;
 - one earth-borne beat follows talisman removal;
 - river ecological sound withdraws in stages during the first shared contact;
-- Sequence VIII repeats the subtraction grammar in the house: individual insects cease, compound voices stop, while the fan remains as a stable mechanical baseline;
+- Sequence 8 repeats the subtraction grammar in the house: individual insects cease, compound voices stop, while the fan remains as a stable mechanical baseline;
 - sound returns unevenly when the pressure withdraws.
 
 Rules:
@@ -162,7 +162,7 @@ Created by grief, shame, secrecy, control, hierarchy, and protection.
 
 Created when the breach changes the relationship between Seen and Unseen.
 
-Sequence VIII deliberately connects the river and house through ecological subtraction while the later kitchen/maintenance-room scenes return to human silence and withheld history.
+Sequence 8 deliberately connects the river and house through ecological subtraction while the later kitchen/maintenance-room scenes return to human silence and withheld history.
 
 Rules:
 
@@ -187,7 +187,7 @@ Canonical appearances:
 - Solomon's ashes enter the river;
 - one ribbon of ash briefly appears to hold while current moves beneath it;
 - brothers experience shared sound withdrawal/attention;
-- Sequence VIII deliberately uses the river's grammar rather than inventing unrelated haunting language.
+- Sequence 8 deliberately uses the river's grammar rather than inventing unrelated haunting language.
 
 Rules:
 
@@ -212,10 +212,10 @@ Canonical progression:
 - brothers share weight on the family land;
 - Ade supports Malik during the river release;
 - Kai's hand breaks the binding/removes the talisman;
-- Sequence VIII Malik catches Kai's forearm, then takes both shoulders and blocks his line of sight;
+- Sequence 8 Malik catches Kai's forearm, then takes both shoulders and blocks his line of sight;
 - this physical stabilization protects Kai without defeating the Entity;
-- Sequence IX Kai produces the talisman himself rather than having it taken from him;
-- Sequence X Malik traces a knot sequence without touching ink and Kai asks before handling the aunt's notebook.
+- Sequence 9 Kai produces the talisman himself rather than having it taken from him;
+- Sequence 10 Malik traces a knot sequence without touching ink and Kai asks before handling the aunt's notebook.
 
 Rules:
 
@@ -236,11 +236,11 @@ Meaning:
 Rules:
 
 - one urn only;
-- ashes remain in river after Sequence VII;
+- ashes remain in river after Sequence 6I;
 - never restore ashes;
 - never add coffin/second urn/columbarium/retrieval mechanics;
 - urn is not oracle;
-- by Sequence X Malik has deliberately moved empty urn case away from covered talisman.
+- by Sequence 10 Malik has deliberately moved empty urn case away from covered talisman.
 
 ## The Brass Talisman
 
@@ -252,7 +252,7 @@ Meaning:
 
 Current custody:
 
-- disclosed on kitchen table in Sequence IX;
+- disclosed on kitchen table in Sequence 9;
 - covered by Eno with ordinary clean dishcloth;
 - remains on kitchen table while maintenance room is opened;
 - not carried into red room.
@@ -275,7 +275,7 @@ Meaning:
 
 Current development:
 
-Sequence X materially contradicts her visual erasure: her handwriting and observations persist across years of records.
+Sequence 10 materially contradicts her visual erasure: her handwriting and observations persist across years of records.
 
 Rules:
 
@@ -298,8 +298,8 @@ Canonical development:
 
 - camera remains ordinary in Vancouver/Calabar;
 - Kai photographs boundary marks and regulator;
-- Sequence IX photographs provide material evidence to family;
-- Sequence VIII makes naked attention itself dangerous: the presence becomes clearer/closer as Kai looks longer.
+- Sequence 9 photographs provide material evidence to family;
+- Sequence 8 makes naked attention itself dangerous: the presence becomes clearer/closer as Kai looks longer.
 
 Rules:
 
@@ -318,7 +318,7 @@ Meaning:
 - what a family preserves versus what it transmits;
 - partnership visible before terminology.
 
-Canonical Sequence X architecture:
+Canonical Sequence 10 architecture:
 
 ### Solomon's procedural ledger
 
@@ -409,7 +409,7 @@ Meaning:
 Canonical development:
 
 - river establishes sound withdrawal and brief distance uncertainty;
-- Sequence VIII makes passage distance visibly/perceptually inconsistent to the brothers;
+- Sequence 8 makes passage distance visibly/perceptually inconsistent to the brothers;
 - partially perceptible form gains articulation as Kai watches;
 - form becomes closer without traversing ordinary space;
 - sister's notebook establishes historical rhyme with changed distance/tall unstable articulation.
@@ -419,3 +419,36 @@ Rules:
 - no generic dream logic;
 - altered distance must feel precise enough to experience, not explain;
 - recurrence must show increased relationship/proximity, not repetition for atmosphere.
+
+## Perceptual Stutter / Bodily Sequence
+
+Meaning:
+- failed translation between Seen and Unseen;
+- perception/body continuity becoming unreliable under Entity proximity;
+- human/local coherence can decrease as Entity coherence increases.
+
+Rules:
+- never digital glitch/static;
+- never teleportation language;
+- each recurrence must change consequence, knowledge, relationship, or danger;
+- residual symptoms persist after withdrawal.
+
+## Family Attention / Protection
+
+Sequence 12 seed:
+Ade blocks a child's sightline and helps Eno move the household away. Reduced exposure coincides with reduced pressure, but the characters do not yet possess a formal mechanism.
+
+Rules:
+- do not reduce family to observer-count mechanics;
+- protection remains relational and human;
+- awareness/proximity must be learned behaviorally.
+
+## Inner-Door Fastener
+
+Continuity:
+- loose on sill through Sequence 11;
+- seated in unfinished measured point after Sequence 12;
+- one turn short;
+- cause unknown.
+
+Do not treat the change as an automatic repair instruction.

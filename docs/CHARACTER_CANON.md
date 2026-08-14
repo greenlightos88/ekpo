@@ -2,7 +2,7 @@
 
 Status: ACTIVE CHARACTER AUTHORITY
 Last synchronized: 2026-08-13
-Canonical screenplay endpoint: End of Sequence X — `THE TWO RECORDS`
+Canonical screenplay endpoint: End of Sequence 12 — `WHEN IT STAYS`
 
 Use historical character-development files for performance depth only where they do not conflict with this file.
 
@@ -101,7 +101,7 @@ This must never turn Solomon into a posthumous mastermind. His inheritance is un
 
 Canada/Calabar continuity:
 
-Solomon physically returned to Calabar when maintenance required his presence. Sequence X gives the brothers their first concrete evidence: his procedural ledger contains Calabar dates long after he moved to Canada.
+Solomon physically returned to Calabar when maintenance required his presence. Sequence 10 gives the brothers their first concrete evidence: his procedural ledger contains Calabar dates long after he moved to Canada.
 
 Do not restore the superseded model in which Bode routinely performed Solomon's maintenance as proxy.
 
@@ -116,7 +116,7 @@ Story state:
 - dead before the film begins;
 - younger sister of Solomon and Bode;
 - deliberately erased from the scratched photograph;
-- perceptual notebooks now appear on-page in Sequence X.
+- perceptual notebooks now appear on-page in Sequence 10.
 
 Writer-level stewardship function:
 
@@ -189,17 +189,17 @@ Mature:
 
 > I protect Kai by maintaining the conditions that allow Kai to do his own work.
 
-Sequence VIII progression:
+Sequence 8 progression:
 
 Malik's instinct to issue commands appears immediately when the shared house pressure begins. However, the decisive action is not defeating the presence; he physically stabilizes Kai, blocks Kai's line of sight, and holds position long enough for Kai to reorient to his brother.
 
 This is the first on-page movement toward protection through conditions rather than domination of the supernatural problem.
 
-Sequence X progression:
+Sequence 10 progression:
 
 Malik is drawn to Solomon's procedural ledger before he understands why. Measurements, corrected margins, knot diagrams, and repeated maintenance feel legible to him.
 
-Current knowledge through Sequence X:
+Current knowledge through Sequence 10:
 
 - Kai breached a maintained site below the western stones and removed a brass object;
 - the river and house disturbances are related in some way;
@@ -250,17 +250,17 @@ Attention rule:
 
 Kai can perceive Unseen pressure with unusual sensitivity. Perception creates reciprocity.
 
-Sequence VIII progression:
+Sequence 8 progression:
 
 Kai watches the partially perceptible form change in coherence while the passage distance destabilizes. After Malik breaks his sightline, Kai states only: `It changed when I looked at it.`
 
 This is experiential evidence, not complete metaphysical understanding. The screenplay deliberately withholds the fuller rule from his dialogue.
 
-Sequence IX progression:
+Sequence 9 progression:
 
 Kai stops hiding the breach behind partial facts. He shows the shrine photographs, produces the talisman, and admits his action directly.
 
-Sequence X progression:
+Sequence 10 progression:
 
 Kai asks before touching his aunt's notebook. He recognizes insect withdrawal, neck pressure, altered distance, and unstable articulation in her writing as direct rhymes with his current experience.
 
@@ -269,3 +269,25 @@ Solomon inheritance pressure:
 Kai is especially vulnerable to reading Solomon's lack of explicit instruction as one more act of paternal silence. That interpretation is emotionally valid but not the whole truth. Solomon left access because he believed his children could decide; he also failed them by forcing that decision to arrive without preparation.
 
 Kai must never be told that the existence of the records obligates him to accept stewardship.
+
+## Sequence 11-12 progression
+
+### Malik
+
+Sequence 11 tests whether procedural aptitude becomes domination. Malik chooses not to act blind and accepts collective decision-making. Sequence 12 attacks the bodily foundation of his control through breathing-sequence failure.
+
+### Kai
+
+Sequence 11 makes Solomon's missing human instruction concrete. Sequence 12 gives Kai the heaviest physiological exposure: ocular bleeding, vomiting, tremor, perceptual stutter, and transient right-arm failure. He recognizes danger to approaching family before he understands the complete mechanism.
+
+### Ade
+
+Sequence 11 makes Ade necessary by preventing Malik/Kai from claiming complete ownership of Solomon's meaning and establishing `nobody goes alone; nobody decides alone.` Sequence 12 makes his social intelligence protective infrastructure: redirecting a child and helping Eno clear the household. He receives no supernatural office.
+
+### Bode
+
+Bode remains bounded and cannot explain the missed interval, observer mechanism, repair, or Solomon's intended successor.
+
+### Eno
+
+Eno remains household authority. She feeds, evacuates, and insists on medical common sense without becoming a mythology expert.
