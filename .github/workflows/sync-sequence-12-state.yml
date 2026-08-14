@@ -1,0 +1,593 @@
+name: Synchronize Sequence 12 State
+
+on:
+  push:
+    branches:
+      - agent/authoritative-canon-sync
+    paths:
+      - .github/workflows/sync-sequence-12-state.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install renderer dependencies
+        run: python -m pip install reportlab pypdf
+      - name: Synchronize screenplay numbering and repository memory
+        shell: python
+        run: |
+          from pathlib import Path
+
+          # 1) Normalize sequence labels in the authoritative screenplay.
+          screenplay_path = Path('01_SCREENPLAY.fountain')
+          s = screenplay_path.read_text(encoding='utf-8')
+          roman = [('X','10'),('IX','9'),('VIII','8'),('VII','7'),('VI','6'),('V','5'),('IV','4'),('III','3'),('II','2'),('I','1')]
+          for old, new in roman:
+              s = s.replace(f'# SEQUENCE {old} -', f'# SEQUENCE {new} -')
+          screenplay_path.write_text(s, encoding='utf-8', newline='\n')
+
+          # Keep accepted rewrite/control candidate numbering consistent.
+          for rel in ['development/rewrites/SEQUENCES_11_12_AWARD_PASS.fountain']:
+              p = Path(rel)
+              if p.exists():
+                  t = p.read_text(encoding='utf-8')
+                  for old, new in roman:
+                      t = t.replace(f'# SEQUENCE {old} -', f'# SEQUENCE {new} -')
+                  p.write_text(t, encoding='utf-8', newline='\n')
+
+          # 2) Current continuity becomes authoritative through Sequence 12.
+          Path('docs/CURRENT_CONTINUITY.md').write_text('''# EKPO CURRENT CONTINUITY
+
+Last reconciled: 2026-08-13
+Status: ACTIVE
+
+Canonical screenplay source: `01_SCREENPLAY.fountain`
+Producer reading copy: `output/pdf/EKPO_Screenplay.pdf`
+Current canonical endpoint: End of Sequence 12 — `WHEN IT STAYS`
+Producer PDF: 57 screenplay pages plus title page (58 physical pages total)
+
+## Immediate story position
+
+Night at the Oku family compound outside Calabar.
+
+Sequence 12 has just ended after the most severe Entity manifestation yet.
+
+The wider household has been moved outside under Ade's improvised gas-leak explanation.
+
+The three brothers remain physically affected:
+
+- Kai's right eye is bloodshot from a burst capillary;
+- Kai's right arm has regained movement but still trembles;
+- Kai vomited during the encounter and remains physiologically destabilized;
+- Malik experienced diaphragm/breath-sequence failure and is still consciously regulating breathing;
+- Ade has a nosebleed and residual vestibular/auditory disturbance;
+- all three experienced perceptual stutter and incompatible spatial states.
+
+Eno has ordered the car and is prepared to seek medical help. Malik asked for one minute to assess Kai's motor function; Eno granted exactly one minute.
+
+The final image changes the inner maintained door:
+
+- the previously loose brass fastener is no longer on the sill;
+- it is seated in the unfinished measured point near the lower hinge;
+- it remains one turn short;
+- none of the brothers put it there;
+- no character knows what caused the change.
+
+## Canonical sequence status
+
+### Act 1
+
+1. The Last Morning — canonical
+2. The Funeral — canonical
+3. The Will and Decision — canonical
+4. Arrival — canonical
+5. Homecoming — canonical
+6. The Land and the Shrine — canonical
+
+### Act 2
+
+7. The River Boundary — canonical
+8. The Distance Between — canonical
+9. What He Opened — canonical
+10. The Two Records — canonical
+11. What He Left — canonical / award-audited
+12. When It Stays — canonical / award-audited
+
+Sequence 13 has not been written.
+
+## Sequence 11 continuity — What He Left
+
+The brothers search Solomon's records for what comes next.
+
+They establish:
+
+- Solomon continued scheduling procedural maintenance beyond his own expected lifetime;
+- the next documented maintenance interval is nine days overdue;
+- Solomon preserved materials, quantities, locations, keys, measurements, and future dates;
+- no person is named to perform the future work;
+- no letter appoints Malik, Kai, Ade, Bode, or any successor;
+- Bode says Solomon never asked him to continue the schedule and does not know what happens when an interval is missed.
+
+The brothers make their first collective operational decision:
+
+- nobody returns to the shrine alone;
+- nobody makes a consequential decision alone;
+- they will first determine what the missed interval actually required.
+
+This is voluntary collective action, not acceptance of supernatural office.
+
+## Sequence 12 continuity — When It Stays
+
+Ordinary household life resumes before the encounter.
+
+The Entity's proximity then produces:
+
+- metallic taste and ear pressure in Kai;
+- sound arriving out of temporal alignment;
+- binocular convergence failure;
+- violent vertigo/proprioceptive mismatch;
+- perceptual stutter in which occupied and empty space can both register as valid;
+- discontinuity between movement and experienced movement;
+- breathing-sequence disruption in Malik;
+- ocular/nasal bleeding;
+- vomiting;
+- transient loss and painful return of sensation in Kai's right arm;
+- apparent structural load in the passage;
+- impossible dust behavior;
+- increasing perceptual coherence of the Entity while surrounding human space becomes less coherent.
+
+A young girl reports that Kai is calling her while the real Kai is visibly incapacitated. No clean voice-mimic power is established; the event remains perceptually ambiguous.
+
+Ade prevents the child from looking into the affected passage and then redirects the household using an ordinary gas-leak explanation.
+
+As uninformed people move away from the passage, the brothers experience reduced physiological/spatial pressure. They do not yet fully understand the mechanism.
+
+## Principal character state
+
+### Malik
+
+- still defaults to procedure under fear;
+- chose restraint in Sequence 11 rather than immediately acting on incomplete records;
+- accepted Ade's collective rule instead of claiming unilateral authority;
+- physically stabilized Kai during Sequence 12;
+- experienced the Entity as direct attack on bodily sequence/control through failed breathing initiation;
+- does not know that his procedural aptitude mirrors Solomon's stewardship function.
+
+### Kai
+
+- discovered the absence of any human succession instruction in Solomon's meticulous records;
+- remains angry at Solomon's silence without converting that anger into Chosen One logic;
+- recognized the Entity's approach first through bodily pressure;
+- suffered the most severe exposure;
+- urgently asked the brothers to move family away when additional people began approaching;
+- does not yet possess a complete attention/observer rule.
+
+### Ade
+
+- prevented Malik and Kai from claiming competing complete interpretations of Solomon;
+- established the shared rule: nobody goes alone; nobody decides alone;
+- protected an uninformed child during the Sequence 12 manifestation;
+- used humor/social movement only while it remained useful, then dropped it under genuine terror;
+- created the gas-leak cover that allowed Eno to clear the household;
+- has no supernatural office.
+
+### Bode
+
+- still does not know the repair procedure, Entity ontology, or attention mechanism;
+- did not claim knowledge of Solomon's intended successor;
+- remains a frightened family-history witness rather than custodial authority.
+
+### Eno
+
+- remains household/family authority;
+- forces food, practical care, evacuation, and medical common sense into scenes that could otherwise disappear into mythology;
+- does not possess the covenant cosmology.
+
+## Current knowledge boundary
+
+The brothers now know through evidence/experience that:
+
+- Solomon maintained hidden procedural work for years;
+- his sister maintained a different perceptual record on matching dates;
+- Solomon continued scheduling work beyond his own life but named no successor;
+- a documented maintenance interval is nine days overdue;
+- Entity proximity can produce severe physiological and spatial disruption;
+- the wider family can become exposed simply by approaching/looking toward an active event;
+- moving people away appeared to coincide with reduced pressure;
+- the inner-door fastener changed state during/after the manifestation.
+
+They do **not** yet know:
+
+- formal Seen/Unseen terminology;
+- formal two-function stewardship vocabulary;
+- why collective attention changes translation pressure;
+- whether the Entity, regulator, or local reality changed the fastener;
+- the full function of the inner door;
+- a complete repair procedure;
+- the causal truth of Solomon's sister's death;
+- whether Malik/Kai will voluntarily accept stewardship.
+
+## Object continuity
+
+### Brass talisman
+
+- removed by Kai from the shrine/regulator;
+- disclosed to family in Sequence 9;
+- remains under ordinary cloth in the house;
+- has not been returned or used as a magical solution.
+
+### Inner-door fastener
+
+- loose on the sill through Sequence 11;
+- seated in its measured point after Sequence 12;
+- one turn short;
+- cause unknown.
+
+### Kai's camera
+
+- struck the tile during Sequence 12;
+- casing is damaged/cracked;
+- future use must acknowledge that damage before treating it as normal equipment.
+
+## Active consequences
+
+Future scenes must not reset the brothers physically or psychologically.
+
+Residual symptoms may include tremor, headache, nausea, tinnitus, depth-perception instability, sleep disruption, autonomic hypervigilance, and uncertainty about whether a symptom is residual or renewed pressure.
+
+The wider family now has reason to ask what happened.
+
+The brothers' next problem is therefore both practical and ethical:
+
+**how do they protect living family members while they still do not understand enough to explain the danger?**
+''', encoding='utf-8', newline='\n')
+
+          # 3) Active assignment moves to Sequence 13 without inventing its full scene.
+          Path('docs/NEXT_MOVEMENT.md').write_text('''# CURRENT WRITING ASSIGNMENT
+
+Status: ACTIVE — SEQUENCE 13 DEVELOPMENT UNLOCKED
+Canonical story endpoint: End of Sequence 12 — `WHEN IT STAYS`
+Screenplay quality status through Sequence 12: **PASS**
+Producer reading copy: 58 physical pages — one title page plus 57 screenplay pages
+
+## Immediate objective
+
+Develop Sequence 13 from the **aftermath**, not from another immediate Entity appearance.
+
+Sequence 12 spent the horror capital accumulated through the first forty-plus minutes. The next movement must make that encounter expensive.
+
+The brothers are injured. The family has seen enough to know something is wrong. Eno has ordered practical care. The inner-door fastener has changed state. A maintenance interval is nine days overdue.
+
+Do not reset any of those facts.
+
+## What Sequence 13 must accomplish
+
+Sequence 13 should determine the immediate human consequence of the Sequence 12 event before introducing another large manifestation.
+
+Required pressures:
+
+- Kai's arm/eye/nausea/tremor remain real;
+- Malik's breathing/autonomic control remains affected;
+- Ade's bleeding/vestibular disturbance remains real;
+- Eno refuses vague assurances when three men are visibly injured;
+- the wider household has questions;
+- Ade's gas-leak lie may buy time but cannot permanently erase what people witnessed;
+- Bode cannot solve the problem through hidden expertise;
+- the changed fastener creates a new question but is not automatically a repair clue;
+- the nine-day missed interval remains the strongest procedural lead.
+
+## Family-protection layer
+
+The brothers have not yet developed a formal doctrine that `attention feeds the Entity`.
+
+They have only behavioral evidence:
+
+- additional people approached;
+- pressure worsened;
+- Ade/Eno moved people away;
+- pressure then reduced.
+
+Sequence 13 may let them begin forming a cautious working hypothesis, but no character should suddenly understand the complete metaphysical mechanism.
+
+Their immediate shared mission is human:
+
+**protect the family while learning enough to act without making the breach worse.**
+
+## Horror execution law going forward
+
+Restraint no longer means withholding consequence.
+
+Future Entity encounters may be surreal, visceral, physiological, and psychologically punishing.
+
+But escalation must remain causal.
+
+Do not repeat Sequence 12 beat-for-beat.
+
+Each new encounter must change at least one of:
+
+- what the Entity can resolve in the Seen;
+- what the brothers believe about attention/proximity;
+- what bodily function becomes unreliable;
+- what family member is at risk;
+- what practical action becomes necessary;
+- what trust inside the brotherhood is damaged or strengthened.
+
+## Sister-death reveal gate
+
+Writer-level canon now has a coherent mechanism for the sister's death: prolonged perceptual exposure during catastrophic destabilization destroyed her body while she restored equilibrium without Solomon's procedural support.
+
+Do **not** reveal that merely because the audience has now seen similar physiology.
+
+The causal truth remains reserved for a later present-tense Malik decision where knowing Solomon's failure changes what Malik is about to do.
+
+## Sequence numbering law
+
+Use standard numerical sequence labels only:
+
+`Sequence 1`, `Sequence 2`, `Sequence 3` ...
+
+Do not introduce Roman-numeral sequence labels in screenplay or active control documents.
+
+## Acceptance gate for Sequence 13
+
+Sequence 13 must:
+
+- preserve all residual physical consequences;
+- advance the family-protection problem;
+- keep character voices individually identifiable;
+- avoid a mythology lecture after the horror set piece;
+- make at least one concrete decision/action unavoidable;
+- preserve uncertainty around the inner-door fastener;
+- keep Bode and Eno inside their knowledge boundaries;
+- keep Ade dramatically necessary without supernatural office;
+- earn any next supernatural escalation through action rather than schedule.
+
+Required reads before drafting:
+
+1. `output/pdf/EKPO_Screenplay.pdf`
+2. `01_SCREENPLAY.fountain`
+3. `development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md`
+4. `docs/ENTITY_HORROR_PHYSIOLOGY.md`
+5. `docs/CHARACTER_VOICE_CONSTITUTION.md`
+6. `docs/CURRENT_CONTINUITY.md`
+7. `docs/DECISION_LOG.md`
+8. `00_CANON.md`
+''', encoding='utf-8', newline='\n')
+
+          # 4) Session handoff.
+          Path('03_SESSION.md').write_text('''# EKPO SESSION / CONTINUATION STATE
+
+Date: 2026-08-13
+Status: AUTHORITATIVE SCREENPLAY LOCK THROUGH SEQUENCE 12
+
+## Current authority
+
+- producer screenplay: `output/pdf/EKPO_Screenplay.pdf`
+- synchronized editable source: `01_SCREENPLAY.fountain`
+- current endpoint: Sequence 12 — `WHEN IT STAYS`
+- producer copy: 58 physical pages / 57 screenplay pages
+- quality gate through Sequence 12: PASS
+
+## Latest locked movement
+
+Sequence 11 (`WHAT HE LEFT`) establishes:
+
+- Solomon scheduled maintenance beyond his death;
+- the next interval is nine days overdue;
+- he preserved access/material continuity but named no successor;
+- the brothers choose: nobody goes alone; nobody decides alone.
+
+Sequence 12 (`WHEN IT STAYS`) establishes:
+
+- severe perceptual stutter;
+- physiological miasma/translation pressure;
+- bodily sequence failure and residual injury;
+- increased Entity coherence as human/local reality becomes less coherent;
+- wider family exposure as a practical danger;
+- Ade's social intelligence as protection infrastructure;
+- no complete attention rule yet;
+- the inner-door fastener is now seated one turn short without known cause.
+
+## Immediate injuries
+
+- Kai: bloodshot right eye, vomiting, tremor, transient right-arm loss, residual instability.
+- Malik: breathing-sequence disruption, autonomic hypervigilance.
+- Ade: nosebleed, vestibular/auditory disturbance.
+
+Do not reset these in Sequence 13.
+
+## Current group mission
+
+The brothers now have a shared human reason to act beyond solving Solomon:
+
+**their family is inside the radius of the breach.**
+
+They must protect relatives while learning enough to avoid increasing exposure.
+
+This does not itself constitute voluntary acceptance of stewardship.
+
+## Active next task
+
+Develop Sequence 13 from aftermath and consequence. Read `docs/NEXT_MOVEMENT.md`.
+
+## Numbering convention
+
+Sequence numbers use Arabic numerals only. No Roman numerals in active screenplay/control state.
+''', encoding='utf-8', newline='\n')
+
+          # 5) README becomes a compact current-state entry point.
+          Path('README.md').write_text('''# EKPO
+
+Psychological supernatural family drama about inheritance.
+
+> Reality survives not through power, but through stewardship.
+
+## Current screenplay state
+
+The authoritative screenplay is locked through **Sequence 12 — `WHEN IT STAYS`**.
+
+- authoritative reading copy: `output/pdf/EKPO_Screenplay.pdf`
+- synchronized editable source: `01_SCREENPLAY.fountain`
+- 57 screenplay pages + title page = **58 physical PDF pages**
+- Sequences 11-12 passed creative, continuity, voice, horror, runtime, integration, render, and visual-page audits
+- Sequence 13 development is unlocked
+- PR #2 remains draft/unmerged until explicit creator authorization
+
+## Read order
+
+1. `output/pdf/EKPO_Screenplay.pdf`
+2. `docs/SCREENPLAY_AUTHORITY.md`
+3. `docs/DECISION_LOG.md`
+4. `docs/EKPO_CONSTITUTION.md`
+5. `EKPO_Canonical_Mythology_Refactor.md`
+6. `00_CANON.md`
+7. `docs/CURRENT_CONTINUITY.md`
+8. `docs/CHARACTER_CANON.md`
+9. `docs/CHARACTER_VOICE_CONSTITUTION.md`
+10. `docs/ENTITY_HORROR_PHYSIOLOGY.md`
+11. `docs/MOTIF_LEDGER.md`
+12. `docs/NEXT_MOVEMENT.md`
+13. `03_SESSION.md`
+
+## Current dramatic position
+
+Solomon's sons have discovered that he preserved future maintenance work but named no successor. The next documented interval is nine days overdue.
+
+They have agreed:
+
+- nobody goes alone;
+- nobody decides alone.
+
+That night the Entity manifests with severe perceptual stutter and physiological consequences. Kai, Malik, and Ade are physically injured. Ade redirects the wider family away from the affected passage, establishing a new protection problem without giving him a supernatural office.
+
+After the manifestation, the loose brass fastener on the inner maintained door is found seated in its measured point — one turn short — with no known cause.
+
+## Foundational laws
+
+- Seen and Unseen are complementary conditions of reality.
+- Covenant = stewardship/equilibrium, not monster containment.
+- Shrine = regulator/alignment point, never prison.
+- Entity = independent ancient Unseen intelligence attracted to breaches.
+- Attention creates proximity, but the characters do not yet know the complete rule.
+- Entity perceptibility can fracture body, perception, sequence, and local physical coherence.
+- Solomon and his sister were complementary procedural/perceptual stewards.
+- Succession requires recognized capacity, transmitted knowledge, and voluntary acceptance.
+- Solomon left **access without appointment**.
+- Malik has procedural aptitude, not destiny.
+- Kai has perceptual aptitude, not Chosen One status.
+- Ade has no supernatural office.
+- Bode is not a co-custodian or maintenance proxy.
+- Eno is not a mythology expert.
+- sister-death causality remains withheld on-page.
+
+## Sequence numbering
+
+Use Arabic numerals only: Sequence 1, Sequence 2, Sequence 3 ...
+''', encoding='utf-8', newline='\n')
+
+          # 6) Patch active canon to the new endpoint and replace stale current-position tail.
+          canon = Path('00_CANON.md').read_text(encoding='utf-8')
+          canon = canon.replace('Version: 5.1 — Award-Level Lock Through Sequence X', 'Version: 6.0 — Award-Level Lock Through Sequence 12')
+          canon = canon.replace('Current canonical screenplay endpoint: End of Sequence X — `THE TWO RECORDS`.', 'Current canonical screenplay endpoint: End of Sequence 12 — `WHEN IT STAYS`.')
+          canon = canon.replace('Current producer PDF: 41 screenplay pages plus title page (42 physical pages total).', 'Current producer PDF: 57 screenplay pages plus title page (58 physical pages total).')
+          for old,new in [('Sequence VIII','Sequence 8'),('Sequence IX','Sequence 9'),('Sequence X','Sequence 10'),('Sequences VIII-X','Sequences 8-10'),('Sequence VII','Sequence 7'),('Sequence VI','Sequence 6'),('Sequence V','Sequence 5'),('Sequence IV','Sequence 4'),('Sequence III','Sequence 3'),('Sequence II','Sequence 2'),('Sequence I','Sequence 1')]:
+              canon = canon.replace(old,new)
+          if '## Current writing position' in canon:
+              canon = canon.split('## Current writing position',1)[0]
+          canon += '''## Sequence 11 — What He Left\n\nSolomon's records extend maintenance beyond his death. The next interval is nine days overdue. Materials, measurements, dates, keys, and locations are preserved, but no person is named to continue the work.\n\nThis dramatizes Solomon's locked `access without appointment` contradiction without revealing a hidden succession plan.\n\nThe brothers establish their first collective operating rule: nobody goes alone; nobody decides alone.\n\n## Sequence 12 — When It Stays\n\nThe Entity's proximity escalates into severe perceptual stutter and physiological translation pressure. Human bodies and local spatial continuity become less coherent as the Entity becomes more perceptually coherent.\n\nThe encounter causes residual injury to all three brothers and places uninformed family members at risk. Ade uses social intelligence to redirect a child and help Eno clear the household, creating a new family-protection layer without assigning Ade supernatural function.\n\nThe brothers do not yet possess a complete attention rule.\n\nAfter the manifestation, the loose brass fastener on the inner maintained door is found seated in the unfinished measured point, one turn short. Cause unknown.\n\n## Current writing position\n\nEnd of Sequence 12 — `WHEN IT STAYS`.\n\nThe brothers are injured. The family has questions. The next maintenance interval is already nine days overdue. The wider household is now inside the practical radius of the breach.\n\nNo one has accepted stewardship. No complete repair plan exists. Sister-death causality remains unrevealed.\n\nSee `docs/NEXT_MOVEMENT.md` before drafting Sequence 13.\n'''
+          Path('00_CANON.md').write_text(canon, encoding='utf-8', newline='\n')
+
+          # 7) Decision log: prepend new locks.
+          dpath = Path('docs/DECISION_LOG.md')
+          d = dpath.read_text(encoding='utf-8')
+          marker = '---\n\nDATE:'
+          new_decisions = '''---\n\nDATE:\n2026-08-13\n\nTITLE:\nAward-Level Screenplay Gate — Passed Through Sequence 12\n\nDECISION:\nSequences 11 (`WHAT HE LEFT`) and 12 (`WHEN IT STAYS`) have passed creative, continuity, character-voice, exposition, runtime, horror, Entity-rule, family-protection, integration, Windows/Courier render, and visual-page audits.\n\nThe authoritative producer copy is now 58 physical pages total: one title page plus 57 screenplay pages.\n\nSequence 11 occupies six rendered screenplay pages and dramatizes Solomon's `access without appointment` contradiction through the nine-day overdue maintenance interval and absence of any named successor.\n\nSequence 12 establishes perceptual stutter, physiological translation pressure, residual bodily injury, wider-family exposure, and Ade's human protective function.\n\nThe inner-door fastener changes state but its cause remains unresolved.\n\nSTATUS:\nLOCKED SCREENPLAY THROUGH SEQUENCE 12 / QUALITY GATE PASSED\n\n---\n\nDATE:\n2026-08-13\n\nTITLE:\nEntity Proximity Produces Physiological Translation Pressure\n\nDECISION:\nEntity proximity may make human perception, nervous systems, bodily sequence, and local physical reality increasingly incompatible. Acute effects can include metallic taste, ear pressure, temporal sound error, binocular convergence failure, violent vertigo, proprioceptive mismatch, breathing-sequence disruption, bleeding, vomiting, tremor, and transient sensory/motor failure.\n\nPerceptual stutter is the Seen producing incompatible answers for something it cannot translate coherently; it is not a digital glitch or teleportation power.\n\nAs collective perception increases, Entity coherence may increase while human/local coherence decreases. Characters must learn this behaviorally rather than receiving an immediate explanatory rule.\n\nSTATUS:\nLOCKED / FOUNDATIONAL HORROR EXECUTION\n\n---\n\nDATE:\n2026-08-13\n\nTITLE:\nSequence Numbering Uses Arabic Numerals\n\nDECISION:\nActive screenplay and control documents use standard numerical sequence labels: Sequence 1, Sequence 2, Sequence 3, and so on. Roman numerals are not used for sequence numbers going forward.\n\nSTATUS:\nLOCKED FORMATTING / WORKFLOW\n\n'''
+          if 'Award-Level Screenplay Gate — Passed Through Sequence 12' not in d:
+              first = d.find(marker)
+              if first != -1:
+                  d = d[:first] + new_decisions + d[first+4:]
+              else:
+                  d += '\n' + new_decisions
+          # Normalize common active sequence references without touching Act numbering.
+          for old,new in [('Sequence XI','Sequence 11'),('Sequence X','Sequence 10'),('Sequence IX','Sequence 9'),('Sequence VIII','Sequence 8'),('Sequence VII','Sequence 7'),('Sequence VI','Sequence 6'),('Sequence V','Sequence 5'),('Sequence IV','Sequence 4'),('Sequence III','Sequence 3'),('Sequence II','Sequence 2'),('Sequence I','Sequence 1')]:
+              d = d.replace(old,new)
+          dpath.write_text(d, encoding='utf-8', newline='\n')
+
+          # 8) Character canon: endpoint + progression append.
+          cpath = Path('docs/CHARACTER_CANON.md')
+          c = cpath.read_text(encoding='utf-8')
+          c = c.replace('Canonical screenplay endpoint: End of Sequence X — `THE TWO RECORDS`', 'Canonical screenplay endpoint: End of Sequence 12 — `WHEN IT STAYS`')
+          for old,new in [('Sequence VIII','Sequence 8'),('Sequence IX','Sequence 9'),('Sequence X','Sequence 10'),('Sequence VII','Sequence 7'),('Sequence VI','Sequence 6'),('Sequence V','Sequence 5'),('Sequence IV','Sequence 4'),('Sequence III','Sequence 3'),('Sequence II','Sequence 2'),('Sequence I','Sequence 1')]:
+              c = c.replace(old,new)
+          if '## Sequence 11-12 character progression' not in c:
+              c += '''\n## Sequence 11-12 character progression\n\n### Malik\n\nSequence 11 tests whether his procedural aptitude becomes domination. He chooses not to act blind and accepts Ade's collective rule. Sequence 12 then attacks the bodily foundation of Malik's control: breathing itself must be consciously restarted.\n\n### Kai\n\nSequence 11 makes Solomon's missing human instruction concrete. Sequence 12 gives Kai the heaviest physiological exposure and forces him to recognize that additional family attention may create danger before he understands why. His right arm and eye carry residual consequences.\n\n### Ade\n\nSequence 11 makes Ade the person who prevents either brother from owning Solomon's meaning and establishes collective decision-making. Sequence 12 converts his social intelligence into survival infrastructure: redirecting a child, creating an ordinary cover story, and helping clear the household. No supernatural office is created.\n\n### Bode\n\nBode remains bounded. He cannot explain the missed interval, Entity physiology, observer mechanism, or Solomon's intended successor.\n\n### Eno\n\nEno remains practical household authority. She feeds the brothers, clears the household, and insists on medical common sense without acquiring supernatural expertise.\n'''
+          cpath.write_text(c, encoding='utf-8', newline='\n')
+
+          # 9) Motif ledger evolution.
+          mpath = Path('docs/MOTIF_LEDGER.md')
+          m = mpath.read_text(encoding='utf-8')
+          if '## Perceptual Stutter / Bodily Sequence' not in m:
+              m += '''\n## Perceptual Stutter / Bodily Sequence\n\nMeaning:\n\n- failed translation between Seen and Unseen;\n- perception and bodily continuity becoming unreliable under Entity proximity;\n- the cost of trying to resolve what should not fit ordinary human conditions.\n\nRules:\n\n- never present as digital glitch/static;\n- do not repeat identical stutter beats as a signature effect;\n- each recurrence must change relationship, bodily consequence, knowledge, or danger;\n- residual symptoms persist after the Entity withdraws.\n\n## Family Attention / Protection\n\nMeaning:\n\n- the breach now threatens uninformed relatives as well as the brothers;\n- ordinary social behavior can become protective action;\n- attention/proximity must be learned behaviorally rather than explained immediately.\n\nSequence 12 seed:\n\nAde blocks a child's sightline and helps Eno move the household away. The scene shows reduced pressure without announcing a complete rule.\n\n## Inner-Door Fastener\n\nContinuity:\n\n- loose on sill through Sequence 11;\n- seated in the unfinished measured point after Sequence 12;\n- one turn short;\n- cause unknown.\n\nDo not convert the changed fastener into an automatic repair instruction until story evidence earns that interpretation.\n'''
+          mpath.write_text(m, encoding='utf-8', newline='\n')
+
+          # 10) Manifest patch.
+          ppath = Path('PROJECT_MANIFEST.yaml')
+          p = ppath.read_text(encoding='utf-8')
+          p = p.replace('version: 3.1', 'version: 4.0', 1)
+          p = p.replace('development_phase: sequence-x-award-lock-sequence-xi-development', 'development_phase: sequence-12-award-lock-sequence-13-development')
+          p = p.replace('canonical_endpoint: sequence_x', 'canonical_endpoint: sequence_12')
+          p = p.replace('endpoint_title: THE TWO RECORDS', 'endpoint_title: WHEN IT STAYS')
+          p = p.replace('screenplay_pages: 41', 'screenplay_pages: 57')
+          p = p.replace('physical_pdf_pages: 42', 'physical_pdf_pages: 58')
+          p = p.replace('sequence: X\n    title: THE TWO RECORDS', 'sequence: 12\n    title: WHEN IT STAYS')
+          p = p.replace('physical_pages: 42', 'physical_pages: 58')
+          p = p.replace('The sister\'s full death causality remains withheld through Sequence X.', 'The sister\'s full death causality remains withheld through Sequence 12.')
+          p = p.replace('The inner maintained door belongs to the same covenant system and remains unopened through Sequence X.', 'The inner maintained door belongs to the same covenant system; it remains unopened through Sequence 12, though its loose fastener changes state after the Sequence 12 manifestation.')
+          # Numeric existing rewritten-sequence metadata.
+          p = p.replace('sequence: VIII', 'sequence: 8').replace('sequence: IX', 'sequence: 9').replace('sequence: X', 'sequence: 10')
+          if 'title: WHAT HE LEFT' not in p:
+              needle = '    - sequence: 10\n      title: THE TWO RECORDS\n      status: canonical\n'
+              insert = needle + '    - sequence: 11\n      title: WHAT HE LEFT\n      status: canonical\n    - sequence: 12\n      title: WHEN IT STAYS\n      status: canonical\n'
+              p = p.replace(needle, insert)
+          ppath.write_text(p, encoding='utf-8', newline='\n')
+
+          # 11) Main award audit gets continuation note.
+          apath = Path('development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md')
+          a = apath.read_text(encoding='utf-8')
+          if '## Sequence 11-12 continuation audit' not in a:
+              a += '''\n## Sequence 11-12 continuation audit\n\nThe screenplay has subsequently passed the award-level gate through Sequence 12. See `development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md` for the full continuation audit.\n\nCurrent producer copy: 58 physical pages / 57 screenplay pages.\n'''
+          apath.write_text(a, encoding='utf-8', newline='\n')
+      - name: Re-render after numbering normalization
+        run: python tools/render_screenplay.py 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf
+      - name: Validate synchronized state
+        shell: python
+        run: |
+          from pathlib import Path
+          from pypdf import PdfReader
+          text = Path('01_SCREENPLAY.fountain').read_text(encoding='utf-8')
+          for n in range(1,13):
+              assert f'# SEQUENCE {n} -' in text, n
+          for roman in ['# SEQUENCE I -','# SEQUENCE II -','# SEQUENCE III -','# SEQUENCE IV -','# SEQUENCE V -','# SEQUENCE VI -','# SEQUENCE VII -','# SEQUENCE VIII -','# SEQUENCE IX -','# SEQUENCE X -']:
+              assert roman not in text
+          pdf = PdfReader('output/pdf/EKPO_Screenplay.pdf')
+          assert len(pdf.pages) == 58, len(pdf.pages)
+          assert 'Sequence 13' in Path('docs/NEXT_MOVEMENT.md').read_text(encoding='utf-8')
+          assert 'End of Sequence 12' in Path('docs/CURRENT_CONTINUITY.md').read_text(encoding='utf-8')
+          assert 'sequence_12' in Path('PROJECT_MANIFEST.yaml').read_text(encoding='utf-8')
+          print('SYNC_OK pages=58')
+      - name: Commit and remove sync workflow
+        shell: pwsh
+        run: |
+          git config user.name 'EKPO Repository Agent'
+          git config user.email 'actions@users.noreply.github.com'
+          git add 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf 00_CANON.md 03_SESSION.md README.md PROJECT_MANIFEST.yaml docs/CURRENT_CONTINUITY.md docs/NEXT_MOVEMENT.md docs/DECISION_LOG.md docs/CHARACTER_CANON.md docs/MOTIF_LEDGER.md development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md
+          git rm -f .github/workflows/sync-sequence-12-state.yml
+          git commit -m 'Synchronize EKPO through Sequence 12'
+          git push origin HEAD:agent/authoritative-canon-sync
