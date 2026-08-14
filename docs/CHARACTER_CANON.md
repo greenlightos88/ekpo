@@ -54,9 +54,54 @@ Succession/transmission.
 
 He preserved the work but failed to preserve the partnership.
 
+### Final inheritance contradiction — access without appointment
+
+Solomon did **not** know or decide that his sons would become the next stewards.
+
+He could not know whether Malik, Kai, or Ade possessed the relevant capacities, whether they would understand the hidden work, or whether they would voluntarily accept responsibility for it.
+
+After his sister's death, grief and guilt left him capable of maintaining systems but increasingly incapable of rebuilding the human partnership those systems required.
+
+He therefore did what he could:
+
+- returned to Calabar when maintenance required him;
+- preserved procedural records;
+- preserved his sister's perceptual notebooks;
+- kept the maintenance room and material history intact;
+- attempted to compensate for the missing perceptual function;
+- left the Calabar house/property and access to his sons.
+
+But he did **not**:
+
+- formally appoint successors;
+- leave instructions declaring Malik or Kai the replacements;
+- design Kai's breach as a test;
+- know that the boys would accept stewardship;
+- train them openly;
+- ask them directly whether they would carry the work;
+- give them informed consent before his death.
+
+Solomon believed in his children. That belief was real.
+
+It was also something he hid behind.
+
+He could not bear to deliberately expose them to the danger that killed his sister, could not bear to recreate the partnership he associated with catastrophic loss, and may not have been able to risk hearing his children refuse the responsibility he had spent his life carrying.
+
+His final solution was therefore **access without appointment**.
+
+He left enough for them to find the truth and make a decision, but not enough to make that decision fair or safe.
+
+Writer-level dramatic truth:
+
+> Solomon left his sons a path, and abandoned them inside a problem he was too frightened to explain.
+
+Both are true.
+
+This must never turn Solomon into a posthumous mastermind. His inheritance is uncertain, loving, controlling, frightened, hopeful, and morally compromised.
+
 Canada/Calabar continuity:
 
-Solomon physically returned to Calabar when maintenance required his presence. Sequence X now gives the brothers their first concrete evidence: his procedural ledger contains Calabar dates long after he moved to Canada.
+Solomon physically returned to Calabar when maintenance required his presence. Sequence X gives the brothers their first concrete evidence: his procedural ledger contains Calabar dates long after he moved to Canada.
 
 Do not restore the superseded model in which Bode routinely performed Solomon's maintenance as proxy.
 
@@ -174,6 +219,7 @@ Malik does not know:
 - that he mirrors Solomon's procedural function;
 - the causal truth of his aunt's death;
 - a repair method;
+- whether Solomon expected any son to accept the work;
 - whether he will accept responsibility.
 
 ## Kai Oku
@@ -218,192 +264,8 @@ Sequence X progression:
 
 Kai asks before touching his aunt's notebook. He recognizes insect withdrawal, neck pressure, altered distance, and unstable articulation in her writing as direct rhymes with his current experience.
 
-Current knowledge through Sequence X:
+Solomon inheritance pressure:
 
-- he deliberately broke a maintained restraint and removed the talisman;
-- the breach was followed by escalating pressure at shrine, river, and house;
-- sustained attention appeared to increase the house presence's legibility/proximity;
-- his aunt documented phenomena strongly resembling his own experience;
-- her perceptual notes share dates with Solomon's procedural records;
-- her handwriting stops while Solomon's records continue;
-- Solomon later attempted to document sensory phenomena with uncertainty;
-- the inner maintained door belongs to the hidden work but its function is unknown.
+Kai is especially vulnerable to reading Solomon's lack of explicit instruction as one more act of paternal silence. That interpretation is emotionally valid but not the whole truth. Solomon left access because he believed his children could decide; he also failed them by forcing that decision to arrive without preparation.
 
-Kai does not know:
-
-- the Entity's definitive nature;
-- formal Seen/Unseen cosmology;
-- formal succession architecture;
-- that his aunt would have recognized him as a potential perceptual successor;
-- the causal truth of her death;
-- a repair procedure.
-
-## Ade Oku
-
-Age: 32
-
-Engine:
-
-Humor is emotional CPR.
-
-Core psychology:
-
-Ade monitors emotional circulation. He jokes to restart rooms, protect people, mediate tension, and avoid emotional arrest.
-
-Supernatural role law:
-
-Ade has no supernatural office.
-
-Do not invent a third metaphysical function for symmetry.
-
-Sequence VIII progression:
-
-Ade initiates the first direct family acknowledgement of the river event. During the house disturbance, he tracks both brothers, stops joking when fear becomes undeniable, and reinforces Malik's attempt to return Kai's attention to a human face rather than explaining the phenomenon.
-
-Sequence IX progression:
-
-Ade remains inside the confrontation, asks why Kai kept the talisman, and does not seize authority or turn fear into metaphysical explanation. Eno makes the immediate household decision.
-
-Sequence X progression:
-
-Ade sees the visual arrangement before either brother understands it: Malik absorbed by Solomon's procedural ledger, Kai holding the aunt's perceptual notebook.
-
-This does not assign Ade a missing mystical role. It reinforces his relational intelligence.
-
-Current knowledge through Sequence X:
-
-- the river and house events were shared rather than separate private hauntings;
-- Kai caused the shrine breach and removed the talisman;
-- Kai's sustained attention appeared to change proximity/legibility;
-- Bode has limited history knowledge rather than complete mythology;
-- Solomon repeatedly returned for hidden work;
-- Solomon and his sister kept different records on matching dates;
-- her record stops while Solomon's continues;
-- Malik/Kai are instinctively drawn to different halves of the evidence.
-
-Thematic function:
-
-Belonging does not require supernatural assignment.
-
-Possible future function:
-
-Ade may become the brother who notices when stewardship begins consuming Malik and Kai or recreating Solomon's isolation.
-
-## Bode Oku
-
-Relationship:
-
-Solomon's younger brother; uncle to Malik, Ade, and Kai.
-
-Engine:
-
-Restraint shaped by inherited caution.
-
-Core function:
-
-Family-history witness, land guide, and keeper of partial human memory — not supernatural custodian.
-
-Bode knows:
-
-- family history in fragments;
-- the land;
-- dangerous boundaries;
-- the western-stone area was not to be disturbed;
-- consequences surrounding his sister's death;
-- Solomon changed profoundly afterward;
-- Solomon repeatedly returned to Calabar for hidden work;
-- the household maintenance room contains Solomon's and older records;
-- his sister kept notebooks;
-- enough to recognize danger when the nephews reproduce familiar patterns.
-
-Bode does not know:
-
-- full Seen/Unseen cosmology;
-- every rule of the Entity;
-- complete succession architecture;
-- the full records of either custodian;
-- a complete repair procedure;
-- how to replace either function;
-- the inner maintained door's complete purpose.
-
-Sequence IX law:
-
-Bode explicitly says he does not know what the talisman is and refuses false certainty about the brothers' house experience.
-
-Sequence X law:
-
-Bode opens the outer household room but explicitly says Solomon did not bring him through the inner maintained door.
-
-Prohibited characterization:
-
-- co-custodian;
-- Solomon's routine maintenance proxy;
-- all-knowing occult elder;
-- exposition machine;
-- person who withholds obvious actionable truth merely to prolong plot.
-
-## Auntie Eno
-
-Engine:
-
-Love expressed through discipline.
-
-Core function:
-
-Family and household authority.
-
-She protects through feeding, correction, order, kinship, practical action, and moral pressure.
-
-Sequence IX progression:
-
-Eno does not recognize the talisman. She recognizes the men's fear and the danger of allowing an unknown object to move casually through her household. She covers it with ordinary clean cloth and reorganizes where people sleep/stay.
-
-She prevents anyone from moving the talisman, orders the brothers to remain together, and tells Bode to open Solomon's room before breakfast.
-
-Sequence X progression:
-
-Eno orders the outer room opened in daylight. She confirms human memory about Solomon's use of the room and the fact that the inner-door pattern changed after her sister died, but she does not explain supernatural mechanism.
-
-Eno may know:
-
-- family danger;
-- Solomon's secrecy;
-- Bode's restraint/evasions;
-- household history;
-- the sister's handwriting and ordinary family facts;
-- that hidden work repeatedly occurred in her home.
-
-Eno does not possess:
-
-- full shrine knowledge;
-- covenant cosmology;
-- Entity taxonomy;
-- succession mechanics;
-- perceptual-role expertise;
-- a repair procedure.
-
-Prohibited characterization:
-
-Do not turn Eno into a second Bode, occult oracle, or exposition device.
-
-## Character-system geometry
-
-The stewardship architecture must emerge from established psychology rather than assign arbitrary jobs.
-
-- Solomon → procedural stewardship distorted into obsessive control.
-- Sister → perceptual stewardship lost before succession could be transmitted.
-- Malik → procedural aptitude visible in existing behavior.
-- Kai → perceptual aptitude visible in existing behavior.
-- Ade → relational intelligence outside supernatural office.
-- Bode → limited witness to history and consequences.
-- Eno → household/family authority outside mythology expertise.
-
-Sequence X now visualizes this geometry without naming it.
-
-No appointment speech.
-
-No Chosen One language.
-
-No supernatural role for Ade.
-
-Function before vocabulary.
+Kai must never be told that the existence of the records obligates him to accept stewardship.
