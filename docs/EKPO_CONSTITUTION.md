@@ -1,316 +1,174 @@
 # EKPO CREATIVE CONSTITUTION
 
 Status: PERMANENT PROJECT LAW
-
-This file contains only the truths that define how EKPO functions. It is not a
-scene outline, continuity recap, or mythology glossary. Change it only when the
-user explicitly revises a governing principle.
+Updated: 2026-08-13
 
 ## Authority
 
-Before writing, revising, critiquing, or restructuring EKPO:
+Before writing, revising, critiquing, restructuring, or exporting EKPO:
 
-1. Read `01_SCREENPLAY.fountain`.
-2. Read every file in `docs/`.
-3. Treat the screenplay and `docs/` together as the operational source of
-   truth.
-4. Treat entries marked `LOCKED` in `DECISION_LOG.md` as binding.
-5. If a new instruction conflicts with a locked decision, identify the
-   conflict before changing the project.
-6. Never restore discarded material merely because it survives in an old
-   draft, chat, PDF, or development file.
+1. obey the latest explicit creator instruction;
+2. read `docs/SCREENPLAY_AUTHORITY.md`;
+3. treat `output/pdf/EKPO_Screenplay.pdf` as the authoritative dramatic screenplay iteration;
+4. read `docs/DECISION_LOG.md`;
+5. read this constitution;
+6. read `EKPO_Canonical_Mythology_Refactor.md`;
+7. read `00_CANON.md`, `docs/CURRENT_CONTINUITY.md`, `docs/CHARACTER_CANON.md`, `docs/MOTIF_LEDGER.md`, and `docs/NEXT_MOVEMENT.md`;
+8. use `01_SCREENPLAY.fountain` as the editable synchronized source that must reproduce the approved PDF;
+9. treat historical drafts/PDFs/development files as reference only where they do not conflict with current authority.
 
-The user's latest explicit correction may supersede an earlier lock, but the
-reversal must be recorded in `DECISION_LOG.md`.
+A later explicit creator correction may supersede an earlier lock. Record every consequential reversal in `docs/DECISION_LOG.md`.
 
 ## North Star
 
 EKPO is a psychological supernatural family drama about inheritance.
 
-The supernatural is the language.
+Family is the subject. Grief is the doorway. Inheritance is the engine. The supernatural is the language.
 
-Family is the subject.
+> Reality survives not through power, but through stewardship.
 
-Grief is the doorway.
+The dramatic question is not simply whether the brothers can defeat a supernatural force. It is whether they can confront inherited responsibility without repeating secrecy, abandonment, coercion, and failed partnership.
 
-Inheritance is the engine.
+## Prestige standard
 
-The film is not about a family encountering random evil. It is about a family
-discovering that an inherited responsibility was neglected, concealed, and
-distributed without informed consent.
-
-The dramatic question is never simply whether the brothers can defeat a
-supernatural force. It is whether they can confront what their family carried
-without repeating the secrecy, abandonment, and coercion through which it was
-passed down.
-
-## Prestige Standard
-
-EKPO must be director-facing and actor-facing.
-
-- Behavior carries meaning before dialogue explains it.
-- Silence is playable dramatic action, not empty atmosphere.
-- Horror must alter relationship, knowledge, obligation, control, danger, or
-  interpretation.
-- Symbolism must emerge from labor, family behavior, place, and consequence.
+- Behavior carries meaning before exposition.
+- Silence is playable dramatic action.
+- Horror must alter relationship, knowledge, obligation, danger, control, or interpretation.
+- Symbolism arises from labor, family behavior, place, and consequence.
 - No image exists only to look ominous.
-- No scene may substitute mythology for emotional drama.
-- No action prose should explain an image after the image has already done the
-  work.
-- Interpretive space is required for actors and directors.
-- Every sequence must answer: "Could this belong to another film?" If yes, it
-  is not finished.
+- No scene substitutes mythology for emotional drama.
+- Preserve interpretive space for actors/directors.
+- Every sequence must answer: could this belong to another film? If yes, it is not finished.
 
-Prestige does not mean slow, vague, solemn, or overwritten. Precision, pace,
-specificity, and consequence remain mandatory.
+## Metaphysical law
 
-## Story Law
+- Seen and Unseen are complementary conditions.
+- Covenant = stewardship preserving their relationship.
+- Shrine = regulator/alignment point, never prison/cage.
+- Entity = independent ancient Unseen intelligence attracted to breaches.
+- Breach does not generate Entity.
+- Attention creates proximity; perception is reciprocal.
+- Entity apparent anatomy in the Seen is failed translation.
+- Do not create an unearned taxonomy of the Unseen.
 
-Every major movement must change the family's relationship to inheritance:
+## Stewardship law
 
-- who carries it;
-- who refuses it;
-- who interprets it;
-- who was excluded from it;
-- who paid for it;
-- or whether bloodline can create obligation without consent.
+Historically the covenant required complementary functions:
 
-Solomon is never shown alive. The audience reconstructs him through rooms,
-objects, instructions, contradictory memories, correspondence, practical work,
-and damage left in other people.
+### Procedural / Seen-facing
 
-Solomon must remain human: loving, funny in memory, controlling, withholding,
-frightened, competent, and morally compromised. He is not an omniscient dead
-architect who predicted every response.
+Solomon: physical alignment, maintenance, bindings, materials, intervals, measurements, environmental conditions, procedural record.
 
-## Character Law
+### Perceptual / Unseen-facing
 
-### Malik Oku
+Sister: sensing pressure, manifestations, environmental disturbance, attention/contact, perceptual record, recognition of sensitivity.
 
-Engine: He fights entropy.
+They were partners, not rivals.
 
-Control is how Malik makes love visible. His competence and his danger come
-from the same behavior. His arc must move toward responsibility without
-domination, not toward generic surrender to chaos.
+Succession requires recognized capacity, transmitted knowledge, and voluntary acceptance. Blood does not remove agency.
 
-### Ade Oku
+## Reveal law
 
-Engine: Humor is emotional CPR.
+Writer-level canon: Solomon's procedural failure destabilized the boundary and his sister died restoring equilibrium.
 
-Ade jokes to restart rooms, protect people, and avoid emotional arrest. Every
-joke must have a target and a protective function. When humor fails, the
-failure is dramatic information. He is never generic comic relief.
+Early screenplay revelation must not give the sons the complete causal truth.
 
-### Kai Oku
+Sequence X may establish partnership, overlapping dates, the stopping of her record, Solomon continuing alone, and his later uncertain perceptual attempts.
 
-Engine: Pattern recognition driven by attachment hunger.
+The full truth should be revealed only when it changes a present decision rather than merely satisfying curiosity.
 
-Kai needs the father who withheld himself to become legible. His seeing must be
-based on observable pattern, not mystical omniscience. His path is observation,
-evidence, deliberate action, violation, consequence, and responsibility.
+## Character law
 
-Kai is responsible for the shrine breach. He was not chosen, possessed,
-mind-controlled, or deprived of memory when he broke the seal and removed the
-talisman.
+### Malik
 
-### Bode Oku
+He fights entropy. His mature arc is responsibility without domination. His procedural aptitude is character-based, not chosen status.
 
-Engine: Restraint shaped by inherited caution.
+### Kai
 
-Bode helps before he explains. His authority comes from practical competence,
-family standing, cultural fluency, and lived burden. He may be incomplete,
-afraid, complicit, or wrong. He must never withhold information merely to
-extend the plot.
+Pattern recognition driven by attachment hunger. He deliberately caused the breach. His perceptual aptitude is capacity, not destiny. Attention is dangerous because perception is reciprocal.
 
-### Auntie Eno
+### Ade
 
-Engine: Love expressed through discipline.
+Humor is emotional CPR. No supernatural office. His relational intelligence is central.
 
-Eno protects through feeding, correction, order, kinship, and direct moral
-pressure. She recognizes family danger and family memory. She is not a
-mythology oracle. Her authority does not depend on occult expertise.
+### Bode
 
-## Family and Geography Law
+Limited family-history/land/danger witness. Not custodian, proxy, repair expert, or exposition machine.
 
-- The family surname is Oku.
-- Solomon Oku is dead before `FADE IN`.
-- Malik, Ade, and Kai were raised in Vancouver.
-- Bode is based in Nigeria and travels to Vancouver because Solomon died.
-- Eno remains in Nigeria during all Vancouver material and first appears in
-  Calabar.
-- The scratched woman is Solomon and Bode's dead younger sister.
-- Her participation, erasure, and death carry the human cost beneath the
-  mythology.
-- Her exact death and full responsibility are not to be explained before the
-  drama earns them.
+### Eno
 
-## Cultural Law
+Household/family authority. Not mythology oracle.
 
-Efik and Nigerian life are expressed through behavior:
+## Cultural law
 
-- greeting;
-- elder respect;
-- kinship;
-- feeding;
-- correction;
-- humor;
-- work;
-- obligation;
-- disagreement;
-- modern domestic life;
-- and relationship-specific language.
+Efik/Nigerian life appears through behavior, kinship, food, work, greeting, humor, obligation, ordinary technology, correction, and relationship-specific language.
 
-Culture is never decorative atmosphere, a threat system, or an exposition
-service for Canadian-raised characters.
+- Efik: greeting/intimacy/elder respect/inherited belonging.
+- Nigerian English: principal shared language.
+- Nigerian Pidgin: complete social language, not intelligence shorthand.
+- Never manufacture accent by phonetic misspelling.
 
-Language registers are distinct:
+Final shrine/regulator/role/Entity terminology remains deferred until research/specialist review earns it.
 
-- Efik carries greeting, intimacy, elder respect, and inherited belonging.
-- Nigerian English is the principal shared language.
-- Nigerian Pidgin is a complete social language used for informality,
-  negotiation, solidarity, and code-switching.
-- Accent must never be manufactured through phonetic misspelling.
-- Age, education, kinship, profession, and emotional purpose shape cadence.
+## Horror law
 
-Current Efik spellings, Calabar cadence, food practice, material culture, and
-kinship behavior remain under a working lock pending a native Efik/Calabar
-reader.
+After the breach, a supernatural beat requires:
 
-Shrine terminology, ritual vocabulary, and the culturally grounded name of the
-regulator or Entity remain deliberately deferred pending specialist review.
-Do not invent them for atmosphere.
-
-## Supernatural Constitution
-
-### The trigger
-
-The shrine breach is the supernatural trigger.
-
-Before Kai removes the talisman:
-
-- no impossible object behavior;
-- no camera anomaly;
-- no self-activating electronic;
-- no supernatural spider;
-- no watcher;
-- no delayed reflection;
-- no tap from a sealed space;
-- no supernatural drumbeat;
-- no Entity pursuit;
-- and no implication that the Entity travelled from Vancouver.
-
-Pre-trigger unease comes from grief, silence, family concealment, charged but
-ordinary objects, cultural displacement, and Kai's pattern sensitivity.
-
-### The regulator
-
-The shrine regulates or mediates balance on Oku family land. The Oku bloodline
-performed repeated maintenance around it.
-
-It is not a generic prison holding a conventional monster.
-
-### The Entity
-
-The Entity is a balance-correcting force from its own perspective. It is not
-canonically evil, demonic, or a "spider god." Its definitive name, nature, and
-relationship to the small shrine spider remain unresolved.
-
-It becomes active because:
-
-1. the maintaining bloodline returns;
-2. Kai intentionally breaks a maintained boundary;
-3. Kai intentionally removes the talisman;
-4. Kai chooses not to restore it.
-
-Every supernatural capability must be earned in sequence. A new beat requires:
-
-1. a causal trigger;
-2. a target;
-3. a currently permitted capability;
-4. an emotional or behavioral channel;
+1. causal trigger;
+2. perceptual target or shared field;
+3. capability consistent with established ecology;
+4. emotional/behavioral channel;
 5. narrative consequence;
-6. and residue.
+6. residue.
 
-Never give the Entity a power merely because it would be frightening.
+No power is added simply because it would be scary.
 
-### Perception
+Current established grammar includes ecological sound withdrawal, unstable distance, partial failed-translation form, and reciprocal awareness under attention.
 
-The Entity behaves like disturbed ecology and inherited memory, not a
-conventional creature villain.
+Do not convert these into repetitive tricks.
 
-- Shared events may be perceived differently through existing coping systems.
-- Difference of perception does not automatically mean three separate
-  hauntings.
-- Ambiguity must have credible interpretations.
-- The Entity learns through contact and response; it does not begin with
-  complete biographical knowledge.
-- Stable creature form, physical injury, dead-relative impersonation, and
-  complete individualized psychological scenarios require future earned
-  development and are not currently permitted.
+## Red-room law
 
-## Object Law
+The work room is a spiritual maintenance workshop, not occult spectacle.
 
-There is one brass urn.
+Its central reveal is complementary records:
 
-It moves continuously from Solomon's house, to the Vancouver funeral, back to
-the house, to Calabar, across the family land, and to the river. Solomon's ashes
-remain in the river. The urn is now empty.
+- Solomon procedural/measurable;
+- sister perceptual/observational.
 
-There is:
+The inner maintained door belongs to the same covenant architecture. It is not a second portal/cage and remains closed/unexplained through Sequence X.
 
-- no coffin;
-- no ceremonial casket;
-- no Vancouver grave burial;
-- no columbarium;
-- no release or retrieval sequence;
-- no second urn;
-- and no remains-transfer subplot.
-
-Objects do not become magical merely because they recur. Their meanings arise
-from custody, labor, concealment, and changed context.
-
-## Dialogue Law
+## Dialogue law
 
 - Dialogue reveals avoidance before information.
 - No character speaks the film's thesis.
-- No mythology speech resolves an emotional argument.
-- No relative translates the culture for the audience without a human reason.
-- Bode may say what he knows, what he remembers, and what he doubts; those are
-  different categories.
-- Eno may identify family behavior and memory without acquiring supernatural
-  expertise.
+- No mythology lecture resolves an emotional argument.
+- Bode distinguishes what he knows, remembers, infers, and cannot know.
+- Eno identifies family truth without supernatural expertise.
+- Function before ritual vocabulary.
 
-## Visual and Sound Law
+## Motif law
 
-Every sequence requires one EKPO-specific image arising from its emotional
-argument.
+- Red cord = maintenance/agreement/stewardship/boundary made physical.
+- Brass = handled continuity/regulatory material, not universal magic.
+- Spider = small ecological witness/articulation rhyme, never literal deity/body.
+- Thresholds = responsibility/crossing/permeability.
+- Sound = ordinary baseline before exact subtraction.
+- Distance = spatial coherence failing under proximity, not generic dream logic.
+- Records = lost partnership made visible.
 
-Sound follows causal progression:
+## Screenplay integrity gate
 
-- before the shrine, sound remains ordinary, including funeral feedback;
-- the first supernatural sound is absence at the breached shrine, followed by
-  one earth-borne beat;
-- later sound withdrawal, rhythm, breath, voices, and brass resonance must
-  remain within the capability ledger;
-- silence caused by family avoidance must remain distinguishable from
-  ecological silence caused by the breach.
+Before accepting new pages verify:
 
-Score must not announce meaning the drama has not earned.
-
-## Locking and Integrity Gate
-
-When the user clearly says "keep this," "this is right," "lock this," "that's
-the version," "this belongs," or equivalent language, record the creative
-decision as `LOCKED` in `DECISION_LOG.md`.
-
-Before screenplay pages are produced, silently verify:
-
-- no locked decision is contradicted;
-- no discarded material is restored;
-- no motif changes meaning without a logged decision;
-- no character knows more than the continuity permits;
-- no mystery is solved before its dramatic function matures;
-- no mythology replaces emotional conflict;
-- and no horror exists only to frighten.
-
-If any test fails, revise before producing pages.
+- output PDF and Fountain are synchronized;
+- Entity remains independent/breach-seeking;
+- shrine remains regulator;
+- Bode remains limited/non-proxy;
+- Malik/Kai remain capable, not chosen;
+- Ade has no forced supernatural role;
+- Eno remains non-mythological;
+- full sister-death causality remains controlled;
+- inner door remains same-system architecture;
+- no Emeka/doppelganger/containment legacy returns;
+- culture is lived rather than explained.

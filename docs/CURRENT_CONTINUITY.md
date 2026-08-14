@@ -1,369 +1,254 @@
 # EKPO CURRENT CONTINUITY
 
-Last reconciled: 2026-07-25
+Last reconciled: 2026-08-13
+Status: ACTIVE
 
-Screenplay source: `01_SCREENPLAY.fountain`
+Authoritative dramatic screenplay: `output/pdf/EKPO_Screenplay.pdf`
+Synchronized editable source: `01_SCREENPLAY.fountain`
+Current canonical endpoint: End of Sequence 12 — `WHEN IT STAYS`
+Producer PDF: 57 screenplay pages plus title page (58 physical pages total)
 
-Current canonical endpoint: End of Act II, Sequence X - The Closed Room
+## Immediate story position
 
-Producer draft length at this endpoint: 43 screenplay pages plus title page
+Night at the Oku family compound outside Calabar.
 
-## Immediate Story Position
+Sequence 12 has just ended after the most severe Entity manifestation yet.
 
-It is morning at the Oku family house outside Calabar, immediately after the
-brothers' first shared nighttime disturbance and the kitchen disclosure.
+The wider household has been moved outside under Ade's improvised gas-leak explanation.
 
-The household continues ordinary life at the front of the compound. Eno has
-kept the children and uninformed relatives away from the back passage.
+The three brothers remain physically affected:
 
-Malik, Ade, Kai, Bode, and Eno have entered the red-corded work room.
+- Kai's right eye is bloodshot from a burst capillary;
+- Kai's right arm has regained movement but still trembles;
+- Kai vomited during the encounter and remains physiologically destabilized;
+- Malik experienced diaphragm/breath-sequence failure and is still consciously regulating breathing;
+- Ade has a nosebleed and residual vestibular/auditory disturbance;
+- all three experienced perceptual stutter and incompatible spatial states.
 
-The room has revealed:
+Eno has ordered the car and is prepared to seek practical medical care. Malik asked for one minute to assess Kai's motor function; Eno granted exactly one minute.
 
-- practical tools used repeatedly;
-- replacement red cotton of different ages and weights;
-- boundary maps;
-- rainfall and river-height records;
-- dates beside repaired stones;
-- decades of correspondence from Solomon in Vancouver;
-- copies of Bode's questions and Solomon's practical answers;
-- and an older notebook written in three hands.
+The final image changes the inner maintained door:
 
-Eno has just identified the third hand as belonging to her, Solomon, and
-Bode's dead younger sister.
+- the previously loose brass fastener is no longer on the sill;
+- it is seated in the unfinished measured point near the lower hinge;
+- it remains one turn short;
+- none of the brothers put it there;
+- no character knows what caused the change.
 
-No repair has been attempted.
+## Canonical sequence status
 
-No one has agreed to inherit the work.
+### Act 1
 
-No new supernatural event occurred in Sequence X.
+1. The Last Morning — canonical / forensic-audited
+2. The Funeral — canonical / forensic-audited
+3. The Will and Decision — canonical / forensic-audited
+4. Arrival — canonical / forensic-audited
+5. Homecoming — canonical / forensic-audited
+6. The Land and the Shrine — canonical / forensic-audited
 
-## Canonical Sequence Status
+### Act 2
 
-### Act I
+7. The River Boundary — canonical / forensic-audited
+8. The Distance Between — canonical / forensic-audited
+9. What He Opened — canonical / forensic-audited
+10. The Two Records — canonical / forensic-audited
+11. What He Left — canonical / forensic-audited
+12. When It Stays — canonical / forensic-audited
 
-1. The Last Morning - canonical and integrity-reviewed
-2. The Funeral - canonical and integrity-reviewed
-3. The Will and Decision - canonical and integrity-reviewed
-4. Arrival - canonical and integrity-reviewed
-5. Homecoming - canonical and integrity-reviewed
-6. The Land and the Shrine - canonical and integrity-reviewed
+Sequence 13 has not been written.
 
-Act I ends when Kai intentionally breaks the shrine's red-thread seal, removes
-the talisman, chooses not to restore it, and the regulator becomes active.
+## Sequence 11 — What He Left
 
-### Act II
+The brothers search Solomon's records for what comes next.
 
-7. The River Boundary - canonical and integrity-reviewed
-8. The House Listens - canonical and integrity-reviewed
-9. The Broken Knot - canonical and integrity-reviewed
-10. The Closed Room - canonical and integrity-reviewed
+They establish:
 
-Sequence XI has not been written.
+- Solomon continued scheduling procedural maintenance beyond his own expected lifetime;
+- the next documented maintenance interval is nine days overdue;
+- Solomon preserved materials, quantities, locations, keys, measurements, and future dates;
+- no person is named to perform the future work;
+- no letter appoints Malik, Kai, Ade, Bode, or any successor;
+- Bode says Solomon never asked him to continue the schedule and does not know what happens when an interval is missed.
 
-## Time and Place
+The brothers make their first collective operational decision:
 
-- Country: Nigeria
-- Region: Cross River State
-- Immediate location: Oku family compound outside Calabar
-- Immediate room: the opened household work room
-- Time: morning after Sequences VIII and IX
-- Solomon's ashes were placed in the river the previous late afternoon
-- None of the brothers slept
+- nobody returns to the shrine alone;
+- nobody makes a consequential decision alone;
+- they first determine what the missed interval actually required.
 
-## Principal Character State
+This is voluntary collective action, not acceptance of supernatural office.
 
-### Malik
+## Sequence 12 — When It Stays
 
-Emotional state:
+Ordinary household life resumes before the encounter.
 
-- angry that Solomon and Bode exposed the brothers without informed consent;
-- frightened by the intrusion into his bed;
-- attempting to turn danger into a departure plan;
-- disturbed by recognizing Solomon's controlling habits in the work records;
-- and unwilling to accept that age or bloodline makes the hidden work
-  legitimate.
+The Entity's proximity produces:
 
-Current behavior:
+- metallic taste and ear pressure in Kai;
+- sound arriving out of temporal alignment;
+- binocular convergence failure;
+- violent vertigo/proprioceptive mismatch;
+- perceptual stutter in which occupied and empty space can both register as valid;
+- discontinuity between movement and experienced movement;
+- breathing-sequence disruption in Malik;
+- ocular/nasal bleeding;
+- vomiting;
+- transient loss and painful return of sensation in Kai's right arm;
+- apparent structural load in the passage;
+- impossible dust behavior;
+- increasing perceptual coherence of the Entity while surrounding human space becomes less coherent.
 
-- keeps the empty urn case with him;
-- argues for leaving;
-- demands usable information rather than inherited obedience;
-- remains with his brothers despite wanting immediate control of the exit.
+A young girl reports that Kai is calling her while the real Kai is visibly incapacitated. No clean voice-mimic power is established; the event remains perceptually ambiguous.
 
-Current knowledge:
+Ade prevents the child from looking into the affected passage and redirects the household using an ordinary gas-leak explanation.
 
-- Kai broke a maintained seal and removed the talisman;
-- all three brothers experienced one shared disturbance;
-- the talisman was one component of repeated maintenance;
-- Solomon continued directing practical work from Vancouver;
-- Bode performed local work without understanding everything;
-- and the dead sister participated.
+As uninformed people move away from the passage, the brothers experience reduced physiological/spatial pressure. They do not yet fully understand the mechanism.
 
-Malik has not consented to the inheritance.
+## Principal character state
 
-### Ade
+### Malik Oku
 
-Emotional state:
+- still defaults to procedure under fear;
+- chose restraint in Sequence 11 rather than immediately acting on incomplete records;
+- accepted Ade's collective rule rather than claiming unilateral authority;
+- physically stabilized Kai during Sequence 12;
+- experienced the Entity as an assault on bodily sequence/control through failed breathing initiation;
+- does not know that his procedural aptitude mirrors Solomon's stewardship function.
 
-- exhausted;
-- frightened by the sampled voices;
-- alert to the family dividing under pressure;
-- wounded by the difference between Solomon answering "the work" and answering
-  people;
-- and using less humor because the room cannot be safely restarted by a joke.
+### Kai Oku
 
-Current behavior:
+- discovered the absence of any human succession instruction in Solomon's meticulous records;
+- remains angry at Solomon's silence without converting that anger into Chosen One logic;
+- recognized the Entity's approach first through bodily pressure;
+- suffered the most severe exposure;
+- urgently asked the brothers to move family away when additional people began approaching;
+- does not yet possess a complete attention/observer rule.
 
-- keeps both brothers in view;
-- refuses isolated action;
-- turns "stay together" into an operational family rule;
-- and supports remaining only long enough to make an informed decision.
+### Ade Oku
 
-Current knowledge:
+- prevented Malik and Kai from claiming competing complete interpretations of Solomon;
+- established the shared rule: nobody goes alone; nobody decides alone;
+- protected an uninformed child during the Sequence 12 manifestation;
+- used humor/social movement only while it remained useful, then dropped it under genuine terror;
+- created the gas-leak cover that allowed Eno to clear the household;
+- has no supernatural office.
 
-- real physical contact interrupted Kai's probe;
-- Bode's silence no longer protects the brothers;
-- leaving, returning, and remaining all carry shared consequences;
-- and the erased sister remained materially present in the work.
+### Bode Oku
 
-Ade has not consented to the inheritance.
+- still does not know the repair procedure, Entity ontology, or attention mechanism;
+- did not claim knowledge of Solomon's intended successor;
+- remains a frightened family-history witness rather than custodial authority.
 
-### Kai
+### Auntie Eno
 
-Emotional state:
+- remains household/family authority;
+- forces food, practical care, evacuation, and medical common sense into scenes that could otherwise disappear into mythology;
+- does not possess covenant cosmology or a repair procedure.
 
-- afraid of returning to the shrine;
-- responsible for exposing his brothers and Eno's household;
-- still compelled to understand the system he damaged;
-- and beginning to distinguish ethical investigation from taking.
+## Current knowledge boundary
 
-Current behavior:
+The brothers now know through evidence/experience that:
 
-- admits he broke the thread;
-- insists the talisman cannot simply be abandoned in Eno's house;
-- accepts that replacing it cannot reverse the breach;
-- stops his own hand before touching the notebook;
-- waits for Bode's permission.
+- Solomon maintained hidden procedural work for years;
+- his sister maintained a different perceptual record on matching dates;
+- Solomon continued scheduling work beyond his own life but named no successor;
+- a documented maintenance interval is nine days overdue;
+- Entity proximity can produce severe physiological and spatial disruption;
+- the wider family can become exposed by approaching or looking toward an active event;
+- moving people away appeared to coincide with reduced pressure;
+- the inner-door fastener changed state during/after the manifestation.
 
-Current knowledge:
+They do **not** yet know:
 
-- the shrine seal was maintained, not abandoned;
-- the talisman, binding, records, materials, and observations formed one
-  repeated system of labor;
-- Solomon, Bode, and their sister participated;
-- the Entity may use the promise of repair as a means of learning what he
-  answers to;
-- and his first breach cannot be undone by repeating the physical motion in
-  reverse.
+- formal Seen/Unseen terminology;
+- formal two-function stewardship vocabulary;
+- why collective attention changes translation pressure;
+- whether the Entity, regulator, or local reality changed the fastener;
+- the full function of the inner door;
+- a complete repair procedure;
+- the causal truth of Solomon's sister's death;
+- whether Malik or Kai will voluntarily accept stewardship.
 
-Kai has not accepted an inherited role.
-
-### Bode
-
-Emotional state:
-
-- frightened by the breach;
-- ashamed that procedure replaced truthful family communication;
-- exposed by the work room;
-- uncertain where remembered method ends and inherited assumption begins;
-- and no longer able to protect the family through restraint alone.
-
-Current behavior:
-
-- attempts and fails to reconstruct the shrine knot from memory;
-- refuses an immediate return;
-- admits the binding was checked, replaced, and recorded;
-- deliberately opens the household cord;
-- permits the brothers to inspect the records;
-- and does not pretend to know the Entity's definitive nature.
-
-Current knowledge:
-
-- Kai opened the regulator below the western stones;
-- the talisman was removed and the seal broken;
-- the Entity has entered Phase Two Attachment;
-- the brothers require truth before action;
-- and the work was distributed among Solomon, himself, and their sister.
-
-Bode's exact knowledge of repair, the sister's death, and the regulator's
-culturally grounded name remains unresolved.
-
-### Eno
-
-Emotional state:
-
-- protective of the household;
-- angry that Solomon and Bode concealed decades of work inside her house;
-- destabilized by recognizing her sister's handwriting;
-- and unwilling to remain outside decisions that place her family at risk.
-
-Current behavior:
-
-- keeps children and uninformed relatives at the front of the compound;
-- requires the brothers to remain together;
-- orders Bode to open the room;
-- enters only after family evidence makes her participation necessary;
-- recognizes handwriting through memory, not supernatural expertise.
-
-Current knowledge:
-
-- Kai left the path below the western stones;
-- Bode is frightened by what Kai brought home;
-- the hidden room held long-term practical work;
-- Solomon and Bode concealed that work;
-- and their dead younger sister wrote in the maintenance records.
-
-Eno does not know the Entity's definitive nature, the talisman's mechanism, the
-regulator's present condition, or a repair procedure.
-
-### Eyo
-
-Current state:
-
-- practical household ally;
-- knows that Bode, Eno, and the brothers are dealing with a serious family
-  problem;
-- has been told to keep children and relatives at the front;
-- has not received a supernatural explanation.
-
-## Object and Custody Ledger
+## Object and custody ledger
 
 ### Brass talisman
 
-- Removed intentionally by Kai from the shrine.
-- Disclosed in Sequence IX.
-- Wrapped once in ordinary clean cloth by Bode.
-- Current location: center of the kitchen table.
-- It is not in the work room.
-- No one may touch it casually.
-- The cloth is temporary handling, not a ritual repair.
+- removed intentionally by Kai from the regulator;
+- disclosed in Sequence 9;
+- remains under ordinary clean cloth in the house;
+- has not been returned or used as a magical solution.
 
-### Broken shrine thread
+### Inner-door fastener
 
-- Removed from Kai's camera bag by Bode.
-- Reconstructed enough to expose its workmanship.
-- Gathered by Bode in Sequence X.
-- Current location: carried by Bode into the work-room movement unless a later
-  scene explicitly places it elsewhere.
+- loose on the sill through Sequence 11;
+- seated in its measured point after Sequence 12;
+- one turn short;
+- cause unknown.
 
-### Failed replacement knots
+### Kai's camera
 
-- Three complete failures and a dismantled fourth attempt remain on the kitchen
-  table.
-- They demonstrate incomplete memory, not magical failure.
-
-### Household red cord
-
-- Removed deliberately from the red-corded door by Bode.
-- Opened in reverse rather than broken.
-- Current location: coiled in Bode's pocket.
+- struck the tile during Sequence 12;
+- casing is damaged/cracked;
+- future use must acknowledge the damage before treating it as normal equipment.
 
 ### Brass urn
 
-- Solomon's ashes are in the river.
-- The urn is empty.
-- Current location: inside its padded case in Malik's hand in the work room.
-- It produced one impossible note in Sequence IX and has done nothing since.
+- Solomon's ashes remain in the river;
+- urn is empty.
 
-### Work-room records
+## Supernatural state
 
-- Current location: open on the long work table.
-- Include maps, rainfall sheets, river heights, repaired-stone dates,
-  correspondence, and an older notebook.
-- They prove repeated labor.
-- They do not yet provide a complete repair procedure.
+Demonstrated on-page through Sequence 12:
 
-### Older notebook
+- ecological sound withdrawal after the breach;
+- fragmentary tactile/perceptual resonance at the regulator;
+- shared river pressure/contact;
+- unstable architectural distance;
+- partially perceptible failed-translation Entity form;
+- increased legibility associated with Kai's sustained attention;
+- perceptual stutter;
+- delayed/temporally misaligned sound;
+- severe physiological translation pressure;
+- apparent local structural load;
+- residual bodily injury after the Entity withdraws;
+- reduced pressure coinciding with uninformed family being moved away.
 
-- Current location: open on the work table.
-- Contains Solomon's hand, Bode's hand, and the sister's hand.
-- The sister's hand fills gaps, corrects a date, and continues a measurement.
-- Eno has just identified it.
+Still not established on-page:
 
-### Brass carving
+- complete attention/observer mechanism;
+- possession;
+- clean dead-relative or voice impersonation power;
+- stable conventional creature body;
+- omniscient access to private biography;
+- complete taxonomy of the Unseen;
+- complete repair mechanism;
+- cause of the changed inner-door fastener.
 
-- Last confirmed custody: Kai's camera bag.
-- It links Solomon's Vancouver drawer, the scratched photograph, the boundary
-  marks, and related human workmanship.
-- It is not a supernatural key or geometric map.
-- Do not relocate it without an explicit scene.
+## Writer-level canon not yet character knowledge
 
-### Scratched photograph
+- Seen and Unseen are complementary conditions;
+- covenant stewardship maintains their equilibrium;
+- the Entity is an independent ancient Unseen intelligence attracted to breaches;
+- attention creates proximity;
+- Solomon and his sister held complementary procedural/perceptual functions;
+- Solomon's procedural failure contributed to the catastrophic conditions in which his sister restored equilibrium and died;
+- her perceptual aptitude also made prolonged catastrophic exposure physiologically dangerous;
+- Solomon attempted to compensate afterward but failed succession/transmission;
+- Malik naturally mirrors Solomon's procedural aptitude;
+- Kai naturally mirrors the sister's perceptual aptitude;
+- Ade has no supernatural office;
+- succession requires recognition, training, and voluntary acceptance.
 
-- Last confirmed custody: protected by Kai and carried in his camera bag.
-- Shows young Solomon, Bode, and their younger sister.
-- Her face was deliberately scratched from the emulsion.
-- It behaves normally.
-- Do not relocate it without an explicit scene.
+The full causal truth of the sister's death remains withheld on-page.
 
-### Solomon's camcorder
+## Active consequences
 
-- Current location: Vancouver.
-- Missing its battery.
-- Has never activated in the story.
+Future scenes must not reset the brothers physically or psychologically.
 
-## Supernatural State
+Residual symptoms may include tremor, headache, nausea, tinnitus, unstable depth perception, sleep disruption, autonomic hypervigilance, and uncertainty about whether a symptom is residual or renewed pressure.
 
-Current phase: Phase Two - Attachment
+The wider family now has reason to ask what happened.
 
-Capabilities already demonstrated:
+The brothers' next problem is both practical and ethical:
 
-- suppression of ordinary environmental sound;
-- one earth-borne beat at the shrine;
-- fragmented tactile inherited resonance;
-- undifferentiated recognition of the three sons at the river;
-- names and short voice fragments sampled on the land;
-- spatially inconsistent whispers;
-- somatic pressure through weight, breath, and chest-borne rhythm;
-- minor temporal or spatial disagreement in a human shadow;
-- an ambiguous offer to close what Kai opened;
-- and one material resonance between talisman and empty brass urn.
-
-Still prohibited:
-
-- dead-relative impersonation;
-- private biographical memory;
-- sustained explanatory conversation;
-- physical injury;
-- objective architectural change;
-- stable creature form;
-- giant or symbolic spider manifestation;
-- and a complete individualized psychological scenario.
-
-Sequence X added no capability.
-
-## Active Dramatic Questions
-
-1. What exactly did the sister do within the maintenance system?
-2. Why was her face erased while her work remained necessary?
-3. What did Solomon leave her to carry?
-4. What did Bode understand, and what did he merely repeat?
-5. What record creates a practical question without becoming a repair manual?
-6. Can inherited responsibility be legitimate without informed consent?
-7. Does leaving the land carry the Attachment with the brothers?
-8. How long can the talisman remain inside Eno's household?
-9. What condition is the breached regulator currently in?
-10. What family behavior will the Entity learn from next?
-
-Do not answer all of these in one sequence.
-
-## Current Practical Goals
-
-- Keep the brothers together.
-- Protect children and uninformed relatives.
-- Prevent casual contact with the talisman.
-- Understand enough of the records to make an informed decision.
-- Distinguish remembered procedure from reliable knowledge.
-- Do not return to the regulator without a shared reason and sufficient
-  understanding.
-- Do not let the work room become an exposition archive.
-
-## Current Writing Constraint
-
-The next movement begins in the work room in morning daylight.
-
-It must deepen family conflict before it deepens mythology.
-
-The sister's handwriting creates pressure; it does not authorize a biography,
-death explanation, ritual lesson, or repair montage.
+**How do they protect living family members while they still do not understand enough to explain the danger?**
