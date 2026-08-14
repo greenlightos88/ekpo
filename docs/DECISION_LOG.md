@@ -14,6 +14,29 @@ DATE:
 2026-08-13
 
 TITLE:
+Award-Level Screenplay Gate
+
+DECISION:
+The current screenplay through Sequence X does not yet pass EKPO's final quality threshold.
+
+The story architecture, canon outcomes, character functions, mythology boundaries, and major visual design of Sequences VIII-X remain approved. The exact screenplay prose, dialogue, exposition density, beat construction, and final scene execution are **not locked**.
+
+No Sequence XI drafting and no merge to `main` are permitted until the mandatory rewrite pass in `development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md` is complete and the regenerated producer PDF passes a page-by-page audit.
+
+Canon correctness is the floor, not the finish line.
+
+STATUS:
+LOCKED WORKFLOW / QUALITY GATE
+
+SUPERSEDES:
+Any previous status label implying Sequences VIII-X were final solely because they were canonically synchronized.
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
 Output PDF Is the Dramatic Screenplay Authority
 
 DECISION:
@@ -27,7 +50,7 @@ STATUS:
 LOCKED WORKFLOW DECISION
 
 SUPERSEDES:
-Any workflow instruction that gives the editable Fountain higher dramatic authority than the latest approved output PDF.
+Any workflow instruction that gives a mismatched editable Fountain higher dramatic authority than the latest approved output PDF.
 
 ---
 
@@ -38,18 +61,18 @@ TITLE:
 Post-River Screenplay Rewrite - Sequences VIII-X
 
 DECISION:
-The post-river screenplay is rewritten and canonical through Sequence X.
+The post-river **story architecture** is canonical through Sequence X.
 
 Sequence VIII is `THE DISTANCE BETWEEN`: one shared house disturbance in which environmental sound withdrawal evolves from the river, passage distance becomes inconsistent, a partially perceptible failed-translation presence becomes more legible under Kai's sustained attention, reciprocal awareness occurs, Malik physically stabilizes Kai and breaks visual contact, and the presence withdraws without being defeated.
 
-Sequence IX is `WHAT HE OPENED`: Kai voluntarily discloses the brass talisman; Bode remains a limited family-history/boundary witness and explicitly does not know the object's complete nature, the cosmology, or how to perform Solomon's custodial work; Eno prevents a nighttime return and forces daylight access to the concealed family records.
+Sequence IX is `WHAT HE OPENED`: Kai voluntarily discloses the brass talisman; Bode remains a limited family-history/boundary witness and does not know the object's complete nature, the cosmology, or how to perform Solomon's custodial work; Eno prevents a nighttime return and forces daylight access to concealed family records.
 
-Sequence X is `THE TWO RECORDS`: the room reveals a practical spiritual-maintenance workshop, an inner maintained door/interface, Solomon's procedural ledger, and his sister's separate perceptual notebooks sharing dates. Travel evidence proves Solomon physically returned from Vancouver to Calabar for maintenance. Her records stop while Solomon continues alone and later attempts uncertain perceptual notation. Malik gravitates toward Solomon's procedural work, Kai toward the sister's perceptual record, Ade sees both, and no one is appointed.
+Sequence X is `THE TWO RECORDS`: the room reveals a practical spiritual-maintenance workshop, an inner maintained door/interface, Solomon's procedural ledger, and his sister's separate perceptual notebooks sharing dates. Evidence establishes that Solomon physically returned from Vancouver to Calabar for maintenance. Her records stop while Solomon continues alone and later attempts uncertain perceptual notation. Malik gravitates toward Solomon's procedural work, Kai toward the sister's perceptual record, Ade sees the emerging relationship, and no one is appointed.
 
-The producer PDF for this rewrite is 46 physical pages total: one title page plus 45 screenplay pages.
+These outcomes are locked. The current exact wording and beat density remain under award-level rewrite.
 
 STATUS:
-LOCKED / CANONICAL SCREENPLAY THROUGH SEQUENCE X
+LOCKED ARCHITECTURE / SCREENPLAY PROSE NOT LOCKED
 
 SUPERSEDES:
 - the previous Sequence VIII construction;
@@ -118,7 +141,7 @@ Attention Creates Proximity
 DECISION:
 Perception across the Seen/Unseen boundary is reciprocal. Seeing, answering, following, acknowledging, or repeatedly observing an Unseen phenomenon can increase reciprocal awareness.
 
-Sequence VIII provides on-page experiential evidence: the partially perceptible form becomes more legible the longer Kai watches and then reciprocally notices him.
+Sequence VIII must provide experiential evidence of this relationship without fully explaining the rule in dialogue immediately afterward.
 
 This remains a relational metaphysical rule, not a simplistic summoning mechanic.
 
@@ -157,7 +180,7 @@ Solomon Returned for Maintenance
 DECISION:
 Solomon physically returned to Calabar when his procedural stewardship required his presence. His sons understood at least some trips as funerals, property matters, family obligations, or ordinary visits.
 
-Sequence X gives the brothers direct evidence through dated maintenance records and travel evidence.
+The screenplay should establish this through physical evidence in records/travel history rather than turning Bode into the delivery mechanism.
 
 Bode did not routinely perform Solomon's custodial maintenance on his behalf.
 
@@ -178,7 +201,7 @@ Sister Death Truth Deferred On-Page
 DECISION:
 Writer-level canon establishes that Solomon's procedural failure destabilized the boundary and his sister died restoring equilibrium. Early screenplay material must not reveal the complete causal truth.
 
-Sequence X reveals partnership, overlapping dates, separate record systems, the stopping of the sister's writing, and Solomon continuing alone. It does not reveal the complete death causality.
+Sequence X may reveal partnership, overlapping dates, separate record systems, the stopping of the sister's writing, and Solomon continuing alone.
 
 The causal truth is reserved for a later moment when it directly changes a present Malik decision.
 
@@ -197,6 +220,8 @@ DECISION:
 The red-corded room is a working spiritual-maintenance environment. Its central discovery is complementary evidence: Solomon's procedural/measurable maintenance records and his sister's perceptual/observational records sharing dates.
 
 An inner maintained door belongs to the same covenant system. It is a human-facing threshold/interface, not a second portal or monster cage. Its full function remains unrevealed and it does not move or produce a scare during the room reveal.
+
+The screenplay must reveal this through selected evidence and behavior rather than exhaustive inventory or explanatory dialogue.
 
 STATUS:
 LOCKED
@@ -217,7 +242,7 @@ Bode is a family-history witness with practical knowledge of land, dangerous bou
 
 He does not possess complete cosmology, succession architecture, repair knowledge, or full records of either custodian.
 
-Sequence IX-X explicitly enforce this boundary.
+His screenplay disclosure must remain fragmentary, human, and memory-based rather than organized mythology delivery.
 
 Bode is not a co-custodian, maintenance proxy, or mythology narrator.
 
@@ -235,7 +260,7 @@ Ade Has No Supernatural Office
 DECISION:
 Ade's importance remains human and relational. He maintains emotional connection, uses humor as protection/social mediation, sees relational patterns, and may become the person who recognizes when stewardship consumes Malik and Kai.
 
-Sequence X explicitly lets Ade see the Malik/Kai arrangement without assigning him a third metaphysical function.
+Sequence X may let Ade notice the Malik/Kai relationship without explaining it or assigning him a third metaphysical function.
 
 STATUS:
 LOCKED
@@ -327,7 +352,7 @@ LOCKED
 ## Repository carries permanent operational memory
 
 DECISION:
-Future agents must be able to continue EKPO from repository state without depending on chat memory. Active canon, decisions, continuity, character truth, motifs, screenplay state, PDF state, and next assignment must remain explicit in the repository.
+Future agents must be able to continue EKPO from repository state without depending on chat memory. Active canon, decisions, continuity, character truth, motifs, screenplay state, PDF state, quality gates, and next assignment must remain explicit in the repository.
 
 STATUS:
 LOCKED
