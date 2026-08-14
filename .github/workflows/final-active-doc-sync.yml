@@ -1,0 +1,63 @@
+name: Final Active Doc Sync
+
+on:
+  push:
+    branches:
+      - agent/authoritative-canon-sync
+    paths:
+      - .github/workflows/final-active-doc-sync.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Patch active authority files
+        shell: python
+        run: |
+          from pathlib import Path
+
+          # Decision log: prepend newest lock without erasing historical decisions.
+          p = Path('docs/DECISION_LOG.md')
+          t = p.read_text(encoding='utf-8')
+          if 'TITLE:\nAward-Level Screenplay Gate — Passed Through Sequence 12' not in t:
+              header = '# EKPO DECISION LOG\n\nThis file records consequential creative decisions and reversals.\n\n`LOCKED` means a decision changes only through explicit creator reversal.\n\n`LOCKED / FOUNDATIONAL` means the decision defines architecture beneath multiple scenes/documents.\n\nOlder decisions remain historical when superseded and must not silently return.\n\n'
+              assert t.startswith(header)
+              newest = '''---\n\nDATE:\n2026-08-13\n\nTITLE:\nAward-Level Screenplay Gate — Passed Through Sequence 12\n\nDECISION:\nSequences 11 (`WHAT HE LEFT`) and 12 (`WHEN IT STAYS`) pass the current EKPO execution gate. The authoritative producer copy is 58 physical pages total: one title page plus 57 screenplay pages. Sequence 11 occupies six rendered screenplay pages. Sequence 12 establishes perceptual stutter, physiological translation pressure, residual injury, wider-family exposure, and Ade's human protective function.\n\nThe brothers do not yet possess the complete attention mechanism. The inner-door fastener changes state but its cause remains unknown.\n\nSTATUS:\nLOCKED SCREENPLAY THROUGH SEQUENCE 12 / QUALITY GATE PASSED\n\nSUPERSEDES:\nAny current-state designation stopping the authoritative screenplay at Sequence 10.\n\n---\n\nDATE:\n2026-08-13\n\nTITLE:\nSequence Numbering Uses Arabic Numerals\n\nDECISION:\nActive screenplay and current control documents use standard numerical sequence labels: Sequence 1, Sequence 2, Sequence 3, and so on. Roman numerals are not used for sequence numbers going forward.\n\nSTATUS:\nLOCKED FORMATTING / WORKFLOW\n\n'''
+              t = header + newest + t[len(header):]
+          # Normalize current textual sequence references while preserving historical meaning.
+          for old,new in [('Sequence XI','Sequence 11'),('Sequence X','Sequence 10'),('Sequence IX','Sequence 9'),('Sequence VIII','Sequence 8'),('Sequence VII','Sequence 7'),('Sequence VI','Sequence 6')]:
+              t = t.replace(old,new)
+          p.write_text(t, encoding='utf-8')
+
+          # Character canon endpoint/progression.
+          p = Path('docs/CHARACTER_CANON.md')
+          t = p.read_text(encoding='utf-8')
+          t = t.replace('Canonical screenplay endpoint: End of Sequence X — `THE TWO RECORDS`', 'Canonical screenplay endpoint: End of Sequence 12 — `WHEN IT STAYS`')
+          for old,new in [('Sequence VIII','Sequence 8'),('Sequence IX','Sequence 9'),('Sequence X','Sequence 10')]:
+              t = t.replace(old,new)
+          if '## Sequence 11-12 progression' not in t:
+              t += '''\n## Sequence 11-12 progression\n\n### Malik\n\nSequence 11 tests whether procedural aptitude becomes domination. Malik chooses not to act blind and accepts collective decision-making. Sequence 12 attacks the bodily foundation of his control through breathing-sequence failure.\n\n### Kai\n\nSequence 11 makes Solomon's missing human instruction concrete. Sequence 12 gives Kai the heaviest physiological exposure: ocular bleeding, vomiting, tremor, perceptual stutter, and transient right-arm failure. He recognizes danger to approaching family before he understands the complete mechanism.\n\n### Ade\n\nSequence 11 makes Ade necessary by preventing Malik/Kai from claiming complete ownership of Solomon's meaning and establishing `nobody goes alone; nobody decides alone.` Sequence 12 makes his social intelligence protective infrastructure: redirecting a child and helping Eno clear the household. He receives no supernatural office.\n\n### Bode\n\nBode remains bounded and cannot explain the missed interval, observer mechanism, repair, or Solomon's intended successor.\n\n### Eno\n\nEno remains household authority. She feeds, evacuates, and insists on medical common sense without becoming a mythology expert.\n'''
+          p.write_text(t, encoding='utf-8')
+
+          # Motif ledger endpoint and new evolved motifs.
+          p = Path('docs/MOTIF_LEDGER.md')
+          t = p.read_text(encoding='utf-8')
+          t = t.replace('Canonical endpoint: End of Sequence X — `THE TWO RECORDS`', 'Canonical endpoint: End of Sequence 12 — `WHEN IT STAYS`')
+          for old,new in [('Sequence VIII','Sequence 8'),('Sequence IX','Sequence 9'),('Sequence X','Sequence 10'),('Sequence VI','Sequence 6')]:
+              t = t.replace(old,new)
+          if '## Perceptual Stutter / Bodily Sequence' not in t:
+              t += '''\n## Perceptual Stutter / Bodily Sequence\n\nMeaning:\n- failed translation between Seen and Unseen;\n- perception/body continuity becoming unreliable under Entity proximity;\n- human/local coherence can decrease as Entity coherence increases.\n\nRules:\n- never digital glitch/static;\n- never teleportation language;\n- each recurrence must change consequence, knowledge, relationship, or danger;\n- residual symptoms persist after withdrawal.\n\n## Family Attention / Protection\n\nSequence 12 seed:\nAde blocks a child's sightline and helps Eno move the household away. Reduced exposure coincides with reduced pressure, but the characters do not yet possess a formal mechanism.\n\nRules:\n- do not reduce family to observer-count mechanics;\n- protection remains relational and human;\n- awareness/proximity must be learned behaviorally.\n\n## Inner-Door Fastener\n\nContinuity:\n- loose on sill through Sequence 11;\n- seated in unfinished measured point after Sequence 12;\n- one turn short;\n- cause unknown.\n\nDo not treat the change as an automatic repair instruction.\n'''
+          p.write_text(t, encoding='utf-8')
+      - name: Commit and self-delete
+        run: |
+          git config user.name 'EKPO Repository Agent'
+          git config user.email 'actions@users.noreply.github.com'
+          git add docs/DECISION_LOG.md docs/CHARACTER_CANON.md docs/MOTIF_LEDGER.md
+          git rm -f .github/workflows/final-active-doc-sync.yml
+          git commit -m 'Finalize EKPO active state through Sequence 12'
+          git pull --rebase origin agent/authoritative-canon-sync
+          git push origin HEAD:agent/authoritative-canon-sync
