@@ -7,6 +7,8 @@ This patch records only lines/moments that should change. Everything not listed 
 
 The goal is not to make the opening more literary. The goal is to remove places where the screenplay sounds more literary than the people, where Bode knows too much too early, or where later horror rules are pre-explained instead of discovered.
 
+**Cultural-language gate:** Before promotion, apply `docs/CULTURAL_LANGUAGE_REGISTER.md` and `development/rewrites/CULTURAL_LANGUAGE_REGISTER_PASS.md`. Bode, Eno, Eyo and local Calabar speakers must not default to neutral North-American screenplay cadence. Nigerian English / Nigerian Pidgin / Efik switching must follow relationship, status, intimacy and pressure rather than decorative slang.
+
 ---
 
 ## Sequence 1 — THE LAST MORNING
@@ -63,6 +65,8 @@ At sixteen? He said many things.
 ```
 
 Smaller. Human. Bode does not summarize Solomon's tragedy before we know it.
+
+Cultural register note: Vancouver funeral context and diaspora nephews justify clearer English here. Do not force Pidgin into a solemn Canadian funeral simply to mark Bode as Nigerian.
 
 ### C. Scratched photograph
 
@@ -179,6 +183,11 @@ No supernatural additions.
 
 Keep the porter exchange, Calabar road observations, and Bode's childhood memories.
 
+The porter exchange is now also the **register model** for Bode:
+
+- Pidgin/local register with a local stranger;
+- clearer Nigerian English with his Canadian-raised nephews.
+
 If trimming is required after render, trim descriptive duplication rather than cultural/social life.
 
 ---
@@ -204,14 +213,13 @@ He never told us any of this.
 Eno looks at the urn.
 
 ENO
-Solomon did not like being laughed at
-by his children.
+Solomon did not like his children laughing at him.
 
 ADE
 We would have survived the mangoes.
 
 ENO
-Maybe the mangoes.
+Mangoes, yes.
 ```
 
 Bode and Eno share the same small old glance. Kai catches it.
@@ -258,6 +266,14 @@ Then eat.
 
 Her refusal is domestic, specific, and stronger because she will not perform mystery for Kai.
 
+### C. Cultural-language pass
+
+Do not convert every Eno line to Pidgin.
+
+Use the register patch for selected teasing/household lines. Eno should sound local through cadence, social authority and selective code-switching, not through slang density.
+
+Candidate alternatives in `development/rewrites/CULTURAL_LANGUAGE_REGISTER_PASS.md` remain provisional pending Nigerian/Calabar/Efik review.
+
 ---
 
 ## Sequence 6 — THE LAND AND THE SHRINE
@@ -288,10 +304,12 @@ rain. There are old drops under the vines.
 He points to the left fork.
 
 BODE
-No shortcuts.
+No shortcut.
 ```
 
 Now Kai's later departure from the path is a violation of an ordinary safety instruction, and the supernatural corruption belongs to the Entity rather than Bode's warning.
+
+Cultural-register note: clear Nigerian English is appropriate because Bode is giving unfamiliar Canadian nephews a safety instruction. Do not force Pidgin where ambiguity would be irresponsible.
 
 ### B. Shrine physiology seed
 
@@ -356,8 +374,14 @@ Expected result:
 - Sequence 2 loses false prophecy and writerly Bode lines.
 - Sequence 3 preserves voluntary travel while giving Kai/Ade more character-specific reasoning.
 - Sequence 4 remains culturally alive and unthreatened.
-- Sequence 5 keeps warmth while removing Eno-as-oracle dialogue.
+- Sequence 5 keeps warmth while removing Eno-as-oracle dialogue and gains selective local register.
 - Sequence 6 removes Bode's accidental supernatural expertise and seeds one restrained physiological precursor.
 - Sequence 7 remains the benchmark restrained contact.
 
 After integration, run a full screenplay read through Sequence 12. If the opening now feels plainer than the later pages, revise again. If it feels more `elevated` because it has acquired extra poetic dialogue, revert.
+
+Then run the cultural-language integrity test:
+
+> Remove the character names and cultural nouns. Do Bode, Eno and Eyo still sound like people formed in Calabar rather than three more North-American screenplay voices?
+
+If not, the pass is not finished.
