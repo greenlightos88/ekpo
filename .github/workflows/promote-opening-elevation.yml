@@ -17,73 +17,45 @@ jobs:
         shell: python
         run: |
           from pathlib import Path
+          import re
           p=Path('01_SCREENPLAY.fountain')
           s=p.read_text(encoding='utf-8')
-          original=s
-          reps=[
-          ('''OFFICIANT\nWe return Solomon Oku to the keeping\nof those who loved him, and we ask\nfor mercy upon what remains unfinished.''','''OFFICIANT\nWe return Solomon Oku to the keeping\nof those who loved him, and we give\nthanks for the life he shared with us.'''),
-          ('''ADE\nDad said that?\n\nBODE\nYour father had many beliefs before\nhe had responsibilities.''','''ADE\nDad said that?\n\nBODE\nAt sixteen? He said many things.'''),
-          ('''KAI\nWho was she?\n\nBODE\nSomeone your father loved badly.''','''KAI\nWho was she?\n\nBODE\nMy sister.'''),
-          ('''MALIK\nThen decide.\n\nBODE\nHe did not ask me to choose for you.''','''MALIK\nThen decide.\n\nBODE\nIt is not mine to decide.'''),
-          ('''BODE\nSound travels badly here. Water bends it.\nTrees throw it back. If you hear one of us,\nlook for us before you follow.\n\nBODE\nAnd do not believe everything you think you see.\nDistance changes quickly under these trees.''','''BODE\nFrom here, stay where I can see you.\n\nADE\nYou say that like we've been freelancing.\n\nBODE\nLast rain took part of this path. There\nare old drops under the vines.\n\nHe indicates the fork.\n\nBODE\nNo shortcut.'''),
-          ('''The talisman pulls heat from Kai's fingers.''','''The talisman pulls heat from Kai's fingers.\n\nMetal floods the back of his tongue.\n\nKai swallows.\n\nThe recess doubles for half a blink.\nThen one again.'''),
-          ]
-          for old,new in reps:
+          def exact(old,new,label):
+              global s
               n=s.count(old)
-              if n!=1:
-                  raise SystemExit(f'guard failed: expected 1 occurrence, got {n}: {old[:80]!r}')
+              if n!=1: raise SystemExit(f'{label} guard failed: {n}')
               s=s.replace(old,new)
-          # thematic Kai line: guarded regex to preserve surrounding scene if wrapping differs
-          import re
-          pat=re.compile(r'''MALIK\nYou want to fly across the world because\npeople are withholding information\?\n\nKAI\nI want the silence to stop being the only\nthing we inherit\.''')
-          new='''MALIK\nYou want to fly across the world because\npeople are withholding information?\n\nKAI\nHe kept her picture.\n\nKai taps the scratched face.\n\nKAI\nHe kept that carving.\n\nThen Solomon's letter.\n\nKAI\nAnd this is the first time he put all\nthree things in the same place.'''
-          s,n=pat.subn(new,s)
-          if n!=1: raise SystemExit(f'Kai guard failed: {n}')
-          # Ade argument
-          pat=re.compile(r'''MALIK\nThen say no\.\n\nADE\nAnd let Kai go by himself\?\n\nMALIK\nHe doesn't have to go\.\n\nADE\n.*?\n\nMALIK\nWe go together\.''',re.S)
-          m=pat.search(s)
-          if not m: raise SystemExit('Ade argument guard failed')
-          replacement='''MALIK\nThen say no.\n\nADE\nAnd let Kai go by himself?\n\nMALIK\nHe doesn't have to go.\n\nADE\nYou know him.\n\nKai looks at Ade.\n\nADE\nWe go together. We carry Dad to the\nriver. We ask what we need to ask.\nThen we come home together.\n\nMALIK\nWe go together.'''
-          s=s[:m.start()]+replacement+s[m.end():]
-          # Eno philosophy block
-          pat=re.compile(r'''MALIK\nHe never told us any of this\.\n\nENO\nChildren do not know their parents were children\.\nParents work very hard to keep it that way\.\n\n.*?ENO\nBecause a child can forgive a father\. A child\ndoes not always forgive a man\.''',re.S)
-          if pat.search(s):
-              s,n=pat.subn('''MALIK\nHe never told us any of this.\n\nEno looks at the urn.\n\nENO\nSolomon did not like his children laughing at him.\n\nADE\nWe would have survived the mangoes.\n\nENO\nMangoes, yes.''',s)
-              if n!=1: raise SystemExit('Eno philosophy replacement ambiguous')
-          else:
-              raise SystemExit('Eno philosophy guard failed')
-          # Eno land-question block
-          pat=re.compile(r'''ENO\nTomorrow Bode will show you the land\.\n.*?ENO\nI will still be here when you learn the difference\.''',re.S)
-          if pat.search(s):
-              s,n=pat.subn('''ENO\nTomorrow Bode will show you the land.\nAsk him what he knows.\n\nKAI\nAnd you?\n\nENO\nI cooked.\n\nShe reaches for his plate.\n\nKAI\nI'm still eating.\n\nENO\nThen eat.''',s)
-              if n!=1: raise SystemExit('Eno land replacement ambiguous')
-          else:
-              raise SystemExit('Eno land guard failed')
-          # safe Nigerian-English cadence replacements where exact lines exist
+          exact('''OFFICIANT\nWe return Solomon Oku to the keeping\nof those who loved him, and we ask\nfor mercy upon what remains unfinished.''','''OFFICIANT\nWe return Solomon Oku to the keeping\nof those who loved him, and we give\nthanks for the life he shared with us.''','officiant')
+          exact('''ADE\nDad said that?\n\nBODE\nYour father had many beliefs before\nhe had responsibilities.''','''ADE\nDad said that?\n\nBODE\nAt sixteen? He said many things.''','Bode childhood')
+          exact('''KAI\nWho was she?\n\nBODE\nSomeone your father loved badly.''','''KAI\nWho was she?\n\nBODE\nMy sister.''','sister')
+          exact('''KAI\nI want the silence to stop being the\nonly thing we inherit.''','''KAI\nHe kept her picture.\n\nKai taps the scratched face.\n\nKAI\nHe kept that carving.\n\nThen Solomon's letter.\n\nKAI\nAnd this is the first time he put all\nthree things in the same place.''','Kai theme')
+          exact('''BODE\nSolomon asked me to help if you chose.\nHe did not ask me to choose for you.''','''BODE\nIt is not mine to decide.''','Bode choice')
+          exact('''ADE\nIf Kai goes alone, we become the brothers\nwho let him. If two go and one stays,\nwe become the ones who went and the one\nwho did not.\n\nMALIK\nThat is not a reason to cross an ocean.\n\nADE\nIt is the only reason I trust.\n\nSilence. Ade sits.\n\nADE\nI vote we go together. We carry him to\nthe river. We ask our questions. We come\nhome together.''','''ADE\nAnd let Kai go by himself?\n\nMALIK\nHe doesn't have to go.\n\nADE\nYou know him.\n\nKai looks at Ade.\n\nADE\nWe go together. We carry Dad to the\nriver. We ask what we need to ask.\nThen we come home together.''','Ade argument')
+          exact('''ENO\nChildren do not know their parents were\nchildren. Parents work very hard to keep\nit that way.\n\nKAI\nWhy?\n\nENO\nBecause a child can forgive a father.\n\nShe looks toward the front room.\n\nENO\nA child does not always forgive a man.''','''Eno looks at the urn.\n\nENO\nSolomon did not like his children laughing at him.\n\nADE\nWe would have survived the mangoes.\n\nENO\nMangoes, yes.''','Eno thesis')
+          exact('''ENO\nTomorrow, Bode will show you the land.\nAfter that, you can begin asking the land\nquestions as if it owes you answers.\n\nKAI\nAnd you?\n\nENO\nI will still be here when you learn the\ndifference.\n\nShe reaches for his plate. Kai protects it.\n\nKAI\nI am still eating.\n\nENO\nGood. Canada did not finish you.''','''ENO\nTomorrow Bode will show you the land.\nAsk him what he knows.\n\nKAI\nAnd you?\n\nENO\nI cooked.\n\nShe reaches for his plate. Kai protects it.\n\nKAI\nI'm still eating.\n\nENO\nThen eat.''','Eno refusal')
+          exact('''BODE\nFrom here, stay on the path I take.\n\nADE\nYou say that like we have been freelancing.\n\nBODE\nSound travels badly here. Water bends it.\nTrees throw it back. If you hear one of\nus, look for us before you follow.\n\nKai studies the two paths.\n\nBODE\nAnd do not believe everything you think\nyou see. Distance changes quickly under\nthese trees.\n\nBode takes the left fork. The others follow.''','''BODE\nFrom here, stay where I can see you.\n\nADE\nYou say that like we've been freelancing.\n\nBODE\nLast rain took part of this path. There\nare old drops under the vines.\n\nHe indicates the left fork.\n\nBODE\nNo shortcut.\n\nBode takes the left fork. The others follow.''','Bode land warning')
+          exact('''The talisman pulls heat from Kai's fingers.\n\nAnother PALM beneath his.''','''The talisman pulls heat from Kai's fingers.\n\nMetal floods the back of his tongue.\n\nKai swallows.\n\nThe recess doubles for half a blink.\nThen one again.\n\nAnother PALM beneath his.''','physiology seed')
+          # Safe cultural cadence only; no unreviewed extended Pidgin.
           s=s.replace('ENO\nYou are negotiating with soup.','ENO\nYou want to bargain with soup now?')
           s=s.replace('''ENO\nConfidence is what people use when skill is not available.''','''ENO\nCook first.\n\nA beat.\n\nENO\nThen warn me.''')
-          if s==original: raise SystemExit('no changes produced')
+          # Numeric denomination convention in end markers too.
+          romans={'I':'1','II':'2','III':'3','IV':'4','V':'5','VI':'6','VII':'7','VIII':'8','IX':'9','X':'10','XI':'11','XII':'12'}
+          for r,n in sorted(romans.items(), key=lambda x:-len(x[0])):
+              s=s.replace(f'# END OF SEQUENCE {r}',f'# END OF SEQUENCE {n}')
           p.write_text(s,encoding='utf-8')
       - name: Integrity checks
         shell: python
         run: |
           from pathlib import Path
           s=Path('01_SCREENPLAY.fountain').read_text(encoding='utf-8')
-          banned=[
-            'mercy upon what remains unfinished',
-            'Your father had many beliefs before he had responsibilities',
-            'Someone your father loved badly',
-            'silence to stop being the only',
-            'Sound travels badly here. Water bends it',
-            'I will still be here when you learn the difference',
-          ]
+          banned=['mercy upon what remains unfinished','Your father had many beliefs before he had responsibilities','Someone your father loved badly','silence to stop being the only','Sound travels badly here. Water bends it','I will still be here when you learn the difference']
           for x in banned:
               if x in s: raise SystemExit('stale line remains: '+x)
           for i in range(1,13):
-              if f'# SEQUENCE {i} -' not in s: raise SystemExit(f'missing numeric sequence {i}')
-          if '# SEQUENCE 12 -' not in s: raise SystemExit('Sequence 12 missing')
-          print('opening elevation integrity checks passed')
-      - name: Commit integrated screenplay
+              if f'# SEQUENCE {i} -' not in s: raise SystemExit(f'missing Sequence {i}')
+          if '# SEQUENCE 12 -' not in s: raise SystemExit('locked later screenplay missing')
+          print('screenplay integrity PASS')
+      - name: Commit
         shell: bash
         run: |
           git config user.name "EKPO Repository Agent"
