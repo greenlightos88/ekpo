@@ -6,7 +6,7 @@ project:
   default_branch: main
   status: active-development
   format: feature-screenplay
-  development_phase: post-river-screenplay-integration
+  development_phase: sequence-x-award-lock-sequence-xi-development
 
 north_star:
   statement: "Psychological supernatural family drama about inheritance."
@@ -77,8 +77,8 @@ canonical_sources:
     authority_law: docs/SCREENPLAY_AUTHORITY.md
     canonical_endpoint: sequence_x
     endpoint_title: THE TWO RECORDS
-    screenplay_pages: 45
-    physical_pdf_pages: 46
+    screenplay_pages: 41
+    physical_pdf_pages: 42
     status: synchronized
   mythology:
     - EKPO_Canonical_Mythology_Refactor.md
@@ -90,6 +90,7 @@ canonical_sources:
     - docs/DECISION_LOG.md
   characters:
     - docs/CHARACTER_CANON.md
+    - docs/CHARACTER_VOICE_CONSTITUTION.md
   bible:
     - 02_MASTER_BIBLE.md
   motifs:
@@ -121,8 +122,8 @@ screenplay_state:
     - THE CLOSED ROOM
   pdf:
     path: output/pdf/EKPO_Screenplay.pdf
-    screenplay_pages: 45
-    physical_pages: 46
+    screenplay_pages: 41
+    physical_pages: 42
     status: authoritative-and-current
   fountain:
     path: 01_SCREENPLAY.fountain

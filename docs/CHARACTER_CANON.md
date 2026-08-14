@@ -206,9 +206,9 @@ Kai can perceive Unseen pressure with unusual sensitivity. Perception creates re
 
 Sequence VIII progression:
 
-Kai watches the partially perceptible form become more coherent while the passage distance destabilizes. He later states that it became clearer the longer he looked and infers that it knew he was looking.
+Kai watches the partially perceptible form change in coherence while the passage distance destabilizes. After Malik breaks his sightline, Kai states only: `It changed when I looked at it.`
 
-This is experiential evidence, not complete metaphysical understanding.
+This is experiential evidence, not complete metaphysical understanding. The screenplay deliberately withholds the fuller rule from his dialogue.
 
 Sequence IX progression:
 
@@ -258,11 +258,11 @@ Do not invent a third metaphysical function for symmetry.
 
 Sequence VIII progression:
 
-Ade initiates the first direct family acknowledgement of the river event. During the house disturbance, he tracks both brothers and recognizes the attention/proximity pattern in Kai's description before Malik does.
+Ade initiates the first direct family acknowledgement of the river event. During the house disturbance, he tracks both brothers, stops joking when fear becomes undeniable, and reinforces Malik's attempt to return Kai's attention to a human face rather than explaining the phenomenon.
 
 Sequence IX progression:
 
-Ade refuses unilateral authority from either Malik or Kai. He keeps the question collective.
+Ade remains inside the confrontation, asks why Kai kept the talisman, and does not seize authority or turn fear into metaphysical explanation. Eno makes the immediate household decision.
 
 Sequence X progression:
 
@@ -358,7 +358,7 @@ Sequence IX progression:
 
 Eno does not recognize the talisman. She recognizes the men's fear and the danger of allowing an unknown object to move casually through her household. She covers it with ordinary clean cloth and reorganizes where people sleep/stay.
 
-She asserts that a room inside her house cannot remain protected from the people being endangered by the secrecy around it.
+She prevents anyone from moving the talisman, orders the brothers to remain together, and tells Bode to open Solomon's room before breakfast.
 
 Sequence X progression:
 

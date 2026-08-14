@@ -12,7 +12,7 @@ The PDF in `output/pdf/` is the authoritative dramatic screenplay iteration.
 
 Current endpoint: **Act II, Sequence X - THE TWO RECORDS.**
 
-Current PDF: **46 physical pages total — 1 title page + 45 screenplay pages.**
+Current PDF: **42 physical pages total — 1 title page + 41 screenplay pages.**
 
 The synchronized editable source is [01_SCREENPLAY.fountain](01_SCREENPLAY.fountain). It must reproduce the approved output PDF; if the two ever differ, reconcile the Fountain to the PDF before continuing page work.
 
@@ -25,7 +25,7 @@ See [Screenplay authority](docs/SCREENPLAY_AUTHORITY.md) for the locked workflow
 - IX — `WHAT HE OPENED`
 - X — `THE TWO RECORDS`
 
-Sequences VIII-X were rewritten under the final two-function stewardship / breach-seeking Entity canon.
+Sequences VIII-X were rewritten under the final two-function stewardship / breach-seeking Entity canon and passed the project's award-level screenplay audit.
 
 Do not restore the superseded versions `THE HOUSE LISTENS`, `THE BROKEN KNOT`, or `THE CLOSED ROOM` from older commits, PDFs, or development files.
 

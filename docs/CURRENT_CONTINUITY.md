@@ -6,7 +6,7 @@ Status: ACTIVE
 Canonical screenplay source: `01_SCREENPLAY.fountain`
 Producer reading copy: `output/pdf/EKPO_Screenplay.pdf`
 Current canonical endpoint: End of Sequence X — `THE TWO RECORDS`
-Producer PDF: 45 screenplay pages plus title page
+Producer PDF: 41 screenplay pages plus title page (42 physical pages total)
 
 ## Immediate story position
 
@@ -17,9 +17,9 @@ The rewritten post-river movement has occurred:
 - Malik, Ade, and Kai experienced one shared nighttime disturbance while physically together;
 - environmental sound withdrew using the same grammar established at the river;
 - passage distance became perceptually inconsistent;
-- a partially perceptible tall, articulated presence became clearer/closer as Kai looked at it;
+- a partially perceptible tall, articulated presence changed in coherence while Kai looked at it;
 - Malik physically stopped and stabilized Kai;
-- the presence withdrew without being defeated or explained;
+- the perceptible event ended without the presence crossing out of sight, being defeated, or being explained;
 - Kai disclosed the hidden shrine/regulator and brass talisman;
 - Bode admitted limited family-history knowledge and Solomon's repeated hidden work in Calabar;
 - Eno ordered the red-corded household room opened in daylight;
@@ -122,7 +122,7 @@ Current behavior:
 
 - keeps both brothers in view;
 - helps turn the river event into shared acknowledgement rather than three private stories;
-- challenges both Malik and Kai when either tries to decide for everyone;
+- remains inside the confrontation without turning fear into a theory or claiming authority;
 - observes the two ledgers and the two brothers without forcing himself into a supernatural symmetry.
 
 Current knowledge:
@@ -151,7 +151,7 @@ Current behavior:
 
 - admits the shrine breach and talisman removal directly;
 - provides photographic evidence rather than hiding behind ambiguity;
-- recognizes that prolonged observation made the house presence clearer/closer;
+- recognizes that the house presence changed while he was looking and later finds matching perceptual language in his aunt's notes;
 - asks before touching the aunt's notebook;
 - compares perceptual records with his own recent experience.
 
@@ -190,7 +190,7 @@ Current behavior:
 
 - distinguishes what he knows from what he does not know;
 - does not identify the talisman or Entity with false certainty;
-- admits that something happened on the land when he was young, his sister died, and Solomon changed afterward;
+- admits his sister died, Solomon came home from the land without her, and Solomon changed before beginning repeated returns to the land and hidden room;
 - admits Solomon repeatedly returned to work in Calabar;
 - opens the outer household room under Eno's authority;
 - explicitly says Solomon never brought him through the inner maintained door.
@@ -219,7 +219,7 @@ Emotional state:
 
 Current behavior:
 
-- keeps children and uninformed relatives at the front of the compound;
+- keeps the unknown talisman stationary and the three brothers together overnight;
 - covers the talisman with ordinary clean cloth without claiming ritual meaning;
 - keeps the three brothers together;
 - orders Bode to open the room;

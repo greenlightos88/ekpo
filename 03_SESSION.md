@@ -1,7 +1,7 @@
 # EKPO SESSION / CONTINUATION STATE
 
 Date: 2026-08-13
-Status: SCREENPLAY + CANON SYNCHRONIZED THROUGH SEQUENCE X
+Status: SCREENPLAY + CANON SYNCHRONIZED / AWARD-LEVEL PASS THROUGH SEQUENCE X
 
 ## Read this first
 
@@ -34,7 +34,7 @@ Current sequence titles:
 - IX — `WHAT HE OPENED`
 - X — `THE TWO RECORDS`
 
-Current output PDF renders to 46 physical pages: one title page plus 45 screenplay pages.
+Current output PDF renders to 42 physical pages: one title page plus 41 screenplay pages.
 
 The Fountain and output PDF are synchronized.
 
@@ -46,9 +46,9 @@ The regulator is no longer described with roots appearing to hold it shut. The r
 
 ### Sequence VIII
 
-The brothers remain together. River-style ecological sound withdrawal enters the house. Distance in the passage becomes perceptually unreliable. A tall articulated presence resolves only partially and becomes more legible/closer while Kai looks at it. Malik physically stabilizes Kai and breaks his visual attention. The event withdraws without defeat.
+The brothers remain together. River-style ecological sound withdrawal enters the house. Distance in the passage becomes perceptually unreliable. A tall articulated presence resolves only partially and changes in coherence while Kai looks at it. Malik physically stabilizes Kai and breaks his visual attention. Nothing visibly leaves or is defeated.
 
-Kai's experiential conclusion: it knew he was looking.
+Kai's only stated conclusion: `It changed when I looked at it.`
 
 ### Sequence IX
 
@@ -56,7 +56,7 @@ Kai reveals the shrine photographs and talisman himself.
 
 Bode recognizes the dangerous place/history but explicitly does not claim complete knowledge of the object, Entity, or cosmology.
 
-Bode reveals human history: something happened on the land, his sister died, Solomon changed, and Solomon repeatedly returned to Calabar for hidden work.
+Bode reveals only human fragments he can defend: his sister died, Solomon came home from the land without her, Solomon changed, and later kept returning to the land and hidden room.
 
 Eno covers the talisman with ordinary cloth, reorganizes household safety, and orders the red-corded room opened in daylight.
 
@@ -140,7 +140,7 @@ Does not know the formal stewardship architecture, his own writer-level aptitude
 
 ### Kai
 
-Knows his prolonged attention correlated with increased Entity legibility/proximity and that his aunt documented highly similar perceptual phenomena.
+Knows the house presence changed while he looked at it and that his aunt documented highly similar perceptual phenomena, including attention-linked distance change.
 
 Does not know the Entity's definitive nature, formal succession system, full aunt history, or repair.
 

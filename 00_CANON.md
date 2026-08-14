@@ -1,6 +1,6 @@
 # EKPO CANON
 
-Version: 5.0 — Post-River Screenplay Integration
+Version: 5.1 — Award-Level Lock Through Sequence X
 Effective: 2026-08-13
 Status: ACTIVE CANON
 
@@ -14,9 +14,9 @@ Locked decisions: `docs/DECISION_LOG.md`
 
 Current canonical screenplay endpoint: End of Sequence X — `THE TWO RECORDS`.
 
-Current producer PDF: 45 screenplay pages plus title page.
+Current producer PDF: 41 screenplay pages plus title page (42 physical pages total).
 
-Sequences VIII-X were rewritten on 2026-08-13 from the canon-clean Sequence VII river endpoint. The rewrite supersedes the earlier `THE HOUSE LISTENS`, `THE BROKEN KNOT`, and `THE CLOSED ROOM` versions.
+Sequences VIII-X were rewritten, award-audited, and accepted on 2026-08-13 from the canon-clean Sequence VII river endpoint. The accepted rewrite supersedes the earlier `THE HOUSE LISTENS`, `THE BROKEN KNOT`, and `THE CLOSED ROOM` versions.
 
 The screenplay and producer PDF are now synchronized through Sequence X.
 
@@ -213,7 +213,7 @@ He is not a Chosen One.
 
 Kai intentionally caused the shrine breach. His ignorance was inherited; his action was still his.
 
-In Sequence VIII he observes that the partially perceptible form becomes clearer/closer the longer he looks at it, giving him his first experiential evidence of reciprocal attention.
+In Sequence VIII he observes that the partially perceptible form changes while he looks at it and states only: `It changed when I looked at it.` The audience receives stronger experiential evidence of reciprocal attention than Kai can yet explain.
 
 ### Ade Oku
 
@@ -277,7 +277,7 @@ Solomon's ashes enter the river. All three brothers experience the first unmista
 
 ### VIII — The Distance Between
 
-The brothers remain physically together at night. The river's sound-withdrawal grammar enters the house. Passage distance becomes perceptually inconsistent. A partially perceptible failed-translation form gains legibility as Kai looks at it. Malik physically stops/stabilizes Kai and makes him break visual attention. The presence is not defeated; it simply becomes unlocatable when the shared pressure withdraws. Kai infers that it knew he was looking.
+The brothers remain physically together at night. The river's sound-withdrawal grammar enters the house. Passage distance becomes perceptually inconsistent. A partially perceptible failed-translation form changes in coherence while Kai looks at it. Malik physically stops/stabilizes Kai and makes him break visual attention. Nothing visibly leaves or is defeated. Kai states only: `It changed when I looked at it.`
 
 ### IX — What He Opened
 

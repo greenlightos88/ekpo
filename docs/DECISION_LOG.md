@@ -14,6 +14,33 @@ DATE:
 2026-08-13
 
 TITLE:
+Award-Level Screenplay Gate — Passed Through Sequence X
+
+DECISION:
+The integrated screenplay through Sequence X passes EKPO's current award-level execution gate. The accepted Sequences VIII-X prose is now the canonical screenplay execution, not merely approved architecture.
+
+The promotion preserved the complete Sequences I-VII byte prefix, replaced only VIII-X, regenerated `output/pdf/EKPO_Screenplay.pdf` through the repository Windows/Courier renderer, and passed regression plus page-by-page PDF review.
+
+The producer reading copy is 42 physical pages total: one title page plus 41 screenplay pages.
+
+`docs/CHARACTER_VOICE_CONSTITUTION.md` is an active screenplay control document. Voice distinction must continue to arise from character psychology, knowledge, objective, and pressure rather than decorative verbal style.
+
+Sequence XI development is unlocked. Passing this gate does not authorize merging PR #2 to `main`; merge remains an explicit creator action.
+
+STATUS:
+LOCKED SCREENPLAY THROUGH SEQUENCE X / QUALITY GATE PASSED
+
+SUPERSEDES:
+- the earlier `Award-Level Screenplay Gate` FAIL status;
+- the `SCREENPLAY PROSE NOT LOCKED` status attached to the pre-pass VIII-X rewrite;
+- the prior 46-physical-page producer baseline.
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
 Award-Level Screenplay Gate
 
 DECISION:
@@ -69,10 +96,10 @@ Sequence IX is `WHAT HE OPENED`: Kai voluntarily discloses the brass talisman; B
 
 Sequence X is `THE TWO RECORDS`: the room reveals a practical spiritual-maintenance workshop, an inner maintained door/interface, Solomon's procedural ledger, and his sister's separate perceptual notebooks sharing dates. Evidence establishes that Solomon physically returned from Vancouver to Calabar for maintenance. Her records stop while Solomon continues alone and later attempts uncertain perceptual notation. Malik gravitates toward Solomon's procedural work, Kai toward the sister's perceptual record, Ade sees the emerging relationship, and no one is appointed.
 
-These outcomes are locked. The current exact wording and beat density remain under award-level rewrite.
+These outcomes are locked. The exact wording and beat density were subsequently accepted by the `Award-Level Screenplay Gate — Passed Through Sequence X` decision above.
 
 STATUS:
-LOCKED ARCHITECTURE / SCREENPLAY PROSE NOT LOCKED
+LOCKED ARCHITECTURE / HISTORICAL PRE-PASS PROSE STATUS
 
 SUPERSEDES:
 - the previous Sequence VIII construction;
