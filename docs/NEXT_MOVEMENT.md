@@ -2,7 +2,7 @@
 
 Status: ACTIVE — SEQUENCE 13 DEVELOPMENT UNLOCKED
 Canonical story endpoint: End of Sequence 12 — `WHEN IT STAYS`
-Screenplay quality status through Sequence 12: **PASS**
+Screenplay quality status through Sequence 12: **FORENSIC PASS**
 Producer reading copy: 58 physical pages — one title page plus 57 screenplay pages
 
 ## Immediate objective
@@ -155,13 +155,14 @@ Sequence 13 must:
 ## Required reads before drafting
 
 1. `output/pdf/EKPO_Screenplay.pdf`
-2. `01_SCREENPLAY.fountain`
-3. `development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md`
+2. `development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md`
+3. `01_SCREENPLAY.fountain`
 4. `docs/ENTITY_HORROR_PHYSIOLOGY.md`
 5. `docs/CHARACTER_VOICE_CONSTITUTION.md`
-6. `docs/CURRENT_CONTINUITY.md`
-7. `docs/DECISION_LOG.md`
-8. `00_CANON.md`
+6. `docs/CULTURAL_LANGUAGE_REGISTER.md`
+7. `docs/CURRENT_CONTINUITY.md`
+8. `docs/DECISION_LOG.md`
+9. `00_CANON.md`
 
 ## Final operating rule
 

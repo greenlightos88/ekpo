@@ -3,8 +3,8 @@
 Last reconciled: 2026-08-13
 Status: ACTIVE
 
-Canonical screenplay source: `01_SCREENPLAY.fountain`
-Producer reading copy: `output/pdf/EKPO_Screenplay.pdf`
+Authoritative dramatic screenplay: `output/pdf/EKPO_Screenplay.pdf`
+Synchronized editable source: `01_SCREENPLAY.fountain`
 Current canonical endpoint: End of Sequence 12 — `WHEN IT STAYS`
 Producer PDF: 57 screenplay pages plus title page (58 physical pages total)
 
@@ -39,21 +39,21 @@ The final image changes the inner maintained door:
 
 ### Act 1
 
-1. The Last Morning — canonical
-2. The Funeral — canonical
-3. The Will and Decision — canonical
-4. Arrival — canonical
-5. Homecoming — canonical
-6. The Land and the Shrine — canonical
+1. The Last Morning — canonical / forensic-audited
+2. The Funeral — canonical / forensic-audited
+3. The Will and Decision — canonical / forensic-audited
+4. Arrival — canonical / forensic-audited
+5. Homecoming — canonical / forensic-audited
+6. The Land and the Shrine — canonical / forensic-audited
 
 ### Act 2
 
-7. The River Boundary — canonical
-8. The Distance Between — canonical
-9. What He Opened — canonical
-10. The Two Records — canonical
-11. What He Left — canonical / award-audited
-12. When It Stays — canonical / award-audited
+7. The River Boundary — canonical / forensic-audited
+8. The Distance Between — canonical / forensic-audited
+9. What He Opened — canonical / forensic-audited
+10. The Two Records — canonical / forensic-audited
+11. What He Left — canonical / forensic-audited
+12. When It Stays — canonical / forensic-audited
 
 Sequence 13 has not been written.
 
