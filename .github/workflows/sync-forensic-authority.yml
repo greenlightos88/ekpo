@@ -1,0 +1,94 @@
+name: Sync EKPO forensic authority
+on:
+  push:
+    branches: [agent/authoritative-canon-sync]
+    paths: [.github/workflows/sync-forensic-authority.yml]
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/authoritative-canon-sync
+          fetch-depth: 0
+      - name: Synchronize authority documents
+        shell: python
+        run: |
+          from pathlib import Path
+          def exact(path, old, new, label):
+              p=Path(path); s=p.read_text(encoding='utf-8'); n=s.count(old)
+              if n!=1: raise SystemExit(f'{label}: expected 1 match, got {n}')
+              p.write_text(s.replace(old,new),encoding='utf-8')
+
+          exact('05_MASTER_CHARACTER_BREAKDOWN.md',
+                'Version: 1.0 - Canonical Character Control Document\n\nStatus: Working canon through Act II, Sequence VII',
+                'Version: 1.1 - Foundational Character Development Archive\n\nStatus: LEGACY FOUNDATION — SUPERSEDED WHERE CONFLICTS WITH CURRENT SEQUENCE 12 CHARACTER AUTHORITY',
+                'character breakdown status')
+
+          exact('05_MASTER_CHARACTER_BREAKDOWN.md',
+                "This file is the repository's primary authority for character psychology, behavior, decision-making, relationship dynamics, performance logic, and anti-drift rules.\n\nIt exists so that later sequences do not flatten the cast into functions, repeat completed beats, contradict established behavior, or force a character to make a decision merely because the plot requires it.\n\nThis is not a collection of biographies. It is a dramatic operating system.",
+                "This file preserves the project's foundational character-development work through the earlier screenplay state. It is **not the current top-level character authority where later canon has changed.**\n\nFor current screenplay work through Sequence 12, read first: `docs/CHARACTER_CANON.md`, `docs/CHARACTER_VOICE_CONSTITUTION.md`, `docs/ENTITY_HORROR_PHYSIOLOGY.md`, `docs/CULTURAL_LANGUAGE_REGISTER.md`, and the current screenplay/PDF. Where those sources conflict with material below, the newer sources supersede this archive.\n\nThis archive remains useful for deep psychology, relationship engines, performance questions, and historical development that has not been superseded. Do not resurrect an old mythology assumption merely because it remains documented below.",
+                'character breakdown authority warning')
+
+          exact('05_MASTER_CHARACTER_BREAKDOWN.md',
+                '| Entity | Correct damaged balance | Restoration according to an inhuman standard | Treating descendants as continuous with ancestral failure | Recognition toward attachment, then correction |',
+                '| Entity | Approach breach / reciprocal perception | Increasing perceptual relationship with the Seen | Becoming over-classified as moral agent, demon, or punishment mechanism | Recognition toward increasing reciprocal proximity; exact long-form intent remains unknown |',
+                'entity ensemble row')
+
+          exact('README.md',
+                'Sequences 11-12 passed continuity, character-voice, exposition, runtime, horror, Entity-rule, family-protection, integration, repository-render, and visual-page audits.',
+                'Sequences 1-12 have now passed the full forensic screenplay gate: story architecture, scene necessity, character voice, exposition, canon, Bode/Eno knowledge boundaries, horror escalation, Entity physiology, motif continuity, filmable prose, cultural-register discipline, exact integration, Windows/Courier rendering, and every-page technical PDF inspection. Final Nigerian/Calabar/Efik language review remains deferred to a qualified human reader before production/submission lock.' ,
+                'README audit state')
+
+          exact('README.md',
+                '12. [Sequence 11-12 award audit](development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md)\n13. [Current writing assignment](docs/NEXT_MOVEMENT.md)',
+                '12. [Full Sequences 1-12 forensic audit](development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md)\n13. [Sequence 11-12 award audit](development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md)\n14. [Current writing assignment](docs/NEXT_MOVEMENT.md)',
+                'README audit read order')
+
+          exact('PROJECT_MANIFEST.yaml',
+                'version: 4.1', 'version: 4.2', 'manifest version')
+          exact('PROJECT_MANIFEST.yaml',
+                '      - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md\n      - 02_MASTER_BIBLE.md',
+                '      - development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md\n      - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md\n      - 02_MASTER_BIBLE.md',
+                'manifest current development audit')
+          exact('PROJECT_MANIFEST.yaml',
+                '      - docs/ENTITY_HORROR_PHYSIOLOGY.md',
+                '      - docs/ENTITY_HORROR_PHYSIOLOGY.md\n      - docs/CULTURAL_LANGUAGE_REGISTER.md',
+                'manifest cultural authority')
+          exact('PROJECT_MANIFEST.yaml',
+                '    - development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md\n    - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md',
+                '    - development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md\n    - development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md\n    - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md',
+                'manifest audit list')
+          p=Path('PROJECT_MANIFEST.yaml'); s=p.read_text(encoding='utf-8')
+          for i in range(1,13):
+              s=s.replace(f'{{sequence: {i}, title:',f'{{sequence: {i}, title:')
+          for old in ['status: canonical}','status: canonical_award_audited}']:
+              pass
+          # Explicitly mark all current pages as forensic-audited without changing other YAML statuses.
+          import re
+          s=re.sub(r'(    - \{sequence: (?:[1-9]|1[0-2]), title: [^,]+, status: )(?:canonical|canonical_award_audited)(\})',r'\1canonical_forensic_audited\2',s)
+          p.write_text(s,encoding='utf-8')
+      - name: Validate synchronized authority
+        shell: python
+        run: |
+          from pathlib import Path
+          checks={
+            '05_MASTER_CHARACTER_BREAKDOWN.md':['LEGACY FOUNDATION','docs/CHARACTER_CANON.md','Approach breach / reciprocal perception'],
+            'README.md':['Sequences 1-12 have now passed the full forensic screenplay gate','EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md'],
+            'PROJECT_MANIFEST.yaml':['version: 4.2','docs/CULTURAL_LANGUAGE_REGISTER.md','EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md','canonical_forensic_audited']}
+          for path,phrases in checks.items():
+              s=Path(path).read_text(encoding='utf-8')
+              for x in phrases:
+                  if x not in s: raise SystemExit(f'{path} missing {x}')
+          print('forensic authority synchronization PASS')
+      - name: Commit synchronized authority
+        run: |
+          git config user.name "EKPO Repository Agent"
+          git config user.email "actions@users.noreply.github.com"
+          git rm .github/workflows/sync-forensic-authority.yml
+          git add 05_MASTER_CHARACTER_BREAKDOWN.md README.md PROJECT_MANIFEST.yaml
+          git diff --cached --check
+          git commit -m "Synchronize EKPO authority after full forensic audit"
+          git push origin HEAD:agent/authoritative-canon-sync
