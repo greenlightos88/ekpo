@@ -4,21 +4,19 @@ Psychological supernatural family drama about inheritance.
 
 > Reality survives not through power, but through stewardship.
 
-## Current screenplay
+## Authoritative screenplay
 
-The screenplay is canonical and synchronized through **Sequence X — THE TWO RECORDS**.
+[Read the latest producer screenplay PDF](output/pdf/EKPO_Screenplay.pdf)
 
-Producer-facing reading copy:
+The PDF in `output/pdf/` is the authoritative dramatic screenplay iteration.
 
-- `output/pdf/EKPO_Screenplay.pdf`
-- 45 screenplay pages plus title page
-- regenerated from the accepted Fountain on 2026-08-13
+Current endpoint: **Act II, Sequence X - THE TWO RECORDS.**
 
-Editable screenplay source:
+Current PDF: **46 physical pages total — 1 title page + 45 screenplay pages.**
 
-- `01_SCREENPLAY.fountain`
+The synchronized editable source is [01_SCREENPLAY.fountain](01_SCREENPLAY.fountain). It must reproduce the approved output PDF; if the two ever differ, reconcile the Fountain to the PDF before continuing page work.
 
-The output PDF is the page/story baseline for evaluating the screenplay as a producer, actor, or director would read it. The Fountain is the editable source underneath that reading copy.
+See [Screenplay authority](docs/SCREENPLAY_AUTHORITY.md) for the locked workflow rule.
 
 ## Current post-river sequences
 
@@ -31,55 +29,39 @@ Sequences VIII-X were rewritten under the final two-function stewardship / breac
 
 Do not restore the superseded versions `THE HOUSE LISTENS`, `THE BROKEN KNOT`, or `THE CLOSED ROOM` from older commits, PDFs, or development files.
 
+## Current screenplay state
+
+Through Sequence X:
+
+- Kai breached the shrine/regulator and removed the brass talisman;
+- Solomon's ashes were scattered at the river;
+- the brothers experienced shared pressure/contact at the river;
+- one shared house disturbance established unstable distance and reciprocal Kai/Entity awareness;
+- Kai disclosed the talisman;
+- Bode remained inside his limited knowledge boundary;
+- Eno forced the concealed maintenance room open;
+- the brothers discovered Solomon's procedural ledger and their aunt's separate perceptual notebooks on overlapping dates;
+- the archive proves Solomon physically returned from Vancouver for maintenance;
+- an inner maintained door/interface remains closed and unexplained;
+- Malik and Kai visibly begin to mirror the two historical functions while Ade sees the pattern;
+- nobody has been appointed, accepted succession, received a repair procedure, or learned the full cause of the aunt's death.
+
 ## Read order for future agents
 
-1. [Decision log](docs/DECISION_LOG.md)
-2. [Creative constitution](docs/EKPO_CONSTITUTION.md)
-3. [Authoritative mythology](EKPO_Canonical_Mythology_Refactor.md)
-4. [Producer screenplay PDF](output/pdf/EKPO_Screenplay.pdf)
-5. [Editable Fountain screenplay](01_SCREENPLAY.fountain)
+1. [Screenplay authority](docs/SCREENPLAY_AUTHORITY.md)
+2. [Latest screenplay PDF](output/pdf/EKPO_Screenplay.pdf)
+3. [Decision log](docs/DECISION_LOG.md)
+4. [Creative constitution](docs/EKPO_CONSTITUTION.md)
+5. [Authoritative mythology](EKPO_Canonical_Mythology_Refactor.md)
 6. [Canon](00_CANON.md)
 7. [Current continuity](docs/CURRENT_CONTINUITY.md)
 8. [Character canon](docs/CHARACTER_CANON.md)
 9. [Motif ledger](docs/MOTIF_LEDGER.md)
 10. [Current writing assignment](docs/NEXT_MOVEMENT.md)
-11. [Master development bible](02_MASTER_BIBLE.md)
-12. [Session / continuation state](03_SESSION.md)
-13. [Screenplay conflict history](docs/SCREENPLAY_CONFLICTS.md)
-
-## Foundational current mythology
-
-- Reality consists of complementary Seen and Unseen conditions.
-- The covenant maintains their proper relationship through stewardship.
-- The shrine is a regulator/alignment point, not a prison.
-- The Entity is an independent ancient Unseen intelligence attracted to breaches; the breach does not create it.
-- Attention creates proximity: perception across the boundary is reciprocal.
-- The Entity's perceptible form is failed translation into Seen conditions, not a literal spider body.
-- Solomon and his sister held complementary procedural/perceptual stewardship functions.
-- Succession requires recognized capacity, transmitted knowledge, and voluntary acceptance.
-- Solomon physically returned to Calabar for maintenance; Bode was not his maintenance proxy.
-- Malik has procedural aptitude but is not chosen.
-- Kai has perceptual aptitude but is not chosen.
-- Ade has no supernatural office.
-- Eno is household/family authority, not mythology expert.
-- The sister's full death causality remains withheld through Sequence X.
-
-## Current screenplay endpoint
-
-Inside the maintenance room:
-
-- Solomon's procedural ledger is open;
-- his sister's perceptual notebook is open;
-- their matching dates establish partnership;
-- her writing stops while Solomon's continues;
-- Solomon's later entries show awkward sensory observations;
-- Malik gravitates toward Solomon's procedural logic;
-- Kai recognizes his own recent experience in his aunt's perceptual observations;
-- Ade sees the arrangement before either brother understands it;
-- an inner maintained door remains closed, measured, and partly unfinished;
-- the talisman remains covered on the kitchen table;
-- no repair has been attempted;
-- no one has accepted an inherited role.
+11. [Editable Fountain](01_SCREENPLAY.fountain)
+12. [Master development bible](02_MASTER_BIBLE.md)
+13. [Session / continuation state](03_SESSION.md)
+14. [Screenplay conflict history](docs/SCREENPLAY_CONFLICTS.md)
 
 ## Current writing objective
 
@@ -93,20 +75,12 @@ See `docs/NEXT_MOVEMENT.md`.
 
 ## Historical development files
 
-These remain intentionally preserved for performance depth, provenance, and discarded-option history:
-
-- `04_ACT_I_DEVELOPMENT.md`
-- `05_MASTER_CHARACTER_BREAKDOWN.md`
-- `06_ACT_II_DEVELOPMENT.md`
-- `07_ACT_II_NIGHT_KITCHEN_DEVELOPMENT.md`
-- `08_ACT_II_MORNING_ROOM_DEVELOPMENT.md`
-
-They are not current mythology authority.
+Historical development files remain intentionally preserved for performance depth, provenance, and discarded-option history. They are not current mythology authority and do not outrank the current output PDF.
 
 ## Tooling
 
-- Editable screenplay: `01_SCREENPLAY.fountain`
-- Producer PDF: `output/pdf/EKPO_Screenplay.pdf`
+- Authoritative producer screenplay: `output/pdf/EKPO_Screenplay.pdf`
+- Editable synchronized source: `01_SCREENPLAY.fountain`
 - Renderer: `tools/render_screenplay.py`
 - Machine-readable authority map: `PROJECT_MANIFEST.yaml`
 

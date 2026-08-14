@@ -1,4 +1,4 @@
-version: 3.0
+version: 3.1
 project:
   id: ekpo
   title: EKPO
@@ -21,27 +21,26 @@ source_hierarchy:
     authority: current-user-instruction
     rule: "Latest explicit creator correction may supersede a prior lock only when the reversal is recorded."
   - rank: 2
+    authority: screenplay-authority-law
+    paths:
+      - docs/SCREENPLAY_AUTHORITY.md
+  - rank: 3
+    authority: approved-output-screenplay
+    paths:
+      - output/pdf/EKPO_Screenplay.pdf
+    rule: "Latest approved PDF is the dramatic screenplay authority."
+  - rank: 4
     authority: locked-decisions
     paths:
       - docs/DECISION_LOG.md
-  - rank: 3
+  - rank: 5
     authority: creative-constitution
     paths:
       - docs/EKPO_CONSTITUTION.md
-  - rank: 4
+  - rank: 6
     authority: foundational-mythology
     paths:
       - EKPO_Canonical_Mythology_Refactor.md
-  - rank: 5
-    authority: producer-reading-baseline
-    paths:
-      - output/pdf/EKPO_Screenplay.pdf
-    rule: "Use this PDF to judge actual page/story flow."
-  - rank: 6
-    authority: editable-screenplay
-    paths:
-      - 01_SCREENPLAY.fountain
-    rule: "Canonical editable source used to regenerate the producer PDF."
   - rank: 7
     authority: current-canon-continuity-character
     paths:
@@ -57,6 +56,11 @@ source_hierarchy:
       - 03_SESSION.md
       - docs/SCREENPLAY_CONFLICTS.md
   - rank: 9
+    authority: editable-screenplay-source
+    paths:
+      - 01_SCREENPLAY.fountain
+    rule: "Synchronized editable source; it must reproduce the approved output PDF and does not silently outrank it."
+  - rank: 10
     authority: historical-development-reference
     paths:
       - 04_ACT_I_DEVELOPMENT.md
@@ -68,8 +72,9 @@ source_hierarchy:
 
 canonical_sources:
   screenplay:
-    editable: 01_SCREENPLAY.fountain
-    producer_pdf: output/pdf/EKPO_Screenplay.pdf
+    authority: output/pdf/EKPO_Screenplay.pdf
+    editable_source: 01_SCREENPLAY.fountain
+    authority_law: docs/SCREENPLAY_AUTHORITY.md
     canonical_endpoint: sequence_x
     endpoint_title: THE TWO RECORDS
     screenplay_pages: 45
@@ -116,10 +121,12 @@ screenplay_state:
     - THE CLOSED ROOM
   pdf:
     path: output/pdf/EKPO_Screenplay.pdf
-    generated_from: 01_SCREENPLAY.fountain
     screenplay_pages: 45
     physical_pages: 46
-    status: current
+    status: authoritative-and-current
+  fountain:
+    path: 01_SCREENPLAY.fountain
+    status: synchronized-editable-mirror
 
 locked_project_laws:
   - "Solomon is never shown alive."
@@ -146,24 +153,15 @@ locked_project_laws:
   - "Deferred Efik, shrine, ritual, regulator, stewardship-role, and Entity terminology must not be invented before specialist review."
 
 artifact_registry:
-  screenplay:
+  authoritative_screenplay_pdf:
+    path: output/pdf/EKPO_Screenplay.pdf
+    writable: true
+    authority: dramatic-story-pages
+  editable_screenplay:
     path: 01_SCREENPLAY.fountain
     writable: true
-    synchronization_targets:
-      - output/pdf/EKPO_Screenplay.pdf
-      - docs/CURRENT_CONTINUITY.md
-      - docs/DECISION_LOG.md
-      - docs/CHARACTER_CANON.md
-      - docs/MOTIF_LEDGER.md
-      - docs/SCREENPLAY_CONFLICTS.md
-      - docs/NEXT_MOVEMENT.md
-      - 00_CANON.md
-      - 02_MASTER_BIBLE.md
-      - 03_SESSION.md
-  producer_screenplay_pdf:
-    path: output/pdf/EKPO_Screenplay.pdf
-    generated_from: 01_SCREENPLAY.fountain
-    reading_baseline: true
+    synchronization_target: output/pdf/EKPO_Screenplay.pdf
+    rule: "Reconcile to the approved PDF if a mismatch is discovered."
   foundational_mythology:
     path: EKPO_Canonical_Mythology_Refactor.md
     decision_log_required: true
@@ -179,16 +177,17 @@ artifact_registry:
 routing_overrides:
   scene_revision:
     required_sources:
+      - docs/SCREENPLAY_AUTHORITY.md
+      - output/pdf/EKPO_Screenplay.pdf
       - docs/DECISION_LOG.md
       - docs/EKPO_CONSTITUTION.md
       - EKPO_Canonical_Mythology_Refactor.md
-      - output/pdf/EKPO_Screenplay.pdf
-      - 01_SCREENPLAY.fountain
       - 00_CANON.md
       - docs/CURRENT_CONTINUITY.md
       - docs/CHARACTER_CANON.md
       - docs/MOTIF_LEDGER.md
       - docs/NEXT_MOVEMENT.md
+      - 01_SCREENPLAY.fountain
     required_gates:
       - scene-function
       - character-causality
@@ -213,7 +212,8 @@ write_policy:
 completion_contract:
   - "Requested artifact is complete and playable."
   - "Current user instructions and locked decisions are preserved."
-  - "Fountain and producer PDF remain synchronized after accepted screenplay changes."
+  - "The output PDF remains the authoritative dramatic artifact."
+  - "Fountain is synchronized to the approved output PDF."
   - "Any screenplay/canon conflict is surfaced rather than silently patched."
   - "Downstream synchronization targets are updated."
   - "No deferred terminology is invented."

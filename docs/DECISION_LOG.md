@@ -6,7 +6,7 @@ This file records consequential creative decisions and reversals.
 
 `LOCKED / FOUNDATIONAL` means the decision defines architecture beneath multiple scenes/documents.
 
-Older decisions remain historical when superseded; they must not silently return.
+Older decisions remain historical when superseded and must not silently return.
 
 ---
 
@@ -14,48 +14,67 @@ DATE:
 2026-08-13
 
 TITLE:
-Post-River Screenplay Rewrite — Sequences VIII-X
+Output PDF Is the Dramatic Screenplay Authority
 
 DECISION:
-The post-river screenplay is rewritten and canonical through Sequence X.
+`output/pdf/EKPO_Screenplay.pdf` is the latest authoritative dramatic iteration of the EKPO screenplay.
 
-Sequence VIII is now `THE DISTANCE BETWEEN`: one shared house disturbance in which environmental sound withdrawal evolves from the river, distance becomes perceptually inconsistent, a partially perceptible failed-translation presence becomes clearer/closer under Kai's sustained attention, Malik physically stabilizes Kai, and the presence withdraws without being defeated.
+`01_SCREENPLAY.fountain` is the editable synchronized source used to reproduce that PDF.
 
-Sequence IX is now `WHAT HE OPENED`: Kai discloses the shrine photographs and talisman; Bode remains a limited family-history/boundary witness and explicitly does not know the object's complete nature or the cosmology; Solomon's hidden Calabar work is revealed through human history; Eno forces access to the household room in daylight.
-
-Sequence X is now `THE TWO RECORDS`: the room reveals a practical spiritual-maintenance workshop, an inner maintained door/interface, Solomon's procedural ledger, and his sister's perceptual notebooks sharing dates. Her handwriting stops while Solomon continues alone and later attempts uncertain perceptual notation. Malik gravitates toward Solomon's work, Kai toward the sister's, Ade sees the arrangement, and no one is appointed.
-
-STATUS:
-LOCKED / CANONICAL SCREENPLAY
-
-SUPERSEDES:
-- `THE HOUSE LISTENS` as canonical Sequence VIII;
-- `THE BROKEN KNOT` as canonical Sequence IX;
-- `THE CLOSED ROOM` as canonical Sequence X;
-- Bode knot-reconstruction / Entity-rule explanation in the old kitchen scene;
-- Bode maintenance-proxy architecture in the old work-room scene;
-- single mixed three-hand notebook as the core red-room reveal.
-
----
-
-DATE:
-2026-08-13
-
-TITLE:
-Producer PDF Is the Reading Baseline
-
-DECISION:
-`output/pdf/EKPO_Screenplay.pdf` is the producer-facing screenplay baseline used to judge page flow and current reading experience. `01_SCREENPLAY.fountain` remains the editable source from which that PDF is generated.
-
-After accepted screenplay changes, the Fountain and output PDF must be regenerated/synchronized in the same screenplay operation.
-
-The current rewrite renders to 46 physical pages: one title page plus 45 screenplay pages.
+If the two ever differ, the approved output PDF governs story pages until the Fountain is reconciled to it. New screenplay work must not continue from a mismatched Fountain.
 
 STATUS:
 LOCKED WORKFLOW DECISION
 
 SUPERSEDES:
-Any workflow that treats an outdated PDF as authoritative over the latest accepted Fountain or edits canon documentation without regenerating the screenplay reading copy when pages change.
+Any workflow instruction that gives the editable Fountain higher dramatic authority than the latest approved output PDF.
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
+Post-River Screenplay Rewrite - Sequences VIII-X
+
+DECISION:
+The post-river screenplay is rewritten and canonical through Sequence X.
+
+Sequence VIII is `THE DISTANCE BETWEEN`: one shared house disturbance in which environmental sound withdrawal evolves from the river, passage distance becomes inconsistent, a partially perceptible failed-translation presence becomes more legible under Kai's sustained attention, reciprocal awareness occurs, Malik physically stabilizes Kai and breaks visual contact, and the presence withdraws without being defeated.
+
+Sequence IX is `WHAT HE OPENED`: Kai voluntarily discloses the brass talisman; Bode remains a limited family-history/boundary witness and explicitly does not know the object's complete nature, the cosmology, or how to perform Solomon's custodial work; Eno prevents a nighttime return and forces daylight access to the concealed family records.
+
+Sequence X is `THE TWO RECORDS`: the room reveals a practical spiritual-maintenance workshop, an inner maintained door/interface, Solomon's procedural ledger, and his sister's separate perceptual notebooks sharing dates. Travel evidence proves Solomon physically returned from Vancouver to Calabar for maintenance. Her records stop while Solomon continues alone and later attempts uncertain perceptual notation. Malik gravitates toward Solomon's procedural work, Kai toward the sister's perceptual record, Ade sees both, and no one is appointed.
+
+The producer PDF for this rewrite is 46 physical pages total: one title page plus 45 screenplay pages.
+
+STATUS:
+LOCKED / CANONICAL SCREENPLAY THROUGH SEQUENCE X
+
+SUPERSEDES:
+- the previous Sequence VIII construction;
+- the previous Sequence IX `THE BROKEN KNOT` construction;
+- the previous Sequence X `THE CLOSED ROOM` construction;
+- Bode knot-reconstruction / Entity-rule explanation as proof;
+- Bode maintenance-proxy architecture;
+- the single mixed three-hand notebook as the core red-room reveal.
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
+Shrine Architecture Is Regulator, Not Containment
+
+DECISION:
+The shrine's physical language must read as maintained regulatory architecture. Sequence VI describes roots bracing old seams rather than appearing to hold a prisoner shut.
+
+STATUS:
+LOCKED
+
+SUPERSEDES:
+Containment-coded shrine wording.
 
 ---
 
@@ -85,7 +104,7 @@ SUPERSEDES:
 - Bode maintenance-proxy/co-custodian model;
 - Chosen One succession;
 - any third supernatural office for Ade;
-- doppelgänger ending mythology where inconsistent;
+- doppelganger ending mythology where inconsistent;
 - Emeka/replacement mythology where inconsistent.
 
 ---
@@ -99,7 +118,7 @@ Attention Creates Proximity
 DECISION:
 Perception across the Seen/Unseen boundary is reciprocal. Seeing, answering, following, acknowledging, or repeatedly observing an Unseen phenomenon can increase reciprocal awareness.
 
-Sequence VIII now provides on-page experiential evidence: Kai observes the partially perceptible form becoming clearer/closer the longer he looks.
+Sequence VIII provides on-page experiential evidence: the partially perceptible form becomes more legible the longer Kai watches and then reciprocally notices him.
 
 This remains a relational metaphysical rule, not a simplistic summoning mechanic.
 
@@ -138,7 +157,7 @@ Solomon Returned for Maintenance
 DECISION:
 Solomon physically returned to Calabar when his procedural stewardship required his presence. His sons understood at least some trips as funerals, property matters, family obligations, or ordinary visits.
 
-Sequence X now gives the brothers direct evidence through Solomon's Calabar-dated maintenance ledger entries long after he moved to Canada.
+Sequence X gives the brothers direct evidence through dated maintenance records and travel evidence.
 
 Bode did not routinely perform Solomon's custodial maintenance on his behalf.
 
@@ -146,7 +165,7 @@ STATUS:
 LOCKED
 
 SUPERSEDES:
-Sequence-X-era documentation implying Solomon directed maintenance from Canada while Bode performed local work as proxy.
+Documentation implying Solomon directed maintenance from Canada while Bode performed local work as proxy.
 
 ---
 
@@ -159,9 +178,9 @@ Sister Death Truth Deferred On-Page
 DECISION:
 Writer-level canon establishes that Solomon's procedural failure destabilized the boundary and his sister died restoring equilibrium. Early screenplay material must not reveal the complete causal truth.
 
-Sequence X may reveal partnership, overlapping dates, two different record systems, the stopping of the sister's handwriting, and Solomon continuing alone.
+Sequence X reveals partnership, overlapping dates, separate record systems, the stopping of the sister's writing, and Solomon continuing alone. It does not reveal the complete death causality.
 
-The causal truth of her death is reserved for a later moment when it directly changes Malik's present decision.
+The causal truth is reserved for a later moment when it directly changes a present Malik decision.
 
 STATUS:
 LOCKED
@@ -198,7 +217,7 @@ Bode is a family-history witness with practical knowledge of land, dangerous bou
 
 He does not possess complete cosmology, succession architecture, repair knowledge, or full records of either custodian.
 
-Sequence IX now explicitly enforces this boundary.
+Sequence IX-X explicitly enforce this boundary.
 
 Bode is not a co-custodian, maintenance proxy, or mythology narrator.
 
@@ -315,7 +334,7 @@ LOCKED
 
 ---
 
-# SUPERSEDED MATERIAL — HISTORY ONLY
+# SUPERSEDED MATERIAL - HISTORY ONLY
 
 Do not restore as active canon:
 
@@ -324,11 +343,11 @@ Do not restore as active canon:
 - Solomon/sister competing-successor model;
 - Bode local maintenance proxy;
 - Bode as co-custodian or mythology expert;
-- old Sequence VIII `THE HOUSE LISTENS`;
+- previous Sequence VIII construction;
 - old Sequence IX `THE BROKEN KNOT`;
 - old Sequence X `THE CLOSED ROOM`;
 - single mixed three-hand notebook as sufficient red-room architecture;
 - literal spider deity / giant spider manifestation;
 - Chosen One language for Malik or Kai;
 - supernatural office for Ade;
-- Emeka/replacement/doppelgänger legacy material as current story architecture.
+- Emeka/replacement/doppelganger legacy material as current story architecture.
