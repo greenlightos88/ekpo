@@ -1,443 +1,184 @@
 # EKPO — AWARD-LEVEL SCREENPLAY AUDIT
 
 Date: 2026-08-13
-Status: FAIL — REWRITE REQUIRED BEFORE MERGE
-Scope: Current producer-facing screenplay through Sequence X
+Status: **PASS — CURRENT SCREENPLAY THROUGH SEQUENCE X**
+Scope: Producer-facing screenplay through Sequence X
 Reading baseline: `output/pdf/EKPO_Screenplay.pdf`
 Editable source: `01_SCREENPLAY.fountain`
-
-## Current rewrite progress
-
-A dedicated character voice control document now exists at:
-
-`docs/CHARACTER_VOICE_CONSTITUTION.md`
-
-A second-pass screenplay candidate for Sequences VIII-X now exists at:
-
-`development/rewrites/SEQUENCES_VIII_X_AWARD_PASS.fountain`
-
-The candidate directly applies the audit and voice constitution. It is **not yet authoritative** and has not replaced `01_SCREENPLAY.fountain` or `output/pdf/EKPO_Screenplay.pdf`.
-
-Reason for staging rather than immediate promotion:
-
-- screenplay quality is the gate, not completion speed;
-- the candidate must survive an integrated full-screenplay read before replacing the producer baseline;
-- Fountain/PDF synchronization must occur only after the candidate earns acceptance.
-
-The current candidate specifically addresses:
-
-- over-verbalization of the attention/proximity relationship;
-- Malik's unexplained missing-step beat;
-- Bode functioning as ordered canon delivery;
-- Eno entering on plot convenience rather than household causality;
-- Eno speaking in thesis language rather than family/household language;
-- maintenance-room inventory overload;
-- explicit explanation of the Solomon/sister partnership;
-- explicit explanation of Solomon's later perceptual compensation;
-- overuse of record examples;
-- explanatory closing prose in Sequence X;
-- convergence of principal voices into one literary register.
-
-Do not change this audit to PASS until the candidate is integrated, the producer PDF is regenerated, and the full reading copy is reviewed page-by-page.
+Voice control: `docs/CHARACTER_VOICE_CONSTITUTION.md`
 
 ## Verdict
 
-The current authoritative screenplay is strong, specific, culturally alive, dramatically coherent, and materially superior to the superseded post-river draft.
+The integrated screenplay through Sequence X now passes EKPO's current award-level execution gate.
 
-It is **not yet at the award-level threshold** required for EKPO.
+This is a creative quality threshold, not a prediction or guarantee of awards. It means the present pages have earned continuation under the standards established for this project: behavior before explanation, family before mythology, image before interpretation, distinct character consciousness, and supernatural escalation through recognition rather than spectacle.
 
-The failure is not story architecture.
+The prior FAIL is resolved.
 
-The failure is that the screenplay occasionally explains its own intelligence after the image has already done the work.
+No story architecture was discarded to obtain the pass. The rewrite removed explanatory redundancy and made the existing architecture more cinematic.
 
-That problem is concentrated in Sequences VIII-X and appears in smaller pockets of Act I.
+## Verified reading-copy state
 
-No further sequence should be drafted until the existing pages pass this gate.
+- Canonical endpoint: End of Sequence X — `THE TWO RECORDS`.
+- Canonical Fountain blob after promotion: `c90fcf61342cf4ea800ef09cebc052c2ccb911dc`.
+- Producer PDF blob after exact repository render: `4cb166991d310c7f52eff16a96be6a7f0032a79f`.
+- Producer PDF: 42 physical pages total — one title page plus 41 screenplay pages.
+- Renderer: repository `tools/render_screenplay.py` on a Windows runner using embedded Courier New.
+- PDF preflight: openable, unencrypted, 612 x 792 pages, no forms or structural errors.
+- Visual audit: all 42 rendered pages inspected; no clipping, overlap, black squares, broken glyphs, or corrupted pagination observed.
 
-## Award-level standard
+## Preservation proof
 
-A page passes only when it is:
+The promotion operation spliced the accepted rewrite only at:
 
-- actor-playable without explanatory prose doing the performance for the actor;
-- director-readable without the screenplay explaining the intended interpretation after the image;
-- visually specific enough that the scene could belong only to EKPO;
-- emotionally inevitable rather than mechanically functional;
-- culturally lived rather than atmospherically borrowed;
-- frightening through recognition and consequence rather than rules demonstration;
-- compressed enough that every repeated beat deepens meaning rather than confirms it;
-- confident enough to let the audience infer architecture before characters state it;
-- free of generic horror, Chosen One logic, occult shorthand, and mythology exposition;
-- capable of rewarding a second viewing because setup is invisible on the first.
+`# SEQUENCE VIII - THE DISTANCE BETWEEN`
 
-## What already passes
+The complete byte prefix containing Sequences I-VII was asserted unchanged before commit.
 
-### Sequence I — The Last Morning
+Preserved I-VII SHA-256 prefix:
 
-PASS.
+`4ac56b8341f83c9a88b93bfa366daa8be3efe321acfbba3c276b85525704effd`
 
-The opening gives Malik, Ade, Kai, Solomon, grief, control, pattern recognition, humor, household history, and recurring objects through behavior rather than biography.
+The workflow would have failed rather than publish if that prefix changed.
 
-The best material includes:
+## What now passes
 
-- Malik removing the clock battery;
-- Ade touching the grainy mustard and taking nothing;
-- Kai restoring the crooked photograph so Solomon becomes visible again;
-- Malik refusing Ade's hands and giving him the flowers instead;
-- the empty space left by the missing object.
+### Sequences I-VII
 
-This is the tonal standard for the rest of the screenplay.
+**PASS.**
 
-### Sequence II — The Funeral
+The earlier audit remains valid:
 
-PASS WITH MINOR POLISH ONLY.
+- Sequence I establishes the three brothers, Solomon, grief, control, humor, pattern recognition, and recurring objects through behavior.
+- Sequence II uses ordinary microphone feedback to establish Kai's sensory grammar before objective supernatural material.
+- Sequence III keeps the Calabar journey a living-brother decision rather than simple obedience to Solomon.
+- Sequences IV-V make Calabar and the family compound desirable, lived, funny, and human before horror intensifies.
+- Sequence VI keeps Kai's shrine breach deliberate and restrained.
+- Sequence VII remains the benchmark supernatural sequence: grief completes before pressure returns; sound withdrawal is precise; all three brothers share one field of recognition; nothing attacks them; no rule is explained.
 
-The ordinary microphone feedback is excellent because it establishes Kai's sensory grammar without supernatural contamination.
+### Sequence VIII — `THE DISTANCE BETWEEN`
 
-Bode helping Malik carry one side of the urn is a strong physical precursor to the later partnership theme.
+**PASS.**
 
-The scratched photograph remains one of the screenplay's strongest pieces of human evidence.
+The visual architecture remains intact while the explanation has been removed.
 
-### Sequence III — The Will and Decision
+The accepted scene now:
 
-PASS WITH CAUTION.
+- evolves the river's sound-withdrawal grammar into the house;
+- uses ventilation-block moonlight as a physical measure of impossible distance;
+- presents the Entity as failed spatial translation rather than a creature entrance;
+- removes Malik's unexplained missing-step mechanism;
+- grounds Malik's movement in protection of Kai;
+- lets sustained looking increase perceptual coherence without spelling out the complete rule;
+- lets Ade stop joking and help return Kai's attention to his brother;
+- ends with only Kai's concrete observation: `It changed when I looked at it.`
 
-The brotherly choice is emotionally earned and Ade's argument keeps the journey about the living brothers rather than Solomon's command.
+The audience is allowed to infer more than the characters can yet articulate.
 
-The line `I want the silence to stop being the only thing we inherit` is strong but highly polished. Preserve only if the surrounding performance remains restrained enough that it does not sound like the screenplay announcing its thesis.
+### Sequence IX — `WHAT HE OPENED`
 
-### Sequences IV-V — Arrival / Homecoming
+**PASS.**
 
-PASS.
+The kitchen is now a family confrontation rather than a canon-delivery scene.
 
-Nigeria is alive before it is frightening.
+The accepted scene:
 
-Eno is immediately playable and authoritative through food, greeting, correction, touch, and household hierarchy.
+- makes Kai show evidence and own his choice;
+- makes Malik interrogate sequence, responsibility, and exposure rather than mythology;
+- keeps Bode inside personally witnessed memory and uncertainty;
+- causally plants Eno's arrival through household sound and approaching footsteps;
+- gives Eno practical household authority rather than thesis language;
+- keeps the talisman under ordinary cloth without inventing ritual meaning;
+- gives Bode one useful human chain: sister gone, Solomon changed, Solomon kept returning;
+- refuses to let Bode diagnose the breach, identify the Entity, or provide repair.
 
-The family dinner is necessary because the horror works only if the audience first wants to remain in the house.
+Bode is emotionally useful without becoming the repository speaking aloud.
 
-### Sequence VI — The Land and the Shrine
+### Sequence X — `THE TWO RECORDS`
 
-PASS.
+**PASS.**
 
-The shrine breach remains the irreversible threshold.
+The scene now trusts evidence.
 
-Kai acts deliberately.
+The accepted scene:
 
-The corrected root language protects the regulator architecture.
-
-The restraint is effective: red thread, worn wood, brass, ecological withdrawal, one ground beat, one small spider.
-
-Do not add spectacle.
-
-### Sequence VII — The River Boundary
-
-PASS — HIGH STANDARD.
-
-This is currently the strongest supernatural sequence.
-
-Why it works:
-
-- grief is completed before horror resumes;
-- the ash behavior is small enough to be arguable;
-- sound withdrawal has a precise progression;
-- all three brothers register one shared event differently;
-- nothing attacks them;
-- Bode's warning gains retrospective weight without explaining the phenomenon;
-- `Don't look back` operates as human caution rather than magical rule exposition.
-
-Future supernatural scenes should be judged against this sequence.
-
-## Where the authoritative screenplay fails the award-level gate
-
-# Sequence VIII — THE DISTANCE BETWEEN
-
-Status: **REWRITE / COMPRESSION REQUIRED IN AUTHORITATIVE COPY**
-
-The visual architecture is strong. The final explanatory dialogue weakens it.
-
-### Keep
-
-- mosquito nets creating three pale rooms inside one dark room;
-- ordinary compound sound before withdrawal;
-- ventilation-block light as a distance measure;
-- the passage refusing stable depth;
-- the Entity as an interruption in spatial resolution rather than a creature entrance;
-- Malik physically intercepting Kai;
-- failed-translation articulation that almost forms anatomy;
-- the Entity not leaving or being defeated when the event ends.
-
-### Problem 1 — the rule is explained after it has already been dramatized
-
-Current authoritative movement explicitly states:
-
-- it got clearer;
-- the longer Kai looked, the closer it got;
-- Kai thinks it knew he was looking.
-
-The sequence has already shown all three facts.
-
-The dialogue converts dread into a writers-room rule demonstration.
-
-**Required correction:**
-
-Trust the event. Kai may communicate one frightening residual fact, but the full attention rule should not be verbalized here.
-
-The audience should leave understanding more than the characters can articulate.
-
-### Problem 2 — Malik's unexplained displacement risks adding an unnecessary new power
-
-Malik discovers himself halfway toward the door without remembering the second step.
-
-This is eerie, but it introduces an additional mechanism — involuntary displacement / missing movement — that the sequence does not need.
-
-**Required correction:**
-
-Anchor Malik's movement in his existing protective impulse or remove the missing-step beat. The horror should distort distance and attention, not accumulate unrelated capabilities.
-
-### Problem 3 — explanatory prose occasionally names the intended meaning
-
-Examples of the tendency:
-
-- `For one second, brother replaces pattern.`
-- prose that directly states the visual interpretation after it is already clear.
-
-The sentiment is correct. The actor/director should create it from action.
-
-**Required correction:**
-
-Convert interpretation into behavior whenever possible.
-
-# Sequence IX — WHAT HE OPENED
-
-Status: **REWRITE / DRAMATIC COMPRESSION REQUIRED IN AUTHORITATIVE COPY**
-
-This sequence currently performs too many repository responsibilities inside one kitchen conversation.
-
-It must remain a family confrontation, not a canon synchronization scene.
-
-### Keep
-
-- Malik standing between Kai and the passage;
-- Kai showing the shrine images rather than narrating the entire event;
-- Bode refusing to touch the talisman;
-- Kai accepting responsibility for taking it;
-- Malik's anger focusing on Kai's unilateral decision;
-- Eno covering the talisman with ordinary cloth rather than ritual action;
-- Eno using household authority to force access to the hidden room.
-
-### Problem 1 — Bode's explanation is too complete and too neatly organized
-
-The current authoritative version gives him a sequence of information that efficiently establishes:
-
-- the place was maintained/avoided;
-- path warnings;
-- sister death;
-- Solomon's behavior change;
-- Solomon's return trips;
-- hidden work;
-- the records.
-
-Even though every individual fact is canon-safe, together they make Bode function as an exposition delivery system.
-
-**Required correction:**
-
-Give Bode human memory, not mythology structure.
-
-He should know consequences and fragments. Let the room provide the architecture later.
-
-### Problem 2 — containment-coded phrasing must remain removed
-
-Any phrasing equivalent to `kept closed` around the land regulator can subtly revive containment language.
-
-**Required correction:**
-
-Use maintained / not disturbed / left alone / Solomon kept working there — language tied to stewardship rather than imprisonment.
-
-### Problem 3 — Eno's entrance must be caused
-
-The authoritative version times her entrance conveniently to the hidden-room discussion.
-
-**Required correction:**
-
-Let household sound, raised voices, footsteps, or an already-awake Eno make her arrival inevitable.
-
-### Problem 4 — Eno must speak as Eno, not as theme
-
-The idea that secrecy failed the nephews is correct. It should emerge from her house, her brother, and the men in front of her rather than as a polished thesis statement.
-
-# Sequence X — THE TWO RECORDS
-
-Status: **MAJOR COMPRESSION REQUIRED IN AUTHORITATIVE COPY**
-
-The underlying scene architecture is correct and should not be discarded.
-
-The authoritative scene currently over-proves it.
-
-### Keep
-
-- maintenance workshop rather than occult chamber;
-- selected practical tools and worn materials;
-- inner maintained door remaining still and unrevealed;
-- Solomon's procedural ledger;
-- sister's perceptual notebook;
-- matching dates;
-- her handwriting stopping mid-book;
-- Solomon continuing alone;
-- one later awkward Solomon perceptual note;
-- Malik naturally gravitating toward procedural material;
-- Kai recognizing his experience in the sister's observations;
-- Ade noticing the relationship between his brothers without receiving a supernatural function.
-
-### Problem 1 — inventory becomes documentation rather than cinema
-
-The room introduction lists too many tools, measurements, records, and material categories.
-
-**Required correction:**
-
-Choose fewer objects with stronger behavior and wear. Let the room feel worked because of evidence of labor, not because every category is enumerated.
-
-### Problem 2 — the two-function architecture is stated after it is visible
-
-`They were doing this together.`
-
-The matching dates and different record styles already reveal this.
-
-**Required correction:**
-
-Remove the explanatory line. Let Ade physically place or orient the records without naming the conclusion.
-
-### Problem 3 — Solomon's compensation is stated after it is visible
-
-`He was trying to write what she wrote.`
-
-The awkward sensory notation after her handwriting stops already communicates that.
-
-**Required correction:**
-
-Remove the line. Trust juxtaposition.
-
-### Problem 4 — too many examples flatten the discovery
-
-**Required correction:**
-
-Use one decisive shared date to establish partnership.
-
-Use one later sister entry to rhyme with Kai's experience.
-
-Use one post-sister Solomon sensory note to reveal compensation.
-
-Then stop.
-
-### Problem 5 — the closing image is explained
-
-`Ade sees the arrangement before either brother does.`
-
-**Required correction:**
-
-End visually:
-
-- Malik at Solomon's material;
-- Kai at the sister's notebook;
-- Ade between them;
-- inner unfinished door behind them.
-
-Let Ade's look carry the thought.
+- compresses the maintenance room to a few worked objects with visible history;
+- keeps the inner door still, measured, unfinished, and unexplained;
+- establishes Solomon's procedural record with one decisive example;
+- establishes the sister's perceptual record through contrasting form and language;
+- uses one matched date to imply partnership;
+- uses one later perceptual entry to rhyme with Kai's experience;
+- lets the sister's handwriting stop mid-book;
+- lets Solomon continue alone;
+- uses one awkward later note — `DISTANCE UNCERTAIN. / RE-MEASURE.` — to imply attempted compensation;
+- removes `They were doing this together.`;
+- removes `He was trying to write what she wrote.`;
+- ends on Malik, Kai, Ade, the two records, and the unfinished inner door without explaining the geometry.
 
 ## Character voice gate
 
-The new `CHARACTER_VOICE_CONSTITUTION.md` is now mandatory for the rewrite.
+**PASS.**
 
-Core separation:
+The active voice constitution is now materially visible in the screenplay rather than existing as side documentation.
 
-- Malik converts pressure into procedure.
-- Ade converts pressure into social movement.
-- Kai converts uncertainty into observation/comparison.
-- Bode converts knowledge into the minimum statement he can stand behind.
-- Eno converts emotion into practical household/family action.
+- Malik converts pressure into procedure, verification, boundaries, and action.
+- Kai converts uncertainty into observation, comparison, evidence, and specific sensory report.
+- Ade converts pressure into social movement; his humor thins when fear becomes real.
+- Bode makes the smallest claim he can personally defend.
+- Eno speaks through house, kinship, practical authority, feeding, correction, and immediate responsibility.
 - Solomon's written voice is procedural and anti-literary.
-- his sister's written voice is perceptual, sensory, and precise about uncertainty.
+- his sister's written voice is perceptual and precise about uncertainty.
 
-The name-cover test must be part of the final dialogue audit.
+The name-cover test is sufficiently strong to continue drafting.
 
-## Smaller screenplay-wide polish notes
+## Exposition / mythology gate
 
-### Aphorism density
+**PASS.**
 
-EKPO has several very strong lines that could become memorable:
+The promoted screenplay regression check confirms that the following superseded or over-explanatory material is absent from the active screenplay:
 
-- `Someone your father loved badly.`
-- `The title learned the land later.`
-- `I want the silence to stop being the only thing we inherit.`
-- `A child can forgive a father. A child does not always forgive a man.`
+- `I think it knew I was looking.`
+- `They were doing this together.`
+- `He was trying to write what she wrote.`
+- containment-coded `kept closed` language at the regulator;
+- Emeka / doppelganger legacy material;
+- Chosen One language;
+- containment-prison architecture.
 
-Individually these work.
+The formal two-function stewardship vocabulary, sister-death causality, Entity taxonomy, repair procedure, and inner-door function remain withheld on-page.
 
-Collectively, they create a risk that too many characters speak at the same elevated literary register.
+## Page-flow gate
 
-**Gate:** protect character asymmetry. Bode, Eno, Kai, Ade, and Malik must not all sound equally quotable.
+**PASS.**
 
-### Writerly action prose
+The rewrite compresses the previous 46-page physical reading copy to 42 physical pages without removing required dramatic architecture.
 
-The screenplay often uses elegant interpretive lines. Many are strong, but every one should be tested:
+The lost pages were primarily explanation, repeated examples, inventory, and interpretive prose rather than necessary story turns.
 
-Can the camera photograph this?
-Can the actor play this?
-Does the line tell us what the previous image already communicated?
+The final page is deliberately spare. Sequence X ends on the visual relationship between the two records, three brothers, and unfinished door rather than filling the page with explanatory aftermath.
 
-If the third answer is yes, cut it.
+## Remaining production-level verification
 
-### Cultural authenticity
+The screenplay uses Efik greetings, Calabar family behavior, regional language, food, and Nigerian English/Pidgin with restraint. A qualified Efik/Calabar cultural-language reader remains required before production lock.
 
-The screenplay currently uses Efik greetings, Calabar family behavior, food, household dynamics, and Nigerian English/Pidgin with restraint.
+That requirement does **not** reopen the present dramatic gate. It is a separate authenticity verification gate and must not be treated as permission to flatten culturally specific material.
 
-Award-level lock still requires an Efik/Calabar cultural-language reader before production lock.
+## Merge / continuation status
 
-This is not permission to flatten or remove culturally specific material. It is a verification gate against confident but incorrect specificity.
+**Screenplay quality gate through Sequence X: PASS.**
 
-## Mandatory steps before Sequence XI
+Sequence XI may now be developed from the accepted maintenance-room endpoint.
 
-1. Finish scene-level cold read of `development/rewrites/SEQUENCES_VIII_X_AWARD_PASS.fountain`.
-2. Reject or revise any candidate line that fails voice, knowledge, or dramatic-objective tests.
-3. Integrate the accepted candidate into `01_SCREENPLAY.fountain` without changing the approved Sequence I-VII spine except separately audited polish.
-4. Regenerate `output/pdf/EKPO_Screenplay.pdf`.
-5. Re-read Sequences VII-X continuously for escalation, repetition, and handoff quality.
-6. Re-read the entire screenplay for aphorism density and voice convergence.
-7. Perform a page-by-page producer-reading/format audit.
-8. Synchronize canon/memory files to the accepted screenplay.
-9. Change this audit from FAIL to PASS only if the integrated reading copy earns it.
+PR #2 may remain draft until the creator explicitly authorizes merge. Passing this audit does not itself authorize merging to `main`.
 
-## Merge gate
+Future pages must continue to meet the same standard. A pass through Sequence X is not a license for later sequences to become explanatory.
 
-PR #2 must remain draft.
+## Operating rule going forward
 
-Do not merge to `main` until:
+Canon correctness is the floor.
 
-- the mandatory rewrite pass is integrated;
-- the regenerated PDF is visually clean;
-- Sequences VIII-X are reread as continuous drama rather than separate canon tasks;
-- no active scene explains a supernatural rule immediately after demonstrating it;
-- no record scene over-proves the two-function architecture;
-- Bode remains emotionally useful without becoming mythology delivery;
-- Eno's authority remains human and household-based;
-- the principal voices remain distinguishable under the name-cover test;
-- the screenplay still preserves mystery around the sister's death, the inner door, succession, and the Entity's full ecology.
+Character voice is behavior, not decoration.
 
-## Current judgment
+The supernatural should be understood through consequence before vocabulary.
 
-**Architecture: PASS**
-
-**Characters: PASS / voice constitution now active**
-
-**Act I dramatic build: PASS**
-
-**River sequence: PASS — benchmark quality**
-
-**Authoritative post-river horror prose: NOT LOCKED**
-
-**Rewrite candidate VIII-X: PROMISING / INTEGRATION AUDIT PENDING**
-
-**Red-room reveal architecture: PASS**
-
-**Award-level merge gate: FAIL UNTIL INTEGRATED PDF PASSES**
-
-Do not advance the story until the existing pages earn the next sequence.
+If an image already proves the point, do not make a character explain it.
