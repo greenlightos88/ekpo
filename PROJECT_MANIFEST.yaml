@@ -1,4 +1,4 @@
-version: 3.1
+version: 4.0
 project:
   id: ekpo
   title: EKPO
@@ -6,7 +6,7 @@ project:
   default_branch: main
   status: active-development
   format: feature-screenplay
-  development_phase: sequence-x-award-lock-sequence-xi-development
+  development_phase: sequence-12-award-lock-sequence-13-development
 
 north_star:
   statement: "Psychological supernatural family drama about inheritance."
@@ -19,66 +19,54 @@ north_star:
 source_hierarchy:
   - rank: 1
     authority: current-user-instruction
-    rule: "Latest explicit creator correction may supersede a prior lock only when the reversal is recorded."
   - rank: 2
     authority: screenplay-authority-law
-    paths:
-      - docs/SCREENPLAY_AUTHORITY.md
+    paths: [docs/SCREENPLAY_AUTHORITY.md]
   - rank: 3
     authority: approved-output-screenplay
-    paths:
-      - output/pdf/EKPO_Screenplay.pdf
+    paths: [output/pdf/EKPO_Screenplay.pdf]
     rule: "Latest approved PDF is the dramatic screenplay authority."
   - rank: 4
     authority: locked-decisions
-    paths:
-      - docs/DECISION_LOG.md
+    paths: [docs/DECISION_LOG.md]
   - rank: 5
     authority: creative-constitution
-    paths:
-      - docs/EKPO_CONSTITUTION.md
+    paths: [docs/EKPO_CONSTITUTION.md]
   - rank: 6
     authority: foundational-mythology
-    paths:
-      - EKPO_Canonical_Mythology_Refactor.md
+    paths: [EKPO_Canonical_Mythology_Refactor.md]
   - rank: 7
     authority: current-canon-continuity-character
     paths:
       - 00_CANON.md
       - docs/CURRENT_CONTINUITY.md
       - docs/CHARACTER_CANON.md
+      - docs/CHARACTER_VOICE_CONSTITUTION.md
+      - docs/ENTITY_HORROR_PHYSIOLOGY.md
   - rank: 8
     authority: current-development-control
     paths:
       - docs/MOTIF_LEDGER.md
       - docs/NEXT_MOVEMENT.md
+      - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md
       - 02_MASTER_BIBLE.md
       - 03_SESSION.md
-      - docs/SCREENPLAY_CONFLICTS.md
   - rank: 9
     authority: editable-screenplay-source
-    paths:
-      - 01_SCREENPLAY.fountain
-    rule: "Synchronized editable source; it must reproduce the approved output PDF and does not silently outrank it."
+    paths: [01_SCREENPLAY.fountain]
+    rule: "Synchronized editable source; it must reproduce the approved output PDF."
   - rank: 10
     authority: historical-development-reference
-    paths:
-      - 04_ACT_I_DEVELOPMENT.md
-      - 05_MASTER_CHARACTER_BREAKDOWN.md
-      - 06_ACT_II_DEVELOPMENT.md
-      - 07_ACT_II_NIGHT_KITCHEN_DEVELOPMENT.md
-      - 08_ACT_II_MORNING_ROOM_DEVELOPMENT.md
-    rule: "Use for craft, performance depth, and provenance only where compatible with active authority."
 
 canonical_sources:
   screenplay:
     authority: output/pdf/EKPO_Screenplay.pdf
     editable_source: 01_SCREENPLAY.fountain
     authority_law: docs/SCREENPLAY_AUTHORITY.md
-    canonical_endpoint: sequence_x
-    endpoint_title: THE TWO RECORDS
-    screenplay_pages: 41
-    physical_pdf_pages: 42
+    canonical_endpoint: sequence_12
+    endpoint_title: WHEN IT STAYS
+    screenplay_pages: 57
+    physical_pdf_pages: 58
     status: synchronized
   mythology:
     - EKPO_Canonical_Mythology_Refactor.md
@@ -91,39 +79,35 @@ canonical_sources:
   characters:
     - docs/CHARACTER_CANON.md
     - docs/CHARACTER_VOICE_CONSTITUTION.md
-  bible:
-    - 02_MASTER_BIBLE.md
-  motifs:
-    - docs/MOTIF_LEDGER.md
-  conflicts:
-    - docs/SCREENPLAY_CONFLICTS.md
+  horror_execution:
+    - docs/ENTITY_HORROR_PHYSIOLOGY.md
+  audits:
+    - development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md
+    - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md
   active_assignment:
     - docs/NEXT_MOVEMENT.md
-  session_state:
-    - 03_SESSION.md
 
 screenplay_state:
   canonical_through:
-    sequence: X
-    title: THE TWO RECORDS
-  rewritten_sequences:
-    - sequence: VIII
-      title: THE DISTANCE BETWEEN
-      status: canonical
-    - sequence: IX
-      title: WHAT HE OPENED
-      status: canonical
-    - sequence: X
-      title: THE TWO RECORDS
-      status: canonical
-  superseded_sequence_versions:
-    - THE HOUSE LISTENS
-    - THE BROKEN KNOT
-    - THE CLOSED ROOM
+    sequence: 12
+    title: WHEN IT STAYS
+  sequences:
+    - {sequence: 1, title: THE LAST MORNING, status: canonical}
+    - {sequence: 2, title: THE FUNERAL, status: canonical}
+    - {sequence: 3, title: THE WILL AND DECISION, status: canonical}
+    - {sequence: 4, title: ARRIVAL, status: canonical}
+    - {sequence: 5, title: HOMECOMING, status: canonical}
+    - {sequence: 6, title: THE LAND AND THE SHRINE, status: canonical}
+    - {sequence: 7, title: THE RIVER BOUNDARY, status: canonical}
+    - {sequence: 8, title: THE DISTANCE BETWEEN, status: canonical}
+    - {sequence: 9, title: WHAT HE OPENED, status: canonical}
+    - {sequence: 10, title: THE TWO RECORDS, status: canonical}
+    - {sequence: 11, title: WHAT HE LEFT, status: canonical_award_audited}
+    - {sequence: 12, title: WHEN IT STAYS, status: canonical_award_audited}
   pdf:
     path: output/pdf/EKPO_Screenplay.pdf
-    screenplay_pages: 41
-    physical_pages: 42
+    screenplay_pages: 57
+    physical_pages: 58
     status: authoritative-and-current
   fountain:
     path: 01_SCREENPLAY.fountain
@@ -131,90 +115,36 @@ screenplay_state:
 
 locked_project_laws:
   - "Solomon is never shown alive."
-  - "No impossible supernatural event occurs before Kai breaches the shrine regulator."
-  - "Kai deliberately breaks the red restraint and removes the talisman; he is not chosen, possessed, or mind-controlled."
-  - "Reality consists of complementary Seen and Unseen conditions."
-  - "The covenant preserves equilibrium through stewardship, not monster containment."
-  - "The shrine is a regulator/alignment point, never a prison or cage."
-  - "The Entity is an independent ancient Unseen intelligence attracted to breaches; the breach does not create it."
-  - "Attention creates proximity; perception across the boundary is reciprocal."
-  - "The Entity's perceptible body is failed translation, not a literal spider body."
-  - "Solomon held the procedural stewardship function."
-  - "Solomon's sister held the perceptual stewardship function."
-  - "Solomon and his sister were partners, not competing successors."
+  - "Kai deliberately breaches the shrine/regulator; he is not chosen, possessed, or mind-controlled."
+  - "Seen and Unseen are complementary conditions."
+  - "Covenant = stewardship/equilibrium, not containment."
+  - "Shrine = regulator/alignment point, never prison."
+  - "Entity = independent ancient Unseen intelligence attracted to breaches."
+  - "Attention creates proximity, but characters learn this behaviorally."
+  - "Entity perceptibility is failed translation and may fracture human perception, bodily sequence, and local physical coherence."
+  - "Perceptual stutter is not a digital glitch or teleportation effect."
+  - "Physiological effects persist after Entity withdrawal."
+  - "Solomon and his sister held complementary procedural/perceptual functions."
   - "Succession requires recognized capacity, transmitted knowledge, and voluntary acceptance."
-  - "Solomon physically returned to Calabar when maintenance required his presence."
+  - "Solomon left access without appointment."
+  - "Malik has procedural aptitude without appointment."
+  - "Kai has perceptual aptitude without Chosen One status."
+  - "Ade has no supernatural office; his social intelligence is protective infrastructure."
   - "Bode is not a co-custodian or maintenance proxy."
-  - "Malik has procedural aptitude but is not cosmically appointed."
-  - "Kai has perceptual aptitude but is not a Chosen One."
-  - "Ade has no supernatural office."
-  - "Eno is not a mythology expert."
-  - "The sister's full death causality remains withheld through Sequence X."
-  - "The inner maintained door belongs to the same covenant system and remains unopened through Sequence X."
-  - "Deferred Efik, shrine, ritual, regulator, stewardship-role, and Entity terminology must not be invented before specialist review."
-
-artifact_registry:
-  authoritative_screenplay_pdf:
-    path: output/pdf/EKPO_Screenplay.pdf
-    writable: true
-    authority: dramatic-story-pages
-  editable_screenplay:
-    path: 01_SCREENPLAY.fountain
-    writable: true
-    synchronization_target: output/pdf/EKPO_Screenplay.pdf
-    rule: "Reconcile to the approved PDF if a mismatch is discovered."
-  foundational_mythology:
-    path: EKPO_Canonical_Mythology_Refactor.md
-    decision_log_required: true
-  historical_development:
-    writable: false_by_default
-    paths:
-      - 04_ACT_I_DEVELOPMENT.md
-      - 05_MASTER_CHARACTER_BREAKDOWN.md
-      - 06_ACT_II_DEVELOPMENT.md
-      - 07_ACT_II_NIGHT_KITCHEN_DEVELOPMENT.md
-      - 08_ACT_II_MORNING_ROOM_DEVELOPMENT.md
-
-routing_overrides:
-  scene_revision:
-    required_sources:
-      - docs/SCREENPLAY_AUTHORITY.md
-      - output/pdf/EKPO_Screenplay.pdf
-      - docs/DECISION_LOG.md
-      - docs/EKPO_CONSTITUTION.md
-      - EKPO_Canonical_Mythology_Refactor.md
-      - 00_CANON.md
-      - docs/CURRENT_CONTINUITY.md
-      - docs/CHARACTER_CANON.md
-      - docs/MOTIF_LEDGER.md
-      - docs/NEXT_MOVEMENT.md
-      - 01_SCREENPLAY.fountain
-    required_gates:
-      - scene-function
-      - character-causality
-      - canon-integrity
-      - continuity
-      - cultural-restraint
-      - human-writing
-      - pdf-layout-validation
+  - "Eno is household authority, not mythology expert."
+  - "Sister-death causality remains withheld through Sequence 12."
+  - "Inner maintained door remains unopened through Sequence 12; its fastener changes state for unknown reasons."
+  - "Sequence numbers use Arabic numerals only."
+  - "Deferred cultural/ritual terminology must not be invented before specialist review."
 
 write_policy:
   default_mode: propose-diff
   approval_required: true
   branch_required: true
-  decision_log_required_for:
-    - canon_change
-    - lock_reversal
-    - character_engine_change
-    - supernatural_capability_change
-    - chronology_change
-    - cultural_terminology_change
 
 completion_contract:
-  - "Requested artifact is complete and playable."
-  - "Current user instructions and locked decisions are preserved."
-  - "The output PDF remains the authoritative dramatic artifact."
-  - "Fountain is synchronized to the approved output PDF."
-  - "Any screenplay/canon conflict is surfaced rather than silently patched."
-  - "Downstream synchronization targets are updated."
-  - "No deferred terminology is invented."
+  - "Output PDF remains the authoritative dramatic artifact."
+  - "Fountain reproduces the approved output PDF."
+  - "Residual injuries and continuity consequences persist."
+  - "Character voice, canon, horror mechanics, and family-protection stakes are audited before promotion."
+  - "Sequence numbering uses standard numerical denominations only."
