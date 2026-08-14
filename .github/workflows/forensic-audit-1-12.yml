@@ -1,0 +1,246 @@
+name: Forensic EKPO Sequences 1-12 audit
+
+on:
+  push:
+    branches:
+      - agent/authoritative-canon-sync
+    paths:
+      - .github/workflows/forensic-audit-1-12.yml
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: windows-latest
+    steps:
+      - name: Check out authoritative branch
+        uses: actions/checkout@v4
+        with:
+          ref: agent/authoritative-canon-sync
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install audit dependencies
+        run: python -m pip install --disable-pip-version-check reportlab pypdf pymupdf
+
+      - name: Apply forensic screenplay corrections
+        shell: python
+        run: |
+          from pathlib import Path
+          p = Path('01_SCREENPLAY.fountain')
+          s = p.read_text(encoding='utf-8')
+
+          def exact(old, new, label):
+              global s
+              n = s.count(old)
+              if n != 1:
+                  raise SystemExit(f'{label}: expected exactly one source match, found {n}')
+              s = s.replace(old, new)
+
+          exact('''ENO\nConfidence is what people use when skill\nis not available.''', '''ENO\nCook first.\n\nA beat.\n\nENO\nThen warn me.''', 'Sequence 5 Eno aphorism')
+
+          exact('''Bode starts up the path faster than he walked down.\n\nStill short of a run.\n\nAfter several steps --\n\nBODE\nDon't look back.\n\nNo one does.''', '''Bode starts up the path faster than he walked down.\n\nStill short of a run.\n\nThe brothers follow.\n\nNone of them looks back.''', 'Sequence 7 Bode knowledge leak')
+
+          exact('''KAI\nIt changed when I looked at it.''', '''KAI\nIt kept getting clearer.''', 'Sequence 8 attention exposition')
+
+          exact('''Kai searches for an answer that does not improve him.\n\nKAI\nI wanted to know what it was.''', '''Kai looks at the talisman.\n\nKAI\nI wanted to know what it was.''', 'Sequence 9 internal prose')
+
+          exact('''Eno looks at Bode.\n\nThe look contains history the brothers do not have.''', '''Eno looks at Bode.\n\nHe does not meet it.''', 'Sequence 9 unfilmable history prose')
+
+          exact('''ENO\nYou do not carry what you do not understand through my house.''', '''ENO\nYou don't know what it is and you carried it into my house?''', 'Sequence 9 Eno register')
+
+          exact('''Malik opens it.\n\nHe knows the handwriting.\n\nNarrow block letters.''', '''Malik opens it.\n\nNarrow block letters.''', 'Sequence 10 internal recognition')
+
+          exact('''ADE\nNeither one gets to tell us what Dad meant.''', '''ADE\nWe don't know what he meant.''', 'Sequence 11 stacked thesis')
+
+          exact('''ENO\nYou have been in here long enough for breakfast to become lunch.''', '''ENO\nBreakfast has been waiting for you since morning.''', 'Sequence 11 Eno cadence')
+
+          exact('''ENO\nWhatever Solomon wanted, he is not here to do it.\n\nShe points through the open outer door toward the living house.\n\nENO\nYou are.''', '''ENO\nSolomon is not here.\n\nShe points through the open outer door toward the living house.\n\nENO\nYou are.''', 'Sequence 11 Eno thesis compression')
+
+          exact('''ENO\nNow that democracy has finished, eat.\n\nAde takes a piece.\n\nADE\nI preferred tyranny. Less paperwork.''', '''ENO\nMeeting finished?\n\nADE\nFor now.\n\nENO\nEat.\n\nAde takes a piece.''', 'Sequence 11 writer-visible banter')
+
+          exact('''ADE\nI crossed an ocean to become unpaid labor.\n\nENO\nYou were unemployed in my kitchen. I corrected it.''', '''ADE\nI crossed an ocean to become unpaid labor.\n\nENO\nThen work. Nobody invited you to stand there.''', 'Sequence 12 Eno banter')
+
+          exact('''The passage tries to contain the Entity.\n\nIts height has nowhere to go.''', '''The Entity occupies the passage.\n\nIts height has nowhere to go.''', 'Sequence 12 explanatory Entity prose')
+
+          exact('''The girl's eyes start around his shoulder.''', '''The girl's eyes move around his shoulder.''', 'Sequence 12 awkward action prose')
+
+          p.write_text(s, encoding='utf-8')
+
+      - name: Full screenplay forensic regression gate
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          s = Path('01_SCREENPLAY.fountain').read_text(encoding='utf-8')
+          lower = s.lower()
+
+          required = [
+              '# SEQUENCE 1 - THE LAST MORNING',
+              '# SEQUENCE 2 - THE FUNERAL',
+              '# SEQUENCE 3 - THE WILL AND DECISION',
+              '# SEQUENCE 4 - ARRIVAL',
+              '# SEQUENCE 5 - HOMECOMING',
+              '# SEQUENCE 6 - THE LAND AND THE SHRINE',
+              '# SEQUENCE 7 - THE RIVER BOUNDARY',
+              '# SEQUENCE 8 - THE DISTANCE BETWEEN',
+              '# SEQUENCE 9 - WHAT HE OPENED',
+              '# SEQUENCE 10 - THE TWO RECORDS',
+              '# SEQUENCE 11 - WHAT HE LEFT',
+              '# SEQUENCE 12 - WHEN IT STAYS',
+              'Give me one side.',
+              'Metal floods the back of his tongue.',
+              'It kept getting clearer.',
+              'DISTANCE UNCERTAIN.',
+              'RE-MEASURE.',
+              'Nobody goes anywhere alone.',
+              'Nobody decides alone.',
+              'The wall doubles.',
+              'The Entity does not.',
+              'One turn short.',
+          ]
+          for phrase in required:
+              if phrase not in s:
+                  raise SystemExit('required screenplay material missing: ' + phrase)
+
+          forbidden = [
+              'mercy upon what remains unfinished',
+              'Your father had many beliefs before he had responsibilities',
+              'Someone your father loved badly',
+              'silence to stop being the only',
+              'Sound travels badly here. Water bends it',
+              'Distance changes quickly under these trees',
+              "Don't look back.",
+              'It changed when I looked at it.',
+              'The look contains history the brothers do not have.',
+              'You do not carry what you do not understand through my house.',
+              'He knows the handwriting.',
+              'Neither one gets to tell us what Dad meant.',
+              'breakfast to become lunch',
+              'Now that democracy has finished',
+              'You were unemployed in my kitchen. I corrected it.',
+              'The passage tries to contain the Entity.',
+              'doppelganger',
+              'Emeka',
+              'Chosen One',
+              'spider god',
+              'shrine is a prison',
+              'entity is generated by imbalance',
+          ]
+          for phrase in forbidden:
+              if phrase.lower() in lower:
+                  raise SystemExit('forbidden/stale screenplay material remains: ' + phrase)
+
+          headings = re.findall(r'^# SEQUENCE (\d+) - ', s, re.M)
+          if headings != [str(i) for i in range(1, 13)]:
+              raise SystemExit('Sequence headings are not exactly 1-12 in order: ' + repr(headings))
+
+          # Catch merge debris and common screenplay-source corruption.
+          for token in ['<<<<<<<', '=======', '>>>>>>>']:
+              if token in s:
+                  raise SystemExit('merge-conflict marker in screenplay: ' + token)
+
+          # No Roman-numeral sequence-end marker may survive.
+          if re.search(r'END OF SEQUENCE\s+[IVXLCDM]+\b', s):
+              raise SystemExit('Roman numeral sequence end marker survived')
+
+          print('Forensic screenplay regression PASS')
+          print('Characters:', len(s))
+          print('Words:', len(re.findall(r"\b[\w’'-]+\b", s)))
+
+      - name: Render exact current screenplay PDF
+        run: python tools/render_screenplay.py 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf
+
+      - name: Audit every rendered PDF page
+        shell: python
+        run: |
+          from pathlib import Path
+          from pypdf import PdfReader
+          import fitz
+          import re
+
+          pdf = Path('output/pdf/EKPO_Screenplay.pdf')
+          if not pdf.exists() or pdf.stat().st_size < 50000:
+              raise SystemExit('PDF missing or implausibly small')
+
+          reader = PdfReader(str(pdf))
+          pages = len(reader.pages)
+          if not (54 <= pages <= 62):
+              raise SystemExit(f'Unexpected page count after forensic pass: {pages}')
+
+          doc = fitz.open(pdf)
+          if len(doc) != pages:
+              raise SystemExit('pypdf / fitz page-count mismatch')
+
+          blank_pages = []
+          edge_risk = []
+          tiny_text_pages = []
+          extracted = []
+
+          for i, page in enumerate(doc):
+              text = page.get_text('text')
+              extracted.append(text)
+              # Title page may be sparse; no screenplay page may be effectively blank.
+              if i > 0 and len(text.strip()) < 80:
+                  blank_pages.append(i + 1)
+
+              blocks = page.get_text('blocks')
+              rect = page.rect
+              for b in blocks:
+                  x0, y0, x1, y1 = b[:4]
+                  # Detect text crossing/pressing implausibly close to physical page edges.
+                  if x0 < 8 or y0 < 8 or x1 > rect.width - 8 or y1 > rect.height - 8:
+                      edge_risk.append((i + 1, round(x0,1), round(y0,1), round(x1,1), round(y1,1)))
+
+              spans = []
+              raw = page.get_text('dict')
+              for block in raw.get('blocks', []):
+                  for line in block.get('lines', []):
+                      spans.extend(line.get('spans', []))
+              if spans and min(float(sp.get('size', 99)) for sp in spans) < 7.0:
+                  tiny_text_pages.append(i + 1)
+
+          if blank_pages:
+              raise SystemExit('Unexpected blank/sparse screenplay pages: ' + repr(blank_pages))
+          if edge_risk:
+              raise SystemExit('Possible text clipping/edge collision: ' + repr(edge_risk[:20]))
+          if tiny_text_pages:
+              raise SystemExit('Unexpected tiny text pages: ' + repr(tiny_text_pages))
+
+          all_text = '\n'.join(extracted)
+          for title in [
+              'THE LAST MORNING','THE FUNERAL','THE WILL AND DECISION','ARRIVAL','HOMECOMING',
+              'THE LAND AND THE SHRINE','THE RIVER BOUNDARY','THE DISTANCE BETWEEN','WHAT HE OPENED',
+              'THE TWO RECORDS','WHAT HE LEFT','WHEN IT STAYS']:
+              if title not in all_text:
+                  raise SystemExit('Rendered PDF missing sequence title: ' + title)
+
+          # Renderer should use Courier-family face for screenplay text.
+          fonts = set()
+          for page in doc:
+              for f in page.get_fonts(full=True):
+                  fonts.add(f[3])
+          if not any('Courier' in f for f in fonts):
+              raise SystemExit('Courier-family font not detected: ' + repr(sorted(fonts)))
+
+          print('PDF forensic page audit PASS')
+          print('Physical pages:', pages)
+          print('PDF bytes:', pdf.stat().st_size)
+          print('Fonts:', sorted(fonts))
+
+      - name: Commit screenplay and regenerated PDF
+        shell: pwsh
+        run: |
+          git config user.name "EKPO Repository Agent"
+          git config user.email "actions@users.noreply.github.com"
+          if (Test-Path '.github/workflows/promote-opening-elevation.yml') { git rm .github/workflows/promote-opening-elevation.yml }
+          git rm .github/workflows/forensic-audit-1-12.yml
+          git add 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf
+          git diff --cached --check
+          git commit -m "Forensic polish and rerender EKPO through Sequence 12"
+          git push origin HEAD:agent/authoritative-canon-sync
