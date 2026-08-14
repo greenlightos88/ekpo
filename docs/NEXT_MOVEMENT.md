@@ -1,182 +1,188 @@
 # CURRENT WRITING ASSIGNMENT
 
-Status: ACTIVE — AWARD-LEVEL REWRITE GATE
+Status: ACTIVE — SEQUENCE XI DEVELOPMENT UNLOCKED
 Canonical story endpoint: End of Sequence X — `THE TWO RECORDS`
-Screenplay prose status: NOT LOCKED / AUDIT FAILED
+Screenplay quality status through Sequence X: **PASS**
+Producer reading copy: 42 physical pages — one title page plus 41 screenplay pages
 
 ## Immediate objective
 
-Do **not** draft Sequence XI yet.
+Develop Sequence XI as the **first human and practical consequence** of the two-record discovery.
 
-The current screenplay architecture through Sequence X is canonically correct, but the post-river execution does not yet meet the required award-level threshold.
+Do not treat the maintenance room as permission to explain the mythology.
 
-Complete the mandatory rewrite pass defined in:
+The previous movement earned its power by stopping before interpretation. Sequence XI must begin from what the characters can now *do*, *fear*, *disagree about*, or *refuse* — not from a lecture about what the records mean.
 
-`development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md`
+The sequence should answer **one practical question** and create a sharper one.
 
-and apply the active dialogue control document:
+## Accepted starting image
 
-`docs/CHARACTER_VOICE_CONSTITUTION.md`
-
-The next accepted screenplay operation is a precision polish/rewrite of Sequences VIII-X, followed by a full producer-reading audit of the regenerated PDF.
-
-## Preserve without structural reinvention
-
-- Sequence VII river endpoint and its horror grammar;
-- shared house disturbance rather than isolated scare vignettes;
-- breach-seeking Entity ecology;
-- attention creates proximity;
-- failed-translation physicality;
-- Malik physically protecting/stabilizing Kai;
-- Kai disclosing his shrine action and talisman;
-- Bode as limited witness, not mythology expert or maintenance proxy;
-- Eno as household/family authority;
-- maintenance-room architecture;
-- inner maintained door remaining closed and unexplained;
-- Solomon procedural record;
-- sister perceptual record;
-- overlapping dates;
-- sister handwriting stopping;
-- Solomon continuing alone and later attempting uncertain perceptual notation;
-- Malik procedural aptitude / Kai perceptual aptitude remaining writer-level inference;
-- Ade remaining relationally central with no supernatural office;
-- sister-death causality remaining withheld.
-
-## Voice preservation law
-
-Do not make the dialogue `more distinctive` by adding style on top of the screenplay.
-
-The screenplay determines what each character wants, knows, fears, and is trying to make happen. The voice constitution governs how that existing dramatic intention becomes language.
-
-Every important dialogue revision must pass two tests:
-
-1. Could another principal character say this line unchanged?
-2. Does the line exist because the character needs something from the person in front of them, or because the repository needs the audience to know something?
-
-If the answer to the first is yes or the second is repository exposition, revise or cut.
-
-## Mandatory screenplay corrections
-
-### Sequence VIII — `THE DISTANCE BETWEEN`
-
-- Keep the visual event.
-- Compress the ending so the attention rule is not fully explained in dialogue after being demonstrated.
-- Remove or causally ground Malik's unexplained missing-step/displacement beat.
-- Convert interpretive prose into playable behavior where possible.
-- Malik speaks through protection, instruction, and verification rather than metaphysical inference.
-- Ade's humor must visibly thin as fear becomes undeniable; his role is reconnection, not rule explanation.
-- Kai reports perceptual change concretely but does not formulate the complete metaphysical rule.
-- End on residue and changed relationship, not rule summary.
-
-### Sequence IX — `WHAT HE OPENED`
-
-- Rebuild Bode's disclosure around fragments of human memory rather than ordered mythology delivery.
-- Remove `kept closed` or any phrasing that can imply containment; use stewardship/maintenance language.
-- Make Eno's arrival/action causally inevitable rather than conveniently timed.
-- Replace thesis-like Eno dialogue with language specific to her house, Solomon, Bode, and the nephews.
-- Malik interrogates sequence, responsibility, and unilateral choice rather than asking for cosmology.
-- Kai admits his action plainly and remains accountable without being flattened into generic recklessness.
-- Ade prevents either Malik or Kai from taking unilateral control of the next decision.
-- Keep Kai accountable for his choice without making the scene a question-and-answer canon dump.
-
-### Sequence X — `THE TWO RECORDS`
-
-- Reduce room inventory to the strongest evidence of repeated labor.
-- Remove explanatory interpretation after the matching dates reveal partnership.
-- Remove dialogue explicitly stating that Solomon was trying to write what his sister wrote.
-- Use one decisive matched-date example, one strong perceptual rhyme with Kai, and one post-sister Solomon attempt.
-- Preserve the inner door without explaining it.
-- Let Solomon's procedural record and the sister's perceptual record sound radically different without anyone naming the distinction.
-- Malik is drawn to procedural order without explaining his identification with it.
-- Kai recognizes perceptual correspondence through specific details.
-- Ade sees the relational geometry but does not name a two-role system.
-- Bode confirms only concrete history he can personally stand behind.
-- End visually on Malik / Kai / Ade geometry rather than prose explaining what Ade understands.
-
-## Screenplay-wide polish
-
-Run the entire current screenplay for:
-
-- aphorism density;
-- character voices converging into the same literary register;
-- action lines that explain the image after the image has already worked;
-- generic prestige-horror phrasing;
-- repeated motif beats that confirm instead of evolve;
-- dialogue that states the film's theme rather than pursuing immediate human objectives.
-
-Do not flatten strong lines merely because they are polished. The goal is scarcity: memorable language should feel character-specific and earned.
-
-Voice targets:
-
-- Malik: procedural, compressed, precise, low metaphor.
-- Ade: social, agile, humor as pressure regulation; genuine fear reduces jokes.
-- Kai: observational, comparative, sensory before interpretive.
-- Bode: minimal claims, concrete memory, qualified certainty.
-- Eno: household/family language, practical action, direct correction.
-- Solomon's records: procedural and anti-literary.
-- Sister's records: perceptual, sensory, precise about uncertainty.
-
-## Current story facts remain locked
-
-Inside the maintenance room:
+At the end of Sequence X:
 
 - Solomon's procedural ledger is open;
 - his sister's perceptual notebook is open;
-- matching dates establish parallel work;
-- the sister's handwriting stops midway through the notebook;
-- Solomon's records continue alone;
-- later Solomon material contains uncertain perceptual notation;
-- Malik is naturally drawn to procedural logic;
-- Kai recognizes his experience in the aunt's observations;
-- Ade notices what is happening between his brothers;
-- the inner maintained door remains closed, measured, and unfinished;
-- Bode does not know its full function;
-- the talisman remains controlled in the household;
+- one matched date has made their parallel work visible without naming a two-role system;
+- the sister's handwriting stops halfway through the notebook;
+- Solomon's records continue;
+- months later he writes `DISTANCE UNCERTAIN. / RE-MEASURE.`;
+- Malik's hand rests beside Solomon's knot diagram;
+- Kai's hand rests beside the aunt's description of the tall form;
+- Ade has silently turned the two records to face the same direction;
+- the unfinished brass point remains on the closed inner door;
+- the talisman remains under ordinary cloth in the kitchen;
 - no repair has been attempted;
-- no one has accepted stewardship.
+- no one has accepted stewardship;
+- no character possesses the complete cosmology.
+
+Do not immediately verbalize the composition the audience just saw.
+
+## Sequence XI dramatic target
+
+Strong direction:
+
+1. **Stay in daylight.** The story has just survived a major supernatural escalation. Let practical reality press back in.
+2. **Give the records a concrete consequence.** Malik should be able to identify that Solomon left some maintenance condition incomplete, but not a complete repair method.
+3. **Let Malik test procedure, not destiny.** His interest should come from legibility: dates, intervals, measurements, unfinished work. Nobody tells him he has inherited Solomon's job.
+4. **Let Kai compare without feeding the attention loop.** He may recognize a perceptual pattern in the notebooks, but he should become more deliberate about looking rather than compulsively seeking another encounter.
+5. **Give Ade a real decision function.** He should notice if Malik and Kai begin treating the records as permission to disappear into separate tasks. His importance remains relational, not mystical.
+6. **Keep Bode epistemically bounded.** He can distinguish remembered family history from what the records actually prove. He cannot become the interpreter of the whole system.
+7. **Keep Eno's house present.** There are children, relatives, meals, weather, responsibilities, and uninformed people living around this work. Any decision must account for them.
+8. **Create informed-consent pressure.** The brothers now know enough that simply leaving, staying, moving the talisman, touching the inner door, or returning to the land are all decisions with consequences.
+9. **End on a family decision or practical necessity**, not a mythology answer.
+
+## Best practical question to investigate
+
+The most promising current question is:
+
+> What, exactly, did Solomon fail to finish before he died?
+
+The answer should be **specific enough to create action but incomplete enough to preserve danger**.
+
+Possible evidence already on-page:
+
+- the unfinished measured point on the inner door;
+- Solomon's dated intervals;
+- a maintenance cycle that should have occurred after his death;
+- a western-node entry that can be compared with the condition Kai disturbed;
+- a gap between the last completed entry and the current date/condition.
+
+Do not convert this into a repair manual.
+
+The scene should discover a problem before it discovers a solution.
+
+## Character execution law
+
+Use `docs/CHARACTER_VOICE_CONSTITUTION.md` as an active screenplay constraint.
+
+### Malik
+
+- speaks through sequence, measurement, responsibility, and immediate decisions;
+- does not suddenly become spiritually eloquent;
+- must not infer that he is Solomon's successor;
+- useful control should coexist with relational danger.
+
+### Kai
+
+- reports what he notices specifically;
+- distinguishes observation from inference more than he did before the breach;
+- should carry guilt without becoming passive;
+- must not become a mythology translator.
+
+### Ade
+
+- tracks what the discovery is doing to his brothers;
+- humor may return when it genuinely restores contact, not because the script needs levity;
+- must have stakes and agency without a supernatural office.
+
+### Bode
+
+- concrete memory;
+- qualified certainty;
+- short answers;
+- never fills gaps merely because the plot wants information.
+
+### Eno
+
+- house, family, bodies, time, meals, children, safety, authority;
+- does not debate metaphysics;
+- can force an ethical decision by refusing to let hidden work endanger uninformed people.
+
+## Preserve
+
+- Seen / Unseen equilibrium architecture;
+- shrine as regulator, never prison;
+- Entity as independent breach-seeking Unseen intelligence;
+- attention creates proximity, primarily demonstrated rather than explained;
+- failed-translation physicality;
+- Solomon / sister complementary stewardship as writer-level architecture;
+- voluntary succession, never Chosen One logic;
+- Malik procedural aptitude without appointment;
+- Kai perceptual aptitude without appointment;
+- Ade with no supernatural office;
+- Bode as limited witness;
+- Eno as household authority;
+- inner door as part of the same covenant architecture, not a second portal/cage;
+- sister-death causality withheld until it changes a present Malik choice.
 
 ## Do not reveal yet
 
 - formal two-function stewardship vocabulary on-page;
-- Malik/Kai as announced successors;
-- complete Seen/Unseen cosmology;
+- a declaration that Malik and Kai are replacements/successors;
+- complete Seen / Unseen cosmology;
 - Entity taxonomy;
-- the causal truth that Solomon's failure forced his sister's fatal intervention;
+- the full causal truth that Solomon's procedural failure forced his sister's fatal intervention;
 - complete repair procedure;
 - inner door's complete function;
 - magical solution through the talisman;
 - supernatural role for Ade.
 
-## Merge gate
+## Horror escalation law
 
-PR #2 remains draft and must not merge until:
+Do not reward the audience with another Entity appearance merely because the previous sequence ended in records.
 
-1. Sequences VIII-X pass the award-level audit.
-2. Character voice distinction passes the cold-read name-cover test.
-3. `01_SCREENPLAY.fountain` is updated.
-4. `output/pdf/EKPO_Screenplay.pdf` is regenerated from that accepted Fountain.
-5. The output PDF is reviewed page-by-page for formatting and dramatic flow.
-6. Continuity, decisions, character canon, motifs, voice constitution, and session state are synchronized to the accepted pages.
-7. The audit file is updated from FAIL to PASS only after the work earns it.
+A supernatural recurrence should occur only if a character action creates a new condition that earns it.
 
-## Required reads
+The current pressure can come from:
 
-1. `development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md`
-2. `docs/CHARACTER_VOICE_CONSTITUTION.md`
-3. `docs/DECISION_LOG.md`
-4. `docs/EKPO_CONSTITUTION.md`
-5. `EKPO_Canonical_Mythology_Refactor.md`
-6. `00_CANON.md`
-7. `docs/CURRENT_CONTINUITY.md`
-8. `docs/CHARACTER_CANON.md`
-9. `docs/MOTIF_LEDGER.md`
-10. `01_SCREENPLAY.fountain`
-11. `output/pdf/EKPO_Screenplay.pdf`
+- what the records imply;
+- a deadline or maintenance interval;
+- disagreement over what to touch or move;
+- the risk to the household;
+- Kai's changed relationship to looking;
+- Malik's temptation to convert uncertainty into unilateral procedure.
+
+## Sequence XI acceptance gate
+
+Sequence XI does not pass because it is canon-safe.
+
+It must also:
+
+- change the brothers' relationship or decision state;
+- produce one concrete actionable fact;
+- create a harder unanswered question;
+- keep each principal voice identifiable with the name removed;
+- avoid explaining the image after the image works;
+- give Ade genuine dramatic necessity;
+- keep Bode useful without making him omniscient;
+- keep Eno's household authority materially relevant;
+- preserve mystery rather than postponing information arbitrarily;
+- feel inevitable after the final image of Sequence X.
+
+## Required reads before drafting
+
+1. `output/pdf/EKPO_Screenplay.pdf`
+2. `01_SCREENPLAY.fountain`
+3. `development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md`
+4. `docs/CHARACTER_VOICE_CONSTITUTION.md`
+5. `docs/DECISION_LOG.md`
+6. `docs/CURRENT_CONTINUITY.md`
+7. `docs/CHARACTER_CANON.md`
+8. `docs/MOTIF_LEDGER.md`
+9. `EKPO_Canonical_Mythology_Refactor.md`
+10. `00_CANON.md`
 
 ## Final operating rule
 
-Canon correctness is the floor, not the finish line.
+The screenplay through Sequence X earned the right to continue by trusting behavior, images, and omission.
 
-Voice distinction is a dramatic instrument, not a side project.
-
-Do not advance EKPO while the existing pages are merely functional, explanatory, technically consistent, or stylistically uniform.
+Sequence XI must not spend that trust on explanation.
