@@ -1,0 +1,70 @@
+name: Final EKPO forensic state sync
+on:
+  push:
+    branches: [agent/authoritative-canon-sync]
+    paths: [.github/workflows/final-forensic-state-sync.yml]
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/authoritative-canon-sync
+          fetch-depth: 0
+      - name: Reconcile continuity and next movement
+        shell: python
+        run: |
+          from pathlib import Path
+          def exact(path,old,new,label):
+              p=Path(path); s=p.read_text(encoding='utf-8'); n=s.count(old)
+              if n!=1: raise SystemExit(f'{label}: expected 1 match, got {n}')
+              p.write_text(s.replace(old,new),encoding='utf-8')
+
+          exact('docs/CURRENT_CONTINUITY.md',
+                'Canonical screenplay source: `01_SCREENPLAY.fountain`\nProducer reading copy: `output/pdf/EKPO_Screenplay.pdf`',
+                'Authoritative dramatic screenplay: `output/pdf/EKPO_Screenplay.pdf`\nSynchronized editable source: `01_SCREENPLAY.fountain`',
+                'continuity screenplay authority')
+          exact('docs/CURRENT_CONTINUITY.md','1. The Last Morning — canonical','1. The Last Morning — canonical / forensic-audited','S1 status')
+          exact('docs/CURRENT_CONTINUITY.md','2. The Funeral — canonical','2. The Funeral — canonical / forensic-audited','S2 status')
+          exact('docs/CURRENT_CONTINUITY.md','3. The Will and Decision — canonical','3. The Will and Decision — canonical / forensic-audited','S3 status')
+          exact('docs/CURRENT_CONTINUITY.md','4. Arrival — canonical','4. Arrival — canonical / forensic-audited','S4 status')
+          exact('docs/CURRENT_CONTINUITY.md','5. Homecoming — canonical','5. Homecoming — canonical / forensic-audited','S5 status')
+          exact('docs/CURRENT_CONTINUITY.md','6. The Land and the Shrine — canonical','6. The Land and the Shrine — canonical / forensic-audited','S6 status')
+          exact('docs/CURRENT_CONTINUITY.md','7. The River Boundary — canonical','7. The River Boundary — canonical / forensic-audited','S7 status')
+          exact('docs/CURRENT_CONTINUITY.md','8. The Distance Between — canonical','8. The Distance Between — canonical / forensic-audited','S8 status')
+          exact('docs/CURRENT_CONTINUITY.md','9. What He Opened — canonical','9. What He Opened — canonical / forensic-audited','S9 status')
+          exact('docs/CURRENT_CONTINUITY.md','10. The Two Records — canonical','10. The Two Records — canonical / forensic-audited','S10 status')
+          exact('docs/CURRENT_CONTINUITY.md','11. What He Left — canonical / award-audited','11. What He Left — canonical / forensic-audited','S11 status')
+          exact('docs/CURRENT_CONTINUITY.md','12. When It Stays — canonical / award-audited','12. When It Stays — canonical / forensic-audited','S12 status')
+
+          exact('docs/NEXT_MOVEMENT.md',
+                'Screenplay quality status through Sequence 12: **PASS**',
+                'Screenplay quality status through Sequence 12: **FORENSIC PASS**',
+                'next movement quality status')
+          exact('docs/NEXT_MOVEMENT.md',
+                '1. `output/pdf/EKPO_Screenplay.pdf`\n2. `01_SCREENPLAY.fountain`\n3. `development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md`\n4. `docs/ENTITY_HORROR_PHYSIOLOGY.md`\n5. `docs/CHARACTER_VOICE_CONSTITUTION.md`\n6. `docs/CURRENT_CONTINUITY.md`\n7. `docs/DECISION_LOG.md`\n8. `00_CANON.md`',
+                '1. `output/pdf/EKPO_Screenplay.pdf`\n2. `development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md`\n3. `01_SCREENPLAY.fountain`\n4. `docs/ENTITY_HORROR_PHYSIOLOGY.md`\n5. `docs/CHARACTER_VOICE_CONSTITUTION.md`\n6. `docs/CULTURAL_LANGUAGE_REGISTER.md`\n7. `docs/CURRENT_CONTINUITY.md`\n8. `docs/DECISION_LOG.md`\n9. `00_CANON.md`',
+                'next movement required reads')
+      - name: Validate final state
+        shell: python
+        run: |
+          from pathlib import Path
+          c=Path('docs/CURRENT_CONTINUITY.md').read_text(encoding='utf-8')
+          n=Path('docs/NEXT_MOVEMENT.md').read_text(encoding='utf-8')
+          assert 'Authoritative dramatic screenplay: `output/pdf/EKPO_Screenplay.pdf`' in c
+          assert c.count('forensic-audited') >= 12
+          assert 'FORENSIC PASS' in n
+          assert 'EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md' in n
+          assert 'CULTURAL_LANGUAGE_REGISTER.md' in n
+          print('final forensic state sync PASS')
+      - name: Commit final state
+        run: |
+          git config user.name "EKPO Repository Agent"
+          git config user.email "actions@users.noreply.github.com"
+          git rm .github/workflows/final-forensic-state-sync.yml
+          git add docs/CURRENT_CONTINUITY.md docs/NEXT_MOVEMENT.md
+          git diff --cached --check
+          git commit -m "Finalize EKPO forensic continuity through Sequence 12"
+          git push origin HEAD:agent/authoritative-canon-sync
