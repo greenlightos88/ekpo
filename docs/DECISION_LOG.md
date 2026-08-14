@@ -14,6 +14,59 @@ DATE:
 2026-08-13
 
 TITLE:
+Solomon's Final Succession Contradiction — Access Without Appointment
+
+DECISION:
+Solomon did not expect, appoint, or secretly predetermine that his sons would become the next stewards. He could not know whether they possessed the relevant capacities, whether they would understand the work, or whether they would voluntarily accept it.
+
+After his sister's death, grief and guilt made Solomon increasingly incapable of rebuilding the partnership that stewardship required. He continued doing what he could: maintaining the procedural work, returning physically to Calabar, preserving records, studying his sister's perceptual notebooks, and attempting to compensate for the function he had lost. He never truly solved succession.
+
+Solomon's final choice was therefore neither a clean succession plan nor simple abandonment. He left his sons **access without appointment**:
+
+- the Calabar house and family property;
+- the maintenance room;
+- his procedural records;
+- his sister's perceptual records;
+- the material evidence of the hidden work;
+- enough continuity that, if they discovered the truth and possessed the capacity, they could decide what to do.
+
+He did not leave an instruction declaring Malik, Kai, or Ade successors. He did not know for certain that any of them would take the work on. He believed in his children enough to leave the truth where they could eventually reach it, but he could not bring himself to ask them directly, train them openly, expose them deliberately to the danger that killed his sister, or risk hearing them refuse.
+
+This belief is loving and morally compromised at the same time. Solomon partly used faith in his sons to avoid the communication and consent that genuine succession required.
+
+His private logic can be understood at writer level as:
+
+- if they are capable, they may recognize what the records mean;
+- if they are willing, they may choose to continue;
+- if they are not, he will not have formally bound them to it.
+
+The flaw is that reality does not wait for a clean voluntary decision. Solomon's death creates a stewardship vacuum. Because he withheld preparation, his sons encounter the choice only after destabilization and crisis. Their agency remains real, but the conditions under which they must exercise it are unfair conditions Solomon helped create.
+
+The dramatic truth of Solomon's legacy is therefore deliberately double:
+
+> He left them a path, and he abandoned them inside a problem he was too frightened to explain.
+
+Both are true.
+
+Solomon must never be reframed as an omniscient posthumous mastermind whose inheritance scheme anticipated Kai's breach or guaranteed Malik/Kai succession. His faith in his children is human, uncertain, grieving, and incomplete.
+
+STATUS:
+LOCKED / FOUNDATIONAL CHARACTER + SUCCESSION DECISION
+
+CLARIFIES:
+- Solomon's ultimate failure as succession/transmission;
+- voluntary succession;
+- why the house, room, and records remain accessible after his death;
+- why no explicit successor instructions exist;
+- why his sons must discover rather than simply obey;
+- why the inheritance can feel simultaneously loving and cold.
+
+---
+
+DATE:
+2026-08-13
+
+TITLE:
 Award-Level Screenplay Gate — Passed Through Sequence X
 
 DECISION:
@@ -255,151 +308,3 @@ LOCKED
 
 SUPERSEDES:
 The single mixed notebook as the full reveal, unrelated occult-room mechanics, and second-portal/monster-room interpretations.
-
----
-
-DATE:
-2026-08-13
-
-TITLE:
-Bode Knowledge Boundary
-
-DECISION:
-Bode is a family-history witness with practical knowledge of land, dangerous boundaries, consequences surrounding his sister's death, Solomon's changed behavior, and enough warning knowledge to recognize danger.
-
-He does not possess complete cosmology, succession architecture, repair knowledge, or full records of either custodian.
-
-His screenplay disclosure must remain fragmentary, human, and memory-based rather than organized mythology delivery.
-
-Bode is not a co-custodian, maintenance proxy, or mythology narrator.
-
-STATUS:
-LOCKED
-
----
-
-DATE:
-2026-08-13
-
-TITLE:
-Ade Has No Supernatural Office
-
-DECISION:
-Ade's importance remains human and relational. He maintains emotional connection, uses humor as protection/social mediation, sees relational patterns, and may become the person who recognizes when stewardship consumes Malik and Kai.
-
-Sequence X may let Ade notice the Malik/Kai relationship without explaining it or assigning him a third metaphysical function.
-
-STATUS:
-LOCKED
-
----
-
-# PRESERVED PRIOR LOCKS STILL ACTIVE
-
-## EKPO North Star
-
-DECISION:
-EKPO is a prestige psychological supernatural family drama about inheritance: family is the subject, grief is the doorway, inheritance is the engine, and the supernatural is the language.
-
-STATUS:
-LOCKED
-
-## Shrine breach is first impossible supernatural trigger
-
-DECISION:
-Nothing objectively impossible occurs before Kai intentionally breaks the red restraint and removes the talisman. Pre-shrine unease comes from grief, silence, concealment, displacement, charged-but-ordinary objects, and observable pattern.
-
-STATUS:
-LOCKED
-
-## Kai acts intentionally at the shrine
-
-DECISION:
-Kai deliberately breaks the maintained binding, removes the talisman, nearly restores it, and chooses not to. He is not possessed, chosen, mind-controlled, or deprived of memory.
-
-STATUS:
-LOCKED
-
-## Solomon is never shown alive
-
-DECISION:
-The audience reconstructs Solomon through spaces, objects, instructions, travel history, contradictory memories, records, practical work, and consequences.
-
-STATUS:
-LOCKED
-
-## Family geography
-
-DECISION:
-The family surname is Oku. Bode travels from Nigeria to Vancouver because Solomon died. Eno remains in Nigeria during Vancouver material and first appears in Calabar.
-
-STATUS:
-LOCKED
-
-## One brass urn
-
-DECISION:
-One urn carries Solomon's ashes from Vancouver to Calabar and the river. After Sequence VII the ashes remain in the river and the urn is empty.
-
-STATUS:
-LOCKED
-
-## Funeral / will / travel compression
-
-DECISION:
-The Vancouver funeral is urn-centered. Ordinary feedback reveals Kai's sensory vulnerability. The scratched photograph appears at the reception. The will and brotherly decision form one concise movement. Packing and extended travel logistics remain omitted.
-
-STATUS:
-LOCKED
-
-## Cultural-language principle
-
-DECISION:
-Efik, Nigerian English, and Nigerian Pidgin are relationship-specific languages, not decorative accent writing. Native/regional review remains required before final production lock. Deferred shrine/ritual terminology must not be invented for flavor.
-
-STATUS:
-LOCKED PRINCIPLE / WORKING LANGUAGE LOCK
-
-## River recognition is shared
-
-DECISION:
-The river event is one shared field of pressure/recognition experienced through the brothers' existing bodies and coping systems. It is not three independent hauntings or a conventional attack.
-
-STATUS:
-LOCKED
-
-## Eno is not mythology expert
-
-DECISION:
-Eno's authority comes from family and household responsibility. She may recognize danger, secrecy, fear, and family history without possessing covenant cosmology or Entity expertise.
-
-STATUS:
-LOCKED
-
-## Repository carries permanent operational memory
-
-DECISION:
-Future agents must be able to continue EKPO from repository state without depending on chat memory. Active canon, decisions, continuity, character truth, motifs, screenplay state, PDF state, quality gates, and next assignment must remain explicit in the repository.
-
-STATUS:
-LOCKED
-
----
-
-# SUPERSEDED MATERIAL - HISTORY ONLY
-
-Do not restore as active canon:
-
-- Entity as balance-generated manifestation/symptom;
-- shrine as containment prison;
-- Solomon/sister competing-successor model;
-- Bode local maintenance proxy;
-- Bode as co-custodian or mythology expert;
-- previous Sequence VIII construction;
-- old Sequence IX `THE BROKEN KNOT`;
-- old Sequence X `THE CLOSED ROOM`;
-- single mixed three-hand notebook as sufficient red-room architecture;
-- literal spider deity / giant spider manifestation;
-- Chosen One language for Malik or Kai;
-- supernatural office for Ade;
-- Emeka/replacement/doppelganger legacy material as current story architecture.
