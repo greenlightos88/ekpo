@@ -1,4 +1,4 @@
-version: 4.1
+version: 4.2
 project:
   id: ekpo
   title: EKPO
@@ -45,11 +45,13 @@ source_hierarchy:
       - docs/CHARACTER_CANON.md
       - docs/CHARACTER_VOICE_CONSTITUTION.md
       - docs/ENTITY_HORROR_PHYSIOLOGY.md
+      - docs/CULTURAL_LANGUAGE_REGISTER.md
   - rank: 8
     authority: current-development-control
     paths:
       - docs/MOTIF_LEDGER.md
       - docs/NEXT_MOVEMENT.md
+      - development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md
       - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md
       - 02_MASTER_BIBLE.md
       - 03_SESSION.md
@@ -81,6 +83,7 @@ canonical_sources:
   horror_execution: [docs/ENTITY_HORROR_PHYSIOLOGY.md]
   audits:
     - development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md
+    - development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md
     - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md
   active_assignment: [docs/NEXT_MOVEMENT.md]
 
@@ -89,18 +92,18 @@ screenplay_state:
     sequence: 12
     title: WHEN IT STAYS
   sequences:
-    - {sequence: 1, title: THE LAST MORNING, status: canonical}
-    - {sequence: 2, title: THE FUNERAL, status: canonical}
-    - {sequence: 3, title: THE WILL AND DECISION, status: canonical}
-    - {sequence: 4, title: ARRIVAL, status: canonical}
-    - {sequence: 5, title: HOMECOMING, status: canonical}
-    - {sequence: 6, title: THE LAND AND THE SHRINE, status: canonical}
-    - {sequence: 7, title: THE RIVER BOUNDARY, status: canonical}
-    - {sequence: 8, title: THE DISTANCE BETWEEN, status: canonical}
-    - {sequence: 9, title: WHAT HE OPENED, status: canonical}
-    - {sequence: 10, title: THE TWO RECORDS, status: canonical}
-    - {sequence: 11, title: WHAT HE LEFT, status: canonical_award_audited}
-    - {sequence: 12, title: WHEN IT STAYS, status: canonical_award_audited}
+    - {sequence: 1, title: THE LAST MORNING, status: canonical_forensic_audited}
+    - {sequence: 2, title: THE FUNERAL, status: canonical_forensic_audited}
+    - {sequence: 3, title: THE WILL AND DECISION, status: canonical_forensic_audited}
+    - {sequence: 4, title: ARRIVAL, status: canonical_forensic_audited}
+    - {sequence: 5, title: HOMECOMING, status: canonical_forensic_audited}
+    - {sequence: 6, title: THE LAND AND THE SHRINE, status: canonical_forensic_audited}
+    - {sequence: 7, title: THE RIVER BOUNDARY, status: canonical_forensic_audited}
+    - {sequence: 8, title: THE DISTANCE BETWEEN, status: canonical_forensic_audited}
+    - {sequence: 9, title: WHAT HE OPENED, status: canonical_forensic_audited}
+    - {sequence: 10, title: THE TWO RECORDS, status: canonical_forensic_audited}
+    - {sequence: 11, title: WHAT HE LEFT, status: canonical_forensic_audited}
+    - {sequence: 12, title: WHEN IT STAYS, status: canonical_forensic_audited}
   pdf:
     path: output/pdf/EKPO_Screenplay.pdf
     screenplay_pages: 57

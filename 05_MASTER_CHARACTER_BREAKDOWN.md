@@ -1,16 +1,16 @@
 # EKPO MASTER CHARACTER BREAKDOWN
 
-Version: 1.0 - Canonical Character Control Document
+Version: 1.1 - Foundational Character Development Archive
 
-Status: Working canon through Act II, Sequence VII
+Status: LEGACY FOUNDATION — SUPERSEDED WHERE CONFLICTS WITH CURRENT SEQUENCE 12 CHARACTER AUTHORITY
 
 ## Purpose
 
-This file is the repository's primary authority for character psychology, behavior, decision-making, relationship dynamics, performance logic, and anti-drift rules.
+This file preserves the project's foundational character-development work through the earlier screenplay state. It is **not the current top-level character authority where later canon has changed.**
 
-It exists so that later sequences do not flatten the cast into functions, repeat completed beats, contradict established behavior, or force a character to make a decision merely because the plot requires it.
+For current screenplay work through Sequence 12, read first: `docs/CHARACTER_CANON.md`, `docs/CHARACTER_VOICE_CONSTITUTION.md`, `docs/ENTITY_HORROR_PHYSIOLOGY.md`, `docs/CULTURAL_LANGUAGE_REGISTER.md`, and the current screenplay/PDF. Where those sources conflict with material below, the newer sources supersede this archive.
 
-This is not a collection of biographies. It is a dramatic operating system.
+This archive remains useful for deep psychology, relationship engines, performance questions, and historical development that has not been superseded. Do not resurrect an old mythology assumption merely because it remains documented below.
 
 For each character, the document defines:
 
@@ -90,7 +90,7 @@ The Oku family is organized around different methods of surviving uncertainty.
 | Eno | Make care materially unavoidable | A family capable of facing truth and continuing to live | Carrying ordinary life while men preserve silence | Practical care toward active truth-telling |
 | Solomon | Arrange people and systems from absence | To protect his sons from what he could not repair | Turning protection into another inheritance of silence | Mystery toward human contradiction |
 | Younger sister | Presently exists through erasure and memory | Restoration to full human personhood | Being reduced to a clue or a victim | Erased absence toward acknowledged consequence |
-| Entity | Correct damaged balance | Restoration according to an inhuman standard | Treating descendants as continuous with ancestral failure | Recognition toward attachment, then correction |
+| Entity | Approach breach / reciprocal perception | Increasing perceptual relationship with the Seen | Becoming over-classified as moral agent, demon, or punishment mechanism | Recognition toward increasing reciprocal proximity; exact long-form intent remains unknown |
 
 The brothers must remain a three-part system:
 

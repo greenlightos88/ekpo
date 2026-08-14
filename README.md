@@ -25,7 +25,7 @@ The synchronized editable source is [01_SCREENPLAY.fountain](01_SCREENPLAY.fount
 - Sequence 11 — `WHAT HE LEFT`
 - Sequence 12 — `WHEN IT STAYS`
 
-Sequences 11-12 passed continuity, character-voice, exposition, runtime, horror, Entity-rule, family-protection, integration, repository-render, and visual-page audits.
+Sequences 1-12 have now passed the full forensic screenplay gate: story architecture, scene necessity, character voice, exposition, canon, Bode/Eno knowledge boundaries, horror escalation, Entity physiology, motif continuity, filmable prose, cultural-register discipline, exact integration, Windows/Courier rendering, and every-page technical PDF inspection. Final Nigerian/Calabar/Efik language review remains deferred to a qualified human reader before production/submission lock.
 
 ## Current screenplay state
 
@@ -67,8 +67,9 @@ See `docs/NEXT_MOVEMENT.md`.
 9. [Character canon](docs/CHARACTER_CANON.md)
 10. [Character voice constitution](docs/CHARACTER_VOICE_CONSTITUTION.md)
 11. [Entity horror physiology](docs/ENTITY_HORROR_PHYSIOLOGY.md)
-12. [Sequence 11-12 award audit](development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md)
-13. [Current writing assignment](docs/NEXT_MOVEMENT.md)
+12. [Full Sequences 1-12 forensic audit](development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md)
+13. [Sequence 11-12 award audit](development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md)
+14. [Current writing assignment](docs/NEXT_MOVEMENT.md)
 14. [Editable Fountain](01_SCREENPLAY.fountain)
 15. [Session / continuation state](03_SESSION.md)
 
