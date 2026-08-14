@@ -1,0 +1,70 @@
+name: Audit Sequences 11-12
+
+on:
+  push:
+    branches:
+      - agent/authoritative-canon-sync
+    paths:
+      - .github/workflows/audit-sequences-11-12.yml
+
+jobs:
+  audit:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install renderer dependencies
+        run: python -m pip install reportlab pypdf
+      - name: Build integrated audit Fountain
+        shell: pwsh
+        run: |
+          $base = Get-Content '01_SCREENPLAY.fountain' -Raw
+          if ($base -match '# SEQUENCE 11') { throw 'Authoritative screenplay already contains Sequence 11.' }
+          $candidate = Get-Content 'development/rewrites/SEQUENCES_11_12_AWARD_PASS.fountain' -Raw
+          $integrated = $base.TrimEnd() + "`r`n`r`n" + $candidate.Trim() + "`r`n"
+          New-Item -ItemType Directory -Force -Path 'development/audits/runtime' | Out-Null
+          Set-Content 'development/audits/runtime/EKPO_SEQUENCE_12_INTEGRATED.fountain' $integrated -NoNewline
+      - name: Verify preserved prefix and candidate markers
+        shell: python
+        run: |
+          from pathlib import Path
+          import hashlib
+          base = Path('01_SCREENPLAY.fountain').read_bytes()
+          integrated = Path('development/audits/runtime/EKPO_SEQUENCE_12_INTEGRATED.fountain').read_bytes()
+          assert integrated.startswith(base.rstrip() + b'\r\n\r\n') or integrated.startswith(base.rstrip() + b'\n\n'), 'Sequences 1-10 prefix changed during integration'
+          text = integrated.decode('utf-8')
+          assert '# SEQUENCE 11 - WHAT HE LEFT' in text
+          assert '# SEQUENCE 12 - WHEN IT STAYS' in text
+          for banned in ['# SEQUENCE XI', '# SEQUENCE XII', 'chosen one', 'spider god', 'Entity feeds on attention']:
+              assert banned.lower() not in text.lower(), f'Banned text present: {banned}'
+          print('BASE_SHA256=' + hashlib.sha256(base).hexdigest())
+          print('INTEGRATED_SHA256=' + hashlib.sha256(integrated).hexdigest())
+      - name: Render exact screenplay PDF
+        run: python tools/render_screenplay.py development/audits/runtime/EKPO_SEQUENCE_12_INTEGRATED.fountain development/audits/runtime/EKPO_SEQUENCE_12_INTEGRATED.pdf
+      - name: PDF and runtime diagnostics
+        shell: python
+        run: |
+          from pathlib import Path
+          from pypdf import PdfReader
+          import re
+          pdf = PdfReader('development/audits/runtime/EKPO_SEQUENCE_12_INTEGRATED.pdf')
+          pages = len(pdf.pages)
+          text = Path('development/audits/runtime/EKPO_SEQUENCE_12_INTEGRATED.fountain').read_text(encoding='utf-8')
+          cand = Path('development/rewrites/SEQUENCES_11_12_AWARD_PASS.fountain').read_text(encoding='utf-8')
+          s11 = cand.split('# SEQUENCE 12 - WHEN IT STAYS',1)[0]
+          s12 = '# SEQUENCE 12 - WHEN IT STAYS' + cand.split('# SEQUENCE 12 - WHEN IT STAYS',1)[1]
+          def dialogue_words(s):
+              return len(re.findall(r"\b[\w’'-]+\b", s))
+          print(f'PHYSICAL_PAGES={pages}')
+          print(f'SCREENPLAY_PAGES={pages-1}')
+          print(f'SEQUENCE_11_WORDS={dialogue_words(s11)}')
+          print(f'SEQUENCE_12_WORDS={dialogue_words(s12)}')
+          assert pages > 42, 'Integrated screenplay did not grow beyond Sequence 10 baseline'
+          assert pages < 65, 'Sequences 11-12 expanded screenplay beyond expected range'
+          assert not pdf.is_encrypted
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ekpo-sequences-11-12-audit
+          path: development/audits/runtime/
