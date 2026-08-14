@@ -1,4 +1,4 @@
-version: 4.0
+version: 4.1
 project:
   id: ekpo
   title: EKPO
@@ -28,7 +28,9 @@ source_hierarchy:
     rule: "Latest approved PDF is the dramatic screenplay authority."
   - rank: 4
     authority: locked-decisions
-    paths: [docs/DECISION_LOG.md]
+    paths:
+      - docs/SEQUENCE_12_LOCK.md
+      - docs/DECISION_LOG.md
   - rank: 5
     authority: creative-constitution
     paths: [docs/EKPO_CONSTITUTION.md]
@@ -68,24 +70,19 @@ canonical_sources:
     screenplay_pages: 57
     physical_pdf_pages: 58
     status: synchronized
-  mythology:
-    - EKPO_Canonical_Mythology_Refactor.md
-  canon:
-    - 00_CANON.md
-    - docs/EKPO_CONSTITUTION.md
-    - docs/CURRENT_CONTINUITY.md
+  mythology: [EKPO_Canonical_Mythology_Refactor.md]
   decisions:
+    - docs/SEQUENCE_12_LOCK.md
     - docs/DECISION_LOG.md
+  continuity: [docs/CURRENT_CONTINUITY.md]
   characters:
     - docs/CHARACTER_CANON.md
     - docs/CHARACTER_VOICE_CONSTITUTION.md
-  horror_execution:
-    - docs/ENTITY_HORROR_PHYSIOLOGY.md
+  horror_execution: [docs/ENTITY_HORROR_PHYSIOLOGY.md]
   audits:
     - development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md
     - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md
-  active_assignment:
-    - docs/NEXT_MOVEMENT.md
+  active_assignment: [docs/NEXT_MOVEMENT.md]
 
 screenplay_state:
   canonical_through:
