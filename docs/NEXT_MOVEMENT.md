@@ -24,7 +24,7 @@ First prove that the human-audit corrections and marketplace restoration work as
 9. **Cultural-language test** — development-grade Nigerian English/Pidgin only; final Efik/Calabar cadence remains subject to qualified human review.
 10. **Render/page test** — exact Fountain to PDF, no clipping, broken page flow, or formatting regression.
 11. **Continuity test** — residual injuries, cracked camera, talisman custody, nine-day missed interval, and inner-door closure remain consistent.
-12. **Legacy scan** — no `ENO: Car.`, moving fastener, `one turn short`, impossible courtyard sightline, or old marketplace mythology may survive.
+12. **Legacy scan** — no `ENO: Car.`, moving-fastener clue, impossible courtyard sightline, or old marketplace mythology may survive.
 
 ## Sequence 12 revised function
 
