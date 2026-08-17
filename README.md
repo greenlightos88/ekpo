@@ -88,7 +88,7 @@ Kai leaves his cracked camera at home and actively asks his brothers not to let 
 - Bode has no hidden repair procedure.
 - Eno is household authority, not cosmology expert.
 - Inner maintained door remains closed.
-- Moving-fastener / `one turn short` material is superseded and removed.
+- The prior moving-fastener endpoint is superseded and removed.
 - Sequence numbers use Arabic numerals only.
 
 ## Read order for current PR #3 work

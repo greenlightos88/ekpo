@@ -80,7 +80,7 @@ The following are no longer canon:
 
 - `ENO: Car.` and the implied car/hospital continuation;
 - a loose inner-door fastener moving into place;
-- `one turn short` as a supernatural clue;
+- the former fastener-state clue;
 - any courtyard sightline to the inner maintained door.
 
 ## Family-protection state

@@ -266,7 +266,7 @@ Her Sequence 13 market errand is ordinary household action, not a medical or mys
 ### Inner maintained door / diagnostic array
 
 - inner door remains unopened;
-- prior moving-fastener / `one turn short` beat is removed from canon;
+- prior moving-fastener endpoint is removed from canon;
 - dense measured cord/knot array surrounds the door;
 - brothers do not yet know how to read it.
 
