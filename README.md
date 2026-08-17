@@ -4,84 +4,122 @@ Psychological supernatural family drama about inheritance.
 
 > Reality survives not through power, but through stewardship.
 
-## Authoritative screenplay
+## Current development state
 
-[Read the latest producer screenplay PDF](output/pdf/EKPO_Screenplay.pdf)
+`main` contains the merged forensic baseline through Sequence 12.
 
-The PDF in `output/pdf/` is the authoritative dramatic screenplay iteration.
+Draft PR #3 contains the active human-audit correction pass:
 
-Current endpoint: **Act 2, Sequence 12 — WHEN IT STAYS.**
+- revised Sequence 12 geography/blocking/non-verbal logic;
+- integrated inner-door red-cord/knot diagnostic array;
+- removal of the moving-fastener and `ENO: Car.` beats;
+- page-6 gaze clarification;
+- Sequence 13 marketplace candidate.
 
-Current PDF: **58 physical pages total — 1 title page + 57 screenplay pages.**
+**PR #3 is not yet merge-ready.** It must pass the human/spatial/cultural/continuity promotion gate before replacing the `main` baseline.
 
-The synchronized editable source is [01_SCREENPLAY.fountain](01_SCREENPLAY.fountain). It must reproduce the approved output PDF; if the two ever differ, reconcile the Fountain to the PDF before continuing page work.
+## Candidate screenplay
 
-## Current sequence movement
+- candidate reading copy: `output/pdf/EKPO_Screenplay.pdf`
+- synchronized editable source: `01_SCREENPLAY.fountain`
+- candidate endpoint: **Sequence 13 — `THE MARKET`**
+- latest successful technical render: **65 physical pages**
 
-- Sequence 7 — `THE RIVER BOUNDARY`
-- Sequence 8 — `THE DISTANCE BETWEEN`
-- Sequence 9 — `WHAT HE OPENED`
-- Sequence 10 — `THE TWO RECORDS`
-- Sequence 11 — `WHAT HE LEFT`
-- Sequence 12 — `WHEN IT STAYS`
+The output PDF remains the dramatic reading artifact. The Fountain source must reproduce it exactly before promotion.
 
-Sequences 1-12 have now passed the full forensic screenplay gate: story architecture, scene necessity, character voice, exposition, canon, Bode/Eno knowledge boundaries, horror escalation, Entity physiology, motif continuity, filmable prose, cultural-register discipline, exact integration, Windows/Courier rendering, and every-page technical PDF inspection. Final Nigerian/Calabar/Efik language review remains deferred to a qualified human reader before production/submission lock.
+## What changed after the human read
 
-## Current screenplay state
+The previous automated forensic pass was not sufficient. A human reader correctly identified:
 
-Through Sequence 12:
+- unclear Sequence 12 house geography;
+- ambiguous evacuation direction;
+- an impossible courtyard sightline to the semi-underground inner door;
+- insufficient non-verbal cause-and-effect as family exposure reduced;
+- the contextless `ENO: Car.` line;
+- an unearned moving brass-fastener mystery;
+- page-6 subject ambiguity in `The three brothers follow his gaze.`
 
-- Kai breached the shrine/regulator and removed the brass talisman;
-- Solomon's ashes were scattered at the river;
-- the maintenance room revealed Solomon's procedural ledger and his sister's perceptual notebooks on overlapping dates;
-- Solomon's records extend maintenance beyond his death, but name no successor;
-- the next documented maintenance interval is nine days overdue;
-- the brothers establish: nobody goes alone; nobody decides alone;
-- a severe Entity manifestation produces perceptual stutter, spatial incompatibility, and persistent physiological injury;
-- Kai suffers ocular bleeding, vomiting, tremor, and temporary loss of his right arm;
-- Malik experiences breathing-sequence failure;
-- Ade suffers bleeding/vestibular disturbance and protects an uninformed child from the affected passage;
-- Ade and Eno move the wider family away under a gas-leak explanation;
-- the brothers have behavioral evidence that wider attention/exposure may worsen the event, but no complete rule;
-- the previously loose inner-door fastener is now seated in its measured point, one turn short, with no known cause;
-- no one has accepted stewardship, received a complete repair procedure, or learned the full cause of the aunt's death.
+Those findings reopened the Sequence 12 lock.
 
-## Current writing objective
+See `development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md`.
 
-Develop **Sequence 13** from the aftermath and consequences of Sequence 12.
+## Revised house / maintenance architecture
 
-Do not reset the injuries. Do not immediately explain the attention mechanism. Do not convert the changed fastener into an automatic repair clue. Make the family-protection problem real before earning another major Entity escalation.
+The Oku house now has an explicit spatial authority in `docs/HOUSE_GEOGRAPHY.md`.
 
-See `docs/NEXT_MOVEMENT.md`.
+The maintenance room is semi-underground beneath the rear of the house. The inner maintained door cannot be seen from the courtyard.
 
-## Read order for future agents
+A dense measured red-cord/knot array surrounds the inner door. It functions as Solomon's material analog indicator of regulatory pressure: small changes in tension, slack, alignment, and knot position can register instability. It is instrumentation, not haunted rope.
 
-1. [Screenplay authority](docs/SCREENPLAY_AUTHORITY.md)
-2. [Latest screenplay PDF](output/pdf/EKPO_Screenplay.pdf)
-3. [Sequence 12 lock](docs/SEQUENCE_12_LOCK.md)
-4. [Decision log](docs/DECISION_LOG.md)
-5. [Creative constitution](docs/EKPO_CONSTITUTION.md)
-6. [Authoritative mythology](EKPO_Canonical_Mythology_Refactor.md)
-7. [Canon](00_CANON.md)
-8. [Current continuity](docs/CURRENT_CONTINUITY.md)
-9. [Character canon](docs/CHARACTER_CANON.md)
-10. [Character voice constitution](docs/CHARACTER_VOICE_CONSTITUTION.md)
-11. [Entity horror physiology](docs/ENTITY_HORROR_PHYSIOLOGY.md)
-12. [Full Sequences 1-12 forensic audit](development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md)
-13. [Sequence 11-12 award audit](development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md)
-14. [Current writing assignment](docs/NEXT_MOVEMENT.md)
-14. [Editable Fountain](01_SCREENPLAY.fountain)
-15. [Session / continuation state](03_SESSION.md)
+See `docs/REGULATOR_CORD_ARRAY.md`.
 
-## Sequence numbering
+## Sequence 12 — `WHEN IT STAYS`
 
-Use standard numerical sequence labels only: Sequence 1, Sequence 2, Sequence 3, etc. Do not use Roman numerals for sequence numbers.
+The Entity manifests along the back-passage axis.
 
-## Tooling
+Family evacuation now moves away from that axis, across the courtyard toward the compound gate. Ade actively closes sightlines. As uninformed family members turn and move away, human spatial/bodily coherence begins improving without anyone explaining the rule.
 
-- Authoritative producer screenplay: `output/pdf/EKPO_Screenplay.pdf`
-- Editable synchronized source: `01_SCREENPLAY.fountain`
-- Renderer: `tools/render_screenplay.py`
-- Machine-readable authority map: `PROJECT_MANIFEST.yaml`
+The maintenance-room cord array reacts in an objective cutaway while the inner door remains closed and still.
 
-PR #2 remains draft and unmerged until explicit creator authorization.
+The sequence no longer ends on a changed fastener. It ends on the brothers physically between the house and their family.
+
+## Sequence 13 candidate — `THE MARKET`
+
+The next morning begins with breakfast and visible residual wear rather than another immediate return underground.
+
+Eno gives Bode an ordinary market errand and sends the brothers with him.
+
+The market restores ordinary Calabar life before renewed Entity pressure demonstrates that leaving the house does not automatically end reciprocal proximity.
+
+A public masquerade procession remains ordinary community culture. The Entity is perceived in negative space around moving people; the masquerade itself is never the horror.
+
+Kai leaves his cracked camera at home and actively asks his brothers not to let him sustain attention.
+
+## Current non-negotiable continuity
+
+- Kai deliberately breached the regulator and removed the brass talisman.
+- Solomon's ashes remain in the river.
+- Solomon's procedural records and his sister's perceptual notebooks overlap in date/function.
+- The next maintenance interval is nine days overdue.
+- Solomon named no successor.
+- Nobody goes alone; nobody decides alone.
+- Sequence 12 injuries persist.
+- Ade has no supernatural office.
+- Bode has no hidden repair procedure.
+- Eno is household authority, not cosmology expert.
+- Inner maintained door remains closed.
+- Moving-fastener / `one turn short` material is superseded and removed.
+- Sequence numbers use Arabic numerals only.
+
+## Read order for current PR #3 work
+
+1. `01_SCREENPLAY.fountain`
+2. `output/pdf/EKPO_Screenplay.pdf`
+3. `development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md`
+4. `docs/HOUSE_GEOGRAPHY.md`
+5. `docs/REGULATOR_CORD_ARRAY.md`
+6. `docs/SEQUENCE_12_LOCK.md`
+7. `docs/CURRENT_CONTINUITY.md`
+8. `docs/NEXT_MOVEMENT.md`
+9. `00_CANON.md`
+10. `docs/CHARACTER_VOICE_CONSTITUTION.md`
+11. `docs/CULTURAL_LANGUAGE_REGISTER.md`
+12. `docs/ENTITY_HORROR_PHYSIOLOGY.md`
+13. `docs/MOTIF_LEDGER.md`
+
+## Remaining gate
+
+Before PR #3 can be promoted:
+
+- uninformed-reader geography test;
+- evacuation blocking test;
+- non-verbal causal-comprehension test;
+- cord-array taste/originality test;
+- Entity power-inflation test;
+- masquerade cultural-integrity test;
+- character voice/name-cover test;
+- Nigerian-language development pass;
+- exact PDF render/page inspection;
+- full Sequence 1–13 continuity audit.
+
+Final Nigerian/Calabar/Efik dialogue authenticity still requires qualified human review before production/submission lock.
