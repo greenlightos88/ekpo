@@ -1,59 +1,28 @@
-# EKPO — SEQUENCE 12 LOCK
+# EKPO — SEQUENCE 12 REVISED LOCK
 
-Date: 2026-08-13
-Status: LOCKED / AUTHORITATIVE CONTINUATION DECISION
+Date: 2026-08-17
+Status: HUMAN-AUDIT REVISION IMPLEMENTED / PR #3 PROMOTION AUDIT REQUIRED
 
-This lock supplements `docs/DECISION_LOG.md` and supersedes any older current-state entry that stops at Sequence 10.
+This lock supersedes the prior Sequence 12 spatial/fastener state.
 
-## Award-Level Screenplay Gate — Passed Through Sequence 12
+## Why the prior lock was reopened
 
-Sequences 11 (`WHAT HE LEFT`) and 12 (`WHEN IT STAYS`) passed:
+A human read found failures the previous forensic pass did not catch:
 
-- continuity;
-- scene function;
-- exposition control;
-- character voice / name-cover test;
-- Solomon/succession integrity;
-- Ade necessity;
-- Bode and Eno knowledge boundaries;
-- horror escalation;
-- perceptual-stutter execution;
-- Entity-power inflation;
-- attention-rule restraint;
-- body-horror taste;
-- residual-damage continuity;
-- family-protection logic;
-- sister-death compatibility;
-- medical/common-sense behavior;
-- motif evolution;
-- cultural restraint;
-- exact screenplay integration;
-- Windows/Courier rendering;
-- page-flow and visual-page inspection;
-- final hostile prose audit.
+- house geography was not reliably reconstructable;
+- evacuation blocking was ambiguous;
+- the brothers were given an impossible sightline to the inner maintained door;
+- `ENO: Car.` had no dramatic setup and implied an unnecessary medical continuation;
+- the moving fastener created an unearned new mystery;
+- the evacuation did not give enough non-verbal cause-and-effect for the audience to infer why pressure reduced.
 
-The authoritative reading copy is 58 physical pages total: one title page plus 57 screenplay pages.
+Those are genuine integrity failures. They are not protected by the earlier PASS label.
 
-## Sequence 11 lock
-
-The next maintenance interval is nine days overdue.
-
-Solomon preserved future work, materials, measurements, locations, and keys but named no successor.
-
-The brothers establish:
-
-- nobody goes alone;
-- nobody decides alone.
-
-This is collective action, not formal acceptance of stewardship.
-
-## Sequence 12 lock
+## Sequence 12 revised facts
 
 Entity proximity can create severe physiological translation pressure and perceptual stutter without a conventional physical attack.
 
-The Seen may briefly produce incompatible states for human perception/body/space while the Entity becomes more perceptually coherent.
-
-Acute effects established on-page include:
+Established acute effects remain:
 
 - metallic taste;
 - ear pressure and temporal sound error;
@@ -66,24 +35,72 @@ Acute effects established on-page include:
 - apparent local structural load;
 - residual symptoms after the manifestation ends.
 
-The characters do not yet know the complete attention/observer mechanism.
+### Geography / blocking
 
-The wider family is now a direct protection stake.
+- The courtyard is the house's shared center.
+- The front room/veranda and kitchen open independently onto it.
+- A separate back passage runs deeper into the house and descends toward the outer red-corded door.
+- The maintenance room is semi-underground beneath the rear of the house.
+- The inner maintained door cannot be seen from the courtyard.
+- The Entity manifests along the back-passage axis.
+- Family evacuation moves across the courtyard toward the compound gate, away from that axis.
+- Nobody must cross the manifestation axis to leave.
 
-Ade's social intelligence is established as protective infrastructure without giving him a supernatural office.
+See `docs/HOUSE_GEOGRAPHY.md`.
 
-The inner-door fastener is seated in the unfinished measured point, one turn short, after the encounter. Cause remains unknown.
+### Non-verbal attention/exposure logic
+
+The characters still do not possess a complete observer mechanism.
+
+Sequence 12 now demonstrates behaviorally that when uninformed family members turn away and move out of the affected sightline:
+
+- doubled spatial edges begin resolving;
+- structural strain eases;
+- Malik's next breath begins without conscious forcing;
+- Kai's doubled visual field narrows;
+- the Entity loses perceptual coherence.
+
+The audience may infer a relationship between directed awareness/exposure and manifestation pressure before the characters can formulate the rule.
+
+### Cord / knot diagnostic array
+
+The inner door is surrounded by a dense measured red-cord/knot array that functions as Solomon's material analog indicator of regulatory pressure.
+
+During the courtyard manifestation, an objective cutaway shows restrained changes in tension, slack, knot position, and alignment.
+
+The array is instrumentation, not sentient rope.
+
+The inner door itself remains closed and still.
+
+See `docs/REGULATOR_CORD_ARRAY.md`.
+
+### Removed beats
+
+The following are no longer canon:
+
+- `ENO: Car.` and the implied car/hospital continuation;
+- a loose inner-door fastener moving into place;
+- `one turn short` as a supernatural clue;
+- any courtyard sightline to the inner maintained door.
+
+## Family-protection state
+
+Ade's social intelligence remains protective infrastructure without giving him a supernatural office.
+
+The final Sequence 12 image places the brothers physically between the house and the family. A child attempts to peer back toward the affected area; Ade quietly closes the sightline. Malik and Kai both register what he is doing.
+
+The group mission now emerges from behavior: protect the family while learning enough to act without increasing exposure.
 
 ## Sister-death compatibility
 
-Writer-level logic now supports the sister's death as catastrophic prolonged exposure during restoration of equilibrium after Solomon's procedural failure removed the conditions/support their partnership required.
+Writer-level logic still supports the sister's death as catastrophic prolonged exposure during restoration of equilibrium after Solomon's procedural failure removed the conditions/support their partnership required.
 
 Do not reveal that causal truth on-page yet.
 
 ## Sequence numbering
 
-Active screenplay/control documents use Arabic numerals only: Sequence 1, Sequence 2, Sequence 3, etc.
+Active screenplay/control documents use Arabic numerals only.
 
 ## Next state
 
-Sequence 13 development is unlocked, beginning from physical aftermath, family exposure, the nine-day missed interval, and the unexplained fastener change.
+Sequence 13 exists as a marketplace candidate on PR #3 and is not yet merged canon. Its job is to provide breathing room, preserve residual injury, restore ordinary Calabar life, and then demonstrate that leaving the house does not automatically end reciprocal Entity proximity.
