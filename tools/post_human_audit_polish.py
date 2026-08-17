@@ -113,6 +113,25 @@ m=m.replace('- unfinished inner-door point includes a brass fastener waiting bes
 m=m.replace('- inner maintained door/interface;\n- no occult spectacle;','- inner maintained door/interface;\n- dense measured cord/knot diagnostic array around the inner door;\n- semi-underground location beneath the rear of the house;\n- no occult spectacle;',1)
 m=m.replace('- inner door combines measured red-cord placement with brass markers/unfinished point.','- inner door combines measured red-cord placement with brass markers in a dense diagnostic array.',1)
 m=m.replace('- Sequence 8 makes naked attention itself dangerous: the presence becomes clearer/closer as Kai looks longer.','- Sequence 8 makes naked attention itself dangerous: the presence becomes clearer/closer as Kai looks longer;\n- Sequence 12 cracks the camera casing during the major manifestation;\n- Sequence 13 Kai deliberately leaves the damaged camera at the house before the market trip.',1)
+m=m.replace('''## Inner-Door Fastener
+
+Continuity:
+- loose on sill through Sequence 11;
+- seated in unfinished measured point after Sequence 12;
+- one turn short;
+- cause unknown.
+
+Do not treat the change as an automatic repair instruction.''','''## Inner Door / Diagnostic Array
+
+Continuity:
+- inner maintained door remains closed;
+- the prior moving-fastener endpoint is removed;
+- dense measured cord/knot array surrounds the inner door;
+- Sequence 10 establishes the array at complete rest;
+- Sequence 12 shows restrained pressure changes in the array while the door itself remains still;
+- the brothers have not yet learned how to read the pattern.
+
+Do not turn the array into an automatic repair instruction.''',1)
 if '## Masquerade / Public Cultural Performance' not in m:
     marker='## Sound\n'
     section='''## Masquerade / Public Cultural Performance\n\nMeaning:\n\n- ordinary living culture in Calabar;\n- public rhythm, continuity, recognition, and community life;\n- a visually dense human environment that the brothers may misperceive under Entity pressure without making the culture itself supernatural.\n\nRules:\n\n- the masquerade is never the Entity;\n- no performer is automatically possessed, cursed, or secretly monstrous;\n- the Entity may become perceptible in negative space around a procession while real performers continue as themselves;\n- do not invent restricted meanings, costume specifics, or ritual terminology before qualified Efik/Calabar cultural review;\n- public response should establish the event as belonging to the community, not as an omen staged for the Canadian brothers.\n\n'''
