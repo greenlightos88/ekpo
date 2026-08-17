@@ -1,0 +1,83 @@
+name: Final Sequence 10 stale interval fix
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/sequence-12-geography-sequence-13-marketplace
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install audit dependencies
+        run: python -m pip install --disable-pip-version-check reportlab pypdf pymupdf
+      - name: Apply final screenplay fix
+        run: python tools/fix_sequence10_stale_interval.py
+      - name: Source regression
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          s=Path('01_SCREENPLAY.fountain').read_text(encoding='utf-8')
+          lower=s.lower()
+          required=['# SEQUENCE 13 - THE MARKET','Ade and Kai follow his gaze.','FIELD OF RED CORD','Eno watches the boys take in the room.','After she died, Solomon stopped letting anybody down here.','They cross the open courtyard toward the gate','We left the house.']
+          for x in required:
+              if x not in s: raise SystemExit('missing '+x)
+          forbidden=['The three brothers follow his gaze.','\nENO\nCar.\n','One turn short.','loose brass fastener','unfinished interval','Medical advice has changed.','Return what was dislodged.']
+          for x in forbidden:
+              if x.lower() in lower: raise SystemExit('legacy screenplay material remains: '+x)
+          heads=re.findall(r'^# SEQUENCE (\d+) - ',s,re.M)
+          if heads != [str(i) for i in range(1,14)]: raise SystemExit('bad sequence order '+repr(heads))
+          print('source PASS')
+      - name: Render exact candidate PDF
+        run: python tools/render_screenplay.py 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf
+      - name: Audit every rendered page
+        shell: python
+        run: |
+          from pathlib import Path
+          from pypdf import PdfReader
+          import pymupdf
+          pdf=Path('output/pdf/EKPO_Screenplay.pdf')
+          pages=len(PdfReader(str(pdf)).pages)
+          doc=pymupdf.open(pdf)
+          blank=[]; edges=[]; tiny=[]; texts=[]; fonts=set()
+          for i,page in enumerate(doc):
+              t=page.get_text('text'); texts.append(t)
+              if i>0 and len(t.strip())<80: blank.append(i+1)
+              r=page.rect
+              for b in page.get_text('blocks'):
+                  x0,y0,x1,y1=b[:4]
+                  if x0<8 or y0<8 or x1>r.width-8 or y1>r.height-8: edges.append(i+1)
+              spans=[]
+              for block in page.get_text('dict').get('blocks',[]):
+                  for line in block.get('lines',[]): spans.extend(line.get('spans',[]))
+              if spans and min(float(sp.get('size',99)) for sp in spans)<7: tiny.append(i+1)
+              for f in page.get_fonts(full=True): fonts.add(f[3])
+          if blank: raise SystemExit('blank/sparse '+repr(blank))
+          if edges: raise SystemExit('edge risk '+repr(sorted(set(edges))))
+          if tiny: raise SystemExit('tiny '+repr(tiny))
+          if not any('Courier' in f for f in fonts): raise SystemExit('Courier missing')
+          text='\n'.join(texts)
+          for x in ['Ade and Kai follow his gaze.','Eno watches the boys take in the room.','We left the house.']:
+              if x not in text: raise SystemExit('render missing '+x)
+          print('PDF PASS physical_pages=',pages,'bytes=',pdf.stat().st_size)
+      - name: Commit final correction
+        shell: pwsh
+        run: |
+          git config user.name "EKPO Repository Agent"
+          git config user.email "actions@users.noreply.github.com"
+          git rm .github/workflows/fix-sequence10-stale-interval.yml
+          git rm tools/fix_sequence10_stale_interval.py
+          git add 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf
+          git diff --cached --check
+          git commit -m "Remove stale Sequence 10 interval reference and rerender"
+          git push origin HEAD:agent/sequence-12-geography-sequence-13-marketplace
