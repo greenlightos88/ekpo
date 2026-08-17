@@ -6,6 +6,9 @@ on:
       - agent/sequence-12-geography-sequence-13-marketplace
     paths:
       - .github/workflows/revise-sequence12-13.yml
+  pull_request:
+    branches:
+      - main
 
 permissions:
   contents: write
