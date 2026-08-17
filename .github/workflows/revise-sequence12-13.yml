@@ -1,0 +1,1796 @@
+name: Human-audit Sequence 12-13 revision
+
+on:
+  push:
+    branches:
+      - agent/sequence-12-geography-sequence-13-marketplace
+    paths:
+      - .github/workflows/revise-sequence12-13.yml
+
+permissions:
+  contents: write
+
+jobs:
+  revise:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/sequence-12-geography-sequence-13-marketplace
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install render dependencies
+        run: python -m pip install --disable-pip-version-check reportlab pypdf pymupdf
+
+      - name: Rewrite screenplay with geography, cord array, and marketplace
+        shell: python
+        run: |
+          from pathlib import Path
+          p = Path('01_SCREENPLAY.fountain')
+          s = p.read_text(encoding='utf-8')
+
+          s = s.replace('Draft date: August 13, 2026', 'Draft date: August 17, 2026', 1)
+
+          old = "Ade takes the garment bags from him. For one brief moment, Malik has nothing in his hands. He looks toward the staircase. The three brothers follow his gaze. The landing is empty. Solomon's bedroom door stands open."
+          new = "Ade takes the garment bags from him. For one brief moment, Malik has nothing in his hands. He looks toward the staircase. Ade and Kai follow his gaze. The landing is empty. Solomon's bedroom door stands open."
+          if old not in s:
+              raise SystemExit('Page-6 gaze source not found')
+          s = s.replace(old, new, 1)
+
+          old = '''INT. OKU FAMILY HOUSE - FRONT ROOM - MOMENTS LATER
+
+The front room carries several generations without arranging them for visitors. Family portraits. School certificates. A charging station crowded with phones.
+
+An old cabinet of carved wood beneath a flat-screen television. The brass urn is placed on a sturdy side table. Malik checks the surface first. Solid. Level. Eno watches him test it.
+
+ENO
+If the table survived this family, it
+can hold your father.
+
+Malik removes his hand. Children peer through the doorway. Eno turns.
+
+ENO
+Give them air.
+
+They disappear. Not far.
+
+Beyond them, at the end of the passage, a narrow door is secured by a faded RED CORD looped between its handle and a brass wall hook. It is the only door in the house that does not stand open.
+
+Kai notices. Eno notices him noticing.
+
+Eyo crosses the passage with folded bedding. The door disappears behind ordinary work.'''
+          new = '''INT. OKU FAMILY HOUSE - FRONT ROOM - MOMENTS LATER
+
+The front room carries several generations without arranging them for visitors. Family portraits. School certificates. A charging station crowded with phones.
+
+An old cabinet of carved wood beneath a flat-screen television. Wide doors open back onto the veranda and the courtyard beyond.
+
+The kitchen has its own door onto that same courtyard. Between the kitchen wall and the older rear rooms, a narrow BACK PASSAGE runs deeper into the house and drops three shallow steps below the main floor.
+
+The brass urn is placed on a sturdy side table. Malik checks the surface first. Solid. Level. Eno watches him test it.
+
+ENO
+If the table survived this family, it
+can hold your father.
+
+Malik removes his hand. Children peer through the doorway. Eno turns.
+
+ENO
+Give them air.
+
+They disappear. Not far.
+
+At the far end of the back passage, a narrow door is secured by a faded RED CORD looped between its handle and a brass wall hook. It is the only door in the house that does not stand open.
+
+Kai notices. Eno notices him noticing.
+
+Eyo crosses the mouth of the back passage with folded bedding. For a moment he blocks Kai's view. When he clears it, the red-corded door is still there.'''
+          if old not in s:
+              raise SystemExit('Sequence 5 geography source not found')
+          s = s.replace(old, new, 1)
+
+          seq10_start = s.index('# SEQUENCE 10 - THE TWO RECORDS')
+          seq11_start = s.index('# SEQUENCE 11 - WHAT HE LEFT')
+          seq10 = '''# SEQUENCE 10 - THE TWO RECORDS
+
+FADE IN:
+
+INT. OKU FAMILY HOUSE - BACK PASSAGE - MORNING
+
+Courtyard daylight reaches only the first half of the passage.
+
+Three shallow steps drop into the oldest part of the house. The RED-CORDED DOOR waits at the low end, away from the front rooms and out of sight from most of the courtyard.
+
+Children argue somewhere at the front of the house.
+
+A radio gives the weather.
+
+Bode stands before the door with a small ring of household keys.
+
+Malik, Ade and Kai behind him.
+
+Eno arrives carrying nothing.
+
+The brass talisman remains in the kitchen beneath the dishcloth.
+
+Bode touches the cord.
+
+A simple hitch between handle and brass wall hook.
+
+Nothing like the worked binding at the shrine.
+
+His fingers pause.
+
+ENO
+Bode.
+
+He undoes it.
+
+The door is unlocked.
+
+He opens it.
+
+Beyond it --
+
+FOUR STONE STEPS descend beneath the rear of the house.
+
+INT. OKU FAMILY HOUSE - MAINTENANCE ROOM - CONTINUOUS
+
+Semi-underground.
+
+Camphor.
+
+Paper.
+
+Machine oil.
+
+High slatted windows sit near the ceiling, level with the yard outside. Feet can pass beyond them without anyone in the courtyard seeing into the room.
+
+A long worktable beneath the windows.
+
+A measuring line worn dark where fingers held it.
+
+Brass cloths blackened at the folds.
+
+Bundles of red cotton wrapped by weight and date.
+
+A boundary map punctured and corrected until the western edge is nearly soft.
+
+Malik stops at the table.
+
+Kai does not enter as far.
+
+At the opposite wall --
+
+AN INNER DOOR.
+
+Older wood inside newer plaster.
+
+Pencil measurements climb the frame beside small brass markers.
+
+Around it, the plaster nearly disappears beneath a FIELD OF RED CORD.
+
+Short lengths fixed between measured brass points. Worked knots. Loose tails. Old cut ends pinned behind newer work. Hundreds visible at once; years of replacement layered deeply enough that counting them would be useless.
+
+Some hang straight. Some hold slight tension. Some end exactly at pencil marks on the wall.
+
+Nothing moves.
+
+One lower interval remains unfinished: a pencil mark, an empty brass point, no cord.
+
+The door is still.
+
+Kai looks at Bode.
+
+KAI
+What's behind it?
+
+BODE
+I don't know.
+
+Malik looks over.
+
+BODE
+Solomon never opened it for me.
+
+Eno watches the unfinished interval.
+
+ENO
+After she died, I never saw it open again.
+
+Bode looks at her.
+
+Eno does not add anything.
+
+Bode opens a cabinet.
+
+Ledgers wrapped against humidity.
+
+He places one on the table.
+
+Malik opens it.
+
+Narrow block letters.
+
+Dates.
+
+Measurements.
+
+A ruled margin corrected where the pencil drifted.
+
+WEST BINDING — REPLACED
+RIVER +11 CM
+BRASS — CLEAN
+
+Malik's thumb stops beside a knot diagram.
+
+MALIK
+Dad.
+
+Bode nods.
+
+Malik turns pages.
+
+A date from years after Solomon moved to Canada.
+
+Then another.
+
+He looks at Eno.
+
+MALIK
+He was here.
+
+ENO
+Yes.
+
+On another shelf, Kai sees thinner cloth-bound notebooks.
+
+He looks at Bode.
+
+Bode does not move.
+
+BODE
+Hers.
+
+Kai looks to Eno.
+
+She nods once.
+
+He takes one.
+
+Curved handwriting.
+
+No columns.
+
+Kai finds a date.
+
+Looks across at Malik's ledger.
+
+KAI
+Same day.
+
+Malik turns the ledger toward him.
+
+Solomon:
+
+WEST BINDING — REPLACED
+RIVER +11 CM
+BRASS — CLEAN
+
+The sister:
+
+Insects stopped before the rain.
+
+Below it:
+
+Distance on the west path changed when I looked directly.
+
+Kai reads the sentence twice.
+
+Ade comes closer.
+
+Kai turns several pages.
+
+A later entry.
+
+Tall form beyond the palm line.
+
+One bend where a shoulder should be.
+
+The next did not stay in the same place.
+
+Kai stops.
+
+His hand rises toward the back of his neck.
+
+He catches it halfway.
+
+Malik sees.
+
+No one speaks.
+
+Kai turns the page.
+
+Then another.
+
+The handwriting stops halfway down one sheet.
+
+The rest of the notebook is blank.
+
+Malik looks back to Solomon's ledger.
+
+The dates continue.
+
+Page after page.
+
+Then, months later, beneath a column of measurements:
+
+DISTANCE UNCERTAIN.
+RE-MEASURE.
+
+Malik reads it without moving his lips.
+
+Across the table, Kai still holds the open notebook.
+
+Ade reaches between them.
+
+He rotates Solomon's ledger until both books face the same direction.
+
+Same table.
+
+Same light.
+
+Malik's hand remains beside Solomon's knot diagram.
+
+Kai's beside the line about the tall form.
+
+Ade looks from one brother to the other.
+
+Behind them, the inner door remains closed.
+
+The cord field around it hangs completely still.
+
+One lower interval remains unfinished.
+
+CUT TO BLACK.
+
+'''
+          s = s[:seq10_start] + seq10 + s[seq11_start:]
+
+          old = '''Kai looks toward the inner door.
+
+The loose brass fastener remains on the sill.
+
+Exactly where it was.
+
+He leaves it there.'''
+          new = '''Kai looks toward the inner door.
+
+The field of red cords hangs completely still.
+
+One lower interval remains unfinished.
+
+He leaves it alone.'''
+          if old not in s:
+              raise SystemExit('Sequence 11 fastener ending source not found')
+          s = s.replace(old, new, 1)
+
+          seq12_start = s.index('# SEQUENCE 12 - WHEN IT STAYS')
+          seq12_13 = '''# SEQUENCE 12 - WHEN IT STAYS
+
+EXT. OKU FAMILY HOUSE - COURTYARD - NIGHT
+
+The courtyard is the house's shared center.
+
+On one side: the front veranda and family room, television bright inside.
+
+On another: the kitchen door.
+
+Between the kitchen wall and the older rear rooms, the BACK PASSAGE drops three shallow steps into the house toward the red-corded maintenance-room door.
+
+Across the open yard, the compound gate leads away from the house.
+
+No one is near the back passage tonight.
+
+Dinner aftermath.
+
+Plastic chairs.
+
+Children underfoot.
+
+A football match on television draws periodic SHOUTS from the front room.
+
+Generator vibration beneath everything.
+
+Mosquitoes worry bare ankles.
+
+Eno directs plates from one hand to another without appearing to move.
+
+Ade dries dishes beside the kitchen door.
+
+ADE
+I crossed an ocean to become unpaid labor.
+
+ENO
+Then work. Nobody invited you to stand there.
+
+Ade goes back to the towel.
+
+Kai sits in the courtyard with his camera resting in his lap.
+
+He is not looking through it.
+
+A LITTLE GIRL, six, draws on the back of an old church program beside him.
+
+She shows him a house with five windows.
+
+LITTLE GIRL
+This one is yours.
+
+KAI
+Why is mine small?
+
+LITTLE GIRL
+You are far.
+
+Kai smiles.
+
+Then --
+
+METAL in his mouth.
+
+He swallows.
+
+It gets stronger.
+
+His fingers tighten around the camera.
+
+Across the courtyard, Malik sees his face change.
+
+MALIK
+Kai?
+
+Kai looks at him.
+
+KAI
+Don't --
+
+Pressure seals his ears.
+
+The football crowd stretches into a thin electrical whine.
+
+Then -- nothing.
+
+The television still plays.
+
+Men inside still react.
+
+A cheer reaches Kai after the players have already reset.
+
+He stands.
+
+His body pitches hard left.
+
+The courtyard does not.
+
+He catches the chair.
+
+Malik is already moving.
+
+MALIK
+Look at me.
+
+Kai tries.
+
+Malik's face will not become one face.
+
+Two images overlap by half an inch.
+
+Separate.
+
+Rejoin.
+
+KAI
+It's here.
+
+Ade sets the plate down.
+
+The LITTLE GIRL looks up.
+
+LITTLE GIRL
+What is?
+
+Ade crouches.
+
+ADE
+Your uncle forgot dinner exists.
+
+He gives her the dish towel.
+
+ADE
+Take this to Auntie Eno. Ask for biscuits before she changes her mind.
+
+LITTLE GIRL
+She didn't say yes.
+
+ADE
+That's why we move quickly.
+
+The girl runs into the kitchen.
+
+Ade rises.
+
+His balance drops out from under him.
+
+He catches the table.
+
+His palm stops six inches before the edge his eyes insist is there.
+
+He freezes.
+
+ADE
+Malik.
+
+No joke now.
+
+The GENERATOR HUM disappears.
+
+The bulb above them burns steadily.
+
+No mosquitoes circle it.
+
+Kai looks toward the mouth of the back passage.
+
+MALIK
+No.
+
+Kai doesn't turn.
+
+MALIK
+Kai. Me.
+
+Kai tries.
+
+The descending passage behind Malik is empty.
+
+STUTTER.
+
+Empty back passage.
+
+And something impossibly tall inside it.
+
+No transition between the two.
+
+Kai's knees strike tile.
+
+He never feels himself fall.
+
+His camera cracks against the floor.
+
+MALIK
+Kai!
+
+Malik lunges.
+
+STUTTER.
+
+He is already beside him.
+
+Momentum arrives afterward and nearly throws him past Kai.
+
+Malik tries to inhale.
+
+Nothing starts.
+
+His chest is ready.
+
+His body does not remember the next step.
+
+He forces air out.
+
+Drags one breath in.
+
+Again.
+
+Again.
+
+INT. OKU FAMILY HOUSE - MAINTENANCE ROOM - SAME
+
+Empty.
+
+The high slatted windows show only black yard beyond.
+
+The field of red cord around the inner door hangs in stale air.
+
+One measured row draws taut.
+
+Three loose tails lift together by an inch.
+
+A knot slips the width of a pencil mark.
+
+Another row falls slack.
+
+The inner door does not move.
+
+EXT. OKU FAMILY HOUSE - COURTYARD - SAME
+
+Ade takes one step toward his brothers.
+
+His inner ear rotates the courtyard ninety degrees.
+
+He drops to one hand.
+
+A WOMAN carrying plates comes through the kitchen door and almost follows his line of sight toward the back passage.
+
+Ade gets up before she can.
+
+ADE
+Kitchen. Please.
+
+He takes the plates from her and turns her back toward the door.
+
+She goes.
+
+Kai is staring past Malik.
+
+MALIK
+Don't.
+
+Kai's eyes flood.
+
+A red capillary spreads across the white of his right eye.
+
+STUTTER.
+
+The Entity occupies the descending back passage.
+
+Its height has nowhere to go.
+
+One articulation folds beneath the ceiling.
+
+Another begins behind plaster and finishes in open air.
+
+STUTTER.
+
+The arrangement changes.
+
+The head occupies a position the neck cannot support.
+
+STUTTER.
+
+Closer.
+
+No step.
+
+Wood CREAKS somewhere down the back passage.
+
+Dust lifts from the low ceiling --
+
+hangs --
+
+falls.
+
+Kai's nose begins to bleed.
+
+MALIK
+Kai. Stop looking.
+
+Kai tries to answer.
+
+His tongue has gone numb.
+
+KAI
+I ca --
+
+His mouth floods with saliva.
+
+He turns and vomits onto the tile.
+
+STUTTER.
+
+A surface where a face might be tries to acquire depth.
+
+STUTTER.
+
+Almost human arrangement.
+
+STUTTER.
+
+Gone.
+
+STUTTER.
+
+There again.
+
+The back-passage walls double.
+
+The doorway doubles.
+
+Malik doubles.
+
+Kai doubles.
+
+The Entity does not.
+
+Ade sees enough.
+
+A high tone drills through his ears.
+
+Then --
+
+LITTLE GIRL (O.S.)
+Uncle Kai?
+
+Ade turns.
+
+The girl stands at the kitchen threshold with two biscuits.
+
+LITTLE GIRL
+Why did you call me?
+
+Kai is on his knees vomiting.
+
+His mouth is empty.
+
+The girl starts to look past Ade toward the back passage.
+
+ADE
+Hey.
+
+She looks at him.
+
+ADE
+Those are mine.
+
+LITTLE GIRL
+Auntie said one is his.
+
+ADE
+She lied.
+
+The girl laughs.
+
+Ade reaches her.
+
+Blocks the back passage with his body.
+
+Behind him --
+
+STUTTER.
+
+The girl's eyes start around his shoulder.
+
+Ade lifts her.
+
+ADE
+Nope.
+
+He takes one biscuit with his teeth.
+
+ADE
+Tax.
+
+She protests into his shoulder as he carries her across the courtyard -- away from the back passage, toward the front veranda and the compound gate beyond.
+
+Ade does not look back.
+
+Blood begins running from his nose.
+
+The girl touches his face.
+
+LITTLE GIRL
+You're bleeding.
+
+ADE
+I know.
+
+At the back-passage mouth --
+
+Malik grips Kai's face with both hands.
+
+MALIK
+Me.
+
+Kai's eyes keep pulling sideways.
+
+MALIK
+Kai.
+
+STUTTER.
+
+Malik's hands are on him --
+
+and Kai is six feet closer to the back passage.
+
+STUTTER.
+
+Back in Malik's hands.
+
+Kai SCREAMS.
+
+His right arm goes dead.
+
+It drops against his body.
+
+MALIK
+Can you move it?
+
+Kai tries.
+
+Nothing.
+
+Behind Malik --
+
+one unresolved articulation occupies the same apparent space as Kai's shoulder.
+
+No strike.
+
+No impact.
+
+Kai convulses.
+
+Sensation returns all at once.
+
+His fingers claw the tile.
+
+Malik starts to turn.
+
+KAI
+DON'T.
+
+Malik stops.
+
+Inside the front room --
+
+a chair scrapes.
+
+Eno and Bode step onto the veranda.
+
+Eyo behind them.
+
+Their sightline crosses the courtyard toward Malik, Kai, and the mouth of the back passage beyond.
+
+Ade reaches them carrying the girl.
+
+ENO
+Move.
+
+Ade sets the girl into Eyo's arms and steps directly into Eno's line of sight.
+
+ADE
+Gas. Back of the house.
+
+ENO
+What?
+
+ADE
+Get everybody to the gate.
+
+Eno sees the blood beneath his nose.
+
+Looks once at Malik and Kai.
+
+Then turns to the front room.
+
+ENO
+Eyo. Children first.
+
+EYO
+Come. Everybody move.
+
+ENO
+Gate. Now.
+
+People spill from the front room onto the veranda and cross the courtyard toward the gate.
+
+Nobody has to pass the back passage to leave.
+
+A mother turns a child's face toward the gate.
+
+The doubled edge of the back-passage mouth resolves to one.
+
+Two men abandon the television and move after Eyo without looking back.
+
+The wood down the passage releases with a soft tick.
+
+The little girl disappears behind the gate pillar.
+
+Malik's next breath begins before he forces it.
+
+Kai's two images of the courtyard pull closer together.
+
+INT. OKU FAMILY HOUSE - MAINTENANCE ROOM - SAME
+
+The cord field eases.
+
+Most rows settle toward their pencil marks.
+
+Not all.
+
+Two knots remain lower than the rows beside them.
+
+One loose tail continues a small rotation after everything else is still.
+
+The inner door remains closed.
+
+EXT. OKU FAMILY HOUSE - COURTYARD - SAME
+
+STUTTER.
+
+Entity.
+
+STUTTER.
+
+Empty back passage.
+
+STUTTER.
+
+Something impossibly far beyond the descending steps.
+
+Then --
+
+nothing.
+
+Sound SLAMS back.
+
+Generator.
+
+Television crowd inside an empty front room.
+
+A baby crying near the gate.
+
+Plates clattering.
+
+Insects.
+
+Malik flinches from ordinary sound.
+
+Kai curls around his right arm.
+
+Ade presses one hand to his ear.
+
+He looks toward the gate.
+
+Family clustered there.
+
+Safe enough for this second.
+
+Eno steps halfway back into the courtyard but stops well short of the back passage.
+
+ENO
+Bring him here.
+
+Ade returns to Kai.
+
+He gets under one side.
+
+Malik takes the other.
+
+The three brothers cross the courtyard together, away from the house, toward the gate.
+
+EXT. OKU FAMILY COMPOUND - BY THE GATE - MOMENTS LATER
+
+The family gives them room without being asked.
+
+Eno takes in the three brothers.
+
+Kai's bloodshot eye.
+
+Malik breathing through his nose, counting without numbers.
+
+Ade wiping blood from his lip.
+
+The LITTLE GIRL looks at Ade.
+
+LITTLE GIRL
+I didn't smell gas.
+
+Eno looks at Ade.
+
+He does not explain.
+
+ENO
+Stay with Eyo.
+
+The girl goes.
+
+Eno looks back to the brothers.
+
+ENO
+Nobody goes near that back passage.
+
+Then --
+
+ENO
+What happened?
+
+No one answers.
+
+Malik looks at Kai's hanging arm.
+
+MALIK
+Fingers.
+
+Kai moves them.
+
+Slow.
+
+MALIK
+Again.
+
+Kai does.
+
+The tremor remains.
+
+Ade looks past them.
+
+A BOY near the gate has leaned sideways, trying to see into the courtyard and toward the back passage.
+
+Ade shifts one step.
+
+Closes the sightline with his body.
+
+Malik sees him do it.
+
+Kai sees the boy.
+
+Behind the brothers: the house.
+
+In front of them: their family.
+
+No one tells them where to stand.
+
+They stay between the two.
+
+CUT TO BLACK.
+
+# SEQUENCE 13 - THE MARKET
+
+FADE IN:
+
+EXT. OKU FAMILY HOUSE - FRONT VERANDA - MORNING
+
+Breakfast has moved outside.
+
+Not ceremonially.
+
+Nobody suggests taking plates deeper into the house.
+
+Tea. Bread. Eggs. Fried plantain.
+
+Conversation that starts and dies before becoming conversation.
+
+The brothers look like men who slept without ever fully arriving at sleep.
+
+Kai's right eye is webbed red. His right hand trembles when he lifts his cup.
+
+His camera sits beside him. A crack runs through the casing from last night.
+
+Malik inhales once through his nose before drinking, checking a sequence his body used to perform without permission.
+
+Ade has cotton beneath one nostril. He removes it before a child can ask.
+
+Eno sees all of it.
+
+Bode eats quietly.
+
+Eyo reaches for pepper.
+
+The bowl is full.
+
+Eno looks at it.
+
+Then at the brothers.
+
+ENO
+Bode.
+
+BODE
+Hmm?
+
+ENO
+Market.
+
+Bode looks at the full table.
+
+BODE
+For what?
+
+ENO
+Pepper. Tomatoes. Fish.
+
+Eyo looks at the pepper bowl.
+
+EYO
+We have --
+
+Eno looks at him.
+
+EYO
+We need pepper.
+
+Ade almost smiles.
+
+Eno points at the brothers with her chin.
+
+ENO
+Take them.
+
+MALIK
+We have work.
+
+ENO
+You have been looking at that passage since sunrise.
+
+Malik does not deny it.
+
+ENO
+Go and look at pepper.
+
+ADE
+Medical advice has changed.
+
+ENO
+You are alive enough to complain. Good.
+
+Kai looks toward the old house.
+
+KAI
+Crowds might be worse.
+
+Malik looks at him.
+
+MALIK
+We don't know that.
+
+ADE
+We don't know staying here is better.
+
+Bode wipes his hands.
+
+BODE
+We go. We come back.
+
+He looks at all three.
+
+BODE
+Together.
+
+Malik considers it.
+
+Kai looks at his cracked camera.
+
+His hand reaches toward it.
+
+Stops.
+
+He leaves it on the veranda.
+
+CUT TO:
+
+EXT. CALABAR MARKET - LATE MORNING
+
+Life does not know what happened in the Oku house last night.
+
+Bargaining.
+
+Generators.
+
+Fish smoke under corrugated shade.
+
+Peppers piled in red and green mounds.
+
+Fabric hanging above phone cases and plastic buckets.
+
+A motorcycle horn trapped behind a handcart.
+
+Two women argue over change and begin laughing before either one wins.
+
+Bode moves through it without thinking about where his body should go.
+
+The brothers do not.
+
+Ade gets clipped by a basket and apologizes to the basket.
+
+ADE
+Sorry.
+
+The WOMAN carrying it looks back.
+
+WOMAN
+Na basket you dey beg?
+
+ADE
+It looked offended.
+
+She laughs and keeps moving.
+
+Bode buys tomatoes.
+
+A VENDOR adds one more than he asked for.
+
+BODE
+I said six.
+
+VENDOR
+This one small.
+
+BODE
+Then it should cost small.
+
+The vendor waves him away, smiling.
+
+For several minutes, nothing is wrong.
+
+That is almost enough to make the brothers believe something.
+
+Malik carries two bags because nobody stopped him early enough.
+
+Ade tastes a piece of fruit he did not intend to buy.
+
+Kai reaches toward his chest when a burst of color crosses the lane.
+
+No camera there.
+
+His hand closes on his shirt instead.
+
+Ahead --
+
+DRUMS.
+
+Not the earth-borne pressure from the shrine.
+
+Real drums.
+
+Human hands.
+
+A MASQUERADE PROCESSION moves into the market lane with attendants and musicians.
+
+Vendors make room without panic.
+
+Children climb onto low walls.
+
+People grin, call to one another, keep selling around the edges.
+
+An attendant exchanges a familiar greeting with Bode as the procession approaches.
+
+Bode answers and steps aside.
+
+The brothers follow his lead.
+
+Ade watches the movement.
+
+For the first time this morning, some life reaches his face.
+
+Kai watches too.
+
+Then --
+
+METAL.
+
+Faint.
+
+Back of his tongue.
+
+His smile never arrives.
+
+Malik sees him swallow.
+
+MALIK
+Kai.
+
+Kai keeps his eyes on the ground between them.
+
+KAI
+I know.
+
+Ade hears that.
+
+The festive drums continue.
+
+One strike reaches Ade twice.
+
+The second arrives after the drummer's hand has already lifted for the next beat.
+
+Ade presses two fingers beneath his ear.
+
+BODE
+What?
+
+ADE
+Nothing.
+
+He knows it is not nothing.
+
+The procession crosses their lane.
+
+Bright movement fills the space between bodies.
+
+For one instant, two masquerade figures overlap in Kai's peripheral vision.
+
+Between them --
+
+A VERTICAL INTERRUPTION where no performer stands.
+
+Too tall for the awning.
+
+Kai looks up before he can stop himself.
+
+STUTTER.
+
+Masquerade cloth crossing foreground.
+
+Behind it, an articulation bends where the market lane has no room for it.
+
+STUTTER.
+
+Only stalls.
+
+STUTTER.
+
+The procession keeps its rhythm.
+
+Something behind it does not.
+
+Kai drops his gaze.
+
+His right hand starts shaking harder.
+
+KAI
+Don't let me look.
+
+Malik steps directly into his sightline.
+
+Not touching him yet.
+
+MALIK
+Me.
+
+Kai fixes on Malik.
+
+The old instruction works differently in daylight, surrounded by hundreds of ordinary people.
+
+A group of shoppers crosses between them.
+
+For half a second Malik cannot see Kai.
+
+They clear.
+
+Kai is farther away than the space they crossed should allow.
+
+Malik's diaphragm misses one automatic breath.
+
+He catches Ade's sleeve.
+
+MALIK
+Kai.
+
+Ade already sees him.
+
+He takes Malik's wrist and keeps it.
+
+ADE
+Don't chase the gap.
+
+Malik looks at him.
+
+Ade points with his chin to Kai's actual body.
+
+They move together.
+
+The crowd continues around them.
+
+Nobody screams.
+
+Nobody else appears sick.
+
+A woman counts money into a vendor's palm.
+
+STUTTER.
+
+The money is already in the other hand.
+
+STUTTER.
+
+Back between her fingers.
+
+She notices nothing.
+
+Ade does.
+
+His face empties.
+
+The market has too many bodies to verify one at a time.
+
+Bode reaches Kai first.
+
+BODE
+Kai.
+
+Kai looks at Bode's shirt, not his face.
+
+BODE
+What happened?
+
+Kai cannot answer without looking past him.
+
+He does not.
+
+The procession moves farther down the lane.
+
+The drums should be receding.
+
+One beat lands inside Malik's chest at full volume.
+
+He flinches.
+
+Ade looks back despite himself.
+
+Between two moving bodies --
+
+STUTTER.
+
+The Entity is there.
+
+Not wearing a mask.
+
+Not part of the procession.
+
+The real performers continue around it without recognition.
+
+STUTTER.
+
+Gone.
+
+ADE
+Bode.
+
+Bode looks at him.
+
+ADE
+Move us.
+
+No explanation.
+
+Bode does not ask for one.
+
+He takes the shortest route he knows.
+
+EXT. MARKET SIDE LANE - CONTINUOUS
+
+Bode cuts through a narrow lane between fabric stalls and a row of locked metal shutters.
+
+Malik keeps one hand on Kai's shoulder.
+
+Ade keeps hold of Malik's wrist until there is room to walk side by side.
+
+Nobody runs.
+
+Their bodies want to.
+
+The market noise changes behind them by ordinary distance.
+
+The metallic taste remains.
+
+Ten steps.
+
+Fifteen.
+
+Kai's hand tremor begins to ease.
+
+Ade's doubled drumbeat becomes one rhythm again.
+
+Malik takes a breath without checking it first.
+
+They stop beneath the shade of a closed awning.
+
+Bode looks at all three.
+
+Sweat has nothing to do with some of what he sees.
+
+BODE
+What did you see?
+
+No one answers immediately.
+
+Malik looks back toward the market entrance.
+
+Then in the opposite direction -- toward where the house would be, far beyond buildings and traffic.
+
+MALIK
+We left the house.
+
+Kai finally looks at him.
+
+Ade releases Malik's wrist.
+
+Behind them, the market keeps going.
+
+CUT TO BLACK.
+'''
+          s = s[:seq12_start] + seq12_13
+          p.write_text(s, encoding='utf-8')
+
+      - name: Write geography and diagnostic canon
+        shell: python
+        run: |
+          from pathlib import Path
+          Path('docs/HOUSE_GEOGRAPHY.md').write_text('''# EKPO — OKU HOUSE GEOGRAPHY
+
+Status: ACTIVE SPATIAL AUTHORITY
+Effective: 2026-08-17
+
+## Spatial law
+
+Normal geography must be mechanically coherent before supernatural distortion is allowed to violate it.
+
+No character may perceive, enter, exit, cross, or react to a location unless the screenplay establishes a plausible route or sightline. If the Entity makes space impossible, the audience must first know what the space normally is.
+
+## Oku family house — locked layout
+
+- The older family house faces the compound courtyard through a deep front veranda.
+- The front/family room opens directly onto that veranda and courtyard.
+- The kitchen has a separate door onto the same courtyard.
+- Between the kitchen wall and the older rear rooms, a narrow **back passage** runs deeper into the house and drops three shallow steps below the main floor.
+- The **outer red-corded door** sits at the low/far end of that back passage.
+- The outer red-corded door does not open directly into a visible room. Four additional stone steps descend beneath the rear of the house.
+- The **maintenance room** is semi-underground beneath the rear rooms.
+- High slatted maintenance-room windows sit near ceiling height, approximately at yard level outside.
+- The **inner maintained door** is on the wall opposite the maintenance-room entrance.
+- There is **no direct sightline from the courtyard, veranda, kitchen, front room, or compound gate to the inner maintained door.** A character must enter the back passage, open the outer door, descend, and enter the maintenance room to see it.
+- The compound gate lies across the open yard, away from the mouth of the back passage. Movement from the front room/veranda toward the gate does not require crossing the back-passage axis.
+
+## Sequence 12 blocking law
+
+The Entity manifests in the **back-passage axis**, not at the inner door.
+
+During the evacuation:
+
+- family members leave the front room/veranda and move across the courtyard toward the compound gate;
+- Ade blocks sightlines toward the back passage;
+- nobody crosses through the Entity's manifestation axis in order to evacuate;
+- the inner maintained door is never visible to the brothers during the courtyard encounter.
+
+## Production requirement
+
+Before production lock, create a floor plan from this document and reconcile every house scene against it. If production design changes the layout, screenplay blocking and continuity must be updated together.
+''', encoding='utf-8')
+
+          Path('docs/REGULATOR_CORD_ARRAY.md').write_text('''# EKPO — REGULATOR CORD / KNOT DIAGNOSTIC ARRAY
+
+Status: LOCKED WRITER-LEVEL CANON
+Effective: 2026-08-17
+
+## Function
+
+The dense red-cord architecture surrounding the inner maintained door is part of Solomon's procedural monitoring system.
+
+It is a **material analog indicator of regulatory pressure**: changes in tension, fall, slack, alignment, and knot position can make instability physically legible to a trained steward.
+
+It is not a magical alarm, sentient rope, haunted decoration, or independent supernatural being.
+
+## Physical design
+
+The inner-door wall contains:
+
+- measured brass anchor points;
+- short lengths of red cord installed at exact intervals;
+- worked knots tied to repeatable positions;
+- loose tails whose resting lengths can be compared to pencil marks;
+- older cut ends and retired configurations preserved behind newer work;
+- enough accumulated layers that hundreds of active/visible elements imply years of thousands of individual maintenance decisions.
+
+The array should feel handmade, maintained, technical, inherited, and difficult to read without training.
+
+## Behavior under pressure
+
+Allowed responses include:
+
+- one row drawing taut while another falls slack;
+- loose tails lifting or rotating slightly without ambient wind;
+- a knot slipping by a measurable amount;
+- neighboring rows settling at unequal lengths;
+- tension redistributing in a slow, material sequence;
+- some elements failing to return fully to baseline after an event.
+
+Disallowed behavior:
+
+- rope writhing like snakes;
+- dramatic self-untying as spectacle;
+- cords reaching for people;
+- floating or levitating bundles;
+- a universal rule that every red cord in the story reacts;
+- treating motion as proof the Entity is physically inside the room.
+
+## Scope
+
+Only the **inner diagnostic array** has this pressure-indicating function.
+
+The outer household cord, stored replacement cotton, and shrine binding have their own established functions and must not begin moving merely because they are red.
+
+## Story use
+
+Sequence 10 establishes the array in a stable baseline: dense, measured, completely still.
+
+Sequence 12 shows the audience — without giving the brothers a view of the room — that the breach/manifestation produces measurable tension changes in the array. The inner door itself does not move.
+
+The brothers do not yet know how to read the array or what each change means. Later understanding must be earned from records, comparison, training, and repeated observation rather than a lore speech.
+''', encoding='utf-8')
+
+          Path('development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md').write_text('''# EKPO — HUMAN AUDIT REVISION
+
+Date: 2026-08-17
+Status: REVISION IMPLEMENTED / FULL PROMOTION AUDIT STILL REQUIRED
+
+## Human-read failures found after PR #2
+
+1. Sequence 12 lacked enough non-verbal causal context for the audience to infer what changed as family attention left the affected space.
+2. Sequence 12 house geography/blocking was incoherent: courtyard, kitchen, passage, evacuation route, maintenance room, and inner door were not spatially reconcilable.
+3. `ENO: Car.` had no dramatic setup and created an unnecessary implied medical/hospital scene.
+4. The Sequence 12 fastener reveal was geographically impossible from the characters' position and falsely implied unexplained inner-door manipulation.
+5. Page 6 used `The three brothers follow his gaze` even though Malik was already the subject looking, creating a subject/grammar stumble.
+6. The maintenance room lacked a sufficiently immediate visual diagnostic that made Solomon's procedural stewardship legible without exposition.
+
+## Implemented corrections
+
+- House geography is now explicitly established in Sequence 5 and reinforced in Sequences 10 and 12.
+- Maintenance room is semi-underground beneath the rear of the house; the inner door cannot be seen from the courtyard.
+- Sequence 12 manifestation occurs along the back-passage axis.
+- Evacuation proceeds away from that axis toward the compound gate without crossing it.
+- Non-verbal reductions in distortion are staged as faces/sightlines leave the affected area.
+- `ENO: Car.` is removed. Eno instead controls household exposure and demands an explanation.
+- Moving fastener beat is removed entirely.
+- Inner-door diagnostic cord/knot array is established in Sequence 10 and reacts materially in Sequence 12 while the inner door remains closed.
+- Page-6 gaze line now names Ade and Kai.
+- Sequence 13 restores the marketplace breathing-space concept under current canon.
+
+## Remaining gate
+
+Do not merge this branch until the rewritten Sequence 12 and new Sequence 13 pass:
+
+- spatial read-through;
+- name-cover character voice;
+- Entity-rule audit;
+- non-verbal causal comprehension test;
+- cultural masquerade review for non-demonization and specificity;
+- Nigerian-language register pass;
+- render/page inspection;
+- full 1–13 continuity audit.
+''', encoding='utf-8')
+
+      - name: Synchronize canon/control documents
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          # 00_CANON targeted sync.
+          p=Path('00_CANON.md'); s=p.read_text(encoding='utf-8')
+          s=s.replace('Version: 6.0 — Award-Level Lock Through Sequence 12','Version: 6.1 — Human-Audit Spatial Revision / Sequence 13 Candidate',1)
+          s=s.replace('Current canonical screenplay endpoint: End of Sequence 12 — `WHEN IT STAYS`.','Current merged baseline remains Sequence 12, while this revision branch contains a rewritten Sequence 12 and a Sequence 13 marketplace candidate pending promotion audit.',1)
+          shrine_anchor='Kai destabilized the regulator. He did not release a trapped creature.\n'
+          cord_section='''\n### Inner-door cord diagnostic array\n\nThe dense measured knot-and-cord field surrounding the inner maintained door is a procedural analog indicator of regulatory pressure. Tension, slack, fall, alignment, and knot position can change measurably when the local regulator/Seen-Unseen relationship is under stress.\n\nThe array is material instrumentation, not sentient rope or haunted decoration. Only this inner diagnostic array has the pressure-indicating function; the outer household cord, stored replacement cotton, and shrine binding do not automatically self-animate.\n\nSee `docs/REGULATOR_CORD_ARRAY.md`.\n'''
+          if cord_section.strip() not in s:
+              s=s.replace(shrine_anchor,shrine_anchor+cord_section,1)
+          s=s.replace('12. **When It Stays** — Entity manifestation escalates into perceptual stutter, physiological injury, family exposure, and unexplained fastener change.', '12. **When It Stays** — Entity manifestation escalates into perceptual stutter, physiological injury, and family exposure; coherent house geography and non-verbal evacuation causality are now explicit. The inner diagnostic cord array registers pressure while the inner door remains closed.\n13. **The Market** — morning aftermath gives way to ordinary Calabar life; a public masquerade procession remains culturally normal while the Entity reappears in the brothers\' perception around it, demonstrating that leaving the house does not end reciprocal proximity.',1)
+          old='''### Inner maintained door\n\n- remains unopened;\n- measured and bound within the same covenant architecture;\n- its previously loose brass fastener is now seated in the unfinished measured point;\n- remains one turn short;\n- cause unknown.'''
+          new='''### Inner maintained door / diagnostic array\n\n- remains unopened;\n- sits inside the semi-underground maintenance room with no courtyard sightline;\n- is surrounded by a dense measured red-cord/knot diagnostic array;\n- one lower cord interval remains unfinished;\n- the array can register pressure through small measurable tension/slack/alignment changes;\n- the door itself does not move in Sequence 12;\n- the prior moving-fastener beat is removed from canon.'''
+          if old not in s: raise SystemExit('00_CANON inner-door section not found')
+          s=s.replace(old,new,1)
+          s=s.replace('- the inner-door fastener changed state.','- the inner diagnostic cord array changed tension/alignment during the Sequence 12 manifestation;\n- the Entity can remain perceptually proximate to the brothers away from the house after reciprocal contact is established.',1)
+          s=s.replace('- why the fastener changed;','- how to interpret the diagnostic cord array;\n- the limits of the Entity\'s ability to remain proximate away from the breach node;',1)
+          s=s.replace('End of Sequence 12 — `WHEN IT STAYS`.','Revision branch endpoint: End of Sequence 13 — `THE MARKET` (candidate pending full promotion audit).',1)
+          p.write_text(s,encoding='utf-8')
+
+          # Motif ledger: replace red-cord section and remove fastener language.
+          p=Path('docs/MOTIF_LEDGER.md'); s=p.read_text(encoding='utf-8')
+          s=s.replace('Canonical endpoint: End of Sequence 12 — `WHEN IT STAYS`','Revision-branch endpoint: End of Sequence 13 — `THE MARKET` (candidate)',1)
+          a=s.index('## Red Thread / Cord'); b=s.index('## Brass')
+          red='''## Red Thread / Cord\n\nMeaning:\n\n- restraint;\n- maintenance;\n- agreement;\n- stewardship;\n- boundary made physical;\n- evidence that equilibrium requires repeated human work;\n- measurable diagnostic pressure where explicitly established.\n\nCanonical appearances:\n\n- faded red thread binds the regulator recess in Sequence 6;\n- pale grooves show earlier replacements;\n- Kai works the intended loop and breaks the old thread;\n- the red-corded household door exists before the breach;\n- Sequence 8 visually rhymes the household cord with the regulator binding while preserving different function;\n- Sequence 10 establishes the outer household cord as a simple closure and separately reveals the dense measured inner-door cord/knot diagnostic array;\n- Sequence 10 establishes the diagnostic array at rest;\n- Sequence 12 shows small tension/slack/alignment changes in that array during manifestation pressure while the inner door itself remains closed.\n\nRules:\n\n- never use red cord as generic blood imagery;\n- never call it magical rope;\n- the outer household cord, stored cotton, and shrine binding do not self-animate merely because they are red;\n- only the inner diagnostic array may change tension/fall/alignment as part of its established material function;\n- diagnostic movement must remain restrained, measurable, tension-based, and non-sentient;\n- no writhing, reaching, snake-like behavior, levitation, or theatrical self-untying;\n- a new knot, cut, opening, replacement, or unfinished section must change responsibility, maintenance, consent, or understanding.\n\n'''
+          s=s[:a]+red+s[b:]
+          s=s.replace('- unfinished inner-door point includes a brass fastener waiting beside a measured position.','- measured brass anchor points support the inner diagnostic cord array.',1)
+          masquerade='''\n## Masquerade / Public Cultural Performance\n\nMeaning:\n\n- ordinary living culture in Calabar;\n- public rhythm, social recognition, continuity, and community space;\n- a visually dense environment the brothers can misperceive under Entity pressure without making the cultural practice itself supernatural or evil.\n\nRules:\n\n- the masquerade is never the Entity;\n- no performer is automatically possessed, cursed, or secretly a monster;\n- the Entity may become perceptible in negative space around a procession, but the real performers continue as themselves;\n- do not invent restricted ritual meanings or costume details before Efik/Calabar cultural review;\n- public response should establish the performance as belonging to the community, not as an omen staged for the Canadian brothers.\n'''
+          insert=s.index('## Sound')
+          s=s[:insert]+masquerade+'\n'+s[insert:]
+          p.write_text(s,encoding='utf-8')
+
+          # Sequence 12 lock rewritten to reflect human audit.
+          Path('docs/SEQUENCE_12_LOCK.md').write_text('''# EKPO — SEQUENCE 12 REVISED LOCK\n\nDate: 2026-08-17\nStatus: HUMAN-AUDIT REVISION IMPLEMENTED / PROMOTION AUDIT REQUIRED\n\n## Why the prior lock was reopened\n\nA human read found failures that the previous forensic pass did not catch: unclear house geography, impossible sightline to the inner door, insufficient non-verbal causal information during evacuation, a contextless `ENO: Car.` beat, and an unnecessary moving-fastener mystery.\n\nThose findings supersede the prior Sequence 12 spatial/fastener lock.\n\n## Revised Sequence 12 facts\n\n- The courtyard, front room/veranda, kitchen, back passage, compound gate, outer red-corded door, semi-underground maintenance room, and inner door now have explicit coherent geography.\n- The Entity manifests along the back-passage axis.\n- Family evacuation moves away from that axis toward the compound gate and does not cross it.\n- Ade blocks sightlines rather than merely inventing a gas explanation.\n- As family faces and bodies turn away, human spatial/physiological coherence visibly improves. The characters still do not possess a complete attention rule.\n- The prior `ENO: Car.` line is removed; no hospital/car subplot is implied.\n- The inner door cannot be seen from the courtyard and is not used as the final visual.\n- The moving brass-fastener beat is removed from canon.\n- The inner door remains closed.\n- A dense measured red-cord/knot diagnostic array around the inner door registers pressure through restrained tension/slack/alignment changes.\n- The brothers remain physically injured after manifestation withdrawal.\n- The final human image places the brothers between the house and the family they now need to protect.\n\nSee `docs/HOUSE_GEOGRAPHY.md` and `docs/REGULATOR_CORD_ARRAY.md`.\n''',encoding='utf-8')
+
+          # Current continuity rewritten for candidate state.
+          Path('docs/CURRENT_CONTINUITY.md').write_text('''# EKPO CURRENT CONTINUITY\n\nLast reconciled: 2026-08-17\nStatus: REVISION BRANCH — SEQUENCE 13 CANDIDATE / AUDIT REQUIRED\n\nMerged dramatic baseline: `main` through Sequence 12.\nRevision branch: `agent/sequence-12-geography-sequence-13-marketplace`.\nEditable candidate: `01_SCREENPLAY.fountain`.\nCandidate PDF: `output/pdf/EKPO_Screenplay.pdf` after branch render.\n\n## Human-audit corrections now integrated\n\n- Page-6 gaze ambiguity corrected: Ade and Kai follow Malik's gaze.\n- Oku house geography is explicitly established and governed by `docs/HOUSE_GEOGRAPHY.md`.\n- Maintenance room is semi-underground; the inner maintained door has no courtyard sightline.\n- `ENO: Car.` removed with no implied hospital/car subplot.\n- Moving fastener beat removed.\n- Sequence 12 evacuation route is spatially coherent and moves away from the back-passage manifestation axis.\n- Non-verbal reduction in manifestation pressure is staged as uninformed family members turn/move away.\n- Inner-door red cord/knot diagnostic array is established in Sequence 10 and reacts materially in Sequence 12.\n\n## End of revised Sequence 12\n\nThe three brothers remain physically affected:\n\n- Kai: bloodshot right eye, tremor, nausea/vomiting residue, transient right-arm failure with movement returned;\n- Malik: residual awareness of breathing/autonomic sequence;\n- Ade: nosebleed, tinnitus/vestibular disturbance.\n\nThe family is gathered away from the back passage near the compound gate. Eno forbids anyone from going near the back passage and demands to know what happened. The brothers have no complete explanation.\n\nAde blocks a child's sightline toward the affected area. Malik and Kai register what he is doing. The brothers remain between the house and their family without formally declaring a supernatural role.\n\n## Cord diagnostic state\n\n- The inner maintained door remains closed.\n- No brass fastener moves.\n- The dense measured cord/knot array changes tension/slack/alignment during Sequence 12.\n- Most elements return toward baseline when pressure reduces; several do not.\n- The brothers have not seen the array react and do not yet know how to interpret it.\n\n## Sequence 13 candidate — THE MARKET\n\nMorning begins with breakfast outside/front of the house. Residual injuries are visible and nobody is eager to move deeper into the house.\n\nEno invents an ordinary market errand and tells Bode to take the brothers out. The action is practical rather than therapeutic exposition.\n\nAt the market:\n\n- ordinary Calabar life gets genuine breathing room before horror resumes;\n- Kai leaves his cracked camera at home;\n- a public masquerade procession is treated as normal community culture, not supernatural threat;\n- the Entity becomes perceptible in negative space around the procession rather than inhabiting a performer;\n- Kai recognizes metallic taste/pressure and deliberately avoids sustained looking;\n- Malik and Ade recognize his response and work together to keep contact in the crowd;\n- public shoppers do not appear to recognize the Entity;\n- the brothers experience limited spatial/temporal distortion and residual physiology without repeating Sequence 12's full bodily collapse;\n- Bode uses ordinary market geography to move them out;\n- away from the house, the same pressure has still reached them.\n\nThis establishes at character-experience level that physical distance from the house is not sufficient protection. It does not establish a complete theory of how far the Entity can travel or what it is attached to.\n\n## Knowledge boundary\n\nThe brothers know/strongly suspect:\n\n- the manifestation can endanger family members who become involved or look toward it;\n- moving uninformed family away coincided with reduced pressure;\n- their own sustained attention remains dangerous;\n- the phenomenon is not confined to the Oku house.\n\nThey still do not know:\n\n- formal Seen/Unseen terminology;\n- the complete attention mechanism;\n- how to read the cord array;\n- whether the Entity follows Kai, the brothers collectively, the talisman relationship, or breach-linked perception more generally;\n- a repair procedure;\n- the inner door's complete function;\n- the causal truth of the sister's death.\n\n## Object continuity\n\n### Brass talisman\nStill under ordinary cloth at the house. Not returned.\n\n### Inner door\nClosed. No moved fastener. One lower cord interval remains unfinished.\n\n### Kai's camera\nCracked in Sequence 12. Kai deliberately leaves it at the house for the Sequence 13 market trip.\n\n### Brass urn\nEmpty; Solomon's ashes remain in the river.\n\n## Promotion status\n\nSequence 12 rewrite and Sequence 13 candidate must pass the human/spatial/cultural/render audit before merge to `main`.\n''',encoding='utf-8')
+
+          Path('docs/NEXT_MOVEMENT.md').write_text('''# CURRENT WRITING ASSIGNMENT\n\nStatus: ACTIVE — AUDIT REWRITTEN SEQUENCE 12 + SEQUENCE 13 MARKETPLACE CANDIDATE\n\n## Immediate objective\n\nDo not write Sequence 14 yet.\n\nFirst prove that the human-audit corrections and marketplace restoration work as one continuous film.\n\n## Required audit\n\n1. **House geography test** — a reader with no explanation must be able to sketch the route from courtyard/front room/kitchen to back passage, maintenance room, inner door, and gate.\n2. **Evacuation blocking test** — every family member's route must make sense without crossing the Entity axis.\n3. **Non-verbal comprehension test** — viewer should be able to infer that reducing direct awareness/exposure coincides with reduced manifestation pressure without a character lecturing the rule.\n4. **Cord diagnostic test** — array must read as material instrumentation, not haunted rope.\n5. **Masquerade integrity test** — public cultural performance must remain human, normal, respected, and independent from the Entity.\n6. **Escalation test** — Sequence 13 demonstrates portability without simply repeating Sequence 12's body-horror set piece.\n7. **Character test** — Malik procedure, Ade social protection, Kai perceptual discipline, Bode practical local knowledge, Eno household authority.\n8. **Cultural-language test** — development-grade Nigerian English/Pidgin only; final Efik/Calabar cadence remains subject to human review.\n9. **Render/page test** — exact Fountain to PDF, no clipping, bad page breaks, or formatting regressions.\n10. **Continuity test** — residual injuries, cracked camera, talisman custody, nine-day missed interval, and inner-door closure remain consistent.\n\n## Sequence 13 dramatic function\n\nThe market is not another lore scene. It provides breath, ordinary life, then proves through experience that leaving the house does not end the relationship with the Entity.\n\nThe masquerade is not the horror. The horror appears in perceptual negative space around a culturally normal procession.\n\n## Next unlock\n\nOnly after this audit passes should Sequence 13 be promoted and Sequence 14 designed.\n''',encoding='utf-8')
+
+          # Entity physiology add portability boundary.
+          p=Path('docs/ENTITY_HORROR_PHYSIOLOGY.md'); s=p.read_text(encoding='utf-8')
+          if '## Portability after reciprocal contact' not in s:
+              s += '''\n\n## Portability after reciprocal contact\n\nAfter the Entity has established repeated reciprocal perception with the brothers, physical distance from the Oku house does not automatically terminate proximity.\n\nSequence 13 may demonstrate renewed perceptual/physiological pressure in the Calabar market. This does **not** yet prove what the Entity is tethered to, how far it can remain proximate, or whether every breach-linked person can carry that relationship indefinitely.\n\nPublic crowds do not automatically strengthen manifestation merely by existing nearby. The relevant pressure is attention/attempted resolution directed toward the Entity itself. A culturally normal masquerade procession can therefore remain ordinary while the brothers perceive the Entity in negative space around it.\n'''
+              p.write_text(s,encoding='utf-8')
+
+      - name: Source integrity gate
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          s=Path('01_SCREENPLAY.fountain').read_text(encoding='utf-8')
+          required=[
+            '# SEQUENCE 1 - THE LAST MORNING',
+            '# SEQUENCE 10 - THE TWO RECORDS',
+            '# SEQUENCE 11 - WHAT HE LEFT',
+            '# SEQUENCE 12 - WHEN IT STAYS',
+            '# SEQUENCE 13 - THE MARKET',
+            'Ade and Kai follow his gaze.',
+            'FIELD OF RED CORD',
+            'Nobody has to pass the back passage to leave.',
+            'The inner door does not move.',
+            'We left the house.'
+          ]
+          for x in required:
+              if x not in s: raise SystemExit('Missing required revision: '+x)
+          forbidden=[
+            'The three brothers follow his gaze.',
+            '\nENO\nCar.\n',
+            'One turn short.',
+            'The loose brass fastener remains on the sill.',
+            'Return what was dislodged.',
+            'EKPE masquerade dancers',
+            'The masquerade is the Entity',
+          ]
+          for x in forbidden:
+              if x.lower() in s.lower(): raise SystemExit('Forbidden legacy/revision text remains: '+x)
+          heads=re.findall(r'^# SEQUENCE (\d+) - ',s,re.M)
+          if heads != [str(i) for i in range(1,14)]: raise SystemExit('Sequence heading order failure: '+repr(heads))
+          if re.search(r'END OF SEQUENCE\s+[IVXLCDM]+\b',s): raise SystemExit('Roman sequence marker')
+          print('Source integrity PASS')
+
+      - name: Render candidate PDF
+        run: python tools/render_screenplay.py 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf
+
+      - name: Technical PDF audit
+        shell: python
+        run: |
+          from pathlib import Path
+          from pypdf import PdfReader
+          import pymupdf
+          pdf=Path('output/pdf/EKPO_Screenplay.pdf')
+          if not pdf.exists() or pdf.stat().st_size<50000: raise SystemExit('PDF missing/small')
+          pages=len(PdfReader(str(pdf)).pages)
+          doc=pymupdf.open(pdf)
+          if len(doc)!=pages: raise SystemExit('page-count mismatch')
+          blank=[]; edges=[]; tiny=[]; text=[]
+          for i,page in enumerate(doc):
+              t=page.get_text('text'); text.append(t)
+              if i>0 and len(t.strip())<80: blank.append(i+1)
+              r=page.rect
+              for b in page.get_text('blocks'):
+                  x0,y0,x1,y1=b[:4]
+                  if x0<8 or y0<8 or x1>r.width-8 or y1>r.height-8: edges.append(i+1)
+              spans=[]
+              for block in page.get_text('dict').get('blocks',[]):
+                  for line in block.get('lines',[]): spans.extend(line.get('spans',[]))
+              if spans and min(float(sp.get('size',99)) for sp in spans)<7: tiny.append(i+1)
+          if blank: raise SystemExit('blank pages '+repr(blank))
+          if edges: raise SystemExit('edge risks '+repr(sorted(set(edges))))
+          if tiny: raise SystemExit('tiny text '+repr(tiny))
+          alltext='\n'.join(text)
+          for x in ['Ade and Kai follow his gaze.','FIELD OF RED CORD','Nobody has to pass the back passage to leave.','We left the house.']:
+              if x not in alltext: raise SystemExit('render missing '+x)
+          print('PDF PASS pages=',pages,'bytes=',pdf.stat().st_size)
+          Path('development/audits/.candidate_page_count').write_text(str(pages),encoding='utf-8')
+
+      - name: Update page-count metadata and commit
+        shell: pwsh
+        run: |
+          git config user.name "EKPO Repository Agent"
+          git config user.email "actions@users.noreply.github.com"
+          git rm .github/workflows/revise-sequence12-13.yml
+          git add 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf docs/HOUSE_GEOGRAPHY.md docs/REGULATOR_CORD_ARRAY.md docs/SEQUENCE_12_LOCK.md docs/CURRENT_CONTINUITY.md docs/NEXT_MOVEMENT.md docs/MOTIF_LEDGER.md docs/ENTITY_HORROR_PHYSIOLOGY.md 00_CANON.md development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md
+          if (Test-Path development/audits/.candidate_page_count) { Remove-Item development/audits/.candidate_page_count }
+          git diff --cached --check
+          git commit -m "Rebuild Sequence 12 geography and restore market Sequence 13"
+          git push origin HEAD:agent/sequence-12-geography-sequence-13-marketplace
