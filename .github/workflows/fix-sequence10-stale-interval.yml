@@ -1,6 +1,11 @@
 name: Final Sequence 10 stale interval fix
 
 on:
+  push:
+    branches:
+      - agent/sequence-12-geography-sequence-13-marketplace
+    paths:
+      - .github/workflows/fix-sequence10-stale-interval.yml
   pull_request:
     branches: [main]
 
