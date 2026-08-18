@@ -3,6 +3,7 @@ name: Sequence 13 surgical integrity
 on:
   pull_request:
     branches: [main]
+    types: [synchronize, labeled]
 
 permissions:
   contents: write
