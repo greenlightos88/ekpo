@@ -35,6 +35,7 @@ A human read found failures that the earlier automated forensic audit did not ca
 - Kai deliberately leaves his damaged camera at home before the market trip.
 - Market stutter is framed as the brothers' perceptual/local-coherence failure rather than a newly established ability to rewind strangers or control time.
 - A final human-read cleanup removed a stale Sequence 10 reference to an `unfinished interval` after that visual repair clue had already been cut.
+- A later observer-integrity refinement removed the child witness/voice-anomaly thread from Sequence 12; Ade's family-protection function now rests on blocking ordinary sightlines and moving the household, not on an extra supernatural witness beat.
 
 ## Spatial integrity result
 
@@ -91,7 +92,7 @@ The masquerade remains culturally normal and independent from the Entity. No per
 
 PASS.
 
-The final exact Fountain candidate rendered successfully through the repository Windows/Courier path to **65 physical PDF pages**.
+The final exact Fountain candidate rendered successfully through the repository Windows/Courier path to **64 physical PDF pages**.
 
 The final page-level gate passed:
 

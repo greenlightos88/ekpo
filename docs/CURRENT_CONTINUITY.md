@@ -86,7 +86,7 @@ The brothers then experience renewed pressure:
 
 Bode uses ordinary knowledge of the market to move them into a side lane.
 
-Symptoms begin easing with distance from the immediate perceptual event.
+Symptoms do not improve merely with the first steps away; they begin easing only after the brothers stop re-engaging and the procession drops out of sight.
 
 Malik's final realization is experiential, not cosmological: **they left the house and the pressure still found them.**
 
@@ -114,7 +114,7 @@ This demonstrates that physical distance from the Oku house is not sufficient pr
 ### Ade Oku
 
 - established nobody goes alone / nobody decides alone;
-- protected an uninformed child during Sequence 12;
+- quietly blocks a child's sightline back toward the affected passage at the Sequence 12 endpoint;
 - recognized and closed family sightlines toward the affected passage;
 - in the market, helps Malik maintain the correct human reference point rather than chasing distorted distance;
 - has no supernatural office.

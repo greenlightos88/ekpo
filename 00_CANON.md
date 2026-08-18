@@ -17,7 +17,7 @@ Cord-array authority: `docs/REGULATOR_CORD_ARRAY.md`
 
 PR #3 contains a rewritten Sequence 12 and a Sequence 13 marketplace candidate. It remains draft until the human/spatial/cultural/render/continuity promotion gate passes.
 
-Latest successful technical render of the candidate: 65 physical pages.
+Latest successful technical render of the candidate: 64 physical pages.
 
 The previous Sequence 12 forensic PASS was reopened after a human read identified real comprehension/geography failures. Human readability outranks a prior automated pass label.
 
@@ -220,7 +220,7 @@ Engine: Humor is emotional CPR.
 
 Ade has no supernatural office.
 
-His social intelligence becomes protective infrastructure: he redirects a child, closes sightlines, helps the family move away from the affected axis, and later helps Malik orient to Kai's actual body in a crowd.
+His social intelligence becomes protective infrastructure: he redirects family sightlines, helps the household move away from the affected axis, and later helps Malik orient to Kai's actual body in a crowd.
 
 ### Bode Oku
 

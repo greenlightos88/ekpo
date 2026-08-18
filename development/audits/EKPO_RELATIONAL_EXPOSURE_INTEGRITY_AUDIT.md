@@ -2,7 +2,7 @@
 
 Date: 2026-08-17
 Status: AUDIT RESULT — NOT YET CANON
-Scope: Sequences 6–13, sister-history compatibility, observer mechanics, crowd logic, spillover, portability
+Scope: Sequences 6–13, sister-history compatibility, observer mechanics, crowd logic, local-pressure exposure, portability
 
 ## Question
 
@@ -10,7 +10,7 @@ Can EKPO adopt a rule in which Entity-specific manifestation is relational rathe
 
 ## Verdict
 
-**PASS WITH REFINEMENT.**
+**PASS AFTER WITNESS-THREAD REMOVAL / TWO-LAYER MODEL.**
 
 The proposed model works only if EKPO distinguishes two related but non-identical phenomena:
 
@@ -20,6 +20,10 @@ The proposed model works only if EKPO distinguishes two related but non-identica
 The screenplay already requires both layers. Treating all supernatural effects as observer-only would contradict Sequence 7 and portions of Sequence 12. Treating all effects as broadcast would contradict Sequence 13.
 
 No canon promotion should occur until this distinction is accepted by the creator.
+
+### Post-removal refinement
+
+The Sequence 12 child witness/voice-anomaly thread has now been removed from the screenplay. That eliminates the only beat that appeared to require a separate third exposure category. The clean model is therefore **two-layer**, not three-layer: local breach/translation pressure plus Entity-specific reciprocal perception.
 
 ---
 
@@ -58,17 +62,7 @@ Once reciprocal recognition becomes established:
 - the observer may suffer stronger translation pressure than an uninvolved bystander;
 - breaking sustained engagement may reduce Entity-specific proximity even when physical distance alone is insufficient.
 
-### Layer C — spillover
-
-A non-observer is **not immune**.
-
-At sufficiently high local translation pressure, uninvolved people may experience secondary effects or physical danger without becoming durable reciprocal observers.
-
-Spillover must not automatically equal recognition.
-
-This is the mechanism that preserves the Sequence 12 little-girl beat and the danger to the wider Oku household without requiring bloodline, Chosen-One logic, or universal crowd exposure.
-
-### Layer D — persistence after recognition
+### Layer C — persistence after recognition
 
 Repeated reciprocal Entity perception can remain consequential away from the original breach location.
 
@@ -83,7 +77,7 @@ This explains the market without establishing:
 
 Exact tether, range, and persistence remain unresolved.
 
-### Layer E — aptitude changes threshold, not eligibility
+### Layer D — aptitude changes threshold, not eligibility
 
 Kai and Solomon's sister are unusually perceptually sensitive.
 
@@ -264,15 +258,9 @@ Ade becomes physiologically affected while orienting to Kai/the affected passage
 
 A woman carrying plates almost follows Ade's sightline; Ade redirects her before she does.
 
-The little girl later says:
+No uninvolved household member reports an Entity-specific anomaly.
 
-> Why did you call me?
-
-Kai did not audibly call her.
-
-She begins to look toward the affected passage. Ade prevents sustained looking.
-
-As the household turns/moves away from the back-passage axis:
+As the household turns and moves away from the back-passage axis:
 
 - doubled edges resolve;
 - structural strain eases;
@@ -281,35 +269,24 @@ As the household turns/moves away from the back-passage axis:
 - the cord array settles toward baseline;
 - Entity coherence diminishes.
 
+At the gate, a boy tries to peer back toward the affected passage. Ade quietly closes the sightline before he sustains attention.
+
 ### Test result
 
-**PASS WITH ONE CONTROLLED AMBIGUITY.**
+**STRONG PASS AFTER WITNESS-THREAD REMOVAL.**
 
-The scene works if three things remain distinct:
+The scene now needs only the two mechanisms already demonstrated elsewhere:
 
 1. Kai is the primary reciprocal observer and suffers the strongest Entity-specific translation pressure.
-2. Malik and Ade are already sensitized/partially entangled by prior exposure and become active participants as they orient to Kai and the manifestation.
-3. uninvolved family members can encounter **spillover** or begin crossing toward reciprocal observation without automatically becoming durable observers.
+2. Malik and Ade are already sensitized by prior exposure and become active participants as they orient to Kai and the manifestation, while the wider household remains subject to local breach/translation pressure without automatically becoming Entity observers.
 
-### Little-girl integrity
-
-`Why did you call me?` does **not** require a voice-mimic power.
-
-It can remain an unresolved secondary anomaly produced under severe local translation pressure: she experiences Kai calling her even though no physical call occurred.
-
-This is compatible with spillover.
-
-However:
-
-- do not later state that the Entity can mimic voices unless independently established;
-- do not use the girl's line as retroactive proof of possession or deliberate lure behavior;
-- if later scenes repeatedly reproduce voices, this beat must be re-audited because repetition would convert ambiguity into an implied ability.
+No voice-mimic ability, deliberate lure, possession implication, or separate third exposure category is required.
 
 ### Evacuation integrity
 
-The pressure reduction should continue to read as **sightline/attention reduction plus removal from the high-pressure local axis**, not simply fewer human bodies in the courtyard.
+The pressure reduction continues to read as **sightline/attention reduction plus removal from the high-pressure local axis**, not simply fewer human bodies in the courtyard.
 
-The current rewrite substantially supports this because characters turn faces away and Ade closes sightlines.
+The current rewrite supports this because Ade redirects a woman's gaze before she commits to the affected axis, the household turns and moves toward the gate, and Ade later blocks a boy from peering back.
 
 ## Sequence 13 — THE MARKET
 
@@ -458,7 +435,7 @@ The following is an **audit candidate**, not canon:
 5. **Attempting to resolve or sustain attention toward the Entity can establish reciprocal recognition.**
 6. **Attention creates Entity-specific proximity; repeated reciprocal recognition makes renewed contact easier.**
 7. **Breaking sustained Entity-specific engagement can reduce proximity, but physical distance alone is not guaranteed protection.**
-8. **Non-observers can suffer spillover at sufficiently high translation pressure without becoming durable reciprocal observers.**
+8. **Non-observers can still be affected by sufficiently severe local breach/translation pressure without automatically becoming Entity observers.**
 9. **Anyone can potentially become an observer; bloodline is not required.**
 10. **Perceptual aptitude lowers the threshold for detecting/resolving Unseen pressure but grants neither immunity nor destiny.**
 11. **Crowd size alone does not strengthen the Entity. Directed/attempted resolution is what matters.**
@@ -475,7 +452,7 @@ The following is an **audit candidate**, not canon:
 - Never turn the rule into a game mechanic with numerical exposure levels.
 - Never imply that breaking eye contact is a magic shield.
 - Never let physical distance become a reliable cure.
-- Never let one ambiguous voice event silently become a voice-mimic ability.
+- Never add voice-mimicry or deliberate lure behavior without independent setup and payoff.
 - Never let Bode's lower reactivity become supernatural immunity.
 - Never let the sister's aptitude become prophecy.
 
@@ -502,7 +479,7 @@ STRONG PASS — sister's notes independently support direct-look distance distor
 PASS / neutral.
 
 ### Sequence 12
-PASS with controlled little-girl spillover ambiguity.
+STRONG PASS after removal of the witness/voice-anomaly thread.
 
 ### Sequence 13
 STRONG PASS after surgical corrections.
@@ -518,7 +495,7 @@ PASS.
 
 ### Overall
 
-**The relational-exposure model survives Sequences 6–13, but only as a dual-layer system: local breach/translation pressure plus Entity-specific reciprocal perception, with spillover between them at high pressure.**
+**The relational-exposure model survives Sequences 6–13 as a two-layer system: local breach/translation pressure plus Entity-specific reciprocal perception. No separate third exposure category is required.**
 
 No existing sequence requires a rewrite solely to support this model after the Sequence 13 surgical corrections.
 

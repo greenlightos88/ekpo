@@ -23,7 +23,7 @@ Draft PR #3 contains the active human-audit correction pass:
 - candidate reading copy: `output/pdf/EKPO_Screenplay.pdf`
 - synchronized editable source: `01_SCREENPLAY.fountain`
 - candidate endpoint: **Sequence 13 — `THE MARKET`**
-- latest successful technical render: **65 physical pages**
+- latest successful technical render: **64 physical pages**
 
 The output PDF remains the dramatic reading artifact. The Fountain source must reproduce it exactly before promotion.
 
