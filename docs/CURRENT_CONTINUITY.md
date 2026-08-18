@@ -1,7 +1,7 @@
 # EKPO CURRENT CONTINUITY
 
 Last reconciled: 2026-08-17
-Status: PR #3 REVISION CANDIDATE — NOT YET MERGED CANON
+Status: PR #3 REVISION CANDIDATE — CREATOR-ACCEPTED DEVELOPMENT BASELINE / NOT MERGED
 
 Merged dramatic baseline: `main` through Sequence 12.
 Revision branch: `agent/sequence-12-geography-sequence-13-marketplace`.
@@ -38,7 +38,7 @@ The brothers remain physically affected:
 
 Eno forbids anyone from going near the back passage and demands to know what happened.
 
-A child attempts to peer back toward the affected area. Ade shifts into the sightline and blocks it. Malik and Kai both see him do it.
+A boy attempts to peer back toward the affected area. Ade shifts into the sightline and blocks it. Malik and Kai both see him do it.
 
 Final image: the house behind the brothers, their family in front of them. They remain between the two without declaring a supernatural office or formal stewardship.
 
@@ -109,12 +109,13 @@ This demonstrates that physical distance from the Oku house is not sufficient pr
 - suffered the strongest Sequence 12 exposure;
 - now understands enough to ask his brothers not to let him look during renewed pressure;
 - leaves the camera behind in Sequence 13 rather than automatically converting fear into evidence-gathering;
-- still does not possess a complete attention theory.
+- still does not possess a complete attention theory;
+- has seen that Solomon's Vancouver brass carving and the active shrine talisman share related design language, but does not know their replacement history.
 
 ### Ade Oku
 
 - established nobody goes alone / nobody decides alone;
-- quietly blocks a child's sightline back toward the affected passage at the Sequence 12 endpoint;
+- quietly blocks a boy's sightline back toward the affected passage at the Sequence 12 endpoint;
 - recognized and closed family sightlines toward the affected passage;
 - in the market, helps Malik maintain the correct human reference point rather than chasing distorted distance;
 - has no supernatural office.
@@ -123,6 +124,7 @@ This demonstrates that physical distance from the Oku house is not sufficient pr
 
 - remains a limited family-history witness rather than custodian;
 - does not know the Entity mechanism or repair procedure;
+- does not automatically possess the complete brass replacement history;
 - uses ordinary local knowledge to move the brothers safely through the market when Ade asks.
 
 ### Auntie Eno
@@ -143,7 +145,8 @@ The brothers know or strongly suspect through experience that:
 - Entity proximity can severely disrupt perception, bodily sequence, and local space;
 - uninformed family members can become endangered by approaching/looking toward an active event;
 - moving people away and reducing direct exposure coincided with reduced pressure;
-- leaving the house does not automatically end renewed Entity proximity.
+- leaving the house does not automatically end renewed Entity proximity;
+- the old brass carving from Solomon's Vancouver effects and the brass talisman removed from the shrine are visually related but not identical.
 
 They do **not** yet know:
 
@@ -155,16 +158,33 @@ They do **not** yet know:
 - the full function of the inner door;
 - a complete repair procedure;
 - the causal truth of Solomon's sister's death;
+- that the Vancouver brass carving is a retired sister-era regulatory component;
+- that Solomon installed the shrine talisman as a later active replacement after the catastrophe;
+- why Solomon carried the retired piece to Canada;
 - whether Malik or Kai will voluntarily accept stewardship.
 
 ## Object and custody ledger
 
-### Brass talisman
+### Retired sister-era brass carving
 
-- removed intentionally by Kai from the regulator;
+- discovered by Kai in Solomon's blue drawer in Vancouver;
+- same old regulatory component visible by silhouette in the scratched Calabar photograph;
+- writer-level origin: the period when Solomon and his sister performed complementary stewardship together;
+- retired from active regulatory use after the catastrophic rupture and sister's death;
+- later carried to Canada and privately preserved by Solomon;
+- emotional function: a material memento of sister, partnership, and failure;
+- not the sister's personal magical amulet, soul vessel, hereditary badge, or current active talisman;
+- exact immediate physical location should be re-established the next time it is handled on-page rather than silently moved.
+
+### Active Solomon-era replacement brass talisman
+
+- installed by Solomon during post-catastrophe procedural rebuilding/stabilization;
+- distinct from but visually related to the retired sister-era carving;
+- removed intentionally by Kai from the regulator in Sequence 6;
 - disclosed in Sequence 9;
 - remains under ordinary clean cloth in the house;
-- has not been returned or used as a magical solution.
+- has not been returned or used as a magical solution;
+- removal destabilized an active regulatory component; it did not release or contain the Entity.
 
 ### Inner maintained door / cord array
 
@@ -193,11 +213,24 @@ They do **not** yet know:
 - repeated reciprocal perception can remain consequential away from the original house/node, but exact tether/range is not yet locked on-page;
 - Solomon and his sister held complementary procedural/perceptual functions;
 - Solomon's procedural failure contributed to the catastrophic conditions in which his sister restored equilibrium and died;
+- the Vancouver brass carving is the retired sister-era regulatory component from their shared working period;
+- Solomon's post-catastrophe procedural rebuilding included installing the later active replacement talisman that Kai removes;
+- Solomon kept the retired piece as a private material memento of his sister, their partnership, and his failure;
 - Malik naturally mirrors Solomon's procedural aptitude;
 - Kai naturally mirrors the sister's perceptual aptitude;
 - Ade has no supernatural office;
 - succession requires recognition, training, and voluntary acceptance.
 
+## Brass reveal control
+
+The full two-object history must remain deferred on-page until materially earned.
+
+Permitted future evidence includes dated records, replacement notation, measurements, wear/fit differences, old photographs, travel/maintenance history, and credible physical comparison.
+
+Do not convert Bode into an exposition source for this reveal. `BRASS` in Solomon's procedural index remains a broader material/work category, not automatic proof that an entry refers to the active talisman.
+
+See `docs/BRASS_OBJECT_CONTINUITY.md`.
+
 ## Promotion status
 
-Sequence 12 rewrite and Sequence 13 candidate have passed the internal high-threshold human/spatial/render/continuity gate on draft PR #3. The PR remains unmerged pending explicit creator approval. Qualified Nigerian/Calabar/Efik authenticity review remains an external pre-production/submission gate.
+Sequence 12 rewrite and Sequence 13 candidate have passed the internal high-threshold human/spatial/render/continuity gate on draft PR #3. The creator has accepted them as the development baseline for continuing work. The PR remains unmerged pending explicit merge authorization. Qualified Nigerian/Calabar/Efik authenticity review remains an external pre-production/submission gate.

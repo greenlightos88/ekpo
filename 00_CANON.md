@@ -1,6 +1,6 @@
 # EKPO CANON
 
-Version: 6.1 — Human-Audit Spatial Revision / Sequence 13 Market Candidate
+Version: 6.2 — Brass Continuity Lock / Sequence 13 Market Candidate
 Effective: 2026-08-17
 Status: ACTIVE CANDIDATE CANON ON PR #3
 
@@ -12,10 +12,11 @@ Candidate reading copy: `output/pdf/EKPO_Screenplay.pdf`
 Current continuity: `docs/CURRENT_CONTINUITY.md`
 Spatial authority: `docs/HOUSE_GEOGRAPHY.md`
 Cord-array authority: `docs/REGULATOR_CORD_ARRAY.md`
+Brass-object authority: `docs/BRASS_OBJECT_CONTINUITY.md`
 
 ## Project status
 
-PR #3 contains a rewritten Sequence 12 and a Sequence 13 marketplace candidate. The internal high-threshold human/spatial/render/continuity gate has passed after removal of the Sequence 12 witness anomaly. The PR remains draft pending explicit creator approval; qualified Nigerian/Calabar/Efik authenticity review remains an external pre-production/submission gate.
+PR #3 contains a rewritten Sequence 12 and a Sequence 13 marketplace candidate. The internal high-threshold human/spatial/render/continuity gate has passed after removal of the Sequence 12 witness anomaly. The creator has accepted the revised Sequence 12/13 state as the development baseline for continuing work; the PR remains draft and unmerged because continuation approval is not merge authorization. Qualified Nigerian/Calabar/Efik authenticity review remains an external pre-production/submission gate.
 
 Latest successful technical render of the candidate: 64 physical pages.
 
@@ -57,6 +58,30 @@ The hidden shrine is a regulator and point of alignment.
 Its red binding, brass talisman, knots, intervals, materials, measurements, environmental observations, and maintenance practices belong to the regulatory system.
 
 Kai destabilized the regulator. He did not release a trapped creature.
+
+## Brass object continuity
+
+Two historically related but physically distinct brass objects are locked at writer level.
+
+### Retired sister-era brass carving
+
+The small brass carving discovered by Kai in Solomon's blue drawer in Vancouver is the same old regulatory component visible by silhouette in the scratched Calabar photograph from the period when Solomon and his sister worked together.
+
+It belonged to their shared stewardship work. It was not the sister's personal magical amulet, soul vessel, hereditary badge, or private talisman.
+
+After the catastrophic rupture in which Solomon failed his procedural side and his sister restored equilibrium and died, this older brass component was retired from active use. Solomon kept it, later carried it to Canada, and privately preserved it as a material memento of his sister, their partnership, and the failure he never escaped.
+
+### Active Solomon-era replacement brass talisman
+
+After the catastrophe and his sister's death, Solomon rebuilt/stabilized the procedural side of the regulator and installed a new active brass talisman. This later replacement is the talisman Kai deliberately removes from the regulator in Sequence 6.
+
+Its removal contributes to regulator destabilization because it is an active regulatory component. It does not contain the Entity and is not a prison key.
+
+The retired carving and active talisman share regulatory design language but are intentionally not identical. Existing differences in angle, hollow/center treatment, wear, and custody are meaningful evidence of different generations of workmanship.
+
+The complete replacement history is writer-level canon, not current character knowledge. The screenplay must earn the reveal through material evidence rather than immediate exposition. `BRASS` in Solomon's ledger remains a broader material/work category and must not automatically be read as the active talisman.
+
+See `docs/BRASS_OBJECT_CONTINUITY.md`.
 
 ## The Entity
 
@@ -135,6 +160,8 @@ Solomon failed his procedural responsibility in young adulthood. His sister rest
 
 Afterward Solomon became obsessive, maintained what he could, studied his sister's records, attempted to compensate for her missing function, and failed succession/transmission.
 
+His post-catastrophe procedural rebuilding included retiring the sister-era brass component, installing the later active replacement talisman, and keeping the retired piece as a private material memento of the partnership he lost.
+
 He believed in his children but did not know whether they would accept stewardship.
 
 His final inheritance therefore left **access without appointment**:
@@ -208,7 +235,7 @@ Engine: Pattern recognition driven by attachment hunger.
 
 Kai naturally mirrors his aunt's perceptual aptitude. He is not a Chosen One.
 
-He remains responsible for deliberately breaking the regulator binding and taking the talisman.
+He remains responsible for deliberately breaking the regulator binding and taking the active replacement talisman.
 
 Sequence 12 gives him the heaviest physiological exposure.
 
@@ -226,7 +253,7 @@ His social intelligence becomes protective infrastructure: he redirects family s
 
 Bode remains a limited family-history witness. He is not co-custodian, maintenance proxy, or mythology expert.
 
-He does not know the repair procedure, complete Entity mechanism, or Solomon's intended successor.
+He does not know the repair procedure, complete Entity mechanism, Solomon's intended successor, or automatically possess the complete brass replacement history.
 
 At the market he may use ordinary local/geographic knowledge without acquiring supernatural expertise.
 
@@ -240,15 +267,15 @@ Her Sequence 13 market errand is ordinary household action, not a medical or mys
 
 ## Screenplay chronology — active PR #3 candidate
 
-1. **The Last Morning** — Solomon exists through systems and objects left behind.
-2. **The Funeral** — Bode returns; scratched photograph reveals the erased sister.
+1. **The Last Morning** — Solomon exists through systems and objects left behind. Kai discovers the retired sister-era brass carving without understanding it.
+2. **The Funeral** — Bode returns; scratched photograph reveals the erased sister and visually rhymes the old brass component.
 3. **The Will and Decision** — brothers voluntarily choose to bring Solomon home together.
 4. **Arrival** — Calabar restores a world Solomon withheld from his sons.
 5. **Homecoming** — family life humanizes Solomon; stable Oku-house geography and the outer red-corded door are planted.
-6. **The Land and the Shrine** — Kai deliberately breaches the regulator and removes the brass talisman.
+6. **The Land and the Shrine** — Kai deliberately breaches the regulator and removes the later active replacement brass talisman.
 7. **The River Boundary** — ashes enter the river; first unmistakable shared pressure/contact.
 8. **The Distance Between** — altered distance and partially perceptible failed-translation form; attention increases legibility/proximity.
-9. **What He Opened** — Kai confesses; talisman disclosed; Bode remains bounded; Eno orders Solomon's room opened.
+9. **What He Opened** — Kai confesses; active talisman disclosed; Bode remains bounded; Eno orders Solomon's room opened.
 10. **The Two Records** — semi-underground maintenance room reveals procedural/perceptual records and the stable inner diagnostic cord array; inner door remains closed.
 11. **What He Left** — future maintenance is organized, next interval is nine days overdue, but no person is named; brothers choose collective decision-making.
 12. **When It Stays** — severe manifestation along the back-passage axis produces perceptual stutter, physiological injury, and family exposure; evacuation away from the axis visibly coincides with decreasing pressure; diagnostic cord array responds while inner door remains closed.
@@ -256,12 +283,26 @@ Her Sequence 13 market errand is ordinary household action, not a medical or mys
 
 ## Current object continuity
 
-### Brass talisman
+### Retired sister-era brass carving
 
-- removed by Kai from the regulator;
+- discovered by Kai in Solomon's blue drawer in Vancouver;
+- same old regulatory component visible in the scratched Calabar photograph;
+- originates in the period when Solomon and his sister worked together;
+- retired from active regulatory use after the catastrophe and sister's death;
+- carried to Canada and privately preserved by Solomon;
+- emotionally functions as a material memento of sister, partnership, and failure;
+- not a personal magical amulet, soul vessel, hereditary badge, or active regulator talisman;
+- the brothers have not yet established this full history on-page.
+
+### Active Solomon-era replacement brass talisman
+
+- installed by Solomon during post-catastrophe procedural rebuilding/stabilization;
+- distinct from but visually related to the retired sister-era carving;
+- removed by Kai from the regulator in Sequence 6;
 - disclosed in Sequence 9;
 - remains under ordinary cloth in the house;
-- not returned or used as a magical solution.
+- not returned or used as a magical solution;
+- removal destabilized an active regulator component and did not release or contain the Entity.
 
 ### Inner maintained door / diagnostic array
 
@@ -292,7 +333,8 @@ The brothers know or strongly suspect that:
 - Entity proximity can severely disrupt perception, bodily sequence, and local space;
 - uninformed family approaching/looking toward an active manifestation can become endangered;
 - reducing direct family exposure coincided with reduced pressure;
-- the phenomenon can recur away from the house after repeated reciprocal contact.
+- the phenomenon can recur away from the house after repeated reciprocal contact;
+- the Vancouver carving and shrine talisman share related Oku regulatory design language.
 
 They do not yet know:
 
@@ -304,13 +346,17 @@ They do not yet know:
 - the full inner-door function;
 - a repair procedure;
 - the full causal truth of the sister's death;
+- the historical replacement relationship between the retired Vancouver carving and the active shrine talisman;
+- why Solomon carried the retired piece to Canada;
 - whether Malik/Kai will accept stewardship.
 
 ## Sister-death reveal control
 
 Writer-level mechanism is coherent: prolonged perceptual exposure during catastrophic destabilization physically destroyed Solomon's sister while she restored equilibrium without the procedural support their partnership required.
 
-Do not reveal this merely because the current physiology makes it inferable.
+The retired brass carving belongs to the era of that partnership and Solomon's later grief, but it must not be used to prematurely explain the full death mechanism.
+
+Do not reveal the causal truth merely because the current physiology or object continuity makes it inferable.
 
 The causal truth remains reserved for a later present-tense Malik decision where knowing Solomon's failure changes what Malik is about to do.
 
@@ -330,7 +376,7 @@ Rules:
 
 PR #3 candidate endpoint: End of Sequence 13 — `THE MARKET`.
 
-Do not write Sequence 14 until the creator accepts the revised Sequence 12/13 candidate. The internal promotion audit has passed; the two-layer exposure model remains an audit candidate, not canon.
+The creator has accepted the revised Sequence 12/13 candidate as the development baseline and Sequence 14 development may proceed on a stacked branch. PR #3 remains draft/unmerged until explicit merge authorization. The two-layer exposure model remains an audit candidate, not canon.
 
 ## Sequence numbering
 
