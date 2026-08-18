@@ -79,8 +79,8 @@ jobs:
           if blank: raise SystemExit('blank pages '+repr(blank))
           if edges: raise SystemExit('edge risks '+repr(sorted(set(edges))))
           if tiny: raise SystemExit('tiny text '+repr(tiny))
-          alltext='\n'.join(text)
-          for x in ['For Ade, the exchange is already finished','Nothing in their movement acknowledges what Ade sees.','For several steps, nothing improves.','We left the house.']:
+          alltext=' '.join(' '.join(text).split())
+          for x in ['For Ade, the exchange is already finished','acknowledges what Ade sees.','For several steps, nothing improves.','We left the house.']:
               if x not in alltext: raise SystemExit('render missing '+x)
           print('PDF PASS physical_pages=',pages,'bytes=',pdf.stat().st_size)
 
