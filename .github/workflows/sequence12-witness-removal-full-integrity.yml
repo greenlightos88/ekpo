@@ -1,0 +1,53 @@
+name: Sequence 12 witness removal full integrity
+
+on:
+  pull_request:
+    branches: [main]
+    types: [synchronize]
+
+permissions:
+  contents: write
+
+jobs:
+  remove-witness-and-audit:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/sequence-12-geography-sequence-13-marketplace
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check reportlab pypdf pymupdf
+
+      - name: Remove witness thread and synchronize active docs
+        run: python tools/apply_sequence12_witness_removal.py pre
+
+      - name: Run source mythology continuity gate
+        run: python tools/check_sequence12_witness_removal_integrity.py pre
+
+      - name: Render exact candidate PDF
+        run: python tools/render_screenplay.py 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf
+
+      - name: Synchronize rendered page count
+        run: python tools/apply_sequence12_witness_removal.py post
+
+      - name: Run PDF repository gate
+        run: python tools/check_sequence12_witness_removal_integrity.py post
+
+      - name: Commit audited witness removal
+        shell: pwsh
+        run: |
+          git config user.name "EKPO Repository Agent"
+          git config user.email "actions@users.noreply.github.com"
+          git rm .github/workflows/sequence12-witness-removal-full-integrity.yml
+          git rm tools/apply_sequence12_witness_removal.py
+          git rm tools/check_sequence12_witness_removal_integrity.py
+          git add 00_CANON.md 01_SCREENPLAY.fountain PROJECT_MANIFEST.yaml README.md development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md development/audits/EKPO_RELATIONAL_EXPOSURE_INTEGRITY_AUDIT.md docs/CURRENT_CONTINUITY.md output/pdf/EKPO_Screenplay.pdf
+          git diff --cached --check
+          git commit -m "Remove Sequence 12 witness anomaly and rerun integrity gate"
+          git push origin HEAD:agent/sequence-12-geography-sequence-13-marketplace
