@@ -6,6 +6,7 @@ on:
       - agent/sequence-12-geography-sequence-13-marketplace
     paths:
       - .github/workflows/brass-object-canon-sync.yml
+      - tools/apply_brass_object_canon.py
 
 permissions:
   contents: write
