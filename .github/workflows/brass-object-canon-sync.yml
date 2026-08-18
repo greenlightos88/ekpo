@@ -1,18 +1,17 @@
 name: Brass object canon sync
 
 on:
-  push:
+  pull_request:
     branches:
-      - agent/sequence-12-geography-sequence-13-marketplace
-    paths:
-      - .github/workflows/brass-object-canon-sync.yml
-      - tools/apply_brass_object_canon.py
+      - main
+    types: [opened, synchronize, reopened]
 
 permissions:
   contents: write
 
 jobs:
   sync:
+    if: github.head_ref == 'agent/sequence-12-geography-sequence-13-marketplace'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
