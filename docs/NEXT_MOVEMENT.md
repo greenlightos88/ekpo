@@ -1,171 +1,121 @@
 # CURRENT WRITING ASSIGNMENT
 
-Status: ACTIVE — SEQUENCE 13 DEVELOPMENT UNLOCKED
-Canonical story endpoint: End of Sequence 12 — `WHEN IT STAYS`
-Screenplay quality status through Sequence 12: **FORENSIC PASS**
-Producer reading copy: 58 physical pages — one title page plus 57 screenplay pages
+Status: INTERNAL HIGH-THRESHOLD PASS — CREATOR REVIEW / NO SEQUENCE 14 YET
+Merged canonical endpoint: End of Sequence 12 on `main`
+Revision-branch endpoint: End of Sequence 13 — `THE MARKET`
+PR: #3 — DRAFT / DO NOT MERGE YET
 
 ## Immediate objective
 
-Develop Sequence 13 from the **aftermath**, not from another immediate Entity appearance.
+Do **not** write Sequence 14 yet.
 
-Sequence 12 spent the horror capital accumulated through the first forty-plus minutes. The next movement must make that encounter expensive.
+The post-witness-removal integrity gate has passed. Do not write Sequence 14 until the creator accepts the revised Sequence 12 and Sequence 13 candidate.
 
-The brothers are injured. The family has seen enough to know something is wrong. Eno has ordered practical care. The inner-door fastener has changed state. A maintenance interval is nine days overdue.
+## Promotion audit result
 
-Do not reset any of those facts.
+**PASS — all internal tests below passed on the 64-page candidate.**
 
-## What Sequence 13 must accomplish
+The qualified Nigerian/Calabar/Efik authenticity read remains external and is not replaced by this pass.
 
-Sequence 13 should determine the immediate human consequence of Sequence 12 before another large manifestation.
+### Tests passed
 
-Required pressures:
+1. **House geography test** — an uninformed reader must be able to sketch the route between courtyard, front room/veranda, kitchen, back passage, outer red-corded door, maintenance room, inner door, and compound gate.
+2. **Evacuation blocking test** — every family's exit route must make sense without crossing the Entity axis.
+3. **Non-verbal comprehension test** — a viewer should be able to infer that reducing direct awareness/exposure coincides with reduced manifestation pressure without a mythology lecture.
+4. **Cord diagnostic test** — the inner array must read as material instrumentation, never haunted rope.
+5. **Masquerade integrity test** — the public cultural performance must remain human, normal, respected, and independent from the Entity.
+6. **Escalation test** — Sequence 13 demonstrates renewed proximity away from the house without repeating Sequence 12's full body-horror set piece.
+7. **Power-inflation test** — market stutter must remain the brothers' perceptual/local-coherence problem, not establish generic time manipulation or control over uninvolved shoppers.
+8. **Character test** — Malik procedure; Ade social protection; Kai perceptual discipline; Bode practical local knowledge; Eno household authority.
+9. **Cultural-language test** — development-grade Nigerian English/Pidgin only; final Efik/Calabar cadence remains subject to qualified human review.
+10. **Render/page test** — exact Fountain to PDF, no clipping, broken page flow, or formatting regression.
+11. **Continuity test** — residual injuries, cracked camera, talisman custody, nine-day missed interval, and inner-door closure remain consistent.
+12. **Legacy scan** — no `ENO: Car.`, moving-fastener clue, impossible courtyard sightline, or old marketplace mythology may survive.
 
-- Kai's arm, eye, nausea, and tremor remain real;
-- Malik's breathing/autonomic control remains affected;
-- Ade's bleeding and vestibular/auditory disturbance remain real;
-- Eno refuses vague assurances when three men are visibly injured;
-- the wider household has questions;
-- Ade's gas-leak lie may buy time but cannot permanently erase what people witnessed;
-- Bode cannot solve the problem through hidden expertise;
-- the changed fastener creates a new question but is not automatically a repair clue;
-- the nine-day missed interval remains the strongest procedural lead.
+## Sequence 12 revised function
 
-## Family-protection layer
+Sequence 12 remains the first major visceral manifestation, but its blocking is now grounded in a stable house layout.
 
-The brothers have not developed a formal doctrine that attention strengthens manifestation.
+The Entity manifests along the back passage while family exits across the courtyard toward the gate. Ade redirects faces and bodies away from the affected axis. Spatial/bodily coherence begins improving as direct exposure reduces.
 
-They have behavioral evidence only:
+The semi-underground maintenance room is shown objectively during the event. The dense measured inner-door cord/knot array changes tension and alignment under pressure while the inner door remains closed and still.
 
-- additional people approached;
-- pressure worsened;
-- Ade and Eno moved people away;
-- pressure then reduced.
+The sequence ends on the brothers positioned between the house and their family.
 
-Sequence 13 may let them form a cautious working hypothesis, but no character should suddenly understand the complete metaphysical mechanism.
+## Sequence 13 dramatic function
 
-Their immediate shared mission is human:
+The market is not another lore scene.
 
-**protect the family while learning enough to act without making the breach worse.**
+It begins with exhausted breakfast aftermath, ordinary household pressure, and Eno creating a mundane reason for Bode to take the brothers out.
 
-This does not itself mean they have accepted stewardship.
+The marketplace then restores ordinary Calabar life before the Entity becomes perceptible again.
 
-## Sequence 11-12 facts now locked
+The masquerade procession is **not the horror**. It remains a culturally normal public event. The Entity appears in negative space around moving people, allowing the brothers' perception to fracture without demonizing the performance or its participants.
 
-### Sequence 11 — What He Left
+Kai deliberately leaves his cracked camera at home. During renewed pressure he asks his brothers not to let him sustain attention. Malik and Ade respond as a unit rather than treating Kai as evidence equipment.
 
-- Solomon scheduled maintenance beyond his death.
-- The next documented interval is nine days overdue.
-- He preserved materials, measurements, dates, locations, and keys but named no successor.
-- The brothers choose: nobody goes alone; nobody decides alone.
+The endpoint is experiential:
 
-### Sequence 12 — When It Stays
+**They left the house. The relationship did not stay there.**
 
-- Entity proximity creates severe perceptual stutter and physiological translation pressure.
-- Human/local reality becomes less coherent while the Entity becomes more perceptually coherent.
-- Kai suffers the heaviest exposure.
-- Malik experiences breathing-sequence failure.
-- Ade suffers bleeding/vestibular disturbance and protects an uninformed child.
-- Ade's social intelligence helps Eno clear the household without giving Ade supernatural authority.
-- The brothers do not yet possess a complete attention rule.
-- The inner-door fastener is found seated in its measured point, one turn short, without known cause.
-
-## Horror execution law going forward
-
-Restraint no longer means withholding consequence.
-
-Future Entity encounters may be surreal, visceral, physiological, and psychologically punishing.
-
-But escalation must remain causal and non-repetitive.
-
-Do not repeat Sequence 12 beat-for-beat.
-
-Each new encounter must change at least one of:
-
-- what the Entity can resolve in the Seen;
-- what the brothers believe about attention/proximity;
-- what bodily function becomes unreliable;
-- which family member is at risk;
-- what practical action becomes necessary;
-- what trust inside the brotherhood is damaged or strengthened.
-
-## Sister-death reveal gate
-
-Writer-level canon now has a coherent mechanism for the sister's death: prolonged perceptual exposure during catastrophic destabilization destroyed her body while she restored equilibrium without Solomon's procedural support.
-
-Do **not** reveal that merely because the audience has now seen similar physiology.
-
-The causal truth remains reserved for a later present-tense Malik decision where knowing Solomon's failure changes what Malik is about to do.
+That does not yet answer what the Entity is tethered to or how far proximity can extend.
 
 ## Character execution
 
-Use `docs/CHARACTER_VOICE_CONSTITUTION.md`.
+Use `docs/CHARACTER_VOICE_CONSTITUTION.md` and `docs/CULTURAL_LANGUAGE_REGISTER.md`.
 
 ### Malik
 
 - procedure under pressure;
-- protect through conditions, not domination;
-- residual breathing disruption must remain playable;
-- he does not automatically become leader/steward because he reads the records best.
+- residual breathing disruption remains playable;
+- protect through conditions rather than domination;
+- does not become appointed leader/steward.
 
 ### Kai
 
-- reports concrete residual symptoms and observations;
-- does not transform one event into a complete cosmology;
-- his guilt and perceptual aptitude cannot erase his right to choose.
+- concrete observations and symptoms;
+- actively limits sustained looking;
+- leaves damaged camera behind;
+- does not convert one market event into complete cosmology.
 
 ### Ade
 
-- household/social awareness remains operationally necessary;
-- the gas lie has consequences;
-- he must not become a supernatural interpreter simply because his redirection helped.
+- social awareness remains operationally necessary;
+- protects sightlines and relationships;
+- helps Malik stay oriented to Kai's actual body in the crowd;
+- no supernatural office.
 
 ### Bode
 
-- concrete memory and qualified certainty only;
-- no hidden repair procedure or attention doctrine.
+- practical local movement/knowledge;
+- qualified certainty only;
+- no hidden repair or attention doctrine.
 
 ### Eno
 
-- living bodies, household safety, family accountability;
-- no mythology lecture.
+- food, household boundaries, movement, and practical authority;
+- market errand is ordinary action, not medical or mystical exposition.
 
-## Sequence numbering law
+## Sister-death reveal gate
 
-Use standard numerical sequence labels only:
+Writer-level mechanism remains coherent but unrevealed: prolonged perceptual exposure during catastrophic destabilization killed Solomon's sister while she restored equilibrium without the procedural support the partnership required.
 
-`Sequence 1`, `Sequence 2`, `Sequence 3` ...
+Do not reveal this because the current physiology now makes it inferable.
 
-Do not introduce Roman-numeral sequence labels in screenplay or active control documents.
+## Required reads
 
-## Acceptance gate for Sequence 13
-
-Sequence 13 must:
-
-- preserve all residual physical consequences;
-- advance the family-protection problem;
-- keep character voices individually identifiable;
-- avoid a mythology lecture after the horror set piece;
-- make at least one concrete decision/action unavoidable;
-- preserve uncertainty around the inner-door fastener;
-- keep Bode and Eno inside their knowledge boundaries;
-- keep Ade dramatically necessary without supernatural office;
-- earn any next supernatural escalation through action rather than schedule.
-
-## Required reads before drafting
-
-1. `output/pdf/EKPO_Screenplay.pdf`
-2. `development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md`
-3. `01_SCREENPLAY.fountain`
-4. `docs/ENTITY_HORROR_PHYSIOLOGY.md`
-5. `docs/CHARACTER_VOICE_CONSTITUTION.md`
-6. `docs/CULTURAL_LANGUAGE_REGISTER.md`
-7. `docs/CURRENT_CONTINUITY.md`
-8. `docs/DECISION_LOG.md`
-9. `00_CANON.md`
+1. `01_SCREENPLAY.fountain`
+2. `output/pdf/EKPO_Screenplay.pdf`
+3. `development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md`
+4. `docs/HOUSE_GEOGRAPHY.md`
+5. `docs/REGULATOR_CORD_ARRAY.md`
+6. `docs/CURRENT_CONTINUITY.md`
+7. `docs/SEQUENCE_12_LOCK.md`
+8. `docs/ENTITY_HORROR_PHYSIOLOGY.md`
+9. `docs/CHARACTER_VOICE_CONSTITUTION.md`
+10. `docs/CULTURAL_LANGUAGE_REGISTER.md`
+11. `00_CANON.md`
 
 ## Final operating rule
 
-Do not reward the Sequence 12 escalation by making the characters suddenly understand it.
-
-Make them pay for it first.
+If an uninformed reader has to ask **where someone is, how they got there, what they can see, or whether a supernatural effect is intentional rather than a geography mistake**, the scene does not pass.

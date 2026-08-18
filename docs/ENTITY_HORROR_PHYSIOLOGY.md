@@ -172,3 +172,16 @@ Restraint no longer means withholding consequence.
 From Sequence 12 onward, EKPO may become increasingly visceral, surreal, physiological, and psychologically punishing while preserving taste and metaphysical coherence.
 
 The audience should fear not only seeing the Entity, but what seeing it does to the reliability of body, memory, space, sequence, and the people nearby.
+
+
+## Portability after reciprocal contact
+
+After repeated reciprocal perception, physical distance from the Oku house does not automatically terminate Entity proximity. Sequence 13 may demonstrate renewed perceptual/physiological pressure in the Calabar market.
+
+This does **not** establish that the Entity can freely teleport, control time, possess crowds, or follow every person indefinitely. Exact tether, range, and persistence remain unresolved.
+
+A crowd does not automatically strengthen manifestation merely by being nearby. The important pressure is directed awareness / attempted resolution of the Entity itself.
+
+Market continuity errors experienced by the brothers must read as perceptual/local-coherence fracture from their point of view, not objective proof that uninvolved shoppers are being rewound or controlled.
+
+A public masquerade procession remains culturally normal and independent of the Entity. The Entity may become perceptible in negative space around it; no performer becomes supernatural merely because the brothers are under pressure.

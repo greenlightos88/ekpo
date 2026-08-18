@@ -1,4 +1,4 @@
-version: 4.2
+version: 4.4
 project:
   id: ekpo
   title: EKPO
@@ -6,7 +6,7 @@ project:
   default_branch: main
   status: active-development
   format: feature-screenplay
-  development_phase: sequence-12-award-lock-sequence-13-development
+  development_phase: sequence-12-human-audit-revision-sequence-13-market-candidate
 
 north_star:
   statement: "Psychological supernatural family drama about inheritance."
@@ -23,13 +23,16 @@ source_hierarchy:
     authority: screenplay-authority-law
     paths: [docs/SCREENPLAY_AUTHORITY.md]
   - rank: 3
-    authority: approved-output-screenplay
+    authority: active-candidate-output-screenplay
     paths: [output/pdf/EKPO_Screenplay.pdf]
-    rule: "Latest approved PDF is the dramatic screenplay authority."
+    rule: "On PR #3 this is the candidate dramatic reading artifact; it becomes merged authority only after promotion audit and merge."
   - rank: 4
-    authority: locked-decisions
+    authority: active-revision-locks
     paths:
       - docs/SEQUENCE_12_LOCK.md
+      - docs/HOUSE_GEOGRAPHY.md
+      - docs/REGULATOR_CORD_ARRAY.md
+      - docs/BRASS_OBJECT_CONTINUITY.md
       - docs/DECISION_LOG.md
   - rank: 5
     authority: creative-constitution
@@ -51,30 +54,37 @@ source_hierarchy:
     paths:
       - docs/MOTIF_LEDGER.md
       - docs/NEXT_MOVEMENT.md
+      - development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md
       - development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md
-      - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md
       - 02_MASTER_BIBLE.md
       - 03_SESSION.md
   - rank: 9
     authority: editable-screenplay-source
     paths: [01_SCREENPLAY.fountain]
-    rule: "Synchronized editable source; it must reproduce the approved output PDF."
+    rule: "Synchronized editable source; it must reproduce the candidate output PDF."
   - rank: 10
     authority: historical-development-reference
 
 canonical_sources:
-  screenplay:
-    authority: output/pdf/EKPO_Screenplay.pdf
+  merged_baseline:
+    branch: main
+    sequence: 12
+    title: WHEN IT STAYS
+  active_candidate:
+    branch: agent/sequence-12-geography-sequence-13-marketplace
+    pr: 3
     editable_source: 01_SCREENPLAY.fountain
-    authority_law: docs/SCREENPLAY_AUTHORITY.md
-    canonical_endpoint: sequence_12
-    endpoint_title: WHEN IT STAYS
-    screenplay_pages: 57
-    physical_pdf_pages: 58
-    status: synchronized
+    reading_copy: output/pdf/EKPO_Screenplay.pdf
+    candidate_endpoint: sequence_13
+    endpoint_title: THE MARKET
+    latest_technical_physical_pages: 64
+    status: internal-integrity-pass-creator-review-required
   mythology: [EKPO_Canonical_Mythology_Refactor.md]
   decisions:
     - docs/SEQUENCE_12_LOCK.md
+    - docs/HOUSE_GEOGRAPHY.md
+    - docs/REGULATOR_CORD_ARRAY.md
+    - docs/BRASS_OBJECT_CONTINUITY.md
     - docs/DECISION_LOG.md
   continuity: [docs/CURRENT_CONTINUITY.md]
   characters:
@@ -82,36 +92,37 @@ canonical_sources:
     - docs/CHARACTER_VOICE_CONSTITUTION.md
   horror_execution: [docs/ENTITY_HORROR_PHYSIOLOGY.md]
   audits:
-    - development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md
+    - development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md
+    - development/audits/EKPO_POST_WITNESS_REMOVAL_FULL_INTEGRITY_AUDIT.md
     - development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md
-    - development/audits/EKPO_SEQUENCES_11_12_AWARD_AUDIT.md
+    - development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md
   active_assignment: [docs/NEXT_MOVEMENT.md]
 
 screenplay_state:
-  canonical_through:
+  merged_canonical_through:
     sequence: 12
     title: WHEN IT STAYS
-  sequences:
-    - {sequence: 1, title: THE LAST MORNING, status: canonical_forensic_audited}
-    - {sequence: 2, title: THE FUNERAL, status: canonical_forensic_audited}
-    - {sequence: 3, title: THE WILL AND DECISION, status: canonical_forensic_audited}
-    - {sequence: 4, title: ARRIVAL, status: canonical_forensic_audited}
-    - {sequence: 5, title: HOMECOMING, status: canonical_forensic_audited}
-    - {sequence: 6, title: THE LAND AND THE SHRINE, status: canonical_forensic_audited}
-    - {sequence: 7, title: THE RIVER BOUNDARY, status: canonical_forensic_audited}
-    - {sequence: 8, title: THE DISTANCE BETWEEN, status: canonical_forensic_audited}
-    - {sequence: 9, title: WHAT HE OPENED, status: canonical_forensic_audited}
-    - {sequence: 10, title: THE TWO RECORDS, status: canonical_forensic_audited}
-    - {sequence: 11, title: WHAT HE LEFT, status: canonical_forensic_audited}
-    - {sequence: 12, title: WHEN IT STAYS, status: canonical_forensic_audited}
+  candidate_sequences:
+    - {sequence: 1, title: THE LAST MORNING, status: retained_from_merged_baseline_with_page6_microfix}
+    - {sequence: 2, title: THE FUNERAL, status: retained}
+    - {sequence: 3, title: THE WILL AND DECISION, status: retained}
+    - {sequence: 4, title: ARRIVAL, status: retained}
+    - {sequence: 5, title: HOMECOMING, status: geography_seed_revised}
+    - {sequence: 6, title: THE LAND AND THE SHRINE, status: retained}
+    - {sequence: 7, title: THE RIVER BOUNDARY, status: retained}
+    - {sequence: 8, title: THE DISTANCE BETWEEN, status: retained}
+    - {sequence: 9, title: WHAT HE OPENED, status: retained}
+    - {sequence: 10, title: THE TWO RECORDS, status: geography_and_cord_array_revised}
+    - {sequence: 11, title: WHAT HE LEFT, status: cord_baseline_micro_revised}
+    - {sequence: 12, title: WHEN IT STAYS, status: human_audit_rewrite_candidate}
+    - {sequence: 13, title: THE MARKET, status: new_candidate}
   pdf:
     path: output/pdf/EKPO_Screenplay.pdf
-    screenplay_pages: 57
-    physical_pages: 58
-    status: authoritative-and-current
+    latest_technical_physical_pages: 64
+    status: candidate-not-merged-authority
   fountain:
     path: 01_SCREENPLAY.fountain
-    status: synchronized-editable-mirror
+    status: candidate-editable-source
 
 locked_project_laws:
   - "Solomon is never shown alive."
@@ -119,10 +130,14 @@ locked_project_laws:
   - "Seen and Unseen are complementary conditions."
   - "Covenant = stewardship/equilibrium, not containment."
   - "Shrine = regulator/alignment point, never prison."
+  - "Two related brass objects are distinct: Solomon kept the retired sister-era regulatory carving; the shrine used a later active replacement talisman."
+  - "The retired brass carving is a material memento of sister/partnership/failure, not the sister's personal magical amulet, soul vessel, or hereditary badge."
+  - "Kai removed Solomon's post-catastrophe replacement talisman; its active regulatory function, not containment, makes the removal consequential."
+  - "The full brass replacement history is writer-level canon and remains deferred on-page until materially earned."
   - "Entity = independent ancient Unseen intelligence attracted to breaches."
   - "Attention creates proximity, but characters learn this behaviorally."
   - "Entity perceptibility is failed translation and may fracture human perception, bodily sequence, and local physical coherence."
-  - "Perceptual stutter is not a digital glitch or teleportation effect."
+  - "Perceptual stutter is not a digital glitch, teleportation effect, or generic time-control power."
   - "Physiological effects persist after Entity withdrawal."
   - "Solomon and his sister held complementary procedural/perceptual functions."
   - "Succession requires recognized capacity, transmitted knowledge, and voluntary acceptance."
@@ -132,8 +147,10 @@ locked_project_laws:
   - "Ade has no supernatural office; his social intelligence is protective infrastructure."
   - "Bode is not a co-custodian or maintenance proxy."
   - "Eno is household authority, not mythology expert."
-  - "Sister-death causality remains withheld through Sequence 12."
-  - "Inner maintained door remains unopened through Sequence 12; its fastener changes state for unknown reasons."
+  - "Inner maintained door remains closed; the superseded moving-fastener beat is removed."
+  - "Only the inner diagnostic cord array has established pressure-indicating movement."
+  - "Normal house geography must be coherent before supernatural distortion violates it."
+  - "The masquerade is never the Entity and is not horror shorthand."
   - "Sequence numbers use Arabic numerals only."
   - "Deferred cultural/ritual terminology must not be invented before specialist review."
 
@@ -143,8 +160,10 @@ write_policy:
   branch_required: true
 
 completion_contract:
-  - "Output PDF remains the authoritative dramatic artifact."
-  - "Fountain reproduces the approved output PDF."
+  - "PR #3 remains draft until explicit creator approval; the internal high-threshold integrity gate has passed."
+  - "Candidate output PDF and Fountain remain synchronized."
   - "Residual injuries and continuity consequences persist."
-  - "Character voice, canon, horror mechanics, and family-protection stakes are audited before promotion."
+  - "The retired sister-era brass carving and active Solomon-era replacement talisman must never collapse into one physical object."
+  - "No moving-fastener or car/hospital subplot may re-enter by drift."
+  - "Character voice, geography, horror mechanics, cultural integrity, and family-protection stakes are audited before promotion."
   - "Sequence numbering uses standard numerical denominations only."

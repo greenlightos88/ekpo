@@ -1,8 +1,8 @@
 # EKPO MOTIF LEDGER
 
 Status: ACTIVE
-Last synchronized: 2026-08-13
-Canonical endpoint: End of Sequence 12 — `WHEN IT STAYS`
+Last synchronized: 2026-08-17
+Revision-branch endpoint: End of Sequence 13 — `THE MARKET` (PR #3 candidate)
 
 This ledger governs recurring images, materials, sounds, spaces, and behaviors. Motifs may deepen through changed context but may not mutate into a different symbolic system without a logged decision.
 
@@ -26,16 +26,21 @@ Canonical appearances:
 - Sequence 8 visually rhymes the household cord with the regulator binding while explicitly preserving their different age/function;
 - Sequence 10 establishes that the outer household cord uses a simple practical hitch, not the regulator's worked binding;
 - replacement red cotton appears in the maintenance room;
-- the inner maintained door uses red-cord elements fixed at measured intervals.
+- the inner maintained door is surrounded by a dense measured red-cord/knot diagnostic array;
+- Sequence 10 establishes that array completely still at baseline;
+- Sequence 12 objectively shows restrained tension/slack/alignment changes in the array under manifestation pressure while the inner door remains closed.
 
 Rules:
 
 - never use red cord as generic blood imagery;
-- never make it move by itself;
+- generic red cord never moves merely because it is red;
+- only the explicitly established inner diagnostic array may register pressure through restrained measurable tension/slack/alignment changes;
 - never imply any red string automatically performs magic;
 - never call it magical rope;
-- distinguish regulator binding, household closure, stored material, and inner-door maintenance;
-- a new knot, cut, opening, replacement, or unfinished section must change responsibility, consent, maintenance, or understanding.
+- distinguish regulator binding, household closure, stored material, and the inner diagnostic array;
+- the diagnostic array must behave like material instrumentation, never sentient rope;
+- no writhing, reaching, levitation, or theatrical self-untying;
+- a new knot, cut, opening, or replacement must change responsibility, consent, maintenance, or understanding.
 
 ## Brass
 
@@ -55,7 +60,7 @@ Canonical appearances:
 - brass talisman inside the regulator;
 - brass wall hook at the red-corded household door;
 - brass-cleaning cloths and small brass markers in the maintenance room;
-- unfinished inner-door point includes a brass fastener waiting beside a measured position.
+- measured brass anchor points support the inner diagnostic cord array.
 
 Rules:
 
@@ -122,6 +127,22 @@ Rules:
 - it is not a second unrelated portal or monster cage;
 - do not make it move supernaturally merely to create suspense;
 - crossing must carry custodial/relational consequence.
+
+## Masquerade / Public Cultural Performance
+
+Meaning:
+
+- ordinary living culture in Calabar;
+- public rhythm, continuity, recognition, and community life;
+- a visually dense human environment that the brothers may misperceive under Entity pressure without making the culture itself supernatural.
+
+Rules:
+
+- the masquerade is never the Entity;
+- no performer is automatically possessed, cursed, or secretly monstrous;
+- the Entity may become perceptible in negative space around a procession while real performers continue as themselves;
+- do not invent restricted meanings, costume specifics, or ritual terminology before qualified Efik/Calabar cultural review;
+- public response should establish the event as belonging to the community, not as an omen staged for the Canadian brothers.
 
 ## Sound
 
@@ -299,7 +320,9 @@ Canonical development:
 - camera remains ordinary in Vancouver/Calabar;
 - Kai photographs boundary marks and regulator;
 - Sequence 9 photographs provide material evidence to family;
-- Sequence 8 makes naked attention itself dangerous: the presence becomes clearer/closer as Kai looks longer.
+- Sequence 8 makes naked attention itself dangerous: the presence becomes clearer/closer as Kai looks longer;
+- Sequence 12 cracks the camera casing during the major manifestation;
+- Sequence 13 Kai deliberately leaves the damaged camera at the house before the market trip.
 
 Rules:
 
@@ -369,7 +392,7 @@ Canonical appearances:
 - outer household cord is explicitly simpler/practical;
 - Solomon's ledger contains knot diagrams;
 - Malik is instinctively drawn to diagram sequence;
-- inner door combines measured red-cord placement with brass markers/unfinished point.
+- inner door combines measured red-cord placement with brass markers in a dense diagnostic array.
 
 Rules:
 
@@ -396,6 +419,8 @@ Canonical design:
 - maps, rainfall/river/humidity records;
 - procedural ledger + perceptual notebooks;
 - inner maintained door/interface;
+- dense measured cord/knot diagnostic array around the inner door;
+- semi-underground location beneath the rear of the house;
 - no occult spectacle;
 - no scare behind inner door.
 
@@ -443,12 +468,14 @@ Rules:
 - protection remains relational and human;
 - awareness/proximity must be learned behaviorally.
 
-## Inner-Door Fastener
+## Inner Door / Diagnostic Array
 
 Continuity:
-- loose on sill through Sequence 11;
-- seated in unfinished measured point after Sequence 12;
-- one turn short;
-- cause unknown.
+- inner maintained door remains closed;
+- the prior moving-fastener endpoint is removed;
+- dense measured cord/knot array surrounds the inner door;
+- Sequence 10 establishes the array at complete rest;
+- Sequence 12 shows restrained pressure changes in the array while the door itself remains still;
+- the brothers have not yet learned how to read the pattern.
 
-Do not treat the change as an automatic repair instruction.
+Do not turn the array into an automatic repair instruction.

@@ -1,228 +1,208 @@
 # EKPO CURRENT CONTINUITY
 
-Last reconciled: 2026-08-13
-Status: ACTIVE
+Last reconciled: 2026-08-17
+Status: PR #3 REVISION CANDIDATE — CREATOR-ACCEPTED DEVELOPMENT BASELINE / NOT MERGED
 
-Authoritative dramatic screenplay: `output/pdf/EKPO_Screenplay.pdf`
-Synchronized editable source: `01_SCREENPLAY.fountain`
-Current canonical endpoint: End of Sequence 12 — `WHEN IT STAYS`
-Producer PDF: 57 screenplay pages plus title page (58 physical pages total)
+Merged dramatic baseline: `main` through Sequence 12.
+Revision branch: `agent/sequence-12-geography-sequence-13-marketplace`.
+Candidate editable source: `01_SCREENPLAY.fountain`.
+Candidate reading copy: `output/pdf/EKPO_Screenplay.pdf`.
+Candidate endpoint: End of Sequence 13 — `THE MARKET`.
 
-## Immediate story position
+## Human-audit corrections integrated on this branch
+
+- Page-6 gaze ambiguity corrected: Ade and Kai follow Malik's gaze.
+- Oku-house geography is explicitly established and governed by `docs/HOUSE_GEOGRAPHY.md`.
+- Maintenance room is semi-underground beneath the rear of the house; the inner maintained door has no courtyard sightline.
+- `ENO: Car.` is removed with no car/hospital continuation.
+- The supernatural moving-fastener beat is removed.
+- Sequence 12 evacuation moves away from the back-passage manifestation axis toward the compound gate.
+- Ade redirects sightlines rather than merely naming a gas leak.
+- Reduced family exposure is paired non-verbally with improving spatial/bodily coherence.
+- The inner-door red-cord/knot diagnostic array is established in Sequence 10 and reacts materially in Sequence 12.
+
+## Revised Sequence 12 endpoint
 
 Night at the Oku family compound outside Calabar.
 
-Sequence 12 has just ended after the most severe Entity manifestation yet.
+The wider household has been moved away from the back passage and gathered near the compound gate.
 
-The wider household has been moved outside under Ade's improvised gas-leak explanation.
-
-The three brothers remain physically affected:
+The brothers remain physically affected:
 
 - Kai's right eye is bloodshot from a burst capillary;
 - Kai's right arm has regained movement but still trembles;
 - Kai vomited during the encounter and remains physiologically destabilized;
-- Malik experienced diaphragm/breath-sequence failure and is still consciously regulating breathing;
+- Malik experienced diaphragm/breath-sequence failure and remains hyper-aware of breathing;
 - Ade has a nosebleed and residual vestibular/auditory disturbance;
 - all three experienced perceptual stutter and incompatible spatial states.
 
-Eno has ordered the car and is prepared to seek practical medical care. Malik asked for one minute to assess Kai's motor function; Eno granted exactly one minute.
+Eno forbids anyone from going near the back passage and demands to know what happened.
 
-The final image changes the inner maintained door:
+A boy attempts to peer back toward the affected area. Ade shifts into the sightline and blocks it. Malik and Kai both see him do it.
 
-- the previously loose brass fastener is no longer on the sill;
-- it is seated in the unfinished measured point near the lower hinge;
-- it remains one turn short;
-- none of the brothers put it there;
-- no character knows what caused the change.
+Final image: the house behind the brothers, their family in front of them. They remain between the two without declaring a supernatural office or formal stewardship.
 
-## Canonical sequence status
+## Cord diagnostic state
 
-### Act 1
+- The inner maintained door remains closed.
+- No brass fastener moves.
+- A dense measured red-cord/knot diagnostic array surrounds the inner door.
+- During Sequence 12 the array changes tension, slack, fall, and knot position under pressure.
+- Most elements settle back toward baseline as the manifestation reduces; some remain displaced.
+- The brothers do not see the array react and do not yet know how to interpret it.
 
-1. The Last Morning — canonical / forensic-audited
-2. The Funeral — canonical / forensic-audited
-3. The Will and Decision — canonical / forensic-audited
-4. Arrival — canonical / forensic-audited
-5. Homecoming — canonical / forensic-audited
-6. The Land and the Shrine — canonical / forensic-audited
+## Sequence 13 candidate — The Market
 
-### Act 2
+### Morning aftermath
 
-7. The River Boundary — canonical / forensic-audited
-8. The Distance Between — canonical / forensic-audited
-9. What He Opened — canonical / forensic-audited
-10. The Two Records — canonical / forensic-audited
-11. What He Left — canonical / forensic-audited
-12. When It Stays — canonical / forensic-audited
+Breakfast is taken on the front veranda rather than deeper in the house.
 
-Sequence 13 has not been written.
+Residual consequences remain visible:
 
-## Sequence 11 — What He Left
+- Kai's eye remains red and his right hand trembles;
+- Kai's camera casing is cracked from Sequence 12;
+- Malik checks his breathing involuntarily;
+- Ade still shows nose/ear/vestibular residue;
+- the family atmosphere is quieter and more watchful.
 
-The brothers search Solomon's records for what comes next.
+Eno creates an ordinary market errand and directs Bode to take the brothers out of the compound. The scene does not frame this as formal therapy or a medical plan.
 
-They establish:
+Kai deliberately leaves his damaged camera at the house.
 
-- Solomon continued scheduling procedural maintenance beyond his own expected lifetime;
-- the next documented maintenance interval is nine days overdue;
-- Solomon preserved materials, quantities, locations, keys, measurements, and future dates;
-- no person is named to perform the future work;
-- no letter appoints Malik, Kai, Ade, Bode, or any successor;
-- Bode says Solomon never asked him to continue the schedule and does not know what happens when an interval is missed.
+### Calabar market
 
-The brothers make their first collective operational decision:
+Ordinary market life gets genuine screen time before horror returns.
 
-- nobody returns to the shrine alone;
-- nobody makes a consequential decision alone;
-- they first determine what the missed interval actually required.
+A public masquerade procession is treated as normal community culture. It is not the Entity, not possessed, and not coded as evil.
 
-This is voluntary collective action, not acceptance of supernatural office.
+The brothers then experience renewed pressure:
 
-## Sequence 12 — When It Stays
+- Kai recognizes the metallic taste and deliberately tries not to sustain attention;
+- Ade hears one drum strike arrive twice;
+- the Entity becomes perceptible in negative space around moving bodies rather than inhabiting a performer;
+- Malik and Ade use each other to maintain contact with Kai in the crowd;
+- public shoppers do not appear to recognize the Entity;
+- the event produces limited spatial/temporal-perceptual distortion without repeating Sequence 12's full bodily collapse.
 
-Ordinary household life resumes before the encounter.
+Bode uses ordinary knowledge of the market to move them into a side lane.
 
-The Entity's proximity produces:
+Symptoms do not improve merely with the first steps away; they begin easing only after the brothers stop re-engaging and the procession drops out of sight.
 
-- metallic taste and ear pressure in Kai;
-- sound arriving out of temporal alignment;
-- binocular convergence failure;
-- violent vertigo/proprioceptive mismatch;
-- perceptual stutter in which occupied and empty space can both register as valid;
-- discontinuity between movement and experienced movement;
-- breathing-sequence disruption in Malik;
-- ocular/nasal bleeding;
-- vomiting;
-- transient loss and painful return of sensation in Kai's right arm;
-- apparent structural load in the passage;
-- impossible dust behavior;
-- increasing perceptual coherence of the Entity while surrounding human space becomes less coherent.
+Malik's final realization is experiential, not cosmological: **they left the house and the pressure still found them.**
 
-A young girl reports that Kai is calling her while the real Kai is visibly incapacitated. No clean voice-mimic power is established; the event remains perceptually ambiguous.
-
-Ade prevents the child from looking into the affected passage and redirects the household using an ordinary gas-leak explanation.
-
-As uninformed people move away from the passage, the brothers experience reduced physiological/spatial pressure. They do not yet fully understand the mechanism.
+This demonstrates that physical distance from the Oku house is not sufficient protection. It does not yet establish what the Entity is tethered to or how far reciprocal proximity can extend.
 
 ## Principal character state
 
 ### Malik Oku
 
 - still defaults to procedure under fear;
-- chose restraint in Sequence 11 rather than immediately acting on incomplete records;
-- accepted Ade's collective rule rather than claiming unilateral authority;
-- physically stabilized Kai during Sequence 12;
-- experienced the Entity as an assault on bodily sequence/control through failed breathing initiation;
-- does not know that his procedural aptitude mirrors Solomon's stewardship function.
+- accepted the collective rule: nobody goes alone; nobody decides alone;
+- physically stabilized Kai in Sequence 12;
+- recognizes Ade's sightline protection at the Sequence 12 endpoint;
+- experiences renewed breathing-sequence vulnerability in the market;
+- does not know that his aptitude mirrors Solomon's procedural function.
 
 ### Kai Oku
 
-- discovered the absence of any human succession instruction in Solomon's meticulous records;
-- remains angry at Solomon's silence without converting that anger into Chosen One logic;
-- recognized the Entity's approach first through bodily pressure;
-- suffered the most severe exposure;
-- urgently asked the brothers to move family away when additional people began approaching;
-- does not yet possess a complete attention/observer rule.
+- remains responsible for the deliberate shrine breach;
+- suffered the strongest Sequence 12 exposure;
+- now understands enough to ask his brothers not to let him look during renewed pressure;
+- leaves the camera behind in Sequence 13 rather than automatically converting fear into evidence-gathering;
+- still does not possess a complete attention theory;
+- has seen that Solomon's Vancouver brass carving and the active shrine talisman share related design language, but does not know their replacement history.
 
 ### Ade Oku
 
-- prevented Malik and Kai from claiming competing complete interpretations of Solomon;
-- established the shared rule: nobody goes alone; nobody decides alone;
-- protected an uninformed child during the Sequence 12 manifestation;
-- used humor/social movement only while it remained useful, then dropped it under genuine terror;
-- created the gas-leak cover that allowed Eno to clear the household;
+- established nobody goes alone / nobody decides alone;
+- quietly blocks a boy's sightline back toward the affected passage at the Sequence 12 endpoint;
+- recognized and closed family sightlines toward the affected passage;
+- in the market, helps Malik maintain the correct human reference point rather than chasing distorted distance;
 - has no supernatural office.
 
 ### Bode Oku
 
-- still does not know the repair procedure, Entity ontology, or attention mechanism;
-- did not claim knowledge of Solomon's intended successor;
-- remains a frightened family-history witness rather than custodial authority.
+- remains a limited family-history witness rather than custodian;
+- does not know the Entity mechanism or repair procedure;
+- does not automatically possess the complete brass replacement history;
+- uses ordinary local knowledge to move the brothers safely through the market when Ade asks.
 
 ### Auntie Eno
 
 - remains household/family authority;
-- forces food, practical care, evacuation, and medical common sense into scenes that could otherwise disappear into mythology;
-- does not possess covenant cosmology or a repair procedure.
+- responds through food, movement, boundaries, and practical decisions;
+- does not become a cosmology expert;
+- creates the market errand as ordinary household action rather than a lore or medical scene.
 
 ## Current knowledge boundary
 
-The brothers now know through evidence/experience that:
+The brothers know or strongly suspect through experience that:
 
 - Solomon maintained hidden procedural work for years;
-- his sister maintained a different perceptual record on matching dates;
-- Solomon continued scheduling work beyond his own life but named no successor;
+- his sister maintained a separate perceptual record on matching dates;
+- Solomon scheduled maintenance beyond his death but named no successor;
 - a documented maintenance interval is nine days overdue;
-- Entity proximity can produce severe physiological and spatial disruption;
-- the wider family can become exposed by approaching or looking toward an active event;
-- moving people away appeared to coincide with reduced pressure;
-- the inner-door fastener changed state during/after the manifestation.
+- Entity proximity can severely disrupt perception, bodily sequence, and local space;
+- uninformed family members can become endangered by approaching/looking toward an active event;
+- moving people away and reducing direct exposure coincided with reduced pressure;
+- leaving the house does not automatically end renewed Entity proximity;
+- the old brass carving from Solomon's Vancouver effects and the brass talisman removed from the shrine are visually related but not identical.
 
 They do **not** yet know:
 
 - formal Seen/Unseen terminology;
 - formal two-function stewardship vocabulary;
-- why collective attention changes translation pressure;
-- whether the Entity, regulator, or local reality changed the fastener;
+- the complete attention/observer mechanism;
+- how to read the cord diagnostic array;
+- what the Entity is currently tethered to after repeated reciprocal perception;
 - the full function of the inner door;
 - a complete repair procedure;
 - the causal truth of Solomon's sister's death;
+- that the Vancouver brass carving is a retired sister-era regulatory component;
+- that Solomon installed the shrine talisman as a later active replacement after the catastrophe;
+- why Solomon carried the retired piece to Canada;
 - whether Malik or Kai will voluntarily accept stewardship.
 
 ## Object and custody ledger
 
-### Brass talisman
+### Retired sister-era brass carving
 
-- removed intentionally by Kai from the regulator;
+- discovered by Kai in Solomon's blue drawer in Vancouver;
+- same old regulatory component visible by silhouette in the scratched Calabar photograph;
+- writer-level origin: the period when Solomon and his sister performed complementary stewardship together;
+- retired from active regulatory use after the catastrophic rupture and sister's death;
+- later carried to Canada and privately preserved by Solomon;
+- emotional function: a material memento of sister, partnership, and failure;
+- not the sister's personal magical amulet, soul vessel, hereditary badge, or current active talisman;
+- exact immediate physical location should be re-established the next time it is handled on-page rather than silently moved.
+
+### Active Solomon-era replacement brass talisman
+
+- installed by Solomon during post-catastrophe procedural rebuilding/stabilization;
+- distinct from but visually related to the retired sister-era carving;
+- removed intentionally by Kai from the regulator in Sequence 6;
 - disclosed in Sequence 9;
 - remains under ordinary clean cloth in the house;
-- has not been returned or used as a magical solution.
+- has not been returned or used as a magical solution;
+- removal destabilized an active regulatory component; it did not release or contain the Entity.
 
-### Inner-door fastener
+### Inner maintained door / cord array
 
-- loose on the sill through Sequence 11;
-- seated in its measured point after Sequence 12;
-- one turn short;
-- cause unknown.
+- inner door remains closed;
+- no moving fastener remains in canon;
+- measured diagnostic cord array surrounds the door;
+- brothers do not yet know how to read it.
 
 ### Kai's camera
 
 - struck the tile during Sequence 12;
-- casing is damaged/cracked;
-- future use must acknowledge the damage before treating it as normal equipment.
+- casing is cracked;
+- Kai deliberately leaves it at the house for the Sequence 13 market trip.
 
 ### Brass urn
 
 - Solomon's ashes remain in the river;
 - urn is empty.
-
-## Supernatural state
-
-Demonstrated on-page through Sequence 12:
-
-- ecological sound withdrawal after the breach;
-- fragmentary tactile/perceptual resonance at the regulator;
-- shared river pressure/contact;
-- unstable architectural distance;
-- partially perceptible failed-translation Entity form;
-- increased legibility associated with Kai's sustained attention;
-- perceptual stutter;
-- delayed/temporally misaligned sound;
-- severe physiological translation pressure;
-- apparent local structural load;
-- residual bodily injury after the Entity withdraws;
-- reduced pressure coinciding with uninformed family being moved away.
-
-Still not established on-page:
-
-- complete attention/observer mechanism;
-- possession;
-- clean dead-relative or voice impersonation power;
-- stable conventional creature body;
-- omniscient access to private biography;
-- complete taxonomy of the Unseen;
-- complete repair mechanism;
-- cause of the changed inner-door fastener.
 
 ## Writer-level canon not yet character knowledge
 
@@ -230,25 +210,27 @@ Still not established on-page:
 - covenant stewardship maintains their equilibrium;
 - the Entity is an independent ancient Unseen intelligence attracted to breaches;
 - attention creates proximity;
+- repeated reciprocal perception can remain consequential away from the original house/node, but exact tether/range is not yet locked on-page;
 - Solomon and his sister held complementary procedural/perceptual functions;
 - Solomon's procedural failure contributed to the catastrophic conditions in which his sister restored equilibrium and died;
-- her perceptual aptitude also made prolonged catastrophic exposure physiologically dangerous;
-- Solomon attempted to compensate afterward but failed succession/transmission;
+- the Vancouver brass carving is the retired sister-era regulatory component from their shared working period;
+- Solomon's post-catastrophe procedural rebuilding included installing the later active replacement talisman that Kai removes;
+- Solomon kept the retired piece as a private material memento of his sister, their partnership, and his failure;
 - Malik naturally mirrors Solomon's procedural aptitude;
 - Kai naturally mirrors the sister's perceptual aptitude;
 - Ade has no supernatural office;
 - succession requires recognition, training, and voluntary acceptance.
 
-The full causal truth of the sister's death remains withheld on-page.
+## Brass reveal control
 
-## Active consequences
+The full two-object history must remain deferred on-page until materially earned.
 
-Future scenes must not reset the brothers physically or psychologically.
+Permitted future evidence includes dated records, replacement notation, measurements, wear/fit differences, old photographs, travel/maintenance history, and credible physical comparison.
 
-Residual symptoms may include tremor, headache, nausea, tinnitus, unstable depth perception, sleep disruption, autonomic hypervigilance, and uncertainty about whether a symptom is residual or renewed pressure.
+Do not convert Bode into an exposition source for this reveal. `BRASS` in Solomon's procedural index remains a broader material/work category, not automatic proof that an entry refers to the active talisman.
 
-The wider family now has reason to ask what happened.
+See `docs/BRASS_OBJECT_CONTINUITY.md`.
 
-The brothers' next problem is both practical and ethical:
+## Promotion status
 
-**How do they protect living family members while they still do not understand enough to explain the danger?**
+Sequence 12 rewrite and Sequence 13 candidate have passed the internal high-threshold human/spatial/render/continuity gate on draft PR #3. The creator has accepted them as the development baseline for continuing work. The PR remains unmerged pending explicit merge authorization. Qualified Nigerian/Calabar/Efik authenticity review remains an external pre-production/submission gate.
