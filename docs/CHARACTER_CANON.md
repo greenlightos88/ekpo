@@ -1,8 +1,8 @@
 # EKPO CHARACTER CANON
 
 Status: ACTIVE CHARACTER AUTHORITY
-Last synchronized: 2026-08-13
-Canonical screenplay endpoint: End of Sequence 12 — `WHEN IT STAYS`
+Last synchronized: 2026-08-17
+Canonical development baseline: End of Sequence 13 — `THE MARKET` on PR #3
 
 Use historical character-development files for performance depth only where they do not conflict with this file.
 
@@ -48,6 +48,23 @@ Solomon concluded not that no one should carry the work alone, but that no one w
 
 Afterward he became obsessive, maintained his procedural side meticulously, studied his sister's perceptual records, tried to compensate for her missing function, and increasingly isolated himself.
 
+### Brass continuity after the catastrophe
+
+The brass carving later hidden in Solomon's Vancouver blue drawer is a retired regulatory component from the period when he and his sister worked together.
+
+After the catastrophic rupture and her death, Solomon retired that older sister-era piece and installed a new active brass talisman as part of rebuilding/stabilizing his procedural side. The new talisman is the one Kai removes from the shrine in Sequence 6.
+
+Solomon kept the retired piece and carried it to Canada. It is a material memento of:
+
+- his sister;
+- their functioning partnership;
+- the regulator as it existed while she was alive;
+- his own failure.
+
+This object fits Solomon's psychology precisely: he preserves grief through custody, maintenance, and handled material rather than direct confession.
+
+The retired carving is not the sister's personal magical amulet, a soul vessel, a badge of office, or the active talisman.
+
 True failure:
 
 Succession/transmission.
@@ -68,6 +85,8 @@ He therefore did what he could:
 - preserved procedural records;
 - preserved his sister's perceptual notebooks;
 - kept the maintenance room and material history intact;
+- maintained the post-catastrophe replacement talisman and wider regulator architecture;
+- kept the retired sister-era brass component rather than discarding it;
 - attempted to compensate for the missing perceptual function;
 - left the Calabar house/property and access to his sons.
 
@@ -102,6 +121,8 @@ This must never turn Solomon into a posthumous mastermind. His inheritance is un
 Canada/Calabar continuity:
 
 Solomon physically returned to Calabar when maintenance required his presence. Sequence 10 gives the brothers their first concrete evidence: his procedural ledger contains Calabar dates long after he moved to Canada.
+
+The retired sister-era brass component is one of the few pieces of the old working partnership Solomon ultimately carries into his Canadian life, but current characters do not yet know why.
 
 Do not restore the superseded model in which Bode routinely performed Solomon's maintenance as proxy.
 
@@ -139,6 +160,12 @@ Relationship with Solomon:
 
 Complementary partner, not rival successor.
 
+Brass continuity:
+
+The retired brass carving later kept by Solomon in Canada comes from the period of their shared stewardship work. It is evidence of the partnership that existed while she was alive, not proof that she personally owned a magical talisman.
+
+The active shrine talisman Kai removes is a later Solomon-era replacement installed after her death during post-catastrophe rebuilding/stabilization.
+
 Death canon:
 
 Solomon failed his procedural side. The boundary destabilized. She restored equilibrium and died.
@@ -151,9 +178,10 @@ The screenplay currently reveals only that:
 - her notebook tracks perceptual/environmental phenomena;
 - her handwriting stops midway through a notebook;
 - Solomon's procedural ledger continues alone;
-- Solomon later begins awkwardly recording sensory observations.
+- Solomon later begins awkwardly recording sensory observations;
+- the old brass carving and shrine talisman visibly rhyme, without the characters yet knowing the replacement history.
 
-Do not yet reveal that Solomon's failure created the conditions of her fatal intervention.
+Do not yet reveal that Solomon's failure created the conditions of her fatal intervention or that the Vancouver carving is his retained memento of the partnership/failure.
 
 Entity connection:
 
@@ -199,7 +227,11 @@ Sequence 10 progression:
 
 Malik is drawn to Solomon's procedural ledger before he understands why. Measurements, corrected margins, knot diagrams, and repeated maintenance feel legible to him.
 
-Current knowledge through Sequence 10:
+Sequence 11-13 progression:
+
+Sequence 11 tests whether procedural aptitude becomes domination. Malik chooses not to act blind and accepts collective decision-making. Sequence 12 attacks the bodily foundation of his control through breathing-sequence failure. Sequence 13 shows residual autonomic vulnerability in the market and forces him to accept that leaving the house does not end the problem.
+
+Current knowledge through Sequence 13:
 
 - Kai breached a maintained site below the western stones and removed a brass object;
 - the river and house disturbances are related in some way;
@@ -211,7 +243,10 @@ Current knowledge through Sequence 10:
 - her notes describe phenomena resembling the current disturbance;
 - her handwriting stops while Solomon continues alone;
 - Solomon later attempted sensory observations with uncertainty;
-- an inner maintained door exists and Bode does not know its full function.
+- an inner maintained door exists and Bode does not know its full function;
+- a maintenance interval is nine days overdue;
+- renewed pressure can occur away from the house;
+- the old Vancouver brass carving and shrine talisman are visually related but not identical.
 
 Malik does not know:
 
@@ -220,7 +255,8 @@ Malik does not know:
 - the causal truth of his aunt's death;
 - a repair method;
 - whether Solomon expected any son to accept the work;
-- whether he will accept responsibility.
+- whether he will accept responsibility;
+- the historical relationship between the retired Vancouver brass carving and the active replacement shrine talisman.
 
 ## Kai Oku
 
@@ -244,11 +280,17 @@ His aunt likely would have recognized and trained this capacity had she lived.
 
 Agency law:
 
-Kai deliberately broke the regulator's red restraint and removed the talisman. His ignorance was inherited, but he remains responsible for what he chose.
+Kai deliberately broke the regulator's red restraint and removed the active replacement talisman. His ignorance was inherited, but he remains responsible for what he chose.
 
 Attention rule:
 
 Kai can perceive Unseen pressure with unusual sensitivity. Perception creates reciprocity.
+
+Sequence 1-6 brass progression:
+
+Kai first discovers the retired sister-era brass carving in Solomon's Vancouver blue drawer. He later sees the related brass silhouette in the scratched photograph and compares its design language with Oku boundary markings. In Sequence 6 he finds and removes a distinct but related active brass talisman from the regulator.
+
+Kai recognizes a pattern. He does **not** yet know the old carving is a retired component, the shrine talisman is Solomon's later replacement, or why Solomon kept the old piece.
 
 Sequence 8 progression:
 
@@ -258,36 +300,58 @@ This is experiential evidence, not complete metaphysical understanding. The scre
 
 Sequence 9 progression:
 
-Kai stops hiding the breach behind partial facts. He shows the shrine photographs, produces the talisman, and admits his action directly.
+Kai stops hiding the breach behind partial facts. He shows the shrine photographs, produces the active talisman, and admits his action directly.
 
 Sequence 10 progression:
 
 Kai asks before touching his aunt's notebook. He recognizes insect withdrawal, neck pressure, altered distance, and unstable articulation in her writing as direct rhymes with his current experience.
 
+Sequence 11-13 progression:
+
+Sequence 11 makes Solomon's missing human instruction concrete. Sequence 12 gives Kai the heaviest physiological exposure: ocular bleeding, vomiting, tremor, perceptual stutter, and transient right-arm failure. Sequence 13 shows a more disciplined response: he leaves the cracked camera at home and asks his brothers not to let him sustain attention during renewed pressure.
+
 Solomon inheritance pressure:
 
 Kai is especially vulnerable to reading Solomon's lack of explicit instruction as one more act of paternal silence. That interpretation is emotionally valid but not the whole truth. Solomon left access because he believed his children could decide; he also failed them by forcing that decision to arrive without preparation.
 
-Kai must never be told that the existence of the records obligates him to accept stewardship.
+The retired brass carving will eventually deepen that contradiction: Solomon preserved an intimate physical remnant of his sister-era partnership while still refusing to explain that history to his sons.
 
-## Sequence 11-12 progression
+Kai must never be told that the existence of the records or brass objects obligates him to accept stewardship.
 
-### Malik
+## Ade Oku
 
-Sequence 11 tests whether procedural aptitude becomes domination. Malik chooses not to act blind and accepts collective decision-making. Sequence 12 attacks the bodily foundation of his control through breathing-sequence failure.
+Engine:
 
-### Kai
+Humor is emotional CPR.
 
-Sequence 11 makes Solomon's missing human instruction concrete. Sequence 12 gives Kai the heaviest physiological exposure: ocular bleeding, vomiting, tremor, perceptual stutter, and transient right-arm failure. He recognizes danger to approaching family before he understands the complete mechanism.
+Ade has no supernatural office.
 
-### Ade
+Sequence 11 makes Ade necessary by preventing Malik/Kai from claiming complete ownership of Solomon's meaning and establishing `nobody goes alone; nobody decides alone.`
 
-Sequence 11 makes Ade necessary by preventing Malik/Kai from claiming complete ownership of Solomon's meaning and establishing `nobody goes alone; nobody decides alone.` Sequence 12 makes his social intelligence protective infrastructure: redirecting a child and helping Eno clear the household. He receives no supernatural office.
+Sequence 12 makes his social intelligence protective infrastructure: redirecting family sightlines, using the gas explanation to move the household, and later blocking a boy from peering back toward the affected passage.
 
-### Bode
+Sequence 13 makes him a human orientation point in the market: he recognizes Malik chasing distorted geometry, anchors him to Kai's actual body, and helps stop re-engagement without becoming an Entity expert.
 
-Bode remains bounded and cannot explain the missed interval, observer mechanism, repair, or Solomon's intended successor.
+The brass history must not create a third supernatural role for Ade. His value is that he can see what the inheritance is doing to the people around it.
 
-### Eno
+## Bode Oku
 
-Eno remains household authority. She feeds, evacuates, and insists on medical common sense without becoming a mythology expert.
+Bode remains bounded and cannot explain the missed interval, observer mechanism, repair, Solomon's intended successor, or the complete brass replacement history.
+
+He knows enough family history to recognize dangerous boundaries and the consequences around his sister's death. He is not a co-custodian or routine maintenance proxy.
+
+If Bode eventually contributes to the brass reveal, he may confirm a human memory or object history he genuinely witnessed, but he must not suddenly possess Solomon's full procedural record or deliver the entire explanation.
+
+## Eno Oku
+
+Eno remains household authority. She feeds, evacuates, redirects, and sets practical limits without becoming a mythology expert.
+
+The retired carving's emotional meaning belongs primarily to Solomon's private history and does not give Eno hidden technical knowledge. She may recognize that Solomon kept objects he could not discuss, but she cannot become a shortcut to the replacement mechanics.
+
+## Brass reveal law
+
+The relationship between the retired sister-era carving and active Solomon-era replacement talisman is locked at writer level but remains unrevealed to the principal characters.
+
+The reveal must arise through material evidence and present-tense dramatic need, not because a character suddenly explains the lore.
+
+See `docs/BRASS_OBJECT_CONTINUITY.md`.
