@@ -1,4 +1,4 @@
-version: 4.3
+version: 4.4
 project:
   id: ekpo
   title: EKPO
@@ -32,6 +32,7 @@ source_hierarchy:
       - docs/SEQUENCE_12_LOCK.md
       - docs/HOUSE_GEOGRAPHY.md
       - docs/REGULATOR_CORD_ARRAY.md
+      - docs/BRASS_OBJECT_CONTINUITY.md
       - docs/DECISION_LOG.md
   - rank: 5
     authority: creative-constitution
@@ -83,6 +84,7 @@ canonical_sources:
     - docs/SEQUENCE_12_LOCK.md
     - docs/HOUSE_GEOGRAPHY.md
     - docs/REGULATOR_CORD_ARRAY.md
+    - docs/BRASS_OBJECT_CONTINUITY.md
     - docs/DECISION_LOG.md
   continuity: [docs/CURRENT_CONTINUITY.md]
   characters:
@@ -128,6 +130,10 @@ locked_project_laws:
   - "Seen and Unseen are complementary conditions."
   - "Covenant = stewardship/equilibrium, not containment."
   - "Shrine = regulator/alignment point, never prison."
+  - "Two related brass objects are distinct: Solomon kept the retired sister-era regulatory carving; the shrine used a later active replacement talisman."
+  - "The retired brass carving is a material memento of sister/partnership/failure, not the sister's personal magical amulet, soul vessel, or hereditary badge."
+  - "Kai removed Solomon's post-catastrophe replacement talisman; its active regulatory function, not containment, makes the removal consequential."
+  - "The full brass replacement history is writer-level canon and remains deferred on-page until materially earned."
   - "Entity = independent ancient Unseen intelligence attracted to breaches."
   - "Attention creates proximity, but characters learn this behaviorally."
   - "Entity perceptibility is failed translation and may fracture human perception, bodily sequence, and local physical coherence."
@@ -157,6 +163,7 @@ completion_contract:
   - "PR #3 remains draft until explicit creator approval; the internal high-threshold integrity gate has passed."
   - "Candidate output PDF and Fountain remain synchronized."
   - "Residual injuries and continuity consequences persist."
+  - "The retired sister-era brass carving and active Solomon-era replacement talisman must never collapse into one physical object."
   - "No moving-fastener or car/hospital subplot may re-enter by drift."
   - "Character voice, geography, horror mechanics, cultural integrity, and family-protection stakes are audited before promotion."
-  - "Sequence numbering uses standard numerical denominations only."}
+  - "Sequence numbering uses standard numerical denominations only."
