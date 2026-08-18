@@ -1,0 +1,97 @@
+name: Sequence 13 surgical integrity
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  surgical-fix:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/sequence-12-geography-sequence-13-marketplace
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install render dependencies
+        run: python -m pip install --disable-pip-version-check reportlab pypdf pymupdf
+
+      - name: Apply three surgical integrity fixes
+        run: python tools/apply_sequence13_surgical_integrity_fixes.py
+
+      - name: Source integrity check
+        shell: python
+        run: |
+          from pathlib import Path
+          s=Path('01_SCREENPLAY.fountain').read_text(encoding='utf-8')
+          required=[
+            "For Ade, the exchange is already finished -- the notes in the vendor's hand.",
+            "Nothing in their movement acknowledges what Ade sees.",
+            "Kai starts to turn toward the drums.",
+            "He keeps his eyes forward.",
+            "For several steps, nothing improves.",
+            "MALIK\nWe left the house."
+          ]
+          for x in required:
+              if x not in s: raise SystemExit('missing '+x)
+          forbidden=[
+            "The real performers continue around it without recognition.",
+            "The exchange jumps ahead -- the notes already in the vendor's hand.",
+            "Ten steps.\n\nFifteen.\n\nKai's hand tremor begins to ease."
+          ]
+          for x in forbidden:
+              if x in s: raise SystemExit('legacy market beat remains '+x)
+          print('Sequence 13 source integrity PASS')
+
+      - name: Render exact candidate PDF
+        run: python tools/render_screenplay.py 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf
+
+      - name: Audit rendered PDF
+        shell: python
+        run: |
+          from pathlib import Path
+          from pypdf import PdfReader
+          import pymupdf
+          pdf=Path('output/pdf/EKPO_Screenplay.pdf')
+          if not pdf.exists() or pdf.stat().st_size < 50000: raise SystemExit('PDF missing/small')
+          pages=len(PdfReader(str(pdf)).pages)
+          doc=pymupdf.open(pdf)
+          blank=[]; edges=[]; tiny=[]; text=[]
+          for i,page in enumerate(doc):
+              t=page.get_text('text'); text.append(t)
+              if i>0 and len(t.strip())<80: blank.append(i+1)
+              r=page.rect
+              for b in page.get_text('blocks'):
+                  x0,y0,x1,y1=b[:4]
+                  if x0<8 or y0<8 or x1>r.width-8 or y1>r.height-8: edges.append(i+1)
+              spans=[]
+              for block in page.get_text('dict').get('blocks',[]):
+                  for line in block.get('lines',[]): spans.extend(line.get('spans',[]))
+              if spans and min(float(sp.get('size',99)) for sp in spans)<7: tiny.append(i+1)
+          if blank: raise SystemExit('blank pages '+repr(blank))
+          if edges: raise SystemExit('edge risks '+repr(sorted(set(edges))))
+          if tiny: raise SystemExit('tiny text '+repr(tiny))
+          alltext='\n'.join(text)
+          for x in ['For Ade, the exchange is already finished','Nothing in their movement acknowledges what Ade sees.','For several steps, nothing improves.','We left the house.']:
+              if x not in alltext: raise SystemExit('render missing '+x)
+          print('PDF PASS physical_pages=',pages,'bytes=',pdf.stat().st_size)
+
+      - name: Commit surgical screenplay and PDF only
+        shell: pwsh
+        run: |
+          git config user.name "EKPO Repository Agent"
+          git config user.email "actions@users.noreply.github.com"
+          if (Test-Path development/audits/.sequence13_surgical_trigger) { git rm development/audits/.sequence13_surgical_trigger }
+          git rm .github/workflows/sequence13-surgical-integrity.yml
+          git rm tools/apply_sequence13_surgical_integrity_fixes.py
+          git add 01_SCREENPLAY.fountain output/pdf/EKPO_Screenplay.pdf
+          git diff --cached --check
+          git commit -m "Clarify Sequence 13 observer and withdrawal causality"
+          git push origin HEAD:agent/sequence-12-geography-sequence-13-marketplace
