@@ -15,7 +15,7 @@ Cord-array authority: `docs/REGULATOR_CORD_ARRAY.md`
 
 ## Project status
 
-PR #3 contains a rewritten Sequence 12 and a Sequence 13 marketplace candidate. It remains draft until the human/spatial/cultural/render/continuity promotion gate passes.
+PR #3 contains a rewritten Sequence 12 and a Sequence 13 marketplace candidate. The internal high-threshold human/spatial/render/continuity gate has passed after removal of the Sequence 12 witness anomaly. The PR remains draft pending explicit creator approval; qualified Nigerian/Calabar/Efik authenticity review remains an external pre-production/submission gate.
 
 Latest successful technical render of the candidate: 64 physical pages.
 
@@ -330,7 +330,7 @@ Rules:
 
 PR #3 candidate endpoint: End of Sequence 13 — `THE MARKET`.
 
-Do not write Sequence 14 until the Sequence 12 rewrite and Sequence 13 candidate pass the promotion audit in `docs/NEXT_MOVEMENT.md`.
+Do not write Sequence 14 until the creator accepts the revised Sequence 12/13 candidate. The internal promotion audit has passed; the two-layer exposure model remains an audit candidate, not canon.
 
 ## Sequence numbering
 

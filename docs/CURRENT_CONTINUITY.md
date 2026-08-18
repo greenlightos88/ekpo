@@ -200,4 +200,4 @@ They do **not** yet know:
 
 ## Promotion status
 
-Sequence 12 rewrite and Sequence 13 candidate remain on draft PR #3 until the full human/spatial/cultural/render/continuity gate passes.
+Sequence 12 rewrite and Sequence 13 candidate have passed the internal high-threshold human/spatial/render/continuity gate on draft PR #3. The PR remains unmerged pending explicit creator approval. Qualified Nigerian/Calabar/Efik authenticity review remains an external pre-production/submission gate.

@@ -1,6 +1,6 @@
 # CURRENT WRITING ASSIGNMENT
 
-Status: ACTIVE — AUDIT REWRITTEN SEQUENCE 12 + SEQUENCE 13 MARKET CANDIDATE
+Status: INTERNAL HIGH-THRESHOLD PASS — CREATOR REVIEW / NO SEQUENCE 14 YET
 Merged canonical endpoint: End of Sequence 12 on `main`
 Revision-branch endpoint: End of Sequence 13 — `THE MARKET`
 PR: #3 — DRAFT / DO NOT MERGE YET
@@ -9,9 +9,15 @@ PR: #3 — DRAFT / DO NOT MERGE YET
 
 Do **not** write Sequence 14 yet.
 
-First prove that the human-audit corrections and marketplace restoration work as one continuous film.
+The post-witness-removal integrity gate has passed. Do not write Sequence 14 until the creator accepts the revised Sequence 12 and Sequence 13 candidate.
 
-## Required promotion audit
+## Promotion audit result
+
+**PASS — all internal tests below passed on the 64-page candidate.**
+
+The qualified Nigerian/Calabar/Efik authenticity read remains external and is not replaced by this pass.
+
+### Tests passed
 
 1. **House geography test** — an uninformed reader must be able to sketch the route between courtyard, front room/veranda, kitchen, back passage, outer red-corded door, maintenance room, inner door, and compound gate.
 2. **Evacuation blocking test** — every family's exit route must make sense without crossing the Entity axis.

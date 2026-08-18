@@ -77,7 +77,7 @@ canonical_sources:
     candidate_endpoint: sequence_13
     endpoint_title: THE MARKET
     latest_technical_physical_pages: 64
-    status: draft-promotion-audit-required
+    status: internal-integrity-pass-creator-review-required
   mythology: [EKPO_Canonical_Mythology_Refactor.md]
   decisions:
     - docs/SEQUENCE_12_LOCK.md
@@ -91,6 +91,7 @@ canonical_sources:
   horror_execution: [docs/ENTITY_HORROR_PHYSIOLOGY.md]
   audits:
     - development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md
+    - development/audits/EKPO_POST_WITNESS_REMOVAL_FULL_INTEGRITY_AUDIT.md
     - development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md
     - development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md
   active_assignment: [docs/NEXT_MOVEMENT.md]
@@ -153,7 +154,7 @@ write_policy:
   branch_required: true
 
 completion_contract:
-  - "PR #3 remains draft until the human/spatial/cultural/render/continuity gate passes."
+  - "PR #3 remains draft until explicit creator approval; the internal high-threshold integrity gate has passed."
   - "Candidate output PDF and Fountain remain synchronized."
   - "Residual injuries and continuity consequences persist."
   - "No moving-fastener or car/hospital subplot may re-enter by drift."

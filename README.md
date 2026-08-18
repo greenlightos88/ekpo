@@ -16,7 +16,7 @@ Draft PR #3 contains the active human-audit correction pass:
 - page-6 gaze clarification;
 - Sequence 13 marketplace candidate.
 
-**PR #3 is not yet merge-ready.** It must pass the human/spatial/cultural/continuity promotion gate before replacing the `main` baseline.
+**PR #3 has passed the internal high-threshold human/spatial/render/continuity gate.** It remains draft and unmerged pending explicit creator approval. A qualified Nigerian/Calabar/Efik authenticity read remains an external pre-production/submission gate.
 
 ## Candidate screenplay
 
@@ -96,20 +96,21 @@ Kai leaves his cracked camera at home and actively asks his brothers not to let 
 1. `01_SCREENPLAY.fountain`
 2. `output/pdf/EKPO_Screenplay.pdf`
 3. `development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md`
-4. `docs/HOUSE_GEOGRAPHY.md`
-5. `docs/REGULATOR_CORD_ARRAY.md`
-6. `docs/SEQUENCE_12_LOCK.md`
-7. `docs/CURRENT_CONTINUITY.md`
-8. `docs/NEXT_MOVEMENT.md`
-9. `00_CANON.md`
-10. `docs/CHARACTER_VOICE_CONSTITUTION.md`
-11. `docs/CULTURAL_LANGUAGE_REGISTER.md`
-12. `docs/ENTITY_HORROR_PHYSIOLOGY.md`
-13. `docs/MOTIF_LEDGER.md`
+4. `development/audits/EKPO_POST_WITNESS_REMOVAL_FULL_INTEGRITY_AUDIT.md`
+5. `docs/HOUSE_GEOGRAPHY.md`
+6. `docs/REGULATOR_CORD_ARRAY.md`
+7. `docs/SEQUENCE_12_LOCK.md`
+8. `docs/CURRENT_CONTINUITY.md`
+9. `docs/NEXT_MOVEMENT.md`
+10. `00_CANON.md`
+11. `docs/CHARACTER_VOICE_CONSTITUTION.md`
+12. `docs/CULTURAL_LANGUAGE_REGISTER.md`
+13. `docs/ENTITY_HORROR_PHYSIOLOGY.md`
+14. `docs/MOTIF_LEDGER.md`
 
-## Remaining gate
+## Internal gate status
 
-Before PR #3 can be promoted:
+**PASS.** The following internal promotion tests have been completed successfully:
 
 - uninformed-reader geography test;
 - evacuation blocking test;
