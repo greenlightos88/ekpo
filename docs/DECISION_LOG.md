@@ -14,6 +14,29 @@ DATE:
 2026-08-24
 
 TITLE:
+Prestige Dramatic-Depth Revision — 99-Page Feature, Shared Evidence and Character-Driven Resistance
+
+DECISION:
+The creator authorizes continuation of the complete-feature revision without changing the accepted mythology or ending. The prior 82-screenplay-page / 8.7-out-of-10 candidate is developed into a 99-screenplay-page feature that adds family consequence, sustained dread and earned disagreement rather than new lore.
+
+Eno explicitly relocates relatives and permits the western inspection only under no-ravine/no-repair/daylight conditions. Kai visibly retrieves the camera he left at the house before the market. Bode confirms he previously drove Solomon only to the land-service gate and did not participate in hidden maintenance. The retired carving returns to Kai's bag while Ade separately carries the active broken half back upstairs; their later room-to-room custody stays explicit.
+
+Malik initially resists evidence of Solomon's youthful failure and confronts Bode about inheriting control as a false promise of safety. Kai first matches the familiar form to the wrong pressure signature, and all three brothers correct the sequence before taking that interpretation into the chamber. After the first correction injures Ade, Eno gives him an honest private choice without promising safety. The sister's pressed final message becomes a collective discovery: Ade notices the impression, Malik positions the light and Kai reads the image indirectly. Household evacuation and the brothers' consent are explicit before the final descent.
+
+All earlier pressure-chamber scene headings now use the same production location. Abstract writer-room prose has been replaced by visible action. The standalone Sequence 14 draft remains historical only; the integrated Fountain/PDF controls.
+
+STATUS:
+LOCKED CREATOR-APPROVED DRAMATIC-DEPTH REVISION / DRAFT PR #4 / NOT MERGED
+
+SUPERSEDES:
+The prior 82-page complete-feature candidate and any instruction to add mythology, flatten the sister, restore whole-talisman removal, or treat the standalone Sequence 14 draft as current dramatic authority.
+
+---
+
+DATE:
+2026-08-24
+
+TITLE:
 Complete Feature Architecture — Ancient Pressure Chamber, Two Signatures, Split Active Fitting and Shared Survival
 
 DECISION:

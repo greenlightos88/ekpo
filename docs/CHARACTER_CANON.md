@@ -10,11 +10,11 @@ Solomon was once freer and played music in town; he is never shown alive. During
 
 His unnamed sister was a complete perceptual partner and ordinary person, preserved through an orange-stained work photograph, shopping/record notes, drawings, a clinic account and the impression of an urgent missed message: the familiar presence came after the initial disturbance. She is not a ghost, vessel or chosen priestess.
 
-Malik voluntarily enters the central working circuit, repeats his father's impulse to carry everything, then survives by relinquishing half the load and making the correct central adjustment. His breathing injury, wrist/rib abrasions and numb fingers remain through the final field repair.
+Malik initially defends Solomon's chronology, stops the old music and confronts Bode over having inherited control as a supposed method for preventing harm. He voluntarily enters the central working circuit, repeats his father's impulse to carry everything, then survives by relinquishing half the load and making the correct central adjustment. His breathing injury, wrist/rib abrasions and numb fingers remain through the final field repair.
 
-Kai deliberately removes only the exposed half of an already fractured active shrine fitting; the other half remains seated. The separate retired carving remains in his camera bag. He distinguishes two pressure rhythms through water, drawings and reflected observation without becoming chosen. Tremor, eye bleeding, nausea and unstable balance persist.
+Kai deliberately removes only the exposed half of an already fractured active shrine fitting; the other half remains seated. He visibly retrieves the camera left behind before the market. The separate retired carving remains in his camera bag except during explicit comparison. He initially assigns the familiar form to the wrong pressure rhythm, admits the error and verifies the correct order with his brothers through water, drawings and reflected observation without becoming chosen. Tremor, eye bleeding, nausea and unstable balance persist.
 
-Ade first injures his shoulder/ribs by pulling against Malik's incoming load. He learns that the pressure must pass through an open return, joins that route and recalls Bode's funeral line: “Give me one side.” He remains a socially and practically intelligent human brother, never a supernatural officeholder; his injury persists.
+Ade first injures his shoulder/ribs by pulling against Malik's incoming load. Eno acknowledges privately that returning will hurt; Ade remains by choice. He also notices the sister's pressed message and helps Kai correct the two-rhythm misreading. He learns that the pressure must pass through an open return, joins that route and recalls Bode's funeral line: “Give me one side.” He remains a socially and practically intelligent human brother, never a supernatural officeholder; his injury persists.
 
 Bode supplies bounded family testimony, evacuation help and his established pickup/service-track knowledge without becoming a maintenance proxy. Eno protects the household, treats injuries, recovers the sister's personhood and provides the final openable binding without becoming a mystical expert. This section supersedes any older endpoint, whole-talisman or unrevealed-history state below.
 
@@ -52,7 +52,7 @@ Responsibilities included:
 
 Original failure:
 
-In young adulthood Solomon failed his procedural side of the partnership. The exact mundane act remains intentionally unfinalized.
+In young adulthood Solomon failed his procedural side of the partnership by staying away in town playing music when he was expected to return. Dated receipts, family testimony and his later records establish this materially; he is never shown alive.
 
 His sister had to restore equilibrium without the support his function should have provided. She died doing so.
 
@@ -66,7 +66,7 @@ Afterward he became obsessive, maintained his procedural side meticulously, stud
 
 The brass carving later hidden in Solomon's Vancouver blue drawer is a retired regulatory component from the period when he and his sister worked together.
 
-After the catastrophic rupture and her death, Solomon retired that older sister-era piece and installed a new active brass talisman as part of rebuilding/stabilizing his procedural side. The new talisman is the one Kai removes from the shrine in Sequence 6.
+After the catastrophic rupture and her death, Solomon retired that older sister-era piece and installed a new active brass fitting as part of rebuilding/stabilizing his procedural side. In Sequence 6 the later fitting has already fractured; Kai removes only its exposed half while the matching half remains seated in the shrine.
 
 Solomon kept the retired piece and carried it to Canada. It is a material memento of:
 

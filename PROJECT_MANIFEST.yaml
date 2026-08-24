@@ -34,7 +34,7 @@ canonical_sources:
     reading_copy: output/pdf/EKPO_Screenplay.pdf
     candidate_endpoint: sequence_26
     endpoint_title: A WAY HOME
-    latest_technical_physical_pages: 83
+    latest_technical_physical_pages: 100
     status: complete-feature-draft-unmerged
   audit: development/audits/EKPO_FULL_ARCHITECTURE_AND_SCREENPLAY_INTEGRITY_AUDIT_2026-08-24.md
 
@@ -68,7 +68,7 @@ screenplay_state:
     - {sequence: 26, title: A WAY HOME}
   pdf:
     path: output/pdf/EKPO_Screenplay.pdf
-    latest_technical_physical_pages: 83
+    latest_technical_physical_pages: 100
     status: complete-feature-candidate-not-merged
 
 locked_project_laws:

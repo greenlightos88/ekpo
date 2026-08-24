@@ -1,104 +1,106 @@
 # EKPO — Full Architecture and Screenplay Integrity Audit
 
 Date: 2026-08-24
-Artifact audited: complete candidate through Sequence 26, `A WAY HOME`
+Artifact: revised complete feature through Sequence 26, `A WAY HOME`
 Branch: `agent/sequence-14-what-was-due` / draft PR #4 / unmerged
-Producer copy: 83 physical pages (1 title + 82 screenplay)
-Cultural review: explicitly excluded at creator request
+Producer copy: **100 physical pages / 99 screenplay pages**
+Excluded by creator instruction: specialist Efik/Calabar cultural review
 
 ## Verdict
 
-EKPO is now a **strong complete development screenplay**, not yet a defensible 10/10 or submission-locked draft. The revised supernatural architecture is cinematic, emotionally integrated and considerably more distinctive than the former flat knot-wall mechanic. The shared-load climax pays off the brothers' behavior, Solomon's guilt, the sister's death, the funeral line and the final openable binding in one coherent system.
+The previous complete-feature candidate scored 8.7/10 and ran 82 screenplay pages. Its principal weakness was not broken mythology but a compressed discovery corridor: too many correct answers arrived before family conflict, uncertainty and bodily consequence had time to accumulate.
 
-The principal weakness is no longer mythology confusion. It is **dramatic compression**. The complete feature runs only 82 screenplay pages, and Sequences 14–23 carry an unusually high density of inspection, evidence and revelation before the chamber climax. The current version is readable and shootable in outline-level causality, but several discoveries need more lived resistance, family conflict and atmospheric duration before the screenplay earns “prestige” at the scene-to-scene level.
+The revised feature expands to 99 screenplay pages without introducing a new creature, cosmology, chosen role, magical object or subplot. Additional pages dramatize household displacement, the conditions of the western inspection, the retrieval of Kai's camera, Bode's limited relationship to Solomon's work, Malik's confrontation with his inherited control, an initially wrong interpretation of the two pressure signatures, Ade's private decision to face pain again, the brothers' collective recovery of the sister's message, and explicit family evacuation/consent before the climax.
 
-Overall internal score: **8.7/10**.
+Current honest internal score: **9.2/10**.
 
-## Scorecard
+This is a substantial improvement and a strong prestige-horror development draft. It is not an automatic 10/10, a substitute for an actor/director table read, or permission to merge the PR.
 
-| Dimension | Score | Audit judgment |
-|---|---:|---|
-| Core family/emotional architecture | 9.2 | The supernatural system now dramatizes inherited secrecy and the difference between carrying responsibility and sharing it. |
-| Mythology coherence | 9.3 | Shrine, chamber, inner door, two pressure signatures and human circuit now belong to one legible system without becoming a lore machine. |
-| Climax/payoff design | 9.1 | “Give me one side,” the open return, indirect water reading and the separate shrine repair create strong convergent payoffs. |
-| Visual/sound readability | 8.9 | Dark inward/jagged, gold responding/rounded and red carrying load are clear; the screenplay avoids DAW jargon and a visible creature fight. |
-| Character integrity | 8.8 | Each brother acts through established psychology; Bode and Eno remain bounded; Solomon and his sister are humanized materially. |
-| Horror/body consequence | 8.8 | The mechanics are painful, cumulative and specific; injuries persist through the last scene. |
-| Scene-level dramatic depth | 8.0 | Sequences 14–23 sometimes behave as a chain of efficient findings instead of escalating dramatic scenes with reversals and interpersonal cost. |
-| Dialogue/voice in new material | 8.3 | The best lines arise from character (“Give me one side,” Eno's practical authority); some research dialogue remains functional and could be more subtextual. |
-| Feature pacing/duration | 7.9 | An 82-page screenplay can work, but this particular story's grief, family ensemble and slow-dread ambitions likely need more breathing room rather than more lore. |
-| Production legibility | 8.5 | Geography and line behavior are much clearer; practical rigging, performer safety and low-frequency sound still need specialist planning. |
+## Updated scorecard
 
-## Integrity checks passed
+| Dimension | Previous | Revised | Audit judgment |
+|---|---:|---:|---|
+| Core family/emotional architecture | 9.2 | 9.5 | The system now pays off not only shared burden but Malik's learned control, Ade's fear, Kai's uncertainty, Eno's household labor and Bode's divided grief. |
+| Mythology coherence | 9.3 | 9.4 | No added cosmology; shrine, dome, door, two signatures and inlet/return remain one controlled system. |
+| Climax/payoff design | 9.1 | 9.4 | Funeral language, pressure mechanics, earlier misread, family consent, openable bindings and the separate shrine repair converge cleanly. |
+| Visual/sound readability | 8.9 | 9.2 | The brothers now prove the order of rough pressure, rounded response and familiar form; water/reflection remains the audience anchor. |
+| Character integrity | 8.8 | 9.4 | Malik/Bode, Ade/Eno, Kai/Ade and the three-brother message discovery all add differentiated human choices without supernatural promotion. |
+| Horror/body consequence | 8.8 | 9.1 | Existing injuries remain cumulative, and the choice to return after Ade's injury now has emotional as well as mechanical consequence. |
+| Scene-level dramatic depth | 8.0 | 9.0 | Discoveries now face resistance, misinterpretation, household disruption, emotional disagreement and visible cooperation. |
+| Dialogue/voice in new material | 8.3 | 8.9 | Character-native conflict replaces several writer-room explanations; a final table read should still tighten repeated explanatory answers. |
+| Feature pacing/duration | 7.9 | 9.1 | 99 screenplay pages supports the desired feature mode; the added runtime belongs to drama rather than extra lore. |
+| Production legibility | 8.5 | 8.9 | The chamber uses one consistent production scene heading and fixed-line geometry; specialist rigging and audio review remain outstanding. |
 
-- Fountain contains exactly 26 consecutive, correctly titled sequences.
-- Kai encounters the active replacement already fractured and removes only its exposed half.
-- The matching active half remains at the shrine until Sequence 26.
-- The retired Vancouver carving never becomes the final repair component.
-- The deep stair, closed dome, central inner door, no-window rule, anchored geographic lines and operating bands replace the former flat wall.
-- Truck-to-pump-clearing plus footpath geography is established before the injured final return.
-- Solomon is never shown alive; his earlier personality is recovered through a cassette, photographs, receipts and testimony.
-- The sister is recovered through physical evidence and personality details, not haunting.
-- Unauthorized pressure arrives first; the familiar corrective presence follows.
-- Water, restrained color and two low rhythms distinguish simultaneous pressure without a second creature design.
-- Ade's first intervention creates a dead end and a persistent shoulder/rib injury.
-- The message impression establishes “not the one at the door / it came after” before the climax.
-- Clinical evidence describes a plausible injury pattern without occult medical exposition.
-- “Give me one side” is planted at Solomon's funeral and earned by Ade during the climax.
-- Malik, Kai and Ade all survive because the circuit is shared and the return is opened.
-- Immediate chamber stabilization does not replace the final field repair.
-- All three injury tracks remain visible during the shrine return.
-- The final binding is secure but openable; the ending has no jump scare or sequel sting.
-- Automated source integrity result: **24/24 passed**.
+## Revision improvements verified
 
-## Strongest material
+### Household consequence is now playable
 
-1. **Mechanic as family theme.** Malik's body becoming the blocked circuit is not arbitrary torture; it is Solomon's emotional model made physical. Ade's answer is relationship, not force.
-2. **Sister/Solomon mirror.** The old floor stain, arm-band damage, missed ordinary message, cassette and receipt reveal a tragedy without resurrecting either dead character for exposition.
-3. **Two-pressure clarity.** The familiar Entity can remain horrifying while no longer carrying the simplistic burden of “evil intruder.” The unseen pressure remains threatening without requiring a second monster movie.
-4. **Brass payoff.** The two historical objects are distinct, the active fracture precedes Kai's action, Kai remains morally responsible for worsening it, and the final repair respects physical custody.
-5. **Ending.** The brothers do not defeat the Unseen, heal instantly or receive crowns. They return damaged material to its working place together and leave along the same physical path.
+Eno relocates relatives, separates bedding, answers a younger relative's fear, sets explicit no-ravine/no-repair field conditions and requires the brothers to return before dark. Later, Ade and Eno redirect a relative's sightline while moving the last family members toward the gate. No ordinary relative becomes a mythology expositor or direct participant in the chamber.
 
-## Where the screenplay is weak
+### The camera and brass custody no longer jump between scenes
 
-### 1. The discovery corridor is too efficient
+Kai explicitly retrieves the cracked camera he left behind before the market. After the chamber comparison, he returns the retired carving to his camera bag while Ade carries the separately wrapped active half upstairs. During the sister-message discovery, the old carving is in the front room and the active half remains covered in the kitchen. The matching active half never leaves the hidden shrine.
 
-Sequences 14–23 deliver inspection logic, chamber testing, young-Solomon evidence, two-object proof, two-rhythm proof, a failed correction, the hidden message, the death record and the blocked return in roughly the space many prestige horrors would give to four or five major dramatic movements. The information is coherent, but coherence is not the same as accumulated dread.
+### Solomon now creates conflict instead of delivering an answer
 
-Required next revision: combine or expand discoveries around **conflict and cost**, not additional mythology. Let at least two revelations create a consequential disagreement, delay, false interpretation or household problem before the next answer arrives.
+The old cassette contains ordinary music, not a supernatural message. Malik initially rejects the image of a laughing young father, stops the tape, defends the chronology and later admits that he treated his father's rigid control as a method for preventing loss. Bode refuses to turn Solomon into either a villain or an absolved martyr: “I make it sound like my brother.” Solomon is never shown alive.
 
-### 2. The new middle underuses the living family
+### Kai's two-presence deduction is earned
 
-Eno and Bode have strong functions, but the compressed second half often positions them at the edge of research scenes. The original screenplay's family texture is one of its prestige assets. The second half needs one or two scenes where the chamber work tangibly alters ordinary family behavior, food, sleeping arrangements, trust or land decisions without exposing more relatives to lore.
+Kai first associates the familiar silhouette with the wrong harsh sound. Malik begins marking an incorrect western response. Ade rewinds the evidence, Kai acknowledges the error, and the brothers verify the observable order together before matching it to the aunt's two distinct drawings. This introduces genuine interpretive danger without inventing a second visible monster.
 
-### 3. Solomon's “man before” material is potent but arrives almost fully assembled
+### Ade chooses the return with full knowledge of pain
 
-The cassette, DJ photograph, receipt and Bode's testimony efficiently explain his transformation. One piece should resist interpretation or emotionally contradict the brothers' preferred reading. Malik in particular needs a deeper reaction to learning that the hyper-controlled father he imitated was made by a failure of responsibility rather than born that way.
+After the first failed correction throws him into stone, Ade privately considers his role and the visible truck keys. Eno does not promise safety; she answers honestly when he says it will hurt again. Ade stays. His later “Give me one side” is now grounded in fear, injury and voluntary love rather than only a clever mechanical solution.
 
-### 4. Kai's two-rhythm deduction could carry greater risk
+### The sister's message is discovered through shared labor
 
-The visual grammar is clear, but Sequence 19 lets Kai reach the correct distinction relatively quickly. His ocular and vestibular consequences are present; the dramatic problem is that the deduction itself faces little opposition beyond Malik's brief skepticism. A stronger pass would make one misread cost them time or trust while preserving the same final rules.
+Her notebook first appears empty. Ade notices the pressure impression despite his shoulder injury; Malik positions the lamp and keeps Kai oriented in partial darkness; Kai uses the damaged camera to read the pressed writing without inventing missing text. Her grocery notes, orange, scratched-record complaint and concern that Solomon eat preserve her humanity before the clinical account reveals her death.
 
-### 5. Ade's interior cost needs one quieter scene
+### Screenplay prose is more filmable
 
-His physical action and climax payoff are excellent. The screenplay gives less space to the emotional shift from social buffer to a brother choosing to become a conduit after the room has already injured him. One brief private beat with Eno or Bode could make his later choice feel even less like mechanical assignment and more like courage with full knowledge of pain.
+Unfilmable explanations such as writer-room custody commentary, “without the film showing it again,” “no monster catalog,” abstract chosen-room reasoning and self-conscious “no miraculous repair” statements have been replaced with visible hands, line movement, photographs, fixed guides, damaged material and bodily behavior. All appearances of the chamber now share the same production scene heading.
 
-### 6. The climax may read faster than it feels
+## Automated integrity suite
 
-The chamber action is visually legible in the script, but production will determine whether the simultaneous water, sound, color, door, Entity, lines and three bodies remain comprehensible. A previsualization/stunt pass should preserve a strict hierarchy: **water identifies direction; red identifies load; bodies identify cost; the door/Entity remain background threshold pressure**.
+`python tools/audit_screenplay.py 01_SCREENPLAY.fountain`
 
-### 7. The feature length is lean for its intended mode
+The expanded suite checks 35 discrete screenplay/canon conditions:
 
-At 82 screenplay pages, the project can be a disciplined 85–95 minute horror film. If the ambition is a slow, grief-heavy prestige feature, the current draft risks feeling like it accelerates just when the myth and family history become richest. A target of roughly 90–100 screenplay pages could help, but only if added pages deepen behavior, dread and disagreement. Padding, cosmology or repeated pressure demonstrations would weaken it.
+- 26 consecutive correctly titled sequences;
+- fracture before Kai's deliberate removal and continued seated-half custody;
+- the closed ancient dome, central door and geographically anchored operating system;
+- explicit field-inspection conditions and recovered camera custody;
+- practical truck/footpath geography and Bode's bounded witness role;
+- material-only young Solomon history and Malik's inherited-control confrontation;
+- two historically distinct brass identities and separate room-to-room custody;
+- two rhythms, Kai's corrected misinterpretation and no second visible monster;
+- Ade's lasting injury and his private choice before returning;
+- the sister's message, all-three-brother discovery and ordinary medical evidence;
+- family evacuation and consent before final descent;
+- controlled threshold behavior, the planted funeral phrase and all-three-brother survival;
+- separate final field repair, cumulative injuries and the retired carving's exclusion from repair;
+- no sequel sting, obsolete flat-wall geometry, old production heading, writer-room commentary, live Solomon scene, chosen-one mechanism or cult subplot.
+
+Result: **35/35 screenplay-integrity checks passed**.
+
+## Remaining weaknesses
+
+1. **Some discovery scenes still share similar physical staging.** The added conflict helps, but several key findings occur around notebooks, photographs, tables and water. A director-facing pass should vary body placement, silence, distance and who physically controls evidence without introducing lore.
+2. **The final act depends on disciplined sensory hierarchy.** During production the audience must always read water/direction first, red lines/load second and injured bodies/cost third. The threshold and Entity must never compete as a second action spectacle.
+3. **A few lines still explain conclusions too directly.** Especially around the clinic record and open return, a table read should identify places where performance, withholding or a physical action can replace a repeated answer.
+4. **The sister's life has more texture but limited independent agency on screen.** Because she cannot appear as a ghost or living flashback, future refinement must deepen her through material choices, handwriting, relationships and evidence without turning her into a device.
+5. **Long-term stewardship remains intentionally unresolved.** The ending establishes chosen shared responsibility, not a detailed future travel/custody arrangement. That ambiguity is acceptable but should be revisited only if it reads as avoidance rather than interpretive space.
+6. **Specialist gates remain real.** Practical stunt/rigging safety, low-frequency sound exposure, clinical plausibility and qualified Nigerian/Calabar/Efik review cannot be replaced by internal writing scores.
 
 ## Ethics and integrity read
 
-The revision avoids turning Efik culture or public masquerade into evil shorthand; the second pressure has no human cult; the sister is not reduced to a ghost, vessel or disposable priestess; stewardship has no chosen bloodline; pain is not magically erased; and the Entity is not rendered as a simple racialized/indigenous demon.
+Public masquerade remains ordinary living community culture. Neither force becomes a racialized demon or evil-cultural shorthand. The sister is not a spirit, soul vessel or unnamed mystical office. Bode and Eno remain fully human family authorities. The system has no bloodline selection, possession, monster prison, human cult, painless injury reset or sacrificial death imposed on one brother.
 
-The cultural read remains incomplete by design. The screenplay still requires qualified Nigerian/Calabar/Efik review for place, family behavior, religious texture, funerary detail, land practice and any final name/terminology. No score in this audit substitutes for that review.
+The cultural review remains deliberately excluded from this creator-requested writing pass; no invented final Efik names or ritual vocabulary were introduced.
 
 ## Recommendation
 
-Advance this architecture. Do not replace the chamber system, shared-load ending or two-object continuity. Before calling the screenplay submission-ready, perform one **dramatic expansion/compression pass** focused on Sequences 14–23: add approximately 8–15 pages of conflict, atmosphere and family consequence while removing any redundant explanatory lines. Then read the complete PDF aloud, conduct practical chamber previsualization, and commission the deferred cultural review.
+Preserve this architecture and the 99-page dramatic expansion. The next precision pass should be a scene-level dialogue/actor read and practical chamber previsualization, followed by the separately deferred qualified cultural review. Do not add mythology or arbitrary page count. Do not merge without explicit creator authorization.
 
-Current status: **strong enough to justify the next precision draft; not yet strong enough to honestly certify as a 10/10 final screenplay.**
+Current verdict: **9.2/10 — strong, coherent, emotionally developed prestige-horror feature draft with identifiable remaining polish and specialist-review gates.**

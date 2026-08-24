@@ -3,7 +3,7 @@
 Last reconciled: 2026-08-24
 Status: COMPLETE FEATURE CANDIDATE ON DRAFT PR #4 / UNMERGED
 
-Branch: `agent/sequence-14-what-was-due`. Editable source: `01_SCREENPLAY.fountain`. Synchronized reading copy: `output/pdf/EKPO_Screenplay.pdf`. Dramatic endpoint: Sequence 26, `A WAY HOME`; final image is the brothers leaving the repaired shrine together.
+Branch: `agent/sequence-14-what-was-due`. Editable source: `01_SCREENPLAY.fountain`. Synchronized reading copy: `output/pdf/EKPO_Screenplay.pdf`, 100 physical pages / 99 screenplay pages. Dramatic endpoint: Sequence 26, `A WAY HOME`; final image is the brothers leaving the repaired shrine together.
 
 ## Approved physical architecture
 
@@ -17,15 +17,15 @@ Present-day failure combines his death, missed inspections, overreinforced weste
 
 ## Two brass identities and custody
 
-The retired Vancouver carving stays separately wrapped in Kai's camera bag; its history becomes legible through dates, mounting wear and a family photograph. The active replacement fractures into two physical halves but remains one object identity. Kai removes the exposed half; the other remains seated in the hidden shrine. The removed half stays beneath clean cloth until the injured brothers carry it back in Sequence 26, align the fracture and secure it with an openable red binding.
+The retired Vancouver carving stays separately wrapped in Kai's camera bag except when physically removed for visible family comparison; its history becomes legible through dates, mounting wear and a family photograph. The active replacement fractures into two physical halves but remains one object identity. Kai removes the exposed half; the other remains seated in the hidden shrine. After the Sequence 18 chamber comparison, Kai returns the retired carving to his bag and Ade carries the separately covered active half upstairs. During Sequence 21 the old carving is on the front-room table and the active half remains covered in the kitchen. The injured brothers later carry the active half back in Sequence 26, align the fracture and secure it with an openable red binding.
 
 ## Character end states
 
 - Malik engages the working bands voluntarily, survives compression/breath loss and relinquishes exclusive control. Bruised wrists/ribs and numb fingers remain at the shrine.
-- Kai recognizes two pressure rhythms using drawings, water and angled/reflected observation without acquiring chosen status. Tremor, eye bleeding, nausea and balance impairment remain at the shrine.
-- Ade is first thrown into stone when he creates a dead-end load; his shoulder/rib injury persists. He subsequently opens the return and distributes pressure through his own body, using the funeral callback, “Give me one side.” He receives no supernatural office.
+- Kai first mistakes which sound corresponds to the familiar form; Ade and Malik help him verify the correct order against footage and drawings. He recognizes two pressure rhythms using water and angled/reflected observation without acquiring chosen status. Tremor, eye bleeding, nausea and balance impairment remain at the shrine.
+- Ade is first thrown into stone when he creates a dead-end load; his shoulder/rib injury persists. A private conversation with Eno establishes that he understands returning will hurt. He subsequently opens the return and distributes pressure through his own body, using the funeral callback, “Give me one side.” He receives no supernatural office.
 - Bode evacuates relatives, preserves bounded family testimony and uses his previously established land-service pickup route; he never becomes a trained steward.
-- Eno protects the household, preserves the sister's personhood, provides first aid and the final clean binding; she never becomes a mythology oracle.
+- Eno relocates ordinary relatives, imposes no-ravine/no-repair/daylight inspection conditions, protects family sightlines, preserves the sister's personhood, provides first aid and the final clean binding; she never becomes a mythology oracle.
 - Solomon is never shown alive; photographs, a cassette, receipts, procedural records and ordinary testimony disclose his earlier life and irreversible failure.
 - The sister appears only through photographs, handwriting, records and material consequences. She is not a ghost. Her name and final cultural terminology remain unresolved pending specialist review.
 
