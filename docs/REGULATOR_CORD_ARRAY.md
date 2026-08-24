@@ -1,59 +1,23 @@
-# EKPO — REGULATOR CORD / KNOT DIAGNOSTIC ARRAY
+# EKPO — ANCHORED PRESSURE NETWORK
 
-Status: LOCKED WRITER-LEVEL CANON
-Effective: 2026-08-17
+Status: ACTIVE WRITER-LEVEL PHYSICAL AUTHORITY
+Effective: 2026-08-24
 
-## Function
+The shrine, maintained inner door, domed chamber, land bearings and river return form one boundary-regulation system. The room reads pressure and redistributes it through a human-supported circuit. It is an inherited practical interface, not a handyman wall, sentient room or supernatural puzzle box.
 
-The dense red-cord architecture surrounding the inner maintained door is part of Solomon's procedural monitoring system.
+## Visual grammar
 
-It is a **material analog indicator of regulatory pressure**. Changes in tension, fall, slack, alignment, and knot position can make instability physically legible to a trained steward.
+- Red braided anchored lines show changing load and direction.
+- Brass provides bands, fittings, adjustable index and service stops.
+- Copper guides distribute load toward the western, river and old-road bearings.
+- A restrained aged-gold threshold response marks the familiar correcting presence.
+- A bruised violet/blue-black reflection in water or tarnished metal marks unauthorized inward pressure.
+- Water makes direction and competing rhythms visible: jagged inward cuts versus slow rounded outward rings.
 
-It is not a magical alarm, sentient rope, haunted decoration, or independent supernatural being.
+Every active line is anchored at both ends and moves only along an existing guide. Open brass forearm bands slide into their working position around a trained/consenting person's arms; they do not recognize bloodline, destiny or moral worth. At overload, additional anchored shoulder, rib and ankle guides recruit the loaded operator because the circuit lacks a sufficient exit. No loose rope becomes a snake or independently reaches for people. Ordinary red household cord and stored cotton do not animate.
 
-## Physical design
+Governing physical law: **pressure needs an entrance and an exit**. An operator forced to carry opposing loads without a return can suffer compression, traction, respiratory failure and death. Grabbing that operator against the load creates a dead end and can throw a helper backward. Joining the return route and allowing load to continue through an exit distributes the pressure.
 
-The inner-door wall contains:
+Solomon's post-loss overreinforcement kept the system functional but brittle. He repeatedly held the river return and tightened western bindings so one isolated steward could maintain temporary stability. His death, a missed inspection, repeated unauthorized inward pressure, the fracture of the active shrine fitting and Kai's removal of the exposed half combine into failure. No one cause alone explains the collapse.
 
-- measured brass anchor points;
-- short lengths of red cord installed at exact intervals;
-- worked knots tied to repeatable positions;
-- loose tails whose resting lengths can be compared to pencil marks;
-- old cut ends and retired configurations preserved behind newer work;
-- enough accumulated layers that hundreds of visible elements imply thousands of individual maintenance decisions across years.
-
-The array should feel handmade, technical, maintained, inherited, and difficult to read without training.
-
-## Behavior under pressure
-
-Allowed responses include:
-
-- one row drawing taut while another falls slack;
-- loose tails lifting or rotating slightly without ambient wind;
-- a knot slipping by a measurable amount;
-- neighboring rows settling at unequal lengths;
-- tension redistributing in a slow material sequence;
-- some elements failing to return fully to baseline after an event.
-
-Disallowed behavior:
-
-- rope writhing like snakes;
-- cords reaching for people;
-- levitating bundles;
-- theatrical self-untying as a scare;
-- a universal rule that every red cord in the story reacts;
-- treating motion as proof that the Entity is physically inside the room.
-
-## Scope
-
-Only the **inner diagnostic array** has this pressure-indicating function.
-
-The outer household cord, stored replacement cotton, and shrine binding retain their separate established functions and do not self-animate merely because they are red.
-
-## Story use
-
-Sequence 10 establishes the array at baseline: dense, measured, completely still.
-
-Sequence 12 gives the audience an objective cutaway showing restrained pressure changes in the array while the courtyard manifestation is occurring. The inner door itself remains closed and still.
-
-The brothers do not yet know how to read the array or what individual changes mean. Later understanding must be earned through Solomon's records, comparison, repeated observation, and training rather than exposition.
+The familiar Entity does not power the network. It arrives after unauthorized pressure and responds at the boundary. Neither presence is reduced to a superhero fight, containment mechanism or mechanical game boss.

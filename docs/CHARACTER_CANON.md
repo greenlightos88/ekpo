@@ -1,8 +1,22 @@
 # EKPO CHARACTER CANON
 
 Status: ACTIVE CHARACTER AUTHORITY
-Last synchronized: 2026-08-17
-Canonical development baseline: End of Sequence 13 — `THE MARKET` on PR #3
+Last synchronized: 2026-08-24
+Canonical development baseline: Complete feature through Sequence 26 — `A WAY HOME`, on draft PR #4 / unmerged.
+
+## Controlling complete-feature character progression
+
+Solomon was once freer and played music in town; he is never shown alive. During the historical unauthorized surge, his absence left his sister carrying both functions. Her death turned him toward rigid reinforcement, physical return trips to Calabar, a blocked river return, preserved records and secrecy without succession. Photographs, a cassette, a receipt and procedural entries disclose this change without a flashback.
+
+His unnamed sister was a complete perceptual partner and ordinary person, preserved through an orange-stained work photograph, shopping/record notes, drawings, a clinic account and the impression of an urgent missed message: the familiar presence came after the initial disturbance. She is not a ghost, vessel or chosen priestess.
+
+Malik voluntarily enters the central working circuit, repeats his father's impulse to carry everything, then survives by relinquishing half the load and making the correct central adjustment. His breathing injury, wrist/rib abrasions and numb fingers remain through the final field repair.
+
+Kai deliberately removes only the exposed half of an already fractured active shrine fitting; the other half remains seated. The separate retired carving remains in his camera bag. He distinguishes two pressure rhythms through water, drawings and reflected observation without becoming chosen. Tremor, eye bleeding, nausea and unstable balance persist.
+
+Ade first injures his shoulder/ribs by pulling against Malik's incoming load. He learns that the pressure must pass through an open return, joins that route and recalls Bode's funeral line: “Give me one side.” He remains a socially and practically intelligent human brother, never a supernatural officeholder; his injury persists.
+
+Bode supplies bounded family testimony, evacuation help and his established pickup/service-track knowledge without becoming a maintenance proxy. Eno protects the household, treats injuries, recovers the sister's personhood and provides the final openable binding without becoming a mystical expert. This section supersedes any older endpoint, whole-talisman or unrevealed-history state below.
 
 Use historical character-development files for performance depth only where they do not conflict with this file.
 

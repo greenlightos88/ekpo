@@ -1,7 +1,15 @@
 # EKPO CREATIVE CONSTITUTION
 
 Status: PERMANENT PROJECT LAW
-Updated: 2026-08-13
+Updated: 2026-08-24
+
+## Creator-approved complete-feature addendum
+
+The latest 2026-08-24 decision controls any incompatible older language below. The hidden shrine, central maintained inner door and ancient domed chamber are one geographically routed pressure-regulation system. Anchored red lines, brass forearm bands and copper guides require both an inlet and an open return; only consenting positioned operators engage, and overload recruits existing fixed guides rather than sentient rope.
+
+Unauthorized unseen inward pressure occurs first. The familiar ancient Entity arrives afterward as a terrible, non-human boundary-correcting presence. Restrained jagged/dark versus rounded/aged-gold signatures remain legible through sound, water and reflection without a moral cartoon, second visible monster, conventional fight or mythology encyclopedia.
+
+The retired sister-era Vancouver carving and later active shrine fitting remain two separate historical objects. The active fitting is already fractured when Kai deliberately removes its exposed half; the seated matching half remains at the shrine. Solomon's sister died carrying both human functions while Solomon was absent; her story is recovered materially, never through haunting. Solomon's later isolation blocked the return rather than solving stewardship. All three brothers survive by sharing the load and finally return the missing half, visibly injured, under an openable binding. No chosen ones, bloodline-recognizing mechanism, possession, monster prison, human cult, magical healing or invented final Efik terminology is permitted.
 
 ## Authority
 

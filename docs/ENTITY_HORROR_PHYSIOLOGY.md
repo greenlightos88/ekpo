@@ -1,7 +1,15 @@
 # EKPO ENTITY HORROR PHYSIOLOGY
 
 Status: LOCKED / FOUNDATIONAL HORROR EXECUTION
-Effective: 2026-08-13
+Effective: 2026-08-24
+
+## Controlling two-pressure / accumulated-injury addendum
+
+The familiar ancient Entity is not the initial intruder. An unauthorized unseen inward pressure arrives first; the familiar Entity responds afterward at the controlled boundary. Human bodies experience both simultaneous pressures as competing translation/load, not as a visible creature fight or good-versus-evil superhero spectacle.
+
+Differentiate the pressures economically: jagged, crowded dark-violet water/reflection patterns and irregular serrated low pressure; then slow, rounded aged-gold threshold response and organized concentric water rings. The second presence never receives a second visible creature design. No character acquires a definitive supernatural taxonomy.
+
+The ancient dome recruits only anchored existing guide lines when a voluntarily engaged human circuit has an inlet but no exit. Compression, traction, breathing interruption and vertigo can escalate to death. Ade's first dead-end intervention throws him into stone and causes a shoulder/rib injury; he later survives by opening the return and allowing load to pass through. Malik retains band abrasions, respiratory damage and numb fingers. Kai retains ocular bleeding, vomiting, tremor and visual/balance instability. These injuries never reset before the final shrine repair. Practical low-frequency audio, stunt rigging and performer safety require separate professional assessment.
 
 This document defines how proximity to the Entity affects perception, bodies, local physical reality, and dramatic escalation.
 

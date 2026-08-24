@@ -1,4 +1,4 @@
-version: 4.4
+version: 5.0
 project:
   id: ekpo
   title: EKPO
@@ -6,7 +6,7 @@ project:
   default_branch: main
   status: active-development
   format: feature-screenplay
-  development_phase: sequence-12-human-audit-revision-sequence-13-market-candidate
+  development_phase: complete-feature-pressure-system-revision-and-integrity-audit
 
 north_star:
   statement: "Psychological supernatural family drama about inheritance."
@@ -14,156 +14,71 @@ north_star:
   engine: inheritance
   doorway: grief
   supernatural_function: language
-  governing_principle: "Reality survives not through power, but through stewardship."
+  governing_principle: "Reality survives not through power, but through shared stewardship."
 
 source_hierarchy:
-  - rank: 1
-    authority: current-user-instruction
-  - rank: 2
-    authority: screenplay-authority-law
-    paths: [docs/SCREENPLAY_AUTHORITY.md]
-  - rank: 3
-    authority: active-candidate-output-screenplay
-    paths: [output/pdf/EKPO_Screenplay.pdf]
-    rule: "On PR #3 this is the candidate dramatic reading artifact; it becomes merged authority only after promotion audit and merge."
-  - rank: 4
-    authority: active-revision-locks
-    paths:
-      - docs/SEQUENCE_12_LOCK.md
-      - docs/HOUSE_GEOGRAPHY.md
-      - docs/REGULATOR_CORD_ARRAY.md
-      - docs/BRASS_OBJECT_CONTINUITY.md
-      - docs/DECISION_LOG.md
-  - rank: 5
-    authority: creative-constitution
-    paths: [docs/EKPO_CONSTITUTION.md]
-  - rank: 6
-    authority: foundational-mythology
-    paths: [EKPO_Canonical_Mythology_Refactor.md]
-  - rank: 7
-    authority: current-canon-continuity-character
-    paths:
-      - 00_CANON.md
-      - docs/CURRENT_CONTINUITY.md
-      - docs/CHARACTER_CANON.md
-      - docs/CHARACTER_VOICE_CONSTITUTION.md
-      - docs/ENTITY_HORROR_PHYSIOLOGY.md
-      - docs/CULTURAL_LANGUAGE_REGISTER.md
-  - rank: 8
-    authority: current-development-control
-    paths:
-      - docs/MOTIF_LEDGER.md
-      - docs/NEXT_MOVEMENT.md
-      - development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md
-      - development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md
-      - 02_MASTER_BIBLE.md
-      - 03_SESSION.md
-  - rank: 9
-    authority: editable-screenplay-source
-    paths: [01_SCREENPLAY.fountain]
-    rule: "Synchronized editable source; it must reproduce the candidate output PDF."
-  - rank: 10
-    authority: historical-development-reference
+  - {rank: 1, authority: current-user-instruction}
+  - {rank: 2, authority: screenplay-authority-law, paths: [docs/SCREENPLAY_AUTHORITY.md]}
+  - {rank: 3, authority: producer-reading-copy, paths: [output/pdf/EKPO_Screenplay.pdf]}
+  - {rank: 4, authority: creator-decisions, paths: [docs/DECISION_LOG.md, docs/HOUSE_GEOGRAPHY.md, docs/REGULATOR_CORD_ARRAY.md, docs/BRASS_OBJECT_CONTINUITY.md]}
+  - {rank: 5, authority: constitution-and-mythology, paths: [docs/EKPO_CONSTITUTION.md, EKPO_Canonical_Mythology_Refactor.md, 00_CANON.md]}
+  - {rank: 6, authority: continuity-and-character, paths: [docs/CURRENT_CONTINUITY.md, docs/CHARACTER_CANON.md, docs/INJURY_CONTINUITY_LEDGER.md, docs/MOTIF_LEDGER.md]}
+  - {rank: 7, authority: editable-screenplay-source, paths: [01_SCREENPLAY.fountain]}
 
 canonical_sources:
-  merged_baseline:
-    branch: main
-    sequence: 12
-    title: WHEN IT STAYS
   active_candidate:
-    branch: agent/sequence-12-geography-sequence-13-marketplace
-    pr: 3
+    branch: agent/sequence-14-what-was-due
+    base_branch: agent/sequence-12-geography-sequence-13-marketplace
+    pr: 4
     editable_source: 01_SCREENPLAY.fountain
     reading_copy: output/pdf/EKPO_Screenplay.pdf
-    candidate_endpoint: sequence_13
-    endpoint_title: THE MARKET
-    latest_technical_physical_pages: 64
-    status: internal-integrity-pass-creator-review-required
-  mythology: [EKPO_Canonical_Mythology_Refactor.md]
-  decisions:
-    - docs/SEQUENCE_12_LOCK.md
-    - docs/HOUSE_GEOGRAPHY.md
-    - docs/REGULATOR_CORD_ARRAY.md
-    - docs/BRASS_OBJECT_CONTINUITY.md
-    - docs/DECISION_LOG.md
-  continuity: [docs/CURRENT_CONTINUITY.md]
-  characters:
-    - docs/CHARACTER_CANON.md
-    - docs/CHARACTER_VOICE_CONSTITUTION.md
-  horror_execution: [docs/ENTITY_HORROR_PHYSIOLOGY.md]
-  audits:
-    - development/audits/EKPO_HUMAN_AUDIT_REVISION_2026-08-17.md
-    - development/audits/EKPO_POST_WITNESS_REMOVAL_FULL_INTEGRITY_AUDIT.md
-    - development/audits/EKPO_SEQUENCES_1_12_FORENSIC_AUDIT.md
-    - development/audits/EKPO_AWARD_LEVEL_SCREENPLAY_AUDIT.md
-  active_assignment: [docs/NEXT_MOVEMENT.md]
+    candidate_endpoint: sequence_26
+    endpoint_title: A WAY HOME
+    latest_technical_physical_pages: 83
+    status: complete-feature-draft-unmerged
+  audit: development/audits/EKPO_FULL_ARCHITECTURE_AND_SCREENPLAY_INTEGRITY_AUDIT_2026-08-24.md
 
 screenplay_state:
-  merged_canonical_through:
-    sequence: 12
-    title: WHEN IT STAYS
   candidate_sequences:
-    - {sequence: 1, title: THE LAST MORNING, status: retained_from_merged_baseline_with_page6_microfix}
-    - {sequence: 2, title: THE FUNERAL, status: retained}
-    - {sequence: 3, title: THE WILL AND DECISION, status: retained}
-    - {sequence: 4, title: ARRIVAL, status: retained}
-    - {sequence: 5, title: HOMECOMING, status: geography_seed_revised}
-    - {sequence: 6, title: THE LAND AND THE SHRINE, status: retained}
-    - {sequence: 7, title: THE RIVER BOUNDARY, status: retained}
-    - {sequence: 8, title: THE DISTANCE BETWEEN, status: retained}
-    - {sequence: 9, title: WHAT HE OPENED, status: retained}
-    - {sequence: 10, title: THE TWO RECORDS, status: geography_and_cord_array_revised}
-    - {sequence: 11, title: WHAT HE LEFT, status: cord_baseline_micro_revised}
-    - {sequence: 12, title: WHEN IT STAYS, status: human_audit_rewrite_candidate}
-    - {sequence: 13, title: THE MARKET, status: new_candidate}
+    - {sequence: 1, title: THE LAST MORNING}
+    - {sequence: 2, title: THE FUNERAL}
+    - {sequence: 3, title: THE WILL AND DECISION}
+    - {sequence: 4, title: ARRIVAL}
+    - {sequence: 5, title: HOMECOMING}
+    - {sequence: 6, title: THE LAND AND THE SHRINE}
+    - {sequence: 7, title: THE RIVER BOUNDARY}
+    - {sequence: 8, title: THE DISTANCE BETWEEN}
+    - {sequence: 9, title: WHAT HE OPENED}
+    - {sequence: 10, title: THE TWO RECORDS}
+    - {sequence: 11, title: WHAT HE LEFT}
+    - {sequence: 12, title: WHEN IT STAYS}
+    - {sequence: 13, title: THE MARKET}
+    - {sequence: 14, title: WHAT WAS DUE}
+    - {sequence: 15, title: THE WESTERN STONES}
+    - {sequence: 16, title: THE WORKING POSITION}
+    - {sequence: 17, title: THE MAN BEFORE}
+    - {sequence: 18, title: THE OTHER HALF}
+    - {sequence: 19, title: TWO RHYTHMS}
+    - {sequence: 20, title: THE FIRST CORRECTION}
+    - {sequence: 21, title: THE LAST PAGE}
+    - {sequence: 22, title: WHAT HAPPENED TO HER}
+    - {sequence: 23, title: WHAT SOLOMON CLOSED}
+    - {sequence: 24, title: THE BREACH}
+    - {sequence: 25, title: GIVE ME ONE SIDE}
+    - {sequence: 26, title: A WAY HOME}
   pdf:
     path: output/pdf/EKPO_Screenplay.pdf
-    latest_technical_physical_pages: 64
-    status: candidate-not-merged-authority
-  fountain:
-    path: 01_SCREENPLAY.fountain
-    status: candidate-editable-source
+    latest_technical_physical_pages: 83
+    status: complete-feature-candidate-not-merged
 
 locked_project_laws:
   - "Solomon is never shown alive."
-  - "Kai deliberately breaches the shrine/regulator; he is not chosen, possessed, or mind-controlled."
-  - "Seen and Unseen are complementary conditions."
-  - "Covenant = stewardship/equilibrium, not containment."
-  - "Shrine = regulator/alignment point, never prison."
-  - "Two related brass objects are distinct: Solomon kept the retired sister-era regulatory carving; the shrine used a later active replacement talisman."
-  - "The retired brass carving is a material memento of sister/partnership/failure, not the sister's personal magical amulet, soul vessel, or hereditary badge."
-  - "Kai removed Solomon's post-catastrophe replacement talisman; its active regulatory function, not containment, makes the removal consequential."
-  - "The full brass replacement history is writer-level canon and remains deferred on-page until materially earned."
-  - "Entity = independent ancient Unseen intelligence attracted to breaches."
-  - "Attention creates proximity, but characters learn this behaviorally."
-  - "Entity perceptibility is failed translation and may fracture human perception, bodily sequence, and local physical coherence."
-  - "Perceptual stutter is not a digital glitch, teleportation effect, or generic time-control power."
-  - "Physiological effects persist after Entity withdrawal."
-  - "Solomon and his sister held complementary procedural/perceptual functions."
-  - "Succession requires recognized capacity, transmitted knowledge, and voluntary acceptance."
-  - "Solomon left access without appointment."
-  - "Malik has procedural aptitude without appointment."
-  - "Kai has perceptual aptitude without Chosen One status."
-  - "Ade has no supernatural office; his social intelligence is protective infrastructure."
-  - "Bode is not a co-custodian or maintenance proxy."
-  - "Eno is household authority, not mythology expert."
-  - "Inner maintained door remains closed; the superseded moving-fastener beat is removed."
-  - "Only the inner diagnostic cord array has established pressure-indicating movement."
-  - "Normal house geography must be coherent before supernatural distortion violates it."
-  - "The masquerade is never the Entity and is not horror shorthand."
-  - "Sequence numbers use Arabic numerals only."
-  - "Deferred cultural/ritual terminology must not be invented before specialist review."
-
-write_policy:
-  default_mode: propose-diff
-  approval_required: true
-  branch_required: true
-
-completion_contract:
-  - "PR #3 remains draft until explicit creator approval; the internal high-threshold integrity gate has passed."
-  - "Candidate output PDF and Fountain remain synchronized."
-  - "Residual injuries and continuity consequences persist."
-  - "The retired sister-era brass carving and active Solomon-era replacement talisman must never collapse into one physical object."
-  - "No moving-fastener or car/hospital subplot may re-enter by drift."
-  - "Character voice, geography, horror mechanics, cultural integrity, and family-protection stakes are audited before promotion."
-  - "Sequence numbering uses standard numerical denominations only."
+  - "Seen and Unseen are complementary; the shrine regulates rather than imprisons."
+  - "The familiar Entity follows unauthorized inward pressure; the second presence remains unseen."
+  - "Only anchored chamber lines recruit a consenting operator; no bloodline, chosen-one, ghost, possession or sentient-rope rules."
+  - "Exactly two brass object identities exist; the later active fitting fractures into two halves."
+  - "Kai deliberately removes the exposed half; its matching half stays seated until the final repair."
+  - "Malik, Kai and Ade survive by distributing pressure through an open return."
+  - "The final shrine binding must hold while remaining openable."
+  - "Bode and Eno retain bounded family and household functions."
+  - "Injuries persist; culturally specific naming and specialist authenticity review remain deferred."

@@ -1,39 +1,18 @@
-# EKPO — OKU HOUSE GEOGRAPHY
+# EKPO — OKU HOUSE AND LAND GEOGRAPHY
 
-Status: ACTIVE SPATIAL AUTHORITY
-Effective: 2026-08-17
+Status: ACTIVE SPATIAL AUTHORITY / CREATOR-APPROVED REPLACEMENT
+Effective: 2026-08-24
 
-## Governing law
+The public route is compound gate → courtyard → front veranda/front room. The kitchen connects to the courtyard. A back passage drops three shallow steps into the oldest house section and ends at an ordinary outer door held with an openable red household hitch. No courtyard position has a direct sightline to the maintained inner door.
 
-Normal geography must be coherent before supernatural distortion is allowed to violate it.
+Beyond the outer door, a steep, deep stone staircase turns below the reach of daylight and descends into an ancient circular chamber predating the house. The chamber is approximately 14–18 feet across; its closed dome reaches approximately 12–16 feet at its apex. There are no yard-level slatted windows. Voices from the house arrive via the staircase. A shaded practical work lamp supplies light.
 
-No character may perceive, enter, exit, cross, or react to a location unless the screenplay establishes a plausible route or sightline. If the Entity makes space impossible, the audience must first understand what the space normally is.
+The maintained inner door stands centered in the far curved wall, opposite the descent. Behind it is a narrow, physical controlled-threshold antechamber belonging to the same boundary system. It is not a second portal, prison, occult dimension or creature cell. The door remains closed until the earned climax, when it opens only narrowly and temporarily under controlled, dangerous pressure.
 
-## Oku family house — locked layout
+Braided red load lines run from the inner-door frame through anchored brass and copper guides across the walls, floor and dome toward the real land bearings: western stones/shrine, river return and old-road boundary. Two brass forearm bands seat to a consenting operator standing on the worn central working position. The porous stone there retains the historical bloodstain from Solomon's sister.
 
-- The older family house faces the compound courtyard through a deep front veranda.
-- The front/family room opens directly onto the veranda and courtyard.
-- The kitchen has a separate door onto the same courtyard.
-- Between the kitchen wall and the older rear rooms, a narrow **back passage** runs deeper into the house and drops three shallow steps below the main floor.
-- The **outer red-corded door** sits at the low/far end of the back passage.
-- Beyond that door, four stone steps descend beneath the rear of the house.
-- The **maintenance room** is semi-underground beneath the rear rooms.
-- High slatted maintenance-room windows sit near ceiling height, approximately at yard level outside.
-- The **inner maintained door** is on the wall opposite the maintenance-room entrance.
-- There is **no direct sightline** from courtyard, veranda, kitchen, front room, or compound gate to the inner maintained door. A character must enter the back passage, open the outer door, descend, and enter the maintenance room to see it.
-- The compound gate lies across the open yard, away from the mouth of the back passage. Evacuation from the front room/veranda toward the gate does not require crossing the back-passage axis.
+Bode's aging pickup can take the western service track to a locked irrigation gate and pump clearing. Beyond that point the maintained footpath continues to the western stones and hidden shrine ravine. A vehicle never reaches the shrine itself. This practical route is established before the final injured return.
 
-## Sequence 12 blocking law
+During evacuation, ordinary relatives move from kitchen/front room/veranda toward the front gate, away from the back passage. Bode and Eno remain bounded family/household witnesses, never hidden chamber operators.
 
-The Entity manifests in the **back-passage axis**, not at the inner door.
-
-During the evacuation:
-
-- family members leave the front room/veranda and cross the courtyard toward the compound gate;
-- Ade redirects faces and bodies away from the back passage;
-- nobody must cross through the Entity's manifestation axis to leave;
-- the inner maintained door is never visible to the brothers during the courtyard encounter.
-
-## Production requirement
-
-Before production lock, create a floor plan from this document and reconcile every house scene against it. If production design changes the layout, screenplay blocking and continuity must be updated together.
+Supersedes: the four-step, semi-underground, yard-window, flat inner-wall arrangement.

@@ -47,6 +47,27 @@ class Block:
 
 
 def register_fonts() -> None:
+    if not all(path.exists() for path in FONT_FILES.values()):
+        from reportlab.pdfbase._fontdata import standardFonts
+
+        aliases = {
+            "CourierScreenplay": "Courier",
+            "CourierScreenplay-Bold": "Courier-Bold",
+            "CourierScreenplay-Italic": "Courier-Oblique",
+            "CourierScreenplay-BoldItalic": "Courier-BoldOblique",
+        }
+        for alias, base_name in aliases.items():
+            if base_name not in standardFonts:
+                raise FileNotFoundError(f"Required standard Courier font is missing: {base_name}")
+            pdfmetrics.registerFont(pdfmetrics.Font(alias, base_name, "WinAnsiEncoding"))
+        pdfmetrics.registerFontFamily(
+            "CourierScreenplay",
+            normal="CourierScreenplay",
+            bold="CourierScreenplay-Bold",
+            italic="CourierScreenplay-Italic",
+            boldItalic="CourierScreenplay-BoldItalic",
+        )
+        return
     for name, path in FONT_FILES.items():
         if not path.exists():
             raise FileNotFoundError(f"Required screenplay font is missing: {path}")

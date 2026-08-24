@@ -1,8 +1,18 @@
 # EKPO — AUTHORITATIVE CANONICAL MYTHOLOGY
 
 Status: LOCKED / FOUNDATIONAL
-Effective: 2026-08-13
+Effective: 2026-08-24
 Authority: Latest explicit creator instruction
+
+## Controlling 2026-08-24 creator revision
+
+This addendum expressly controls incompatible earlier wording below. The covenant still maintains the relation between complementary Seen and Unseen conditions; the shrine, maintained inner door and ancient domed chamber are one regulatory system, not a prison or two unrelated portals.
+
+An unauthorized, unnamed and unseen inward disturbance precedes the familiar ancient Entity. The familiar presence responds afterward to correct the disrupted boundary, yet its failed translation remains physiologically dangerous and morally unreadable. Screen distinction stays limited to jagged/dark versus rounded/aged-gold pressure, water and restrained sound. Do not invent a second creature anatomy, human cult, pantheon or cosmological encyclopedia.
+
+The chamber contains only anchored geographically routed red load lines, copper/brass guides and forearm bands that seat around a voluntarily positioned operator. An overloaded circuit can recruit existing fixed shoulder/rib/ankle guides. Its governing rule is inlet plus exit, not chosen bloodline, sentient rope or supernatural machinery.
+
+The original sister-era brass carving remains a retired memento. The later Solomon-era active shrine fitting is already fractured by unauthorized pressure when Kai deliberately removes only its exposed half; the matching half remains seated until the separate final field repair. Solomon's sister died carrying both human functions alone while Solomon was absent; her ordinary message establishes that the familiar presence came after the intrusion. She never becomes a ghost. All three brothers survive by opening the river return, sharing load and finally reseating the missing half beneath an openable red binding.
 
 This document supersedes prior working mythology wherever those materials conflict with it. It is a repository-level canon source, not a screenplay scene and not permission to invent additional mythology.
 

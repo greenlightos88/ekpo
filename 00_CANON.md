@@ -1,15 +1,23 @@
 # EKPO CANON
 
-Version: 6.2 — Brass Continuity Lock / Sequence 13 Market Candidate
-Effective: 2026-08-17
-Status: ACTIVE CANDIDATE CANON ON PR #3
+Version: 7.0 — Complete Feature / Ancient Pressure Chamber / Shared Survival
+Effective: 2026-08-24
+Status: ACTIVE COMPLETE-FEATURE CANDIDATE CANON ON DRAFT PR #4 / UNMERGED
 
 Primary mythology source: `EKPO_Canonical_Mythology_Refactor.md`
 Merged dramatic baseline: `main` through Sequence 12
-Active revision branch: `agent/sequence-12-geography-sequence-13-marketplace`
+Active revision branch: `agent/sequence-14-what-was-due`
 Candidate screenplay: `01_SCREENPLAY.fountain`
 Candidate reading copy: `output/pdf/EKPO_Screenplay.pdf`
 Current continuity: `docs/CURRENT_CONTINUITY.md`
+
+## Controlling complete-feature canon — supersedes incompatible historical state below
+
+The screenplay now runs through Sequence 26, `A WAY HOME`. A steep staircase behind the ordinary red-corded household door descends into an ancient closed domed chamber. Its centered inner maintained door, anchored red lines, copper distribution guides, brass operating bands, western shrine and river return belong to one boundary-regulation circuit. The inner door briefly opens to a controlled physical antechamber only during the climax.
+
+Unauthorized unseen inward pressure occurs first; the familiar ancient Entity arrives afterward to correct the boundary and remains dangerous to perceive. Distinction comes from jagged dark versus rounded aged-gold water/reflection/sound signatures, not a second visible monster or a taxonomy. Solomon's sister died carrying both procedural and perceptual work alone while Solomon was away playing music. Her personality, skill and final message emerge materially. Solomon was never shown alive; his subsequent overreinforcement blocked the return and withheld succession.
+
+Exactly two historical brass object identities remain. The retired sister-era carving stays a separate Vancouver memento in Kai's bag. The later active shrine fitting is already fractured when Kai deliberately removes only its exposed half; the matching half remains seated until the final injured return. Ade first suffers a lasting shoulder/rib injury through a dead-end correction, then joins the open return and tells Malik, “Give me one side.” Kai reads indirect water patterns; Malik releases sole control. All three survive with continuing injuries and reseat the missing half under an openable binding. Bode and Eno remain bounded family/household helpers. Specialist cultural naming/review remains deferred.
 Spatial authority: `docs/HOUSE_GEOGRAPHY.md`
 Cord-array authority: `docs/REGULATOR_CORD_ARRAY.md`
 Brass-object authority: `docs/BRASS_OBJECT_CONTINUITY.md`

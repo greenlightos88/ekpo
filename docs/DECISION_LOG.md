@@ -11,6 +11,40 @@ Older decisions remain historical when superseded and must not silently return.
 ---
 
 DATE:
+2026-08-24
+
+TITLE:
+Complete Feature Architecture — Ancient Pressure Chamber, Two Signatures, Split Active Fitting and Shared Survival
+
+DECISION:
+The creator expressly authorizes coordinated revisions to approved earlier screenplay scenes and continuation through Sequence 26. The existing draft PR remains unmerged. This decision supersedes incompatible older locks while preserving them as historical records below.
+
+The prior four-step, semi-underground room, high slatted windows, flat inner-wall knot array and prohibition on all operator recruitment are superseded. An ordinary outer red-corded door now conceals a deep stone staircase into a closed ancient domed pressure chamber. The maintained inner door is centered opposite the descent. Anchored red load lines and copper/brass guides route pressure from that threshold toward the real western shrine, river-return and land bearings. Two forearm bands seat to a consenting operator; overload may recruit additional lines along fixed shoulder, rib and ankle guides. No loose rope becomes sentient and no operator is cosmically selected. Pressure requires an entrance and an exit.
+
+The earlier one-source assumption is superseded without introducing a creature taxonomy. An unauthorized unseen inward disturbance precedes the familiar independent Entity, which arrives to correct the boundary while remaining nonhuman and dangerous to perceive. Dark bruised reflections/jagged low pressure and aged-gold threshold response/slow rounded low pressure distinguish them. Water makes both patterns legible. The inner door briefly opens to a controlled physical antechamber only during the climax; it is never an unrelated portal or prison.
+
+The former whole-talisman removal is superseded. Exactly two historical brass object identities remain: the retired sister-era carving Solomon kept as a memento, and the later active replacement installed after her death. Unauthorized pressure fractures the active replacement before Kai acts. Kai deliberately removes the exposed half; the other half remains seated in the shrine until all three injured brothers restore the missing half and bind it with an openable knot in Sequence 26.
+
+Solomon's sister attempted both stewardship functions when the historical disturbance occurred while Solomon was away playing music. Opposed unauthorized/correcting pressure overloaded the circuit and killed her through compression, traction and breath loss before he returned. Her identity and skill are recovered through photographs, ordinary records, a clinical account, damaged brass, a floor stain and a message impression: the familiar presence came after the first disturbance. She is never a ghost. Solomon is never shown alive. His later fear produced excessive reinforcement, a blocked return and access without succession.
+
+Malik, Kai and Ade all survive. Ade's first failed attempt to pull Malik against the load injures his shoulder/ribs. He later joins the return route, allows pressure to pass through him and repeats the funeral line, “Give me one side.” Kai reads indirect water patterns; Malik releases exclusive control and corrects the central index. Injuries persist through the separate final shrine repair. Bode supplies ordinary family/land assistance and a previously established vehicle-plus-footpath route; Eno retains household authority.
+
+The complete screenplay, producer PDF, decision/canon/character documents, geography, object-custody register and injury ledger must be synchronized. A qualified Efik/Calabar cultural review, the sister's culturally verified name and production safety consultation remain deferred rather than fabricated.
+
+STATUS:
+LOCKED CREATOR-APPROVED COMPLETE-FEATURE CANDIDATE / DRAFT PR #4 / NOT MERGED
+
+SUPERSEDES:
+- flat-wall array, four-step geometry, high slatted windows and no-recruitment rules;
+- whole-object active-talisman removal;
+- any one-presence-only interpretation that makes the familiar Entity the initial intruder;
+- the “inner door never opens” lock solely to permit the narrowly controlled climax antechamber;
+- stale current-state endpoints at Sequences 10, 12 or 13;
+- any isolated-sacrifice or brother-death ending inconsistent with shared survival.
+
+---
+
+DATE:
 2026-08-13
 
 TITLE:
