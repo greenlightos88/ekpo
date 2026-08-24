@@ -1,8 +1,22 @@
 # EKPO CHARACTER CANON
 
 Status: ACTIVE CHARACTER AUTHORITY
-Last synchronized: 2026-08-17
-Canonical development baseline: End of Sequence 13 — `THE MARKET` on PR #3
+Last synchronized: 2026-08-24
+Canonical development baseline: Complete feature through Sequence 26 — `A WAY HOME`, on draft PR #4 / unmerged.
+
+## Controlling complete-feature character progression
+
+Solomon was once freer and played music in town; he is never shown alive. During the historical unauthorized surge, his absence left Emma carrying both functions. Emma's death turned him toward rigid reinforcement, physical return trips to Calabar, a blocked river return, preserved records and secrecy without succession. Photographs, a cassette, a receipt and procedural entries disclose this change without a flashback.
+
+Emma, Solomon and Bode's sister, was a complete perceptual partner and ordinary person. Bode identifies her by name at the funeral. She survives through an orange-stained work photograph, shopping/record notes, self-correcting drawings, dry humor, a clinic account and the impression of an urgent missed message: the familiar presence came after the initial disturbance. Emma is not a ghost, vessel or chosen priestess.
+
+Malik initially defends Solomon's chronology, stops the old music and confronts Bode over having inherited control as a supposed method for preventing harm. He voluntarily enters the central working circuit, repeats his father's impulse to carry everything, then survives by relinquishing half the load and making the correct central adjustment. His breathing injury, wrist/rib abrasions and numb fingers remain through the final field repair.
+
+Kai deliberately removes only the exposed half of an already fractured active shrine fitting; the other half remains seated. He visibly retrieves the camera left behind before the market. The separate retired carving remains in his camera bag except during explicit comparison. He initially assigns the familiar form to the wrong pressure rhythm, admits the error and verifies the correct order with his brothers through water, drawings and reflected observation without becoming chosen. Tremor, eye bleeding, nausea and unstable balance persist.
+
+Ade first injures his shoulder/ribs by pulling against Malik's incoming load. Eno acknowledges privately that returning will hurt; Ade remains by choice. He also notices the sister's pressed message and helps Kai correct the two-rhythm misreading. He learns that the pressure must pass through an open return, joins that route and recalls Bode's funeral line: “Give me one side.” He remains a socially and practically intelligent human brother, never a supernatural officeholder; his injury persists.
+
+Bode supplies bounded family testimony, evacuation help and his established pickup/service-track knowledge without becoming a maintenance proxy. Eno protects the household, treats injuries, recovers the sister's personhood and provides the final openable binding without becoming a mystical expert. This section supersedes any older endpoint, whole-talisman or unrevealed-history state below.
 
 Use historical character-development files for performance depth only where they do not conflict with this file.
 
@@ -38,7 +52,7 @@ Responsibilities included:
 
 Original failure:
 
-In young adulthood Solomon failed his procedural side of the partnership. The exact mundane act remains intentionally unfinalized.
+In young adulthood Solomon failed his procedural side of the partnership by staying away in town playing music when he was expected to return. Dated receipts, family testimony and his later records establish this materially; he is never shown alive.
 
 His sister had to restore equilibrium without the support his function should have provided. She died doing so.
 
@@ -52,7 +66,7 @@ Afterward he became obsessive, maintained his procedural side meticulously, stud
 
 The brass carving later hidden in Solomon's Vancouver blue drawer is a retired regulatory component from the period when he and his sister worked together.
 
-After the catastrophic rupture and her death, Solomon retired that older sister-era piece and installed a new active brass talisman as part of rebuilding/stabilizing his procedural side. The new talisman is the one Kai removes from the shrine in Sequence 6.
+After the catastrophic rupture and her death, Solomon retired that older sister-era piece and installed a new active brass fitting as part of rebuilding/stabilizing his procedural side. In Sequence 6 the later fitting has already fractured; Kai removes only its exposed half while the matching half remains seated in the shrine.
 
 Solomon kept the retired piece and carried it to Canada. It is a material memento of:
 
@@ -130,10 +144,11 @@ Performance law:
 
 Solomon remains human: loving, funny in memory, withholding, controlling, frightened, competent, obsessive, and morally compromised. Never turn him into an omniscient posthumous mastermind.
 
-## Solomon's Sister
+## Emma — Solomon and Bode's Sister
 
 Story state:
 
+- named Emma by explicit creator decision;
 - dead before the film begins;
 - younger sister of Solomon and Bode;
 - deliberately erased from the scratched photograph;
@@ -164,7 +179,7 @@ Brass continuity:
 
 The retired brass carving later kept by Solomon in Canada comes from the period of their shared stewardship work. It is evidence of the partnership that existed while she was alive, not proof that she personally owned a magical talisman.
 
-The active shrine talisman Kai removes is a later Solomon-era replacement installed after her death during post-catastrophe rebuilding/stabilization.
+The active shrine fitting is a later Solomon-era replacement installed after Emma's death during post-catastrophe rebuilding/stabilization. Kai removes only its already-fractured exposed half; the matching half stays seated at the shrine.
 
 Death canon:
 

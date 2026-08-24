@@ -11,6 +11,88 @@ Older decisions remain historical when superseded and must not silently return.
 ---
 
 DATE:
+2026-08-24
+
+TITLE:
+Emma Naming Lock and Final Dramatic/Production-Legibility Refinement
+
+DECISION:
+The creator names Solomon and Bode's sister **Emma**. This explicit decision supersedes all earlier instructions treating her first name as unknown, culturally deferred or intentionally withheld. The separately deferred qualified Efik/Calabar review still applies to culturally specific terminology and production authenticity, but not to Emma's creator-approved name.
+
+Bode first identifies Emma at Solomon's funeral. Her name then occurs naturally in family testimony, her notebooks, the old photograph, the clinical discussion and the chamber history. Emma remains a human perceptual co-steward, never a ghost, vessel, chosen priestess or explanatory apparition. Her crossed-out first observations, corrective water-facing notes, dry humor and insistence on an open return give her independent judgment without shifting her into Solomon's procedural office.
+
+Remaining screenplay refinements are integrated without changing mythology: the object comparison is physically staged across the chamber floor, wall map and elevated worktable; the two-rhythm discovery plays across staggered veranda steps, rail and reflected washbasin; Emma's final writing impression is uncovered collaboratively on a floor mat with side lighting. Explanatory dialogue and duplicate climax descriptions are reduced. The climax preserves a single audience-reading order: water direction, red-line load, injured bodies, then controlled threshold response.
+
+`docs/PRESSURE_CHAMBER_PRODUCTION_AND_SAFETY_PLAN.md` provides development-level blocking, practical-effects, safety, sound, accessibility, reset and professional-approval requirements. It is not a substitute for qualified stunt, rigging, medical, acoustic or on-set safety authorization.
+
+STATUS:
+LOCKED CREATOR NAME / ACTIVE REFINEMENT / DRAFT PR #4 / NOT MERGED
+
+SUPERSEDES:
+- any active instruction calling Solomon's sister unnamed or postponing Emma's first name;
+- table-bound repetitive discovery staging and redundant explanatory dialogue;
+- assumptions that production safety can be guaranteed by screenplay prose alone.
+
+---
+
+DATE:
+2026-08-24
+
+TITLE:
+Prestige Dramatic-Depth Revision — 99-Page Feature, Shared Evidence and Character-Driven Resistance
+
+DECISION:
+The creator authorizes continuation of the complete-feature revision without changing the accepted mythology or ending. The prior 82-screenplay-page / 8.7-out-of-10 candidate is developed into a 99-screenplay-page feature that adds family consequence, sustained dread and earned disagreement rather than new lore.
+
+Eno explicitly relocates relatives and permits the western inspection only under no-ravine/no-repair/daylight conditions. Kai visibly retrieves the camera he left at the house before the market. Bode confirms he previously drove Solomon only to the land-service gate and did not participate in hidden maintenance. The retired carving returns to Kai's bag while Ade separately carries the active broken half back upstairs; their later room-to-room custody stays explicit.
+
+Malik initially resists evidence of Solomon's youthful failure and confronts Bode about inheriting control as a false promise of safety. Kai first matches the familiar form to the wrong pressure signature, and all three brothers correct the sequence before taking that interpretation into the chamber. After the first correction injures Ade, Eno gives him an honest private choice without promising safety. The sister's pressed final message becomes a collective discovery: Ade notices the impression, Malik positions the light and Kai reads the image indirectly. Household evacuation and the brothers' consent are explicit before the final descent.
+
+All earlier pressure-chamber scene headings now use the same production location. Abstract writer-room prose has been replaced by visible action. The standalone Sequence 14 draft remains historical only; the integrated Fountain/PDF controls.
+
+STATUS:
+LOCKED CREATOR-APPROVED DRAMATIC-DEPTH REVISION / DRAFT PR #4 / NOT MERGED
+
+SUPERSEDES:
+The prior 82-page complete-feature candidate and any instruction to add mythology, flatten the sister, restore whole-talisman removal, or treat the standalone Sequence 14 draft as current dramatic authority.
+
+---
+
+DATE:
+2026-08-24
+
+TITLE:
+Complete Feature Architecture — Ancient Pressure Chamber, Two Signatures, Split Active Fitting and Shared Survival
+
+DECISION:
+The creator expressly authorizes coordinated revisions to approved earlier screenplay scenes and continuation through Sequence 26. The existing draft PR remains unmerged. This decision supersedes incompatible older locks while preserving them as historical records below.
+
+The prior four-step, semi-underground room, high slatted windows, flat inner-wall knot array and prohibition on all operator recruitment are superseded. An ordinary outer red-corded door now conceals a deep stone staircase into a closed ancient domed pressure chamber. The maintained inner door is centered opposite the descent. Anchored red load lines and copper/brass guides route pressure from that threshold toward the real western shrine, river-return and land bearings. Two forearm bands seat to a consenting operator; overload may recruit additional lines along fixed shoulder, rib and ankle guides. No loose rope becomes sentient and no operator is cosmically selected. Pressure requires an entrance and an exit.
+
+The earlier one-source assumption is superseded without introducing a creature taxonomy. An unauthorized unseen inward disturbance precedes the familiar independent Entity, which arrives to correct the boundary while remaining nonhuman and dangerous to perceive. Dark bruised reflections/jagged low pressure and aged-gold threshold response/slow rounded low pressure distinguish them. Water makes both patterns legible. The inner door briefly opens to a controlled physical antechamber only during the climax; it is never an unrelated portal or prison.
+
+The former whole-talisman removal is superseded. Exactly two historical brass object identities remain: the retired sister-era carving Solomon kept as a memento, and the later active replacement installed after her death. Unauthorized pressure fractures the active replacement before Kai acts. Kai deliberately removes the exposed half; the other half remains seated in the shrine until all three injured brothers restore the missing half and bind it with an openable knot in Sequence 26.
+
+Solomon's sister attempted both stewardship functions when the historical disturbance occurred while Solomon was away playing music. Opposed unauthorized/correcting pressure overloaded the circuit and killed her through compression, traction and breath loss before he returned. Her identity and skill are recovered through photographs, ordinary records, a clinical account, damaged brass, a floor stain and a message impression: the familiar presence came after the first disturbance. She is never a ghost. Solomon is never shown alive. His later fear produced excessive reinforcement, a blocked return and access without succession.
+
+Malik, Kai and Ade all survive. Ade's first failed attempt to pull Malik against the load injures his shoulder/ribs. He later joins the return route, allows pressure to pass through him and repeats the funeral line, “Give me one side.” Kai reads indirect water patterns; Malik releases exclusive control and corrects the central index. Injuries persist through the separate final shrine repair. Bode supplies ordinary family/land assistance and a previously established vehicle-plus-footpath route; Eno retains household authority.
+
+The complete screenplay, producer PDF, decision/canon/character documents, geography, object-custody register and injury ledger must be synchronized. A qualified Efik/Calabar cultural review and production safety consultation remain deferred rather than fabricated. The former sister-name deferral in this historical decision was later superseded by the creator's explicit Emma naming lock.
+
+STATUS:
+LOCKED CREATOR-APPROVED COMPLETE-FEATURE CANDIDATE / DRAFT PR #4 / NOT MERGED
+
+SUPERSEDES:
+- flat-wall array, four-step geometry, high slatted windows and no-recruitment rules;
+- whole-object active-talisman removal;
+- any one-presence-only interpretation that makes the familiar Entity the initial intruder;
+- the “inner door never opens” lock solely to permit the narrowly controlled climax antechamber;
+- stale current-state endpoints at Sequences 10, 12 or 13;
+- any isolated-sacrifice or brother-death ending inconsistent with shared survival.
+
+---
+
+DATE:
 2026-08-13
 
 TITLE:

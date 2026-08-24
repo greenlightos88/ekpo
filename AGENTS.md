@@ -27,23 +27,19 @@ Before writing, revising, critiquing, restructuring, or exporting EKPO:
 
 ## Current screenplay state
 
-Canonical through: End of Sequence X - `THE TWO RECORDS`.
+Active creator-authorized draft candidate through: End of Sequence 26 - `A WAY HOME`, on draft PR #4 / branch `agent/sequence-14-what-was-due`. The candidate is not merged.
 
 Current authoritative PDF:
 
 - `output/pdf/EKPO_Screenplay.pdf`
-- 46 physical pages total
-- 1 title page + 45 screenplay pages
+- One title page followed by the complete 26-sequence screenplay.
+- Current verified physical-page count is maintained in `PROJECT_MANIFEST.yaml` after render.
 
 Current synchronized editable source:
 
 - `01_SCREENPLAY.fountain`
 
-The canonical post-river sequences are:
-
-- VIII - `THE DISTANCE BETWEEN`
-- IX - `WHAT HE OPENED`
-- X - `THE TWO RECORDS`
+Post-river and later sequence numbers use Arabic numerals. The complete candidate continues through Sequence 26; consult `PROJECT_MANIFEST.yaml` for the ordered list.
 
 Do not restore the superseded versions `THE HOUSE LISTENS`, `THE BROKEN KNOT`, or `THE CLOSED ROOM`.
 
@@ -66,11 +62,11 @@ Do not restore removed material merely because it survives in old PDFs, chats, b
 - Seen and Unseen are complementary conditions of reality.
 - Covenant = stewardship maintaining their relationship, not monster containment.
 - Shrine = regulator/alignment point, never a prison.
-- Entity = independent ancient Unseen intelligence attracted to breaches; breach does not create it.
+- Familiar Entity = independent ancient Unseen intelligence responding after an unauthorized inward disturbance; the second presence remains unseen and the breach creates neither.
 - Attention creates proximity; perception is reciprocal.
 - Entity physicality in the Seen is failed translation, not a literal spider body.
 - Solomon = procedural / Seen-facing custodian.
-- Solomon's sister = perceptual / Unseen-facing custodian.
+- Emma, Solomon and Bode's sister = perceptual / Unseen-facing custodian; her creator-approved name is established at the funeral.
 - They were partners, not rivals.
 - Succession requires capacity recognition, training, and voluntary acceptance.
 - Solomon physically returned to Calabar for maintenance.
@@ -79,8 +75,11 @@ Do not restore removed material merely because it survives in old PDFs, chats, b
 - Kai has perceptual aptitude, not Chosen One status.
 - Ade has no supernatural office.
 - Eno is household/family authority, not mythology expert.
-- The sister's complete death causality remains deferred on-page.
-- The inner maintained door belongs to the same covenant system and is not a second portal/cage.
+- The sister's death causality is earned through physical records, an ordinary message impression, the chamber network and family evidence; she is never a ghost.
+- The inner maintained door belongs to the same covenant system and briefly opens only to a controlled physical antechamber, not a second portal/cage.
+- Exactly two historical brass object identities exist; the active replacement fractures into two halves, one of which remains seated until the final repair.
+- An ancient domed chamber uses anchored red load lines, geographically routed brass/copper guides, consenting operating bands and an open return; overload does not animate loose ropes or choose a bloodline.
+- All three brothers survive through shared load; injuries remain visible during the separate final shrine repair.
 
 ## After every accepted screenplay revision
 

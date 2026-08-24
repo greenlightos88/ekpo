@@ -1,8 +1,22 @@
 # EKPO MOTIF LEDGER
 
 Status: ACTIVE
-Last synchronized: 2026-08-17
-Revision-branch endpoint: End of Sequence 13 — `THE MARKET` (PR #3 candidate)
+Last synchronized: 2026-08-24
+Revision-branch endpoint: End of Sequence 26 — `A WAY HOME` (draft PR #4 / unmerged)
+
+## Controlling complete-feature motif progression
+
+- **Red:** practical household hitch, geographically anchored chamber load, Solomon's overtight western bindings, and the final secure but openable shrine loop. Loose cords never become sentient.
+- **Brass:** exactly two historical identities: retired sister-era carving versus later active fitting fractured into two halves. Forearm bands and guides are hardware, not additional talismans. The Vancouver carving remains separate from the final repair.
+- **Water:** sharp crowded inward ripples indicate unauthorized disturbance; slow concentric outward rings indicate the familiar corrective response. Reflected observation lets Kai perceive without staring into the threshold.
+- **Color:** bruised violet/blue-black appears only as restrained unauthorized reflection; aged gold/pale bone marks the familiar threshold response; red alone communicates carried human load.
+- **Sound:** low irregular serrated pressure arrives first; a slower rounded low pulse follows. No in-screenplay synthesizer jargon or overpowering continuous bass.
+- **Hands/weight:** Bode's funeral “Give me one side” becomes Ade's earned climax line. Malik learns to release weight; Kai needs help aligning the broken half; Ade catches the openable final knot with his usable hand.
+- **Architecture:** steep descent, closed dome, centered inner door, physical controlled antechamber, anchored geographic lines, central floor stain and open river return replace the superseded flat-wall knot array.
+- **Solomon/Emma:** cassette, laughing photograph, orange, ordinary shopping/record notes, crossed-out observation arrows, dry humor, dated receipt, clinical account and missing-page impression restore two people rather than creating ghosts. Bode names Emma at the funeral.
+- **Injury:** persistent breath failure/welts/numbness, ocular bleeding/tremor/nausea and shoulder/rib/ear injury remain visible through the separate final shrine repair.
+
+This section supersedes incompatible older flat-array, whole-talisman and deferred-reveal examples below.
 
 This ledger governs recurring images, materials, sounds, spaces, and behaviors. Motifs may deepen through changed context but may not mutate into a different symbolic system without a logged decision.
 

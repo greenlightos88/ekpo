@@ -2,13 +2,13 @@
 
 Version: 1.1 - Foundational Character Development Archive
 
-Status: LEGACY FOUNDATION — SUPERSEDED WHERE CONFLICTS WITH CURRENT SEQUENCE 12 CHARACTER AUTHORITY
+Status: LEGACY FOUNDATION — SUPERSEDED WHERE CONFLICTS WITH COMPLETE-FEATURE CHARACTER AUTHORITY THROUGH SEQUENCE 26
 
 ## Purpose
 
 This file preserves the project's foundational character-development work through the earlier screenplay state. It is **not the current top-level character authority where later canon has changed.**
 
-For current screenplay work through Sequence 12, read first: `docs/CHARACTER_CANON.md`, `docs/CHARACTER_VOICE_CONSTITUTION.md`, `docs/ENTITY_HORROR_PHYSIOLOGY.md`, `docs/CULTURAL_LANGUAGE_REGISTER.md`, and the current screenplay/PDF. Where those sources conflict with material below, the newer sources supersede this archive.
+For current screenplay work through Sequence 26, read first: `docs/CHARACTER_CANON.md`, `docs/CHARACTER_VOICE_CONSTITUTION.md`, `docs/ENTITY_HORROR_PHYSIOLOGY.md`, `docs/INJURY_CONTINUITY_LEDGER.md`, `docs/CULTURAL_LANGUAGE_REGISTER.md`, and the current screenplay/PDF. Where those sources conflict with material below, the newer sources supersede this archive. The active ending preserves all three brothers: Malik relinquishes exclusive load, Kai reads indirect pressure patterns and Ade completes the open return despite a persistent shoulder/rib injury. Emma, Solomon and Bode's sister, remains a named, materially recovered person rather than a spirit.
 
 This archive remains useful for deep psychology, relationship engines, performance questions, and historical development that has not been superseded. Do not resurrect an old mythology assumption merely because it remains documented below.
 

@@ -1,57 +1,14 @@
 # EKPO SCREENPLAY AUTHORITY
 
-Status: LOCKED WORKFLOW LAW
-Effective: 2026-08-13
+Status: LOCKED WORKFLOW LAW / COMPLETE FEATURE CANDIDATE
+Updated: 2026-08-24
 
-## Authoritative dramatic artifact
+`output/pdf/EKPO_Screenplay.pdf` is the producer-facing dramatic reading artifact. `01_SCREENPLAY.fountain` is its synchronized editable source. The latest explicit creator instruction outranks inherited architecture and authorizes documented reversals; consequential changes must update the decision log, mythology, geography, object custody, character state, injury ledger and producer PDF together.
 
-`output/pdf/EKPO_Screenplay.pdf` is the latest authoritative dramatic iteration of the EKPO screenplay.
+Active candidate branch: `agent/sequence-14-what-was-due`; existing draft PR: #4; base branch: `agent/sequence-12-geography-sequence-13-marketplace`. The candidate is **not merged authority** until the creator explicitly approves a merge.
 
-All screenplay analysis, continuation, revision, page-flow judgment, and story-position decisions must begin from that PDF.
+Current dramatic endpoint: Sequence 26 — `A WAY HOME`. Verified producer length and the expanded creator-authorized regression suite are recorded by `PROJECT_MANIFEST.yaml` and the latest full-feature audit after each synchronized render. Emma is the creator-approved first name of Solomon and Bode's sister.
 
-## Editable mirror
+The previously inherited 46-page/Sequence-10, 58-page/Sequence-12 and initial 83-page complete-feature descriptions are historical, not current. The inspected incoming PR baseline was 64 physical pages through Sequence 13 before the creator-approved complete-feature and dramatic-depth revisions. `development/drafts/SEQUENCE_14_WHAT_WAS_DUE.fountain` is explicitly labeled historical and cannot supersede integrated screenplay pages.
 
-`01_SCREENPLAY.fountain` is the editable synchronized source used to reproduce the authoritative PDF.
-
-It is not permitted to silently outrank the PDF.
-
-If the Fountain and output PDF ever differ:
-
-1. stop new screenplay writing;
-2. identify the divergence;
-3. treat the latest approved output PDF as dramatic truth;
-4. reconcile the Fountain to the PDF;
-5. regenerate the PDF only after an explicitly approved screenplay change;
-6. verify the regenerated PDF before declaring synchronization restored.
-
-## Canon documentation
-
-Canon, continuity, character, motif, decision, bible, and session documents explain and protect the screenplay but do not silently rewrite approved pages.
-
-If documentation conflicts with the authoritative PDF:
-
-- determine whether the creator explicitly changed canon after that PDF;
-- if yes, flag the affected screenplay pages for deliberate rewrite;
-- if no, the PDF controls the dramatic fact.
-
-## Current state
-
-Current authoritative PDF:
-
-- `output/pdf/EKPO_Screenplay.pdf`
-- 46 physical pages total
-- 1 title page + 45 screenplay pages
-- canonical through Sequence X - `THE TWO RECORDS`
-
-Current synchronized editable source:
-
-- `01_SCREENPLAY.fountain`
-
-Current post-river sequence architecture:
-
-- VII - `THE RIVER BOUNDARY`
-- VIII - `THE DISTANCE BETWEEN`
-- IX - `WHAT HE OPENED`
-- X - `THE TWO RECORDS`
-
-The superseded versions `THE HOUSE LISTENS`, `THE BROKEN KNOT`, and `THE CLOSED ROOM` are historical only.
+If Fountain and PDF diverge after an accepted revision, stop further story work, identify the approved dramatic source, reconcile deliberately, regenerate with `tools/render_screenplay.py`, and validate the finished producer PDF.
