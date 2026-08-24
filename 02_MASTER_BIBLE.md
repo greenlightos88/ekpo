@@ -10,7 +10,7 @@ An ordinary household red-corded door conceals a deep staircase and an ancient d
 
 An unauthorized unseen inward disturbance precedes the familiar nonhuman corrective Entity; jagged dark water/reflection/sound and slow rounded aged-gold response distinguish the forces. The Entity remains frightening without becoming the initial intruder, a mascot, a creature-fight opponent or a prison escapee.
 
-Solomon's sister died when she had to carry both stewardship functions alone while her younger brother was away playing music. Her last ordinary writing impression says the familiar presence came afterward. Solomon's subsequent grief produced excessive reinforcement, a closed return, hidden records and the failure to train his sons.
+Emma, Solomon and Bode's sister, died when she had to carry both stewardship functions alone while Solomon was away playing music. Bode names Emma at the funeral; her independent perceptual work, self-correcting observations, dry humor and final ordinary writing impression survive materially. The familiar presence came afterward. Solomon's subsequent grief produced excessive reinforcement, a closed return, hidden records and the failure to train his sons.
 
 Two historical brass objects remain distinct: the retired original carried from Vancouver and the later active shrine replacement. The latter is already fractured when Kai removes its exposed half; the seated half remains at the shrine. Malik, Kai and Ade survive the chamber by distributing the pressure through an open return, then return the missing half together while visibly injured. This addendum supersedes any older endpoint, flat-wall geometry, whole-talisman custody or one-force-only language below.
 
@@ -122,7 +122,7 @@ His work:
 
 His psychology already embodies this: discipline, checking, repetition, logistics, protection through systems.
 
-### Solomon's sister — perceptual / Unseen-facing
+### Emma — Solomon and Bode's sister; perceptual / Unseen-facing
 
 Her work:
 

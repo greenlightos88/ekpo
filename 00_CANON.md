@@ -15,7 +15,7 @@ Current continuity: `docs/CURRENT_CONTINUITY.md`
 
 The screenplay now runs through Sequence 26, `A WAY HOME`. A steep staircase behind the ordinary red-corded household door descends into an ancient closed domed chamber. Its centered inner maintained door, anchored red lines, copper distribution guides, brass operating bands, western shrine and river return belong to one boundary-regulation circuit. The inner door briefly opens to a controlled physical antechamber only during the climax.
 
-Unauthorized unseen inward pressure occurs first; the familiar ancient Entity arrives afterward to correct the boundary and remains dangerous to perceive. Distinction comes from jagged dark versus rounded aged-gold water/reflection/sound signatures, not a second visible monster or a taxonomy. Solomon's sister died carrying both procedural and perceptual work alone while Solomon was away playing music. Her personality, skill and final message emerge materially. Solomon was never shown alive; his subsequent overreinforcement blocked the return and withheld succession.
+Unauthorized unseen inward pressure occurs first; the familiar ancient Entity arrives afterward to correct the boundary and remains dangerous to perceive. Distinction comes from jagged dark versus rounded aged-gold water/reflection/sound signatures, not a second visible monster or a taxonomy. Emma, Solomon and Bode's sister, died carrying both procedural and perceptual work alone while Solomon was away playing music. Bode names Emma at the funeral; her personality, fallible observation, skill and final message emerge materially. Solomon was never shown alive; his subsequent overreinforcement blocked the return and withheld succession.
 
 Exactly two historical brass object identities remain. The retired sister-era carving stays a separate Vancouver memento in Kai's bag. The later active shrine fitting is already fractured when Kai deliberately removes only its exposed half; the matching half remains seated until the final injured return. Ade first suffers a lasting shoulder/rib injury through a dead-end correction, then joins the open return and tells Malik, “Give me one side.” Kai reads indirect water patterns; Malik releases sole control. All three survive with continuing injuries and reseat the missing half under an openable binding. Bode and Eno remain bounded family/household helpers. Specialist cultural naming/review remains deferred.
 Spatial authority: `docs/HOUSE_GEOGRAPHY.md`
@@ -144,7 +144,7 @@ Solomon and his sister were complementary partners, not competing successors.
 
 His function centered on maintenance, alignment, bindings, knots, materials, intervals, measurements, records, environmental conditions, and physical integrity of the regulatory system.
 
-### Solomon's sister — perceptual / Unseen-facing
+### Emma — Solomon and Bode's sister; perceptual / Unseen-facing
 
 Her function centered on perceiving Unseen pressure, distinguishing disturbance from noise, interpreting manifestations, tracking environmental change, understanding how attention changes contact, and documenting perceptual phenomena.
 

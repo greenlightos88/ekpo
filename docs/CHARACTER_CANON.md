@@ -6,9 +6,9 @@ Canonical development baseline: Complete feature through Sequence 26 — `A WAY 
 
 ## Controlling complete-feature character progression
 
-Solomon was once freer and played music in town; he is never shown alive. During the historical unauthorized surge, his absence left his sister carrying both functions. Her death turned him toward rigid reinforcement, physical return trips to Calabar, a blocked river return, preserved records and secrecy without succession. Photographs, a cassette, a receipt and procedural entries disclose this change without a flashback.
+Solomon was once freer and played music in town; he is never shown alive. During the historical unauthorized surge, his absence left Emma carrying both functions. Emma's death turned him toward rigid reinforcement, physical return trips to Calabar, a blocked river return, preserved records and secrecy without succession. Photographs, a cassette, a receipt and procedural entries disclose this change without a flashback.
 
-His unnamed sister was a complete perceptual partner and ordinary person, preserved through an orange-stained work photograph, shopping/record notes, drawings, a clinic account and the impression of an urgent missed message: the familiar presence came after the initial disturbance. She is not a ghost, vessel or chosen priestess.
+Emma, Solomon and Bode's sister, was a complete perceptual partner and ordinary person. Bode identifies her by name at the funeral. She survives through an orange-stained work photograph, shopping/record notes, self-correcting drawings, dry humor, a clinic account and the impression of an urgent missed message: the familiar presence came after the initial disturbance. Emma is not a ghost, vessel or chosen priestess.
 
 Malik initially defends Solomon's chronology, stops the old music and confronts Bode over having inherited control as a supposed method for preventing harm. He voluntarily enters the central working circuit, repeats his father's impulse to carry everything, then survives by relinquishing half the load and making the correct central adjustment. His breathing injury, wrist/rib abrasions and numb fingers remain through the final field repair.
 
@@ -144,10 +144,11 @@ Performance law:
 
 Solomon remains human: loving, funny in memory, withholding, controlling, frightened, competent, obsessive, and morally compromised. Never turn him into an omniscient posthumous mastermind.
 
-## Solomon's Sister
+## Emma — Solomon and Bode's Sister
 
 Story state:
 
+- named Emma by explicit creator decision;
 - dead before the film begins;
 - younger sister of Solomon and Bode;
 - deliberately erased from the scratched photograph;
@@ -178,7 +179,7 @@ Brass continuity:
 
 The retired brass carving later kept by Solomon in Canada comes from the period of their shared stewardship work. It is evidence of the partnership that existed while she was alive, not proof that she personally owned a magical talisman.
 
-The active shrine talisman Kai removes is a later Solomon-era replacement installed after her death during post-catastrophe rebuilding/stabilization.
+The active shrine fitting is a later Solomon-era replacement installed after Emma's death during post-catastrophe rebuilding/stabilization. Kai removes only its already-fractured exposed half; the matching half stays seated at the shrine.
 
 Death canon:
 

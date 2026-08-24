@@ -19,9 +19,9 @@ The superseded four steps, high yard-level slatted windows, flat wall array and 
 
 Unauthorized inward pressure occurs first. The familiar Entity arrives afterward to answer boundary disruption. Water/reflections and two sound rhythms distinguish the forces without introducing a second visible monster, a human cult or a taxonomy exposition dump.
 
-## Resolved: sister as vague martyr versus materially recoverable person
+## Resolved: Emma as vague martyr versus materially recoverable person
 
-Photographs, orange/record notes, dated receipts, a clinical record, damaged brass, a floor stain and a writing impression disclose her work and death. She never returns as a ghost or vessel. Solomon is never shown alive.
+Bode identifies Emma by name at the funeral. Photographs, orange/record notes, self-correcting observations, dated receipts, a clinical record, damaged brass, a floor stain and a writing impression disclose her independent work and death. Emma never returns as a ghost or vessel. Solomon is never shown alive.
 
 ## Resolved: isolated sacrifice versus three-brother distributed survival
 
@@ -29,7 +29,7 @@ The initial failed correction injures Ade; the climax pays off his learning, Mal
 
 ## Known open matters
 
-- The sister's name and final culturally specific terminology require the separately deferred specialist review.
+- Final culturally specific ritual terminology requires the separately deferred specialist review. Emma's creator-approved first name is settled canon.
 - Practical rigging, sound exposure and production safety require specialist assessment.
 - Long-term stewardship logistics after the ending are emotionally legible but deliberately not fully explained.
 - Feature-level prestige remains an artistic evaluation, not a status that can be proven by structural checks alone.

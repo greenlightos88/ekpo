@@ -37,6 +37,7 @@ canonical_sources:
     latest_technical_physical_pages: 100
     status: complete-feature-draft-unmerged
   audit: development/audits/EKPO_FULL_ARCHITECTURE_AND_SCREENPLAY_INTEGRITY_AUDIT_2026-08-24.md
+  production_safety: docs/PRESSURE_CHAMBER_PRODUCTION_AND_SAFETY_PLAN.md
 
 screenplay_state:
   candidate_sequences:
@@ -72,7 +73,7 @@ screenplay_state:
     status: complete-feature-candidate-not-merged
 
 locked_project_laws:
-  - "Solomon is never shown alive."
+  - "Solomon is never shown alive; his and Bode's sister is named Emma."
   - "Seen and Unseen are complementary; the shrine regulates rather than imprisons."
   - "The familiar Entity follows unauthorized inward pressure; the second presence remains unseen."
   - "Only anchored chamber lines recruit a consenting operator; no bloodline, chosen-one, ghost, possession or sentient-rope rules."
@@ -81,4 +82,4 @@ locked_project_laws:
   - "Malik, Kai and Ade survive by distributing pressure through an open return."
   - "The final shrine binding must hold while remaining openable."
   - "Bode and Eno retain bounded family and household functions."
-  - "Injuries persist; culturally specific naming and specialist authenticity review remain deferred."
+  - "Injuries persist; Emma is creator-approved canon while culturally specific ritual terminology and specialist authenticity review remain deferred."

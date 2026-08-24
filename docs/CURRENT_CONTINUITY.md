@@ -11,13 +11,13 @@ An ordinary red-corded house door conceals a steep descent into an ancient domed
 
 ## Causality
 
-Solomon and his sister originally shared procedural and perceptual stewardship. During the historical crisis, Solomon was away playing music. Unauthorized unseen inward pressure preceded the arrival of the familiar correcting presence. His sister attempted both human functions; opposed loads recruited her body and caused compression/traction/breath failure before Solomon returned. He retired their damaged original fitting, installed a later shrine replacement and over-tightened the system for years rather than transmitting the full partnership.
+Solomon and Emma originally shared procedural and perceptual stewardship. Emma is also Bode's sister; he names her at Solomon's funeral. During the historical crisis, Solomon was away playing music. Unauthorized unseen inward pressure preceded the arrival of the familiar correcting presence. Emma attempted both human functions; opposed loads recruited her body and caused compression/traction/breath failure before Solomon returned. He retired their damaged original fitting, installed a later shrine replacement and over-tightened the system for years rather than transmitting the full partnership.
 
 Present-day failure combines his death, missed inspections, overreinforced western bindings, a blocked river return, repeated unauthorized pressure, a pre-existing fracture in the replacement fitting and Kai's deliberate removal of its exposed half. The familiar Entity arrives after the intrusion and remains dangerous to perceive while correcting the boundary. It is not the cause, a mascot, or the sister.
 
 ## Two brass identities and custody
 
-The retired Vancouver carving stays separately wrapped in Kai's camera bag except when physically removed for visible family comparison; its history becomes legible through dates, mounting wear and a family photograph. The active replacement fractures into two physical halves but remains one object identity. Kai removes the exposed half; the other remains seated in the hidden shrine. After the Sequence 18 chamber comparison, Kai returns the retired carving to his bag and Ade carries the separately covered active half upstairs. During Sequence 21 the old carving is on the front-room table and the active half remains covered in the kitchen. The injured brothers later carry the active half back in Sequence 26, align the fracture and secure it with an openable red binding.
+The retired Vancouver carving stays separately wrapped in Kai's camera bag except when physically removed for visible family comparison; its history becomes legible through dates, mounting wear and a family photograph. The active replacement fractures into two physical halves but remains one object identity. Kai removes the exposed half; the other remains seated in the hidden shrine. After the Sequence 18 chamber comparison, Kai returns the retired carving to his bag and Ade carries the separately covered active half upstairs. During Sequence 21 the old carving is on its own cloth on the front-room floor mat and the active half remains covered in the kitchen. The injured brothers later carry the active half back in Sequence 26, align the fracture and secure it with an openable red binding.
 
 ## Character end states
 
@@ -27,7 +27,7 @@ The retired Vancouver carving stays separately wrapped in Kai's camera bag excep
 - Bode evacuates relatives, preserves bounded family testimony and uses his previously established land-service pickup route; he never becomes a trained steward.
 - Eno relocates ordinary relatives, imposes no-ravine/no-repair/daylight inspection conditions, protects family sightlines, preserves the sister's personhood, provides first aid and the final clean binding; she never becomes a mythology oracle.
 - Solomon is never shown alive; photographs, a cassette, receipts, procedural records and ordinary testimony disclose his earlier life and irreversible failure.
-- The sister appears only through photographs, handwriting, records and material consequences. She is not a ghost. Her name and final cultural terminology remain unresolved pending specialist review.
+- Emma appears only through photographs, handwriting, observational corrections, dry humor, records and material consequences. She is not a ghost. Her name is creator-approved canon; final culturally specific ritual terminology remains deferred pending specialist review.
 
 ## Closing state
 

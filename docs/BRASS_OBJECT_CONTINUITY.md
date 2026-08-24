@@ -5,13 +5,13 @@ Effective: 2026-08-24
 
 ## Object A: retired sister-era carving
 
-The older carving belonged to Solomon and his sister's shared regulatory work, not exclusively to her. It was damaged and retired after the historical catastrophe. Solomon retained it as a private material memento, eventually carried it to Vancouver and concealed it in his blue drawer. Kai brings it to Calabar in his camera bag and compares it with boundary markings and the old family photograph. In Sequence 18, dated replacement records and mounting wear identify it materially. At the end it remains separately wrapped in Kai's camera bag.
+The older carving belonged to Solomon and Emma's shared regulatory work, not exclusively to her. It was damaged and retired after the historical catastrophe. Solomon retained it as a private material memento of Emma and their partnership, eventually carried it to Vancouver and concealed it in his blue drawer. Kai brings it to Calabar in his camera bag and compares it with boundary markings and the old family photograph. In Sequence 18, dated replacement records and mounting wear identify it materially. At the end it remains separately wrapped in Kai's camera bag.
 
 It is never the active shrine fitting, a soul vessel, a magical amulet, a badge of inheritance, a prison key, a weapon or a convenient replacement part.
 
 ## Object B: later active Solomon-era shrine fitting
 
-After his sister's death Solomon installed a new brass component at the hidden shrine. Present-day repeated unauthorized pressure fractures this component along its center **before Kai removes anything**.
+After Emma's death Solomon installed a new brass component at the hidden shrine. Present-day repeated unauthorized pressure fractures this component along its center **before Kai removes anything**.
 
 1. Sequence 6: both broken halves are initially together in the shrine recess; brass dust and an outward-bowed cover establish prior damage.
 2. Kai deliberately removes the exposed half. The matching half remains physically seated in the shrine.

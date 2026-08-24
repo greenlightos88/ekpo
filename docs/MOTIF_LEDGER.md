@@ -13,7 +13,7 @@ Revision-branch endpoint: End of Sequence 26 — `A WAY HOME` (draft PR #4 / unm
 - **Sound:** low irregular serrated pressure arrives first; a slower rounded low pulse follows. No in-screenplay synthesizer jargon or overpowering continuous bass.
 - **Hands/weight:** Bode's funeral “Give me one side” becomes Ade's earned climax line. Malik learns to release weight; Kai needs help aligning the broken half; Ade catches the openable final knot with his usable hand.
 - **Architecture:** steep descent, closed dome, centered inner door, physical controlled antechamber, anchored geographic lines, central floor stain and open river return replace the superseded flat-wall knot array.
-- **Solomon/sister:** cassette, laughing photograph, orange, ordinary shopping/record notes, dated receipt, clinical account and missing-page impression restore two people rather than creating ghosts.
+- **Solomon/Emma:** cassette, laughing photograph, orange, ordinary shopping/record notes, crossed-out observation arrows, dry humor, dated receipt, clinical account and missing-page impression restore two people rather than creating ghosts. Bode names Emma at the funeral.
 - **Injury:** persistent breath failure/welts/numbness, ocular bleeding/tremor/nausea and shoulder/rib/ear injury remain visible through the separate final shrine repair.
 
 This section supersedes incompatible older flat-array, whole-talisman and deferred-reveal examples below.

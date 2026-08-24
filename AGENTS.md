@@ -66,7 +66,7 @@ Do not restore removed material merely because it survives in old PDFs, chats, b
 - Attention creates proximity; perception is reciprocal.
 - Entity physicality in the Seen is failed translation, not a literal spider body.
 - Solomon = procedural / Seen-facing custodian.
-- Solomon's sister = perceptual / Unseen-facing custodian.
+- Emma, Solomon and Bode's sister = perceptual / Unseen-facing custodian; her creator-approved name is established at the funeral.
 - They were partners, not rivals.
 - Succession requires capacity recognition, training, and voluntary acceptance.
 - Solomon physically returned to Calabar for maintenance.

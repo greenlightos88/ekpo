@@ -14,6 +14,31 @@ DATE:
 2026-08-24
 
 TITLE:
+Emma Naming Lock and Final Dramatic/Production-Legibility Refinement
+
+DECISION:
+The creator names Solomon and Bode's sister **Emma**. This explicit decision supersedes all earlier instructions treating her first name as unknown, culturally deferred or intentionally withheld. The separately deferred qualified Efik/Calabar review still applies to culturally specific terminology and production authenticity, but not to Emma's creator-approved name.
+
+Bode first identifies Emma at Solomon's funeral. Her name then occurs naturally in family testimony, her notebooks, the old photograph, the clinical discussion and the chamber history. Emma remains a human perceptual co-steward, never a ghost, vessel, chosen priestess or explanatory apparition. Her crossed-out first observations, corrective water-facing notes, dry humor and insistence on an open return give her independent judgment without shifting her into Solomon's procedural office.
+
+Remaining screenplay refinements are integrated without changing mythology: the object comparison is physically staged across the chamber floor, wall map and elevated worktable; the two-rhythm discovery plays across staggered veranda steps, rail and reflected washbasin; Emma's final writing impression is uncovered collaboratively on a floor mat with side lighting. Explanatory dialogue and duplicate climax descriptions are reduced. The climax preserves a single audience-reading order: water direction, red-line load, injured bodies, then controlled threshold response.
+
+`docs/PRESSURE_CHAMBER_PRODUCTION_AND_SAFETY_PLAN.md` provides development-level blocking, practical-effects, safety, sound, accessibility, reset and professional-approval requirements. It is not a substitute for qualified stunt, rigging, medical, acoustic or on-set safety authorization.
+
+STATUS:
+LOCKED CREATOR NAME / ACTIVE REFINEMENT / DRAFT PR #4 / NOT MERGED
+
+SUPERSEDES:
+- any active instruction calling Solomon's sister unnamed or postponing Emma's first name;
+- table-bound repetitive discovery staging and redundant explanatory dialogue;
+- assumptions that production safety can be guaranteed by screenplay prose alone.
+
+---
+
+DATE:
+2026-08-24
+
+TITLE:
 Prestige Dramatic-Depth Revision — 99-Page Feature, Shared Evidence and Character-Driven Resistance
 
 DECISION:
@@ -52,7 +77,7 @@ Solomon's sister attempted both stewardship functions when the historical distur
 
 Malik, Kai and Ade all survive. Ade's first failed attempt to pull Malik against the load injures his shoulder/ribs. He later joins the return route, allows pressure to pass through him and repeats the funeral line, “Give me one side.” Kai reads indirect water patterns; Malik releases exclusive control and corrects the central index. Injuries persist through the separate final shrine repair. Bode supplies ordinary family/land assistance and a previously established vehicle-plus-footpath route; Eno retains household authority.
 
-The complete screenplay, producer PDF, decision/canon/character documents, geography, object-custody register and injury ledger must be synchronized. A qualified Efik/Calabar cultural review, the sister's culturally verified name and production safety consultation remain deferred rather than fabricated.
+The complete screenplay, producer PDF, decision/canon/character documents, geography, object-custody register and injury ledger must be synchronized. A qualified Efik/Calabar cultural review and production safety consultation remain deferred rather than fabricated. The former sister-name deferral in this historical decision was later superseded by the creator's explicit Emma naming lock.
 
 STATUS:
 LOCKED CREATOR-APPROVED COMPLETE-FEATURE CANDIDATE / DRAFT PR #4 / NOT MERGED
